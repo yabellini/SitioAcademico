@@ -4,7 +4,7 @@ authors:
 bio: Researcher at INTA.
 education:
   courses:
-  - course: Magister in Data Mining and Knowledge Management
+  - course: Master degree in Data Mining and Knowledge Management
     institution: Universidad Austral
     year: 2015
   - course: Licenciate in Information System
@@ -20,7 +20,7 @@ interests:
 name: Yanina Bellini Saibene
 organizations:
 - name: Instituto Nacional de Tecnología Agropecuaria
-  url: "inta.gob.ar"
+  url: "https://inta.gob.ar/personas/bellini.yanina"
 role: Researcher
 social:
 - icon: envelope
@@ -41,7 +41,7 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher at INTA and I am dedicated to using data science applied to the agricultural sector. I work in an Experimental Agricultural Station, so my developments and solutions are related to the productive reality of the province of La Pampa, where I live with my husband and my two beautiful children.
+I am a researcher at INTA (National Institute of Agricultural Technology) and I am dedicated to apply data science to the agricultural sector. I work in an Experimental Agricultural Station, so my developments and solutions are related to the productive reality of the province of La Pampa, where I live with my husband and my two beautiful children.
 
 I enjoy teaching a lot, so I spend part of my time teaching courses and writing teaching material on my research topics. You can access these materials on this website. 
 
@@ -49,4 +49,4 @@ Also, I am a member of the R-Ladies community (I am part of the Global Team and 
 
 I relate my work at INTA with my work at R-Ladies by seeking to make my science as reproducible and open as possible using open computing tools.
 
-I am still in the process of uploading all my work to this site.  All work in this site is licensed under a Creative Commons Attribution 4.0 International License. 
+I am still in the process of uploading all my work to this site.  All work in this site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES). 
