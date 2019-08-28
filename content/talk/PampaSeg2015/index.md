@@ -11,7 +11,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini 
-location: Punto Digital, Santa Rosa, La Pampa
+location: Centro Cultural Municipal, Santa Rosa, La Pampa
 math: true
 publishDate: "2015-12-12T15:00:00Z"
 slides: 
