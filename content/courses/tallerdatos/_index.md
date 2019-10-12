@@ -4,10 +4,10 @@ draft: false
 lastmod: "2019-10-12T00:00:00Z"
 linktitle: Taller de Manejo de Datos con Herramientas Libres
 menu:
-  reninta:
+  tallerdatos:
     name: Overview
     weight: 1
-summary: Este curso en español introduce en 8 clases una serie de herramientas libres para manejo de datos: obtención de datos, limpieza y ordenamiento, visualización en gráficos, mapas y tableros de control.  Leva cuatro ediciones y se realizó entre INTA y la UNLPam.
+summary: Este curso en español introduce en 8 clases una serie de herramientas libres para manejo de datos: obtención de datos, limpieza y ordenamiento, visualización en gráficos, mapas y tableros de control.
 title: Overview
 toc: false
 type: docs
