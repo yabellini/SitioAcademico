@@ -19,7 +19,7 @@ summary: Talk in Spanish. In September 2019, the second edition of LatinR, the [
 tags: []
 title: R-Ladies Community
 url_code: ""
-url_pdf: "RLLR2019.pdf"
+url_pdf: "RLadiesLatinRConf2019.pdf"
 url_slides: ""
 url_video: ""
 ---
