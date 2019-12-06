@@ -19,7 +19,7 @@ summary: Talk in Spanish. In September 2019, the second edition of LatinR, the [
 tags: []
 title: Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina.
 url_code: ""
-url_pdf: "RLadiesLatinRConf2019.pdf"
+url_pdf: "AgroTICsLatinR2019.pdf"
 url_slides: ""
 url_video: ""
 ---
