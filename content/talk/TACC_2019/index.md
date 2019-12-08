@@ -2,7 +2,7 @@
 abstract: Talk in Spanish. In December 2019, the [Argentine Workshop of Scientific Computation](https://tallerargentinocc.github.io/) was held in San Luis, Argentina. During the conference I had the opportunity to share with the attendees my talk about Data Science to develop AgTech giving examples developed with my team in the INTA Agricultural Experimental Station Anguil. 
 all_day: false
 authors: []
-date: "2019-12-06T10:00:00Z"
+date: "2019-12-06T09:00:00Z"
 event: Argentine Workshop of Scientific Computation. 
 event_url: https://tallerargentinocc.github.io/
 featured: false
@@ -13,7 +13,7 @@ links:
   url: https://twitter.com/yabellini 
 location: Universidad Nacional de San Luis, San Luis, Argentina
 math: true
-publishDate: "2019-12-06T10:00:00Z"
+publishDate: "2019-12-06T09:00:00Z"
 slides: 
 summary: Talk in Spanish. In December 2019, the [Argentine Workshop of Scientific Computation](https://tallerargentinocc.github.io/) was held in San Luis, Argentina. During the conference I had the opportunity to share with the attendees my talk about Data Science to develop AgTech giving examples developed with my team in the INTA Agricultural Experimental Station Anguil. 
 tags: []
