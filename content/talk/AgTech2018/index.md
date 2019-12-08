@@ -17,7 +17,7 @@ publishDate: "2018-10-12T14:00:00Z"
 slides: 
 summary: Talk in Spanish. In this talk I present 20 years of development of Information and Communication Technologies (AgTech) applied to the agricultural sector by my research group in the EEA Anguil.
 tags: []
-title: 20 years of AgTech development in the EEA Anguil
+title: 20 years of AgTech development in the EEA Anguil (20 años de desarrollo Agtech en la EEA Anguil)
 url_code: ""
 url_pdf: "AgTechAnguil2018.pdf"
 url_slides: ""

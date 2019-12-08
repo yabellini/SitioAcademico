@@ -1,5 +1,5 @@
 ---
-title: Social Network Analysis Techniques to study scientific collaboration
+title: Social Network Analysis Techniques to study scientific collaboration (Técnicas de análisis de redes sociales para estudiar la colaboración científica)
 all_day: no
 date: '2019-06-04T14:00:00Z'
 authors: []
@@ -11,7 +11,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini
-location: EstaciÃ³n Experimental Agropecuaria Anguil
+location: Estación Experimental Agropecuaria Anguil
 math: yes
 publishDate: '2019-15-03T14:00:00Z'
 slides: null
