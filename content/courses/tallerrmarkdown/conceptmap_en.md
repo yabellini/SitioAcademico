@@ -44,11 +44,13 @@ K -->|specified| G
 
 graph LR
 
-A[RMarkdown] -->|has diferents| B[outputs] 
-A -->|can contein| C[YAML] 
+A[RMarkdown]-->|can contein| C[YAML] 
 A -->|can contein| D[text]
 A -->|can contein| E[code]
 A -->|can contein| F[other]
+K[symbols] -->|specified| C
+K -->|specified| D
+K -->|specified| E
 
 ```
 
