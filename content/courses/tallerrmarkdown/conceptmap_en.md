@@ -20,73 +20,60 @@ The [Concept Maps] (http://teachtogether.tech/#s:memory-concept-maps) describe t
 
 
 ## Concept Map - Full Workshop
-```mermaid
 
-graph LR
-
-A[RMarkdown] -->|has diferents| B[outputs] 
-A -->|can contein| C[YAML] 
-A -->|can contein| D[text]
-A -->|can contein| E[code]
-A -->|can contein| F[other]
-D -->|in line| E
-E -->|named| G[chunks]
-G -->|has| H[name]
-G -->|control| I[behavior]
-C -->|can have| J[params]
-K[symbols] -->|specified| C
-K -->|specified| D
-K -->|specified| G 
-```
+{{< diagram >}}
+graph LR;
+  A[RMarkdown] -->|has diferents| B[outputs];
+  A -->|can contein| C[YAML]; 
+  A -->|can contein| D[text];
+  A -->|can contein| E[code];
+  A -->|can contein| F[other];
+  D -->|in line| E;
+  E -->|named| G[chunks];
+  G -->|has| H[name];
+  G -->|control| I[behavior];
+  C -->|can have| J[params];
+  K[symbols] -->|specified| C;
+  K -->|specified| D;
+  K -->|specified| G;
+{{< /diagram >}}
 
 
 ## Concept Map - Lesson 1
 
-```mermaid
-
-graph LR
-
-A[RMarkdown]-->|can contein| C[YAML] 
-A -->|can contein| D[text]
-A -->|can contein| E[code]
-A -->|can contein| F[other]
-K[symbols] -->|specified| C
-K -->|specified| D
-K -->|specified| E
-
-```
+{{< diagram >}}
+graph LR;
+  A[RMarkdown]-->|can contein| C[YAML]; 
+  A -->|can contein| D[text];
+  A -->|can contein| E[code];
+  A -->|can contein| F[other];
+  K[symbols] -->|specified| C;
+  K -->|specified| D;
+  K -->|specified| E;
+{{< /diagram >}}
 
 ## Concept Map - Lesson 2
-```mermaid
-
-graph LR
-
-D[text] 
-E[code]
-D -->|in line| E
-E -->|named| G[chunks]
-G -->|has| H[name]
-G -->|control| I[behavior]
-
-```
+{{< diagram >}}
+graph LR;
+  D[text]; 
+  E[code];
+  D -->|in line| E;
+  E -->|named| G[chunks];
+  G -->|has| H[name];
+  G -->|control| I[behavior];
+{{< /diagram >}}
 
 ## Concept Map - Lesson 3
 
-```mermaid
-
-graph LR
-
-A[RMarkdown] -->|has diferents| B[outputs] 
-
-```
+{{< diagram >}}
+graph LR;
+  A[RMarkdown] -->|has diferents| B[outputs]; 
+{{< /diagram >}}
 
 ## Concept Map - Lesson 4
 
-```mermaid
-
-graph LR
-
-A[RMarkdown] -->|can contein| C[YAML] 
-C -->|can have| J[params]
-
-```
+{{< diagram >}}
+graph LR;
+  A[RMarkdown] -->|can contein| C[YAML]; 
+  C -->|can have| J[params];
+{{< /diagram >}}
