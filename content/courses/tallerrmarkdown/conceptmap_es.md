@@ -16,6 +16,8 @@ weight: 1
 
 Los [Concept Maps](http://teachtogether.tech/#s:memory-concept-maps), describen los temas que abordará el curso y como están conectados entre sí.  También organizan las lecciones en conjuntos de conceptos a enseñar por lección, teniendo en cuenta la carga cognitiva y la regla de 7+- 2 conceptos por lección.  Esta información debería ayudar en la decisión de usar los materiales, tanto sea para tomar el curso, como para usarlos con el objetivo de generar los propios.
 
+> Si desea obtener más información sobre los mapas conceptuales y cómo enseñar cosas tecnológicas, andá acá: http://teachtogether.tech/
+
 
 ## Concept Map - Taller completo
 

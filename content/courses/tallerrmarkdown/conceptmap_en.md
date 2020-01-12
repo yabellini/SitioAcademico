@@ -16,6 +16,8 @@ weight: 1
 
 The [Concept Maps] (http://teachtogether.tech/#s:memory-concept-maps) describe the topics that the course will address and how they are connected to each other. They also organize the lessons into sets of concepts to be taught per lesson, taking into account the cognitive load and the rule of 7 + - 2 concepts per lesson. This information should help in the decision to use the materials, both to take the course, and to use them in order to generate their own.
 
+> If you want to learn more about Concept Maps and how to teach tech stuff go here: http://teachtogether.tech/
+
 
 ## Concept Map - Full Workshop
 ```mermaid
