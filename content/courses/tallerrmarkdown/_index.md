@@ -43,7 +43,9 @@ Introduce attendees to RMarkdown for reporting.
 
 *In this link you have access to the material: https://github.com/rladies/meetup-presentations_santarosa/tree/master/TallerRMarkdown*
 
+### License
 
+This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 
 ## Taller de RMarkdown
 
@@ -65,3 +67,6 @@ Introducir a los asistentes en RMarkdown para realizar informes.
 
 *En este enlace tiene acceso al material: https://github.com/rladies/meetup-presentations_santarosa/tree/master/TallerRMarkdown*
 
+### Licencia
+
+Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
