@@ -19,13 +19,13 @@ El _primer paso_ es decidir _la historia a contar en el video_; los mensajes de 
 
 Así que la historia de R-Ladies sería _resaltar logros globales con números_ (después de todo somos gente que se dedica a las #rstats y los números de R-Ladies son maravillosos) y _agradecer a quienes nos acompañaron_.
 
-## Generando el guión y la material prima para el video
+## Generando el guión y la materia prima para el video
 
 El _segundo paso_ es armar el guión del video: tendrá tres escenas.
 
 ### Primera escena: el alcance global
 
-Se muestran números globales de R-Ladies donde se represente nuestra forma de organizarnos, qué se hizo y cuánto se creció en 2019.  Para poder expresar esa idea los números de _cantidad de capítulos, cantidad de países, cantidad de miembros y total de eventos realizados en el año 2019_ son indicadores concretos.  Los tres primeros los consultamos desde el [Tablero de la comunidad de R-Ladies](https://benubah.github.io/r-community-explorer/rladies.html).  La cantidad de eventos la calculamos utilizando el paquete [meetupr](https://github.com/rladies/meetupr) desarrollado por R-Ladies.
+Se muestran números globales de R-Ladies donde se represente nuestra forma de organizarnos, qué se hizo y cuánto se creció en 2019.  Para poder expresar esa idea los números de _cantidad de capítulos, cantidad de países, cantidad de integrantes y total de eventos realizados en el año 2019_ son indicadores concretos.  Los tres primeros los consultamos desde el [Tablero de la comunidad de R-Ladies](https://benubah.github.io/r-community-explorer/rladies.html).  La cantidad de eventos la calculamos utilizando el paquete [meetupr](https://github.com/rladies/meetupr) desarrollado por R-Ladies.
 
 Lo primero es cargar los paquetes necesarios y generar las variables y funciones necesarias:
 
@@ -41,7 +41,7 @@ library(tidyr)
 library(lubridate)
 
 #Función para que no de error de time out para la llamadas al método de meetupr
-#Código de Jeny Brian
+#Código de Jenny Brian
 slowly <- function(f, delay = 0.5) {
   
   function(...) {
@@ -106,7 +106,7 @@ eventos_todos_juntos %>%
 ``` 
 Con todos los datos calculados, el texto de esa escena es el siguiente:
 
-_"R-Ladies 2019 en números: Más de 60.000 miembros de 50 países de todo el mundo, organizadas en 182 capítulos que realizaron 858 eventos."_
+_"R-Ladies 2019 en números: Más de 60.000 integrantes de 50 países de todo el mundo, organizadas en 182 capítulos que realizaron 858 eventos."_
 
 Para ilustrar esta parte del mensaje, el mapa del mundo con la localización de todos los capítulos es una imagen poderosa y que ya hemos utilizado en otras campañas.  Me gustó mucho el [mapa](https://github.com/rladiescolombo/R-Ladies_world_map) que hicieron las [R-Ladies Colombo](https://rladiescolombo.netlify.com/) para presentar su capítulo asi que tomé de base su mapa para armar el del video, actualizando la información al 27/12/2019 y asegurandome que todos los capítulos cuenten con Latitud y Longitud para que sean mapeados.  
 
@@ -154,9 +154,9 @@ p <- p +
 ```
 
 
-### Segunda escena: 100% voluntarias
+### Segunda escena: 100% trabajo voluntario
 
-El objetivo es presentar también _cifras de otras iniciativas de R-Ladies_ además de los capítulos y eventos, por lo que enfocamos en nuestros _medios de comunicación, nuestro directorio de expertas, nuestra red de revisores y la generación de material educativo_ para nuestros meetups, conferencias, eventos con otras organizaciones,etc. Resaltando el esfuerzo de un trabajo voluntario para conseguir todos estos resultados.  El equipo de [R-Ladies Global](https://rladies.org/about-us/team/) me facilitó las cantidades referidas al [directorio de R-Ladies](https://rladies.org/directory/) y de la [red de revisores](tinyurl.com/rladiesrevs).  Para la calcular la cantidad de seguidores de nuestras cuentas de twitter, utilizamos R y el paquete `rtweet` con el siguiente código:
+El objetivo es presentar también _cifras de otras iniciativas de R-Ladies_ además de los capítulos y eventos, por lo que enfocamos en nuestros _medios de comunicación, nuestro directorio de personas expertas, nuestra red de revisión y la generación de material educativo_ para nuestros meetups, conferencias, eventos con otras organizaciones,etc. Resaltando el esfuerzo de un trabajo voluntario para conseguir todos estos resultados.  El equipo de [R-Ladies Global](https://rladies.org/about-us/team/) me facilitó las cantidades referidas al [directorio de R-Ladies](https://rladies.org/directory/) y de la [red de revisión](tinyurl.com/rladiesrevs).  Para la calcular la cantidad de seguidores de nuestras cuentas de twitter, utilizamos R y el paquete `rtweet` con el siguiente código:
 
 
 ```
@@ -191,17 +191,17 @@ rladies %>%
 
 ```
 
-La imágen seleccionada para acompañar esta parte fue tomada en LatinR 2019: estabamos preparandonos para la foto grupal de R-Ladies y sin darnos cuenta formamos un corazón !! (que fue capturado por el ojo y la cámara de [TuQmano](https://twitter.com/TuQmano)).  La imagen representa el crecimiento de R-Ladies en otras regiones del mundo más allá del norte y el código que nos mueve a trabajar juntas por el bienestar de todas y de la comunidad en general.
+La imágen seleccionada para acompañar esta parte fue tomada en LatinR 2019: ¡¡ estabamos preparandonos para la foto grupal de R-Ladies y sin darnos cuenta formamos un corazón !! (que fue capturado por el ojo y la cámara de [TuQmano](https://twitter.com/TuQmano)).  La imagen representa el crecimiento de R-Ladies en otras regiones del mundo más allá del norte y el código que nos mueve a trabajar en equipo por el bienestar de R-Ladies y de la comunidad en general.
 
 
 {{< figure src="corazon.png">}}
 
 El texto de la escena quedó armado de la siguiente manera:
 
-_Tenemos más de 65,000 seguidores en nuestras cuentas de Twitter, 940 expertas en el directorio de R-Ladies, 80 revisoras internacionales en nuestra red de revisión y producimos más de 600 documentos con materiales didácticos. Todo hecho con 100% trabajo voluntario_
+_Tenemos más de 65,000 seguidores en nuestras cuentas de Twitter, 940 personas expertas en el directorio de R-Ladies, 80 revisoras internacionales en nuestra red de revisión y producimos más de 600 documentos con materiales didácticos. Todo hecho con 100% trabajo voluntario_
 
 
-### Tercera escena: buenos deseos!!
+### Tercera escena: ¡buenos deseos!
 
 Aquí la frase fue desear feliz año para R-Ladies y también para todos los aliados y aliadas que nos acompañaron durante el año.  La imagen seleccionada fue nuestro logo y la dirección de nuestra web.
 
@@ -212,7 +212,11 @@ _¡Feliz año nuevo a todas las R-Ladies y aliados! Más información en rladies
 
 {{< figure src="placafinal.png">}}
 
-### Texto, imágenes...¿audio?
+### Idioma
+
+Siendo R-Ladies una comunidad global, el video tenía que estar en Inglés: el idioma que habla el mundo.  ¿Pero por qué no también en Español?, la comunidad latinoamerica de R ha crecido muchisimo en este tiempo y en gran parte ha sido gracias al esfuerzo y trabajo de las R-Ladies en esta región del mundo, así que decidimos generarlo en ambos idiomas para festejar este arduo trabajo. [Laura Acion](https://twitter.com/_lacion_/) se encargó de corregir y traducir el texto de cada escena.
+
+### Texto, imágenes... ¿audio?
 
 Ahora bien, un video sólo con letras, números e imágenes dejaría mucha gente fuera de nuestro mensaje, así que decidimos grabar el audio del mensaje y para eso la genia de [Alejandra Bellini](https://twitter.com/AlejaBellini), grabó los audios en Español e Inglés.  Lo grabó utilizando WhatsApp con un celular, luego utilicé [Zamzar](https://www.zamzar.com) para transformar el audio a MP3 y [Mp3cut](https://mp3cut.net/es/) para cortar ese audio en las partes necesarias para poder sincronizar el audio con el texto y las imágenes de video.
 
