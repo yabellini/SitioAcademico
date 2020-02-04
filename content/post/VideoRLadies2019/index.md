@@ -40,19 +40,6 @@ library(dplyr)
 library(tidyr)
 library(lubridate)
 
-#Función para que no de error de time out para la llamadas al método de meetupr
-#Código de Jenny Brian
-slowly <- function(f, delay = 0.5) {
-  
-  function(...) {
-    
-    Sys.sleep(delay)
-    
-    f(...)
-    
-  }
-  
-}
 
 ```
 
@@ -71,10 +58,9 @@ rladies_groups <- all_rladies_groups[grep(pattern = "rladies|r-ladies",
 Con el listado de grupos, buscamos todos los eventos realizados por cada uno de esos grupos y calculamos la cantidad:
 
 ```
-#Obtengo todos los eventos ya realizados. 
-
+# Obtengo todos los eventos ya realizados. 
 eventos <- rladies_groups$urlname %>%
-  map(slowly(safely(get_events)), event_status='past') %>% transpose()
+  map(purrr::slowly(safely(get_events)), event_status='past') %>% transpose()
 
 # En eventos me queda una lista con todos los datos de los eventos: nombre, fecha, 
 # lugar, descripción y varios datos más.  
