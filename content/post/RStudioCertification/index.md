@@ -6,7 +6,7 @@ math: true
 title: Obteniendo la certificación de RStudio. Un camino compartido.
 ---
 
-En Diciembre de 2019 obtuve la [certificación de RStudio como instructura de Tidyverse](https://education.rstudio.com/trainers/).  RStudio lanzó este [programa de entrenamiento y certificación](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) en Febrero de 2019.
+En Diciembre de 2019 obtuve la [certificación de RStudio como instructora de Tidyverse](https://education.rstudio.com/trainers/).  RStudio lanzó este [programa de entrenamiento y certificación](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) en Febrero de 2019.
 
 Este post, describe mi camino hacia esa certificación y tal vez sirva para que te animes a recorrer el tuyo.
 
@@ -56,7 +56,7 @@ Cuando te toca dar el exámen, te conectas al Zoom que se te compartió previame
 ### Mostrando que puedes usar tidyverse
 
 El examen de tidyverse sí fue en Inglés, nuevamente previo al encuentro te llega un mail con los archivos necesarios para realizar el examen y conectarte por Zoom.  Inmediatamente  compartes tu pantalla con el evaluador quien observa durante todo el examen como resuelves las consignas. Cualquier duda que tengas sobre las consignas es respondida de inmediato por el evaluador.  
-Al igual que en el otro exámen, se pueden usar los recursos digitales que necesites (yo utilicé unas cheatsheet y la ayuda de RStudio). Tampoco puedess comunicarte con ninguna otra persona que no sea tu evaluador y se debe utilizar la IDE de RStudio (la edición de escritorio o rstudio.cloud).  
+Al igual que en el otro exámen, se pueden usar los recursos digitales que necesites (yo utilicé unas cheatsheet y la ayuda de RStudio). Tampoco puedes comunicarte con ninguna otra persona que no sea tu evaluador y se debe utilizar la IDE de RStudio (la edición de escritorio o rstudio.cloud).  
 El trabajo se puede hacer en un script R o un archivo RMarkdown, y se puede usar uno para todo el examen o uno para cada pregunta (yo hice uno para cada pregunta). Al finalizar, se deben enviar todos los archivos generados durante el examen al evaluador por correo electrónico.  El exámen también dura 90 minutos y tienes el resultado inmediatamente.
 
 Aquí se pueden ver ejemplos de exámenes: https://education.rstudio.com/blog/2020/02/instructor-certification-exams/
