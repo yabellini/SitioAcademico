@@ -69,7 +69,7 @@ Recibir la certificación fue un logro personal muy importante, es confirmar por
 
 Igualmente la parte más importante de todo este proceso fue la compañía con la cual llevé adelante el proceso: la increíble comunidad de R-Ladies de la región, lideradas por Laura Acion, haciendo su magia nuevamente.  El acompañamiento, el apoyo, la motivación y el ánimo que nos dimos entre todas fue clave para completar el proceso y para poder hacerlo exitosamente.  
 
-Como dice un proverbio africano (que descubrí en la película The Good Lie): si quieres llegar rápido viaja solo, si quieres llegar lejos, viaja acompañado… y así fue para mí, nunca hubiera llegado así de lejos sin la compañía de estas geniales mujeres; con las que espero emprender muchos viajes más.
+Como dice un proverbio africano (que descubrí en la película The Good Lie): si quieres llegar rápido viaja sola, si quieres llegar lejos, viaja acompañada… y así fue para mí, nunca hubiera llegado así de lejos sin la compañía de estas geniales mujeres; con las que espero emprender muchos viajes más.
 
 
 
