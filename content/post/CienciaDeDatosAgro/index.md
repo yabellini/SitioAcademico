@@ -4,6 +4,8 @@ diagram: true
 markup: mmark
 math: true
 title: La Ciencia de Datos al servicio del Agro
+authors: 
+    - admin
 ---
 Este post es un acceso a mi [columna de opinión en la Revista de Investigaciones Agropecuarias](http://ria.inta.gob.ar/contenido/la-ciencia-de-datos-al-servicio-del-agro) luego de mi participación el Women in Data Science 2019 (mujeres en Ciencia de Datos) en la Facultad de Ingeniería de la UBA.  
 

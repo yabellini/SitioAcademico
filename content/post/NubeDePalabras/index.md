@@ -4,6 +4,8 @@ diagram: true
 markup: mmark
 math: true
 title: Generando una nube de palabras con R
+authors: 
+    - admin
 ---
 
 En septiembre de 2018 se realizó en Buenos Aires la primera edición de LatinR, la [Conferencia Latinoamericana de Investigación y Desarrollo en R](https://github.com/LatinR/presentaciones-LatinR2018). Durante la conferencia tuve la posibilidad de compartir con los asistentes la iniciativa de [R-Ladies](https://rladies.org/) junto con [Laura Acion](http://lacion.rbind.io/) y [Bea Hernandez](https://twitter.com/chucheria).  

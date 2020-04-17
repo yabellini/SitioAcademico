@@ -4,6 +4,8 @@ diagram: true
 markup: mmark
 math: true
 title: IWD 2019 Twitter Action. Explaining IWD 2019 Twitter project
+authors: 
+    - admin
 ---
 This post is an access to the R-Ladies blog where we explain how we perform the [International Women Day 2019 Twitter Action](https://blog.rladies.org/post/blog_iwdtwitter_2019/).  
 
