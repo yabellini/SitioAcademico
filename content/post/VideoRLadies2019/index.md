@@ -3,8 +3,10 @@ date: "2020-01-27"
 diagram: true
 markup: mmark
 math: true
-title: Receta para un video de fin de año
+title: Receta para un video de fin de año (Recipe for a year-end video)
 ---
+
+[English version](https://blog.rladies.org/post/rladies_video_2019/)
 
 Para cerrar el 2019 desde R-Ladies hicimos un video, si aún no lo viste, aquí está:
 
