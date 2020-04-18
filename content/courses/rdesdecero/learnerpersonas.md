@@ -17,7 +17,7 @@ weight: 1
 
 ## Learner Personas - English
 
-The [Learner People] (http://teachtogether.tech/#s:process-personas) describe the audience for whom the course was intended. This information should help in the decision to use the materials, both to take the course, and to use them in order to generate their own.
+The [Learner Personas](http://teachtogether.tech/#s:process-personas) describe the audience for whom the course was intended. This information should help in the decision to use the materials, both to take the course, and to use them in order to generate their own.
 
 _Felicitas is an early-career agricultural research. she must make reports that include statistics as part of her activities at INTA. Use Excel and InfoStat (an Argentine menu-based statistics program) to record her data and perform their calculations; and then use Word to write her reports by copying and pasting from the other software.
 She has heard of the tools that R has and is interested in learning to use them. Although in the only course she did about R she think was not friendly, since she was learning R and mixed models._
