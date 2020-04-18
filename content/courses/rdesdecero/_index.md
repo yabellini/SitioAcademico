@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: R from scratch
+linktitle: R from scratch (R desde cero)
 summary: This course in Spanish introduces the programming language R and concepts of ordering and cleaning of data, visualization and reporting. 
 weight: 1
 
