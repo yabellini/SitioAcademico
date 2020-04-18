@@ -31,7 +31,7 @@ Introduce attendees in the R language and its possibilities, expanding the visio
 
 ### Contents:
 
-1. Introduction to R and RStudio: 
+1.Introduction to R and RStudio: 
   
   What is different about RStudio with Excel?
   How to orient yourself in RStudio?
@@ -42,31 +42,31 @@ Introduce attendees in the R language and its possibilities, expanding the visio
   What is a packages?
   How to install packages?
 
-2. Project management with RStudio:
+2.Project management with RStudio:
   
   How can I manage my projects in R?
 
-3. Seeking help:
+3.Seeking help:
   
   How can I get help in R?
 
-4. Data structure:
+4.Data structure:
   
   How can I read data in R?
   How are ordered data ?
   How are tidy data?
 
-5. Creating graphics:
+5.Creating graphics:
   
   How can I create quality graphics for publication in R?
   How can I save graphics and data created in R?
 
-6. Data manipulation:
+6.Data manipulation:
   
   How can I do different calculations on different data sets?
   How can I work with subsets of data in R? 
 
-7. Producing reports:
+7.Producing reports:
   
   How can I generate reports?
   How can I integrate programs and reports?
@@ -93,7 +93,7 @@ Introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la v
 
 ### Contenido:
 
-1. Introducción a R y RStudio:
+1.Introducción a R y RStudio:
 
   ¿Qué tiene de diferente RStudio con Excel?
   ¿Cómo orientarse en RStudio?
@@ -103,31 +103,31 @@ Introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la v
   ¿Cómo gestionar tu entorno?
   ¿Qué son y cómo instalar paquetes?
 
-2. Gestión de proyectos con RStudio:
+2.Gestión de proyectos con RStudio:
 
   ¿Cómo puedo gestionar mis proyectos en R?
 
-3. Buscando ayuda:
+3.Buscando ayuda:
 
   ¿Cómo puedo obtener ayuda en R?
 
-4. Estructura de datos:
+4.Estructura de datos:
 
   ¿Cómo puedo leer datos en R?
   ¿Cómo se ordenan los datos?
   ¿Cómo son los datos ordenados?
 
-5. Creación de gráficos:
+5.Creación de gráficos:
 
   ¿Cómo puedo crear gráficos de calidad para su publicación en R?
   ¿Cómo puedo guardar gráficos y datos creados en R?
 
-6. Manipulación de datos:
+6.Manipulación de datos:
 
   ¿Cómo puedo hacer diferentes cálculos en diferentes conjuntos de datos?
   ¿Cómo puedo trabajar con subconjuntos de datos en R?
 
-7. Informes de producción:
+7.Informes de producción:
 
   ¿Cómo puedo generar informes?
   ¿Cómo puedo integrar programas e informes?
@@ -136,7 +136,7 @@ Introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la v
 
 *En este enlace tiene acceso al material: https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md*
 
-> Actualización: En noviembre de 2019 tomé un [curso sobre como enseñar tecnología](](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY) como parte del [RStudio’s instructor training class](https://education.rstudio.com/trainers/). En esas clases aprendí [conceptos muy interesantes](http://teachtogether.tech/) y de implementación relativamente sencilla para mejorar mis cursos, desde la [preparación de las clases](http://teachtogether.tech/#s:process), la [forma de darlas](http://teachtogether.tech/#s:process) y como [evaluarlas](http://teachtogether.tech/#s:exercises). 
+> Actualización: En noviembre de 2019 tomé un [curso sobre como enseñar tecnología](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY) como parte del [RStudio’s instructor training class](https://education.rstudio.com/trainers/). En esas clases aprendí [conceptos muy interesantes](http://teachtogether.tech/) y de implementación relativamente sencilla para mejorar mis cursos, desde la [preparación de las clases](http://teachtogether.tech/#s:process), la [forma de darlas](http://teachtogether.tech/#s:process) y como [evaluarlas](http://teachtogether.tech/#s:exercises). 
 
 > El concepto que mas me quedó dando vueltas en mi cabeza fue: _"¿Por qué no creamos las lecciones de forma que puedan ser reusables, que otros puedan aprovecharlas, que otros puedan contribuir?... si podemos hacerlo con el software abierto ¿por qué no con las lecciones?... estoy seguro que  en este momento hay mucha gente generando una lección para el mismo tema, inviertiendo un montón de tiempo que podríamos utilizar para enseñar"_
 
