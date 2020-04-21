@@ -3,13 +3,13 @@ date: "2020-04-21"
 draft: false
 type: page
 linktitle: Un día en la vida de un ayudante de clase on-line
-summary: Una de las premisas de nuestros cursos es *“No enseñes sóla/o”*.  Por eso, cada curso cuenta con un docente, un co-docente y uno o más colaboradores, dependiendo de la disponibilidad del equipo.  Te resumimos qué actividades hace un ayudante, cuánto tiempo debes tener disponible, cuál es la dinámica de trabajo, entre otros detalles.
+summary: Una de las premisas de nuestros cursos es *“No enseñes sóla/o”*.  Por eso, cada curso cuenta con un docente, un co-docente y uno o más colaboradores, dependiendo de la disponibilidad del equipo.  Te resumimos el rol y actividades de un ayudante de clases on-line.
 title: Un día en la vida de un ayudante de clase on-line
 authors: 
-    Patricia Loto
+    - Patricia Loto
     - admin
-    Nicolas Palopoli
-    Paola Corrales
+    - Nicolas Palopoli
+    - Paola Corrales
 type: post
 weight: 1
 tags: 
