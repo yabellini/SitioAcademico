@@ -1,9 +1,9 @@
 ---
-abstract: Talk in Spanish. Invited seminar for the AgtoTICs class of the degree in Agronomic Engineering at the National University of Río Negro. 22 of April 2020. During the seminar I had the opportunity to share with the attendees my talk about Data Science to develop AgTech giving examples developed with my team in the INTA Agricultural Experimental Station Anguil. 
+abstract: Seminario invitado en Abril de 2020 para la clase de AgtoTICs del grado en Ingeniería Agronómica en la Universidad Nacional de Río Negro. Durante el seminario tuve la oportunidad de compartir con los asistentes mi charla sobre Ciencia de Datos para el desarrollo de AgTech dando ejemplos desarrollados con mi equipo en la Estación Experimental Agropecuaria de INTA Anguil.
 all_day: false
 authors: []
 date: "2020-04-22T09:00:00Z"
-event: AgroTICs Seminar
+event: Seminario de AgroTICs
 event_url: 
 featured: false
 links:
@@ -15,9 +15,9 @@ location: Universidad Nacional de Río Negro, Argentina
 math: true
 publishDate: "2020-04-22T09:00:00Z"
 slides: 
-summary: Talk in Spanish. Invited seminar for the AgtoTICs class of the degree in Agronomic Engineering at the National University of Río Negro. 22 of April 2020. During the seminar I had the opportunity to share with the attendees my talk about Data Science to develop AgTech giving examples developed with my team in the INTA Agricultural Experimental Station Anguil. 
+summary: Seminario invitado en Abril de 2020 para la clase de AgtoTICs del grado en Ingeniería Agronómica en la Universidad Nacional de Río Negro. Durante el seminario tuve la oportunidad de compartir con los asistentes mi charla sobre Ciencia de Datos para el desarrollo de AgTech dando ejemplos desarrollados con mi equipo en la Estación Experimental Agropecuaria de INTA Anguil. 
 tags: []
-title: Data Science applied to the development of AgTech (Ciencia de Datos aplicada al desarrollo de AgTech)
+title: Ciencia de Datos aplicada al desarrollo de AgTech
 url_code: ""
 url_pdf: "UNRN2020_Bellini.pdf"
 url_slides: ""
