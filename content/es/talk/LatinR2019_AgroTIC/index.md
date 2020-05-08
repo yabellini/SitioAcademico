@@ -1,9 +1,9 @@
 ---
-abstract: Talk in Spanish. In September 2019, the second edition of LatinR, the [Latin American Conference on Research and Development in R](https://github.com/LatinR/presentaciones-LatinR2019/) was held in Santiago de Chile. During the conference I had the opportunity to share with the attendees the work "Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina." made with Marina Cook. 
+abstract: En Septiembre de 2019, la segunda edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Santiago de Chile. Durante la conferencia tuve la oportunidad de compartir con los presentes el trabajo "Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina." realizado con Marina Cook. 
 all_day: false
 authors: []
 date: "2019-09-26T10:00:00Z"
-event: Latin American Conference on Research and Development in R. 
+event: Conferencia Latinoamericana sobre el uso de R en investigación y desarrollo 
 event_url: https://latin-r.com/
 featured: false
 links:
@@ -15,9 +15,9 @@ location: Centro de Extensión de la Universidad Católica, Santiago de Chile
 math: true
 publishDate: "2019-09-26T10:00:00Z"
 slides: 
-summary: Talk in Spanish. In September 2019, the second edition of LatinR, the [Latin American Conference on Research and Development in R](https://github.com/LatinR/presentaciones-LatinR2019/) was held in Santiago de Chile. During the conference I had the opportunity to share with the attendees the work "Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina." made with Marina Cook.
+summary: En Septiembre de 2019, la segunda edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Santiago de Chile. Durante la conferencia tuve la oportunidad de compartir con los presentes el trabajo "Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina." realizado con Marina Cook.
 tags: []
-title: Analysis of the participation of women in computer science applied to the agricultural sector in Argentina (Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina)
+title: Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina
 url_code: ""
 url_pdf: "AgroTICsLatinR2019.pdf"
 url_slides: ""
