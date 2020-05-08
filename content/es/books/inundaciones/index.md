@@ -2,7 +2,7 @@
 date: "2019-06-02T00:00:00Z"
 external_link: 
 image:
-  caption: Photo by Juan Caldera
+  caption: Foto de Juan Caldera
   focal_point: Smart
 links:
 - icon: twitter
