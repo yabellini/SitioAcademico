@@ -1,9 +1,9 @@
 ---
-abstract: Talk in Spanish. In September 2019, the second edition of LatinR, the [Latin American Conference on Research and Development in R](https://github.com/LatinR/presentaciones-LatinR2019/) was held in Santiago de Chile. During the conference I had the opportunity to share with the attendees the [R-Ladies](https://rladies.org/) initiative together with [Laura Acion](http://lacion.rbind.io/) and [Florencia D'Andrea](https://twitter.com/cantoflor_87). 
+abstract: En Septiembre de 2019, la segunda edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Santiago de Chile. Durante la conferencia tuve la oportunidad de compartir con los presentes la iniciativa de la comunidad de [R-Ladies](https://rladies.org/) junto con [Laura Acion](http://lacion.rbind.io/) y [Florencia D'Andrea](https://twitter.com/cantoflor_87). 
 all_day: false
 authors: []
 date: "2019-09-26T10:00:00Z"
-event: Latin American Conference on Research and Development in R. 
+event: Conferencia Latinoamericana sobre el uso de R en investigación y desarrollo 
 event_url: https://latin-r.com/
 featured: false
 links:
@@ -15,9 +15,9 @@ location: Centro de Extensión de la Universidad Católica, Santiago de Chile
 math: true
 publishDate: "2019-09-26T10:00:00Z"
 slides: 
-summary: Talk in Spanish. In September 2019, the second edition of LatinR, the [Latin American Conference on Research and Development in R](https://github.com/LatinR/presentaciones-LatinR2019/) was held in Santiago de Chile. During the conference I had the opportunity to share with the attendees the [R-Ladies](https://rladies.org/) initiative together with [Laura Acion](http://lacion.rbind.io/) and [Florencia D'Andrea](https://twitter.com/cantoflor_87). 
+summary: En Septiembre de 2019, la segunda edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Santiago de Chile. Durante la conferencia tuve la oportunidad de compartir con los presentes la iniciativa de la comunidad de [R-Ladies](https://rladies.org/) junto con [Laura Acion](http://lacion.rbind.io/) y [Florencia D'Andrea](https://twitter.com/cantoflor_87). 
 tags: []
-title: R-Ladies Community (La comunidad R-Ladies)
+title: La comunidad R-Ladies
 url_code: ""
 url_pdf: "RLadiesLatinRConf2019.pdf"
 url_slides: ""
