@@ -1,9 +1,9 @@
 ---
-abstract: Talk in Spanish. In September 2017, the AgroInformatica Congress was held in Córdoba with the [XLIII Latin American Conference on Informatics](https://clei.org/clei2017/index.html). During the conference I had the opportunity to share with the attendees the representation of women in the AgroInformatica congress and the [R-Ladies](https://rladies.org/) initiative.
+abstract: En septiembre de 2017, el Congreso de AgroInformática se realizó en Córdoba junto con la [XLIII Conferencia Latinoamericana en Informática](https://clei.org/clei2017/index.html). Durante la conferencia tuve la oportunidad de compartir con los asistentes la represetnación de las mujeres en la AgroInformática y la iniciativa de [R-Ladies](https://rladies.org/).
 all_day: false
 authors: []
 date: "2017-09-04T10:00:00Z"
-event: XLIII Latin American Conference on Informatics -  AgroInformatica Congress
+event: [XLIII Conferencia Latinoamericana en Informática -  Congreso de AgroInformática
 event_url: https://clei.org/clei2017/index.html
 featured: false
 links:
@@ -15,9 +15,9 @@ location: Universidad Tecnológica Nacional-Facultad Regional Córdoba
 math: true
 publishDate: "2017-09-04T10:00:00Z"
 slides: 
-summary: Talk in Spanish. In September 2017, the AgroInformatica Congress was held in Córdoba with the [XLIII Latin American Conference on Informatics](https://clei.org/clei2017/index.html). During the conference I had the opportunity to share with the attendees the representation of women in the AgroInformatica congress and the [R-Ladies](https://rladies.org/) initiative.
+summary: En septiembre de 2017, el Congreso de AgroInformática se realizó en Córdoba junto con la [XLIII Conferencia Latinoamericana en Informática](https://clei.org/clei2017/index.html). Durante la conferencia tuve la oportunidad de compartir con los asistentes la represetnación de las mujeres en la AgroInformática y la iniciativa de [R-Ladies](https://rladies.org/).
 tags: []
-title: Agroinformatics, R-Ladies and the role of women (Agroinformática, R-Ladies y el rol de la mujer)
+title: Agroinformática, R-Ladies y el rol de la mujer
 url_code: ""
 url_pdf: "RLadies_AgroInformatica.pdf"
 url_slides: ""
