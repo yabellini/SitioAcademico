@@ -1,5 +1,5 @@
 ---
-abstract: Talk in Spanish. In this talk I present the evolution during 20 years of the processing of satellite data to analyze agricultural emergencies, specifically floods with concrete examples on the province of La Pampa.
+abstract: En esta charla presento la evolución de los últimos 20 años del procesamiento de datos de sensores remotos para analizar emergencias agropecuarias, especñificamente inundaciones con ejemplos concretos en la provincia de La Pampa.
 all_day: false
 authors: []
 date: "2018-08-28T14:00:00Z"
@@ -15,9 +15,9 @@ location: Facultad de Ciencias Humanas, Santa Rosa, La Pampa
 math: true
 publishDate: "2018-11-28T14:00:00Z"
 slides: 
-summary: Talk in Spanish. This talk shows the evolution of 20 years of the processing of satellite data to analyze agricultural emergencies like floods.
+summary: En esta charla presento la evolución de los últimos 20 años del procesamiento de datos de sensores remotos para analizar emergencias agropecuarias, especñificamente inundaciones con ejemplos concretos en la provincia de La Pampa.
 tags: []
-title: Geotechnologies in the cloud and its application in agricultural emergencies (Geotecnologías en la nube y su aplicación en emergencias agropecuarias)
+title: Geotecnologías en la nube y su aplicación en emergencias agropecuarias
 url_code: ""
 url_pdf: "GEE_Inundaciones2018.pdf"
 url_slides: ""

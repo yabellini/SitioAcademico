@@ -1,5 +1,5 @@
 ---
-abstract: Talk in Spanish. In 2015 [GeoINTA](http://www.geointa.inta.gob.ar/), the Spatial Data Infrastructure (SDI) of INTA celebrates 10 years of operation. This presentation introduces the concept of SDI, details about the GeoINTA infrastructure and La Pampa's node, are given.
+abstract: En 2015 [GeoINTA](http://www.geointa.inta.gob.ar/), la infraestructura de datos espaciales (IDE) del INTA celebró 10 años de estar operativa. Esta presentación introduce el concepto de IDE y presenta detalles sobre la infraestuctura de a IDE en La Pampa.
 all_day: false
 authors: []
 date: "2015-10-01T10:00:00Z"
@@ -15,9 +15,9 @@ location: Estación Experimental Agropecuaria Anguil
 math: true
 publishDate: "2015-10-01T10:00:00Z"
 slides: 
-summary: Talk in Spanish. In 2015 [GeoINTA](http://www.geointa.inta.gob.ar/), the Spatial Data Infrastructure (SDI) of INTA celebrates 10 years of operation. This presentation introduces the concept of SDI, details about the GeoINTA infrastructure and La Pampa's node, are given.
+summary: En 2015 [GeoINTA](http://www.geointa.inta.gob.ar/), la infraestructura de datos espaciales (IDE) del INTA celebró 10 años de estar operativa. Esta presentación introduce el concepto de IDE y presenta detalles sobre la infraestuctura de a IDE en La Pampa.
 tags: []
-title: Introducing GeoINTA (Presentando GeoINTA)
+title: Presentando GeoINTA
 url_code: ""
 url_pdf: "GeoINTA2015.pdf"
 url_slides: ""
