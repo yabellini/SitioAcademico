@@ -1,5 +1,5 @@
 ---
-title: Social Network Analysis Techniques to study scientific collaboration (Técnicas de análisis de redes sociales para estudiar la colaboración científica)
+title: Técnicas de análisis de redes sociales para estudiar la colaboración científica
 all_day: no
 date: '2019-06-04T14:00:00Z'
 authors: []
@@ -15,14 +15,11 @@ location: Estación Experimental Agropecuaria Anguil
 math: yes
 publishDate: '2019-15-03T14:00:00Z'
 slides: null
-summary: Talk in Spanish. This talk summarizes some of the work done using social
-  network analysis to study scientific collaboration in the agroinformatics congress.
+summary: Esta charla resume algunos de los trabajos realizados para analizar la colaboración cientñifica en el congreso de agroinformática utilizando análsis de redes sociales. 
 tags: []
-abstract: Talk in Spanish. In this talk I present how we use Social Network Analysis
-  techniques to study scientific collaboration at the levels of institutions, authors,
-  geographic locations of the 10 years of the agroinformatics congress. The results
-  obtained are also shown. This work has been carried out in conjunction with professors
-  and researchers from UNIPampa.
+abstract: En esta charla, presento cómo utilizamos las tenicas del análisis de redes sociales
+  para estudiar la colaboración científica a nivel de instituciones, autores y
+  ubicaciones geográficas de los 10 años del congreso de agroinformática. Este trabajo se ha llevado a cabo en conjunto con profesores e investigadores de UNIPampa.
 url_code: ''
 url_pdf: 'Seminario_Analisis_RedesSociales2019.pdf'
 url_slides: ''
