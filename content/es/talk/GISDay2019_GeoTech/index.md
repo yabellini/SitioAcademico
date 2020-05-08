@@ -1,5 +1,5 @@
 ---
-abstract: Talk in Spanish. During the celebration of the GIS Day 2019, I was invited to give the inaugural conference. On this occasion I reviewed the use of Geotechnologies in the era of Big Data, explaining the concepts involved and with examples of application made with my research team at INTA.
+abstract: Durante la celebración del día del SIG 2019, fui invitada a dar la charla inaugural de la conferencia. En esta ocasión hice un repaso por el uso de Geotecnologías en la era de Big Data, explicando estos conceptos y con ejemplos de aplicaciones desarrolladas con mi equipo de investigación de INTA.
 all_day: false
 authors: []
 date: "2019-11-13T10:00:00Z"
@@ -15,9 +15,9 @@ location: Facultad de Ciencias Humanas, UNLPam, Santa Rosa, La Pampa
 math: true
 publishDate: "2019-11-13T10:00:00Z"
 slides: 
-summary: Talk in Spanish. During the celebration of the GIS Day 2019, I was invited to give the inaugural conference. On this occasion I reviewed the use of Geotechnologies in the era of Big Data, explaining the concepts involved and with examples of application made with my research team at INTA..
+summary: Durante la celebración del día del SIG 2019, fui invitada a dar la charla inaugural de la conferencia. En esta ocasión hice un repaso por el uso de Geotecnologías en la era de Big Data, explicando estos conceptos y con ejemplos de aplicaciones desarrolladas con mi equipo de investigación de INTA.
 tags: []
-title: Geotechnologies in the era of Big Data (Geotecnologías en la era del Big Data)
+title: Geotecnologías en la era del Big Data
 url_code: ""
 url_pdf: "GISDay2019gbd.pdf"
 url_slides: ""
