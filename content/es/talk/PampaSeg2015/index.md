@@ -1,5 +1,5 @@
 ---
-abstract: Talk in Spanish. In November 2015, PampaSeg took place in Santa Rosa, La Pampa. In this talk I present how to make maps with free tools and how to use the Spatial Data Infrastructure of INTA (GeoINTA) to obtain data from La Pampa and Argentina. 
+abstract: En Noviembre de 2015, PampaSeg tuvo lugar en Santa Rosa, La Pampa. En esta charla presneto como hacer mapas con software libre y como usar la Infraestructura de Datos Espaciales del INTA (GeoINTA) para obtener datos de La Pampa y Argentina. 
 all_day: false
 authors: []
 date: "2015-12-12T15:00:00Z"
@@ -15,9 +15,9 @@ location: Centro Cultural Municipal, Santa Rosa, La Pampa
 math: true
 publishDate: "2015-12-12T15:00:00Z"
 slides: 
-summary: Talk in Spanish. In November 2015, PampaSeg took place in Santa Rosa, La Pampa. In this talk I present how to make maps with free tools and how to use the Spatial Data Infrastructure of INTA (GeoINTA) to obtain data from La Pampa and Argentina. 
+summary: En Noviembre de 2015, PampaSeg tuvo lugar en Santa Rosa, La Pampa. En esta charla presneto como hacer mapas con software libre y como usar la Infraestructura de Datos Espaciales del INTA (GeoINTA) para obtener datos de La Pampa y Argentina.  
 tags: []
-title: Making maps with free and open tools (Haciendo mapas con herramientas libres y abiertas)
+title: Haciendo mapas con herramientas libres y abiertas
 url_code: ""
 url_pdf: "MakeMapOpenTools.pdf"
 url_slides: ""

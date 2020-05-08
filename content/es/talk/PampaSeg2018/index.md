@@ -1,5 +1,5 @@
 ---
-abstract: Talk in Spanish. In November 2018, the 10th edition of PampaSeg took place in Santa Rosa, La Pampa. In this talk I present the community of R-Ladies Santa Rosa, the R language and what can be done with R through the work of various Latin American R-Ladies. 
+abstract: En Noviembre de 2018, la décima edición de PampaSeg tuvo lugar en Santa Rosa, La Pampa. En esta charla presento la comunidad de R-Ladies Santa Rosa, el lenguaje R y que se puede hacer con él, a través del trabajo de varias R-Ladies latinoamericanas. 
 all_day: false
 authors: []
 date: "2018-11-23T15:00:00Z"
@@ -15,9 +15,9 @@ location: Punto Digital, Santa Rosa, La Pampa
 math: true
 publishDate: "2018-11-23T15:00:00Z"
 slides: 
-summary: Talk in Spanish. In November 2018, the 10th edition of PampaSeg took place in Santa Rosa, La Pampa. In this talk I present the community of R-Ladies Santa Rosa, the R language and what can be done with R through the work of various Latin American R-Ladies. 
+summary: En Noviembre de 2018, la décima edición de PampaSeg tuvo lugar en Santa Rosa, La Pampa. En esta charla presento la comunidad de R-Ladies Santa Rosa, el lenguaje R y que se puede hacer con él, a través del trabajo de varias R-Ladies latinoamericanas. 
 tags: []
-title: The R community in Santa Rosa (La comunidad de R en Santa Rosa)
+title: La comunidad de R en Santa Rosa
 url_code: ""
 url_pdf: "RLadiesPampaSeg.pdf"
 url_slides: ""
