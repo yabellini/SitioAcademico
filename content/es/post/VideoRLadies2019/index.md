@@ -8,8 +8,6 @@ authors:
     - admin
 ---
 
-[English version](https://blog.rladies.org/post/rladies_video_2019/)
-
 Para cerrar el 2019 desde R-Ladies hicimos un video, si aún no lo viste, aquí está:
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Feliz año nuevo <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">#rladies</a> y aliados! 🎉🎉🎉<br><br>Video preparado por <a href="https://twitter.com/yabellini?ref_src=twsrc%5Etfw">@yabellini</a> y <a href="https://twitter.com/_lacion_?ref_src=twsrc%5Etfw">@_lacion_</a>. Locución <a href="https://twitter.com/AlejaBellini?ref_src=twsrc%5Etfw">@alejabellini</a> 💜💜💜 <a href="https://t.co/Bw9aRkaErj">pic.twitter.com/Bw9aRkaErj</a></p>&mdash; R-Ladies Global (@RLadiesGlobal) <a href="https://twitter.com/RLadiesGlobal/status/1212453642416078853?ref_src=twsrc%5Etfw">January 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

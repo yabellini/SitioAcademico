@@ -3,7 +3,7 @@ abstract: En septiembre de 2017, el Congreso de AgroInformática se realizó en 
 all_day: false
 authors: []
 date: "2017-09-04T10:00:00Z"
-event: [XLIII Conferencia Latinoamericana en Informática -  Congreso de AgroInformática
+event: XLIII Conferencia Latinoamericana en Informática -  Congreso de AgroInformática
 event_url: https://clei.org/clei2017/index.html
 featured: false
 links:
