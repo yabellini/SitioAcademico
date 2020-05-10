@@ -3,13 +3,20 @@ date: "2019-03-15"
 diagram: true
 markup: mmark
 math: true
-title: IWD 2019 Twitter Action. Explaining IWD 2019 Twitter project
+title: IWD 2019 Twitter Action. 
 authors: 
     - admin
+    - Patricia Loto
+    - Divya Seernani
+    - Roxana Noelia Villafane
+    - Gabriela De Queiroz
+tags:
+    - R-Ladies
 ---
 
 > As told by Yanina Bellini, Patricia Loto and Divya Seernani; with notes from Roxana Noelia Villafane and Gabriela De Queiroz
 
+## Explaining IWD 2019 Twitter project
 Every year on March 8th, the world celebrates International Women's Day (IWD). Although this date has different ways of celebration, it has one point in common - the fight for gender equality. The [previous year](http://blog.rladies.org/post/ideation_and_creation/), in 2018, an enthusiast R-Ladies' group took the initiative for a massive project to tweet about all the profiles registered in the R-ladies directory, throughout 8th March 2018. In February this year, the year 2019, Yanina proposed to follow their lead and tweet about all the R-Ladies Chapters, throughout 8th March 2019.
 
 Yanina's call for volunteers was responded to instantly. In a matter of days, we had a team of brilliant, knowledgeable R-Ladies consisting of [Yanina](https://twitter.com/yabellini), [Gabriela](https://twitter.com/gdequeiroz), [Patricia](https://twitter.com/patriloto), [Roxana](https://twitter.com/data_datum), and [Divya](https://twitter.com/DSeernani). Yanina took the wheel of this fantastic project, making a list of tasks to be done and everyone stepped up to volunteer for what they could do. Yanina proposed using the IWD twitter account from 2018, continuing what they had built then, but focusing on increasing visibility for chapters this year. R-Ladies chapters are the foundation of R-Ladies because this is where the community gathers, teaches and learns; where experiences are exchanged in every part of the world. The chapters sustain and magnify the community. It was logical to use these to celebrate IWD2019, and everyone was immediately on board.
@@ -436,4 +443,4 @@ tweets <- dplyr::select(CCRLTw, City, tweet, picture) %>%
 readr::write_excel_csv2(tweets, path = "ready_tweets_nodata.csv")
 ```
 
-> Crosspost in [R-Ladies Blog](https://blog.rladies.org/post/blog_iwdtwitter_2019/)
+> Originally published in [R-Ladies Blog](https://blog.rladies.org/post/blog_iwdtwitter_2019/)
