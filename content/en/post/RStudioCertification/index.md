@@ -3,75 +3,73 @@ date: "2020-02-13"
 diagram: true
 markup: mmark
 math: true
-title: Obteniendo la certificación de RStudio. Un camino compartido.
+title: Obtaining RStudio certification. A shared path.
 authors: 
     - admin
 ---
 
-En Diciembre de 2019 obtuve la [certificación de RStudio como instructora de Tidyverse](https://education.rstudio.com/trainers/).  RStudio lanzó este [programa de entrenamiento y certificación](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) en Febrero de 2019.
+In December 2019 I obtained the [RStudio certification as a Tidyverse instructor](https://education.rstudio.com/trainers/). RStudio launched this [training and certification program](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) in February 2019.
 
-Este post, describe mi camino hacia esa certificación y tal vez sirva para que te animes a recorrer el tuyo.
-
-## La certificación
-
-Quien pretende certificarse debe aprobar dos exámenes: un examen práctico de suficiencia técnica en el tema seleccionado, en mi caso Tidyverse (también existe uno para Shiny) y otro sobre enseñanza.  En otras certificaciones (hice un par de Microsoft en los 2000 y gente mi equipo hizo las de CISCO) suelen tener un curriculum de cursos obligatorios para poder certificarse, además de los exámenes. En este caso, el único curso obligatorio es sobre herramientas pedagógicas para dar clases de temas relacionados con la programación (aunque muchas herramientas son muy útiles más allá de eso).  Para los conocimientos técnicos no hay una serie de cursos, sino una serie de libros: se debe conocer y manejar con fluidez todo el contenido del libro [R para Ciencia de Datos](https://es.r4ds.hadley.nz/) y se recomienda la lectura del libro con [los ejercicios y sus soluciones](https://jrnold.github.io/r4ds-exercise-solutions/).  
-
-## La oportunidad
-
-Durante el 2019, desde el programa de certificación de RStudio buscaban tener una cohorte de aproximadamente una docena de mujeres latinoamericanas, con el objetivo de rendir los exámenes necesarios para certificarnos antes del 31 de Diciembre de 2019.  En un principio todas las estudiantes debían vivir en Buenos Aires, pero posteriormente se aceptaron algunas del interior de Argentina, como yo, y de otros países (Chile y Bolivia).
-
-## La travesía
-
-La mayoría de las integrantes del grupo somos [R-Ladies](https://rladies.org/): organizadoras, fundadoras o miembros de algún capítulo de la región, así que nos conocemos aunque sea virtualmente y, como siempre se aprende mejor si se estudia en grupo, enseguida nos organizamos para acompañarnos en esta travesía.
-
-Lo primero fue crear un canal privado llamado certificación en el Slack de R-Ladies Buenos Aires (que oficia también como un Slack de R-Ladies Argentina), con todas las participantes para tener un canal de comunicación fluido, que todas conocemos y que podemos utilizar en el momento que más nos convenga a cada una.
-
-### Estudiando Tidyverse
-
-1. Se votó y acordó un día en la semana para juntarse a estudiar cada capítulo del libro de R para Ciencia de Datos, resultó ser los Domingos a la siesta (debo aclarar que yo no estaba cuando se votó, ¿a quién se le ocurre interrumpir la siesta dominguera para estudiar R? jijiji)
-
-2. Se repartieron todos los capítulos y en cada reunión alguien preparaba el material, lo presentaba, compartía las diapositivas o el rmarkdown y sus consejos sobre la resolución de los ejercicios de los capítulos que le tocaron.  Posterior a la presentación se discute sobre el tema.  También resolvíamos dudas de capítulos ya presentados. Las reuniones se grabaron para las personas que no pudieron asistir al encuentro.  Las que estábamos lejos geográficamente o no podían llegar al lugar de la juntada, nos uníamos por videoconferencia (usando Jitsi).
-
-3. Hicimos la traducción de las [cheat sheets de RStudio](https://rstudio.com/resources/cheatsheets/#translations)  como parte de nuestro proceso de estudio. Lograr una buena traducción implica entender el tema bastante bien, especialmente para respetar el significado original de lo escrito. Tuvimos que ponernos de acuerdo sobre qué términos traducir y a veces el cómo traducirlos. Como algunas habíamos participado de la traducción de [R para ciencia de datos al español](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) nos basamos en [los acuerdos logrados allí](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md).  Repartimos las cheatsheet con responsabilidades de traducir y revisar al menos una guía rápida (nuestra traducción consensuada para “cheatsheet”) cada una.
-
-### Aprendiendo a enseñar
-
-Este es el único entrenamiento obligatorio, un curso de capacitación de un día sobre métodos de enseñanza modernos basados en investigaciones sobre prácticas de enseñanza orientadas a tecnología.  En nuestro caso el curso fue dictado por [Greg Wilson]((http://third-bit.com/)) en dos mañanas consecutivas con una duración aproximada de cuatro horas y media por día.  Previo al encuentro por video conferencia (usando Zoom), nos enviaron un recordatorio, detalles de videoconferencia, un par de lecturas breves ([estrategias para enseñar](https://www.the-learning-agency-lab.com/science-of-learning-research-meets-practice.html), [cómo crear una lección efectiva](https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1006915), [ayudando a colaborar en proyectos abiertos](https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1007296) y [cómo dar clases de programación](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)), el [material completo del curso](https://drive.google.com/drive/folders/1qwTEMqoqphF9qu7f0lSCSTmikIf5chBi?usp=sharing) y una invitación a un documento de Google que utilizamos para tomar notas compartidas.  El curso se dicta en inglés y tenemos el material en Español gracias a [Laura Acion](https://lacion.rbind.io/).  
-
-Si te dedicas a dar clase de programación, o de cualquier tipo de herramientas digitales, este curso te brinda herramientas útiles para: _generar, planificar, dar y evaluar_ tus clases de una _mejor manera para tus estudiantes, para vos y para tus colegas_. Tiene elementos de aplicación inmediata y relativamente sencilla en lo que estés enseñando, todas las herramientas que se ven en el curso son aplicadas durante su dictado y la experiencia como estudiante es sencillamente espectacular (se merece un post aparte) y solo por esto vale la pena realizar la certificación.  Para quienes quieran profundizar en estos temas el libro [Enseñando Tecnología Juntos (Teaching Tech Together)](https://teachtogether.tech/) es de lectura obligatoria.
-
-Terminado el curso, se nos indicó cómo continúa el proceso de certificarnos.
+This post describes my path to that certification, and I hope it will serve to encourage you to take your journey.
 
 
-## El exámen
+## The certification
 
-El primer paso es reservar en dos días diferentes un espacio de 90 minutos para cada examen en el Calendly del instructor Greg Wilson.  En el caso del exámen sobre enseñanza, se puede solicitar darlo en Español.  En mi caso elegí dar primero el exámen de enseñanza y a los dos días, el de tidyverse.
+Whoever wants to be certified must pass two exams: a practical test of technical proficiency in the selected subject, in my case Tidyverse (there is also one for Shiny), and another on teaching. In other certifications (I did a couple of Microsoft in the 2000s and people my team did one from CISCO) they usually have a curriculum of compulsory courses to be certified, in addition to the exams. In this case, the only compulsory course is on pedagogical tools to teach programming related topics (although many tools are very useful beyond that). For technical knowledge, one should have a firm grasp of the concepts in the book [R for Data Science](https://r4ds.had.co.nz/) and it is recommended to go over [the exercises and their solutions](https://jrnold.github.io/r4ds-exercise-solutions/).     
 
-### Mostrando que puedes enseñar
+## The opportunity
 
-Para este examen debemos generar una lección, sobre un tema a elección dentro de la temática que vamos a rendir, utilizando las herramientas que aprendimos en la capacitación. En mi caso preparé una lección sobre los [chunks de RMarkdown](https://docs.google.com/document/d/1Z8zhRjK7tQ-VcOUMnOmxKNb2Ra_3DKsvMzo1iGeIt0I/edit?usp=sharing), el fin de semana anterior al exámen [dicté esa lección](https://docs.google.com/presentation/d/1Uzb5sHM54_t6NWLSDely6fCi8Nu4qhCT-qxMKY-vh78/edit?usp=sharing ) en un meetup de R-Ladies Santa Rosa en PampaSeg 2019 como parte de un taller de [introducción a RMarkdown](https://yabellini.netlify.com/courses/tallerrmarkdown/#taller-de-rmarkdown) (porque como nos enseñaron en el curso: ninguna lección sobrevive el primer contacto con tus estudiantes).  Este material se debe compartir al menos dos días previos a dar el exámen.
+During 2019, the RStudio certification program sought to have a cohort of approximately a dozen Latin American women to take the necessary exams to certify before December 31, 2019. Initially, all the students had to live in Buenos Aires, but later some were accepted from other parts of Argentina, like me, and from other countries (Chile and Bolivia).
 
-Además, como parte de la preparación, fuimos compartiendo el material que generamos para las lecciones y practicamos entre nosotras el dictado de la lección, utilizando las mismas herramientas y requisitos que nos pedía el exámen: utilizar Zoom para la videoconferencia, verificando que las slides y RStudio se vieran y funcionaran correctamente, que la lección durara 15 minutos, que cumpliera los requisitos de contener una serie de elementos pedagógicos y que fueran bien utilizados.
+## The journey
 
-Cuando te toca dar el exámen, te conectas al Zoom que se te compartió previamente y recibes un documento de google con las instrucciones y las preguntas del exámen.  Lo primero es dar la lección que preparaste.  Es muy buena idea hacerlo al inicio del examen porque en ese momento el tiempo aún no te corre y, en mi caso, la actividad de dar una clase me ayudó a relajarme para el resto del exámen. Luego tienes que contestar unas 4-5 preguntas que están en ese documento y en el cual el instructor va escribiendo tus respuestas. Yo di todo el exámen y la lección en español aunque el documento con el material que preparé estaba en Inglés (con la idea que el instructor pueda entenderlo).  Todo dura 90 minutos y se pueden usar los recursos digitales que necesites durante este examen. No puedes comunicarte con ninguna otra persona que no sea tu evaluador.
+Most of the members of the group are [R-Ladies](https://rladies.org/): organizers, founders, or members of some chapter of the region, so we know each other (some in person, some virtually).  Learning is always better If you study with others, so we immediately organized ourselves to embark on this journey.
 
-### Mostrando que puedes usar tidyverse
+The first thing we did was to create a private channel called _certification_ in the R-Ladies Buenos Aires Slack (which also acts as a Slack of R-Ladies in Argentina), with all the participants to have a channel of clear and accessible communication.
 
-El examen de tidyverse sí fue en Inglés, nuevamente previo al encuentro te llega un mail con los archivos necesarios para realizar el examen y conectarte por Zoom.  Inmediatamente  compartes tu pantalla con el evaluador quien observa durante todo el examen como resuelves las consignas. Cualquier duda que tengas sobre las consignas es respondida de inmediato por el evaluador.  
-Al igual que en el otro exámen, se pueden usar los recursos digitales que necesites (yo utilicé unas cheatsheet y la ayuda de RStudio). Tampoco puedes comunicarte con ninguna otra persona que no sea tu evaluador y se debe utilizar la IDE de RStudio (la edición de escritorio o rstudio.cloud).  
-El trabajo se puede hacer en un script R o un archivo RMarkdown, y se puede usar uno para todo el examen o uno para cada pregunta (yo hice uno para cada pregunta). Al finalizar, se deben enviar todos los archivos generados durante el examen al evaluador por correo electrónico.  El exámen también dura 90 minutos y tienes el resultado inmediatamente.
+### Studying Tidyverse
 
-Aquí se pueden ver ejemplos de exámenes: https://education.rstudio.com/blog/2020/02/instructor-certification-exams/
+1. One day in the week was voted and agreed to meet to study each chapter of the book R for Data Science; it turned out to be Sundays at nap (I must clarify that I was not there when the vote happened...who wants to interrupt Sunday nap time to study R? hihihi)
 
-### Certificada
+2. We create a google drive where we share all the available material and the material we generate during the study process.
 
-Cuando obtienes la certificación se te agrega a un listado de [instructores certificados](https://education.rstudio.com/trainers/), el acceso a un canal de Slack donde están todos los instructores certificados y a una reunión bimensual por videoconferencia con este mismo grupo.  En estos espacios se intercambian consejos, materiales, se despejan dudas y se reciben actualizaciones y novedades.
+3. We distributed all the chapters and at each meeting, someone prepared the material, presented it, shared the slides or the RMarkdown along with their advice on solving the exercises that corresponded with each chapter. After the presentation, we discussed the topic. We also resolved issues about the chapters that were already presented. We recorded all the meetings for people who were unable to attend. Those of us who were geographically distant or could not attend the meeting joined by video conference (using Jitsi).
 
-Recibir la certificación fue un logro personal muy importante, es confirmar por una fuente externa, muy importante en el universo R, que tienes una serie de conocimientos sobre la tecnología elegida y sobre cómo enseñarla. A partir de la certificación tengo más demandas de cursos de capacitación.
+4. We did the translation of the [RStudio cheat sheets](https://rstudio.com/resources/cheatsheets/#translations) as part of our study process. Achieving a good translation implies understanding the topic well enough, especially to respect the original meaning of the writing. We had to agree on what terms to translate and sometimes how to translate them. As some of us had participated in the translation of [R for data science into Spanish](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) we based on [the agreements reached there](https://github.com/cienciadedatos/documentacion-traduccion-r4ds/blob/master/orientaciones-traduccion.md). We tasked participants with translating R cheatsheets and we reviewed at least one cheat sheet. All the discussion about the translation was done by Slack and during the meetings. 
 
-Igualmente la parte más importante de todo este proceso fue la compañía con la cual llevé adelante el proceso: la increíble comunidad de R-Ladies de la región, lideradas por Laura Acion, haciendo su magia nuevamente.  El acompañamiento, el apoyo, la motivación y el ánimo que nos dimos entre todas fue clave para completar el proceso y para poder hacerlo exitosamente.  
+### Learning to teach
 
-Como dice un proverbio africano (que descubrí en la película The Good Lie): si quieres llegar rápido viaja sola, si quieres llegar lejos, viaja acompañada… y así fue para mí, nunca hubiera llegado así de lejos sin la compañía de estas geniales mujeres; con las que espero emprender muchos viajes más.
+The only mandatory training is a one-day training course on modern evidence-based teaching methods on technology-oriented teaching practices. In our case, the course was taught by [Greg Wilson](http://third-bit.com/) during two consecutive mornings with a duration of approximately four and a half hours per day. Prior to the video conference meeting (using Zoom), they sent us a reminder, video conference details, a couple of short readings ([teaching strategies](https://www.the-learning-agency-lab.com/science- of-learning-research-meets-practice.html), [how to create an effective lesson](https://journals.plos.org/ploscompbiol/article/authors?id=10.1371/journal.pcbi.1006915), [helping to collaborate on open projects](https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1007296) and [how to teach programming](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)), the [full course material](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY) and an invitation to a Google document that we use to take shared notes. The course is taught in English and we have the material in [Spanish](https://drive.google.com/drive/folders/1qwTEMqoqphF9qu7f0lSCSTmikIf5chBi?usp=sharing) thanks to [Laura Acion](https://lacion.rbind.io/).
+
+If you teach programming or any kind of digital tools, this course gives you useful tools to _generate, plan, give and evaluate_ your classes in a _better way for your students, yourself, and your colleagues_. It has elements of an immediate and relatively simple application in what you are teaching.  All of the tools that are covered in the course are actually applied in the implementation of the course itself, and the experience as a student is simply spectacular (it deserves a separate post) and only for this is it worth it perform the certification. For those who want to study these topics in-depth, the book [Teaching Tech Together](https://teachtogether.tech/) is required reading.
+After the course, we received instructions on continuing the certification process.
 
 
+## The exam
 
+The first step is to reserve on two different days a space of 90 minutes for each exam in the instructor's Calendly. You can request to give the teaching exam in Spanish. In my case, I chose to give the teaching exam first, and after two days, the tidyverse exam.
+
+### Showing that you can teach
+
+For this exam, we must generate a lesson on a subject of choice within the theme that we are going to take, using the tools that we learned during the training. In my case, I prepared a lesson on the [RMarkdown chunks](https://docs.google.com/document/d/1Z8zhRjK7tQ-VcOUMnOmxKNb2Ra_3DKsvMzo1iGeIt0I/edit?usp=sharing); that weekend [I dictated that lesson ](https://docs.google.com/presentation/d/1Uzb5sHM54_t6NWLSDely6fCi8Nu4qhCT-qxMKY-vh78/edit?usp=sharing) at an R-Ladies Santa Rosa meetup in PampaSeg 2019 as part of a workshop on [Introduction to RMarkdown ](https://yabellini.netlify.com/courses/tallerrmarkdown/#taller-de-rmarkdown); because as they taught us in the course: no lesson survives the first contact with your students. This lesson and related material must be shared at least two days before taking the exam.
+
+As part of the preparation, we shared the material we generated for the lessons and practiced delivering the lesson to each other, using the same tools and requirements that the exam asked us to do...using Zoom for the videoconference, verifying that the slides and RStudio looked and worked correctly, that the lesson lasted 15 minutes, that it fulfilled the requirements of containing a series of pedagogical elements and that they were well used.
+
+When it is your turn to take the exam, you connect to the Zoom that was previously shared with you, and you receive a google document with the instructions and questions for the exam. The first thing is to give the lesson you prepared. It is a very good idea to do it at the beginning of the exam because at that moment the time does not run yet and, in my case, the activity of giving a class helped me relax for the rest of the exam. Then you have to answer 4-5 questions that are in that document and in which the instructor is documenting your answers. I gave the entire exam and lesson in Spanish although the document with the material I prepared was in English (with the idea that the instructor could understand it). Everything lasts 90 minutes, and you can use the digital resources you need during this exam. You cannot communicate with anyone other than your evaluator.
+
+### Showing that you can use tidyverse
+
+The tidyverse exam was in English, again before the meeting an email arrives with the necessary files to take the exam and connect via Zoom. You immediately share your screen with the evaluator who observes you throughout the exam on how you solve the instructions. Any questions you have about the test are answered immediately by the evaluator.
+As in the other exam, you can use the digital resources you need (I used some cheatsheets and RStudio help). You also cannot communicate with anyone other than your evaluator and you must use the RStudio IDE (desktop edition or rstudio.cloud).
+The work can be done in an R script or RMarkdown file; you can use a single script/RMarkdown for the entire exam or one for each question (I did one script for each question). Upon completion, all files generated during the exam should be sent to the evaluator by email. The exam also lasts 90 minutes and you immediately receive the result.
+Here you can see [sample exams](https://education.rstudio.com/blog/2020/02/instructor-certification-exams/). 
+
+### Certified
+
+When you get certified, you are added to a list of [certified instructors](https://education.rstudio.com/trainers/), to a Slack channel where all certified instructors have access to, and a bi-monthly video conference meeting with this same group. In these spaces, we exchange materials, discuss any issues we have on teaching, and receive news and updates. You also have access to all the RStudio Pro products without cost.
+
+Receiving the certification was a very important personal achievement, it is a confirmation by an external source that is very important in the R universe that you have a firm foundation on the chosen technology on how to teach it. After certification I have more demand to do training courses.
+
+Equally, the most important part of this whole process was the company with which I carried out the process: the incredible community of R-Ladies in the region, led by Laura Acion, doing their magic again. The accompaniment, support, motivation, and encouragement that we gave each other was key to complete the process and to be able to do it successfully.
+
+The African proverb (which I discovered in the movie The Good Lie) that says: _if you want to go fast, travel alone, if you want to go far, travel accompanied_... is a good summary of how this journey was for me. I would never have come this far without the company of these great women; with which I hope to undertake many more trips.
