@@ -17,7 +17,7 @@ publishDate: "2018-11-28T14:00:00Z"
 slides: 
 summary: Talk in Spanish. This talk shows the evolution of 20 years of the processing of satellite data to analyze agricultural emergencies like floods.
 tags: []
-title: Geotechnologies in the cloud and its application in agricultural emergencies (Geotecnologías en la nube y su aplicación en emergencias agropecuarias)
+title: Geotechnologies in the cloud and its application in agricultural emergencies
 url_code: ""
 url_pdf: "GEE_Inundaciones2018.pdf"
 url_slides: ""

@@ -1,5 +1,5 @@
 ---
-title: Social Network Analysis Techniques to study scientific collaboration (Técnicas de análisis de redes sociales para estudiar la colaboración científica)
+title: Social Network Analysis Techniques to study scientific collaboration
 all_day: no
 date: '2019-06-04T14:00:00Z'
 authors: []

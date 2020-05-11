@@ -17,7 +17,7 @@ publishDate: "2019-15-03T14:00:00Z"
 slides: 
 summary: Talk in Spanish. This talk summarizes some of my work done using data science applied to the agricultural sector (WiDS 2019).
 tags: []
-title: On teras and seeds. Data Science at the service of agriculture (Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario)
+title: On teras and seeds. Data Science at the service of agriculture
 url_code: ""
 url_pdf: "Bellini_WIDS2019.pdf"
 url_slides: ""

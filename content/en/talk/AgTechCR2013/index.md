@@ -17,7 +17,7 @@ publishDate: "2013-08-15T10:00:00Z"
 slides: 
 summary: Talk in Spanish. In this talk I present the research and development line of Information and Communication Technologies (AgTech) applied to the agricultural sector by my research group in the EEA Anguil.
 tags: []
-title: AgTech (AgroTICs)
+title: AgTech
 url_code: ""
 url_pdf: "AgTechCR.pdf"
 url_slides: ""
