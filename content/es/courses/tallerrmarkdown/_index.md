@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: RMarkdown Workshop (Taller de RMarkdown)
-summary: This workshop in Spanish introduces rmarkdown for reporting. Este taller en español introduce rmarkdown para la generación de informes.
+linktitle: Taller de RMarkdown
+summary: Este taller en español introduce rmarkdown para la generación de informes.
 weight: 1
 
 # Page metadata.
@@ -21,31 +21,6 @@ menu:
     weight: 1
 ---
 
-
-## RMarkdown workshop
-
-This course in Spanish, was organized by [R-Ladies Santa Rosa](https://twitter.com/RLadiesSR) with the [Anguil Agricultural Experimental Station](https://twitter.com/intaanguil) of the National Institute of Agricultural Technology and was deliverd in PampaSeg 2019.
-
-### Objective: 
-Introduce attendees to RMarkdown for reporting.
-
-### Contents:
-
-1. What is RMarkdown (Rmd)?
-2. Parts of an .Rmd File
-3. Code Chunks and how to configure them
-4. Types of output, templates, packages.
-5. Parameterization
-6. Automation 
-  
-  
-### Material:
-
-*In this link you have access to the material: https://github.com/rladies/meetup-presentations_santarosa/tree/master/TallerRMarkdown*
-
-### License
-
-This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 
 ## Taller de RMarkdown
 
