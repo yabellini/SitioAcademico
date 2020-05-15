@@ -75,7 +75,7 @@ Cuando compilamos el documento en el lugar del chunk de ejercicio se presenta un
 
 {{< figure src="/img/learnr_ejercicio_vacio.png" alt="Captura de pantalla del ejercicio simple, sin código">}}
 
-#### Ejericicio con código previo, consejos y solución
+#### Ejercicio con código previo, consejos y solución
 
 Los chunks de ejercicios pueden contener código para completar, como una plantilla, para ayudar al estudiante a resolver la ejercitación o para concentrarse sólo en el tema o característica que estamos enseñando.
 
@@ -159,13 +159,12 @@ También existe la posibilidad de ir revelando el contenido una subsección a la
 
 Incluir elementos como imágenes y videos o estilos propios mediante CSS, etc. pueden mejorar la experencia de los estudiantes. Como el tutorial se puede implementar como una aplicación Shiny, estos recursos externos se deben colocar en alguno de los directorios a los que puede acceder el servidor web Shiny:
 
-
-|Directory |	Description |
+|Directorio |	Descripción |
 | ---------------|----------------|
-|images/ 	|Image files (e.g. PNG, JPEG, etc.)|
-|css/ 	|CSS stylesheets|
+|images/ 	|Archivos de imágenes (ej. PNG, JPEG, etc.)|
+|css/ 	|hojas de estilo CSS|
 |js/ 	|JavaScript scripts|
-|www/ |	Any other files (e.g. downloadable datasets)|
+|www/ |	Cualquier otro tipo de archivos (ej. datasets descargables)|
 
 Para incluir tanto fotos como videos (publicados en YouTube o Vimeo) dentro de un tutorial se utiliza la sintaxis de RMarkdown tradicional:
 
