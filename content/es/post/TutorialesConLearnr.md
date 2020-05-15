@@ -106,8 +106,7 @@ sumar(___,___)
 También podemos proveer la solución esperada, especialmente porque los problemas de programación pueden tener más de una solución válida.  Para ello generamos un nuevo chunk de R, con el mismo nombre del ejercicio y le agregamos la palabra `-solution`.
 
 ````markdown
-```
-{r funcion-sumar-solution}
+```{r funcion-sumar-solution}
 sumar <- function(numero1,numero2) {
   numero1+numero2
 }
