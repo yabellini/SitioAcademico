@@ -3,7 +3,7 @@ date: "2020-01-27"
 diagram: true
 markup: mmark
 math: true
-title: Receta para un video de fin de año (Recipe for a year-end video)
+title: Receta para un video de fin de año 
 authors: 
     - admin
 ---
