@@ -54,12 +54,13 @@ description: "Mi super genial tutorial de R"
 
 Como en otros documentos rmarkdown el chunk de setup contiene el llamado al paquete `learnr`
 
-```
-{r setup, include=FALSE}
+````markdown
+```{r setup, include=FALSE}
 library(learnr)
 knitr::opts_chunk$set(echo = FALSE)
-
 ```
+````
+
 Luego podemos utilizar los _chunks_ de código de la misma manera que en otros documentos: para mostrar código de ejemplo, para ejecutar código y ver el resultado o para ejecutar código que nos permita prepar el entorno de trabajo, como por ejemplo, cargar datasets o paquetes.
 
 En los tutoriales un chunk de código puede transformarse en un **ejercicio**.  Los ejercicios presentarán al estudiante un espacio para escribir código, ejecutarlo y recibir una respuesta.  Este espacio puede estar *vacio* o puede *tener código previo incompleto*, para que el estudiante lo complete con la solución correcta.  Además hay ejercicios que pueden *presentar pistas y/o la solución*.
@@ -79,19 +80,20 @@ Cuando compilamos el documento en el lugar del chunk de ejercicio se presenta un
 Los chunks de ejercicios pueden contener código para completar, como una plantilla, para ayudar al estudiante a resolver la ejercitación o para concentrarse sólo en el tema o característica que estamos enseñando.
 
 
-```
-{r funcion-sumar, exercise=TRUE, exercise.lines = 5}
+````markdown
+```{r funcion-sumar, exercise=TRUE, exercise.lines = 5}
 sumar <- function(___,___) {
   ______
 }
 
 sumar(___,___)
 ```
+````
 
 Si se quiere dar algunas pistas para ayudar a los estudiantes en la resolución de los ejercicios, especialmente si conocemos que el tema que estamos enseñando tiene errores de compresión comunes, podemos hacerlo generando un nuevo chunk de R con el mismo nombre que el chunk del ejercicio al que le agregamos la palabra `-hint`.
 
-```
-{r funcion-sumar-hint}
+````markdown
+```{r funcion-sumar-hint}
 sumar <- function(___,___) {
   # Aqui debe ir el calculo sumando los dos parámetros 
   # que debe tener la función para recibir los dos números a sumar
@@ -99,9 +101,11 @@ sumar <- function(___,___) {
 
 sumar(___,___)
 ```
+````
 
 También podemos proveer la solución esperada, especialmente porque los problemas de programación pueden tener más de una solución válida.  Para ello generamos un nuevo chunk de R, con el mismo nombre del ejercicio y le agregamos la palabra `-solution`.
 
+````markdown
 ```
 {r funcion-sumar-solution}
 sumar <- function(numero1,numero2) {
@@ -110,6 +114,7 @@ sumar <- function(numero1,numero2) {
 
 sumar(5,3)
 ```
+````
 
 Cuando escriban estos chunks en RStudio, se van a marcar errores en las secciones donde el código está incompleto, esto se ignora cuando se compila el documento gracias al atributo `exercice=TRUE` del primer chunk.
 
@@ -123,8 +128,8 @@ Así se ve este ejercicio en el tutorial:
 
 Se pueden incluir una o más preguntas de opción múltiple dentro de un tutorial para verificar que los estudiantes entendieron los conceptos presentados. Las preguntas pueden tener una o múltiples respuestas correctas.  Para incluirlas se debe llamar a la función `question` o `quiz` dentro de un chunk de R de esta manera:
 
-```
-{r quiz}
+````markdown
+```{r quiz}
 quiz(
   question("¿Qué paquete del listado nos permite realizar gráficos?", 
   correct = "Buen trabajo!, ggplot2 es el paquete que nos permite realizar gráficos.", 
@@ -135,8 +140,9 @@ quiz(
     answer("ggplot2", correct = TRUE)
   ), caption = "Visualización"
 )
-
 ```
+````
+
 La pregunta se presenta dentro de una "cajita" con el botón _Submit Answer_ (enviar respuesta), en caso que la respuesta sea correcta, debajo de la pregunta aparece un recuadro verde con el mensaje estipulado en el atributo `correct` de la función `question`.  En caso de que la respuesta sea incorrecta aparece un recuadro rojo, con el texto indicado en el atributto `message` de la función `answer` y un botón _Try again_ (intenta de nuevo), gracias al atributo `allow_retry = TRUE`.  En la siguiente figura se ven los tres estados de una pregunta:
 
 {{< figure src="/img/learnr_quiz.png" alt="Ejemplo de pregunta antes de contestarse, con una respuesta correcta y con una respuesta incorrecta">}}
