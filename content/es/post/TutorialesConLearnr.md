@@ -181,13 +181,13 @@ Ejemplo de figura:
 
 ### Compartiendo el tutorial
 
-Los tutoriales se pueden publicar de la misma manera que las aplicaciones Shiny, incluyendo la ejecución local en la máquina de un usuario final, en un servidor Shiny o un servicio de alojamiento como shinyapps.io.  Para esta última opción se puede utilizar el botón de _Publish Document_ presente en la IDe de RStudio.
+Los tutoriales se pueden publicar de la misma manera que las aplicaciones Shiny, incluyendo la ejecución local en la máquina de un usuario final, en un servidor Shiny o un servicio de alojamiento como shinyapps.io.  Para esta última opción se puede utilizar el botón de _Publish Document_ presente en la IDE de RStudio.
 
 Otra forma de implementar un tutorial es incluirlo dentro de un paquete R y hacer que los usuarios lo ejecuten directamente a través de la función `learnr::run_tutorial`.  Aún estoy investigando esta última opción y realizaré un post con la experiencia.
 
 Les dejo el [acceso al archivo RMarkdown del tutorial](/post/Tutorial/TuTorial.rmd) que fuí usando de ejemplo en este post para que puedan revisarlo, ejecutarlo y modificarlo por su cuenta.
 
-
+> Cross post con [MetaDocencia]( https://metadocencia.netlify.app/)
 
 
 
