@@ -37,7 +37,7 @@ Quiere entender como funciona y como usarlo con R y RStudio para poder incorpora
 
 Este mapa conceptual presenta el contenido de este taller
 
-   {{< figure src="/img/git_concept_map.png" alt="Mapa conceptual: en tu computadora tienen RStudio IDE y un proyecto de RStudio, con un directorio de trabajo, que será el repositorio local de Git, al que podremos hacer Add de archivos a la Staging area, dede la cual podremos hacer Commit al repositorio local. Desde este respositrio local podemos hacer Push y Pull hacia el respositorio remoto que puede estar en GitHub.  Esta misma configuraci{on est{a en la maquina de todos los colaboradores.">}}
+   {{< figure src="/img/git_concept_map.png" alt="Mapa conceptual: El mapa conceptual presenta los conceptos que serán cubiertos durante el meetup.  Estos conceptos se presentan en cajas o círculos como sustantivos y las relaciones entre ellos por medio de flechas con verbos.  En nuestro caso el mapa conceptual se presenta el funcionamiento de Git: en tu computadora tienes RStudio IDE y un proyecto de RStudio, con un directorio de trabajo, que será el repositorio local de Git, al que podremos hacer Add de archivos a la Staging area, desde la cual podremos hacer Commit al repositorio local. Desde este repositorio local podemos hacer Push y Pull hacia el repositorio remoto que puede estar en GitHub.  Esta misma configuración está en la máquina de todos los colaboradores.">}}
 
 
 ## A usar Git desde RStudio
@@ -185,5 +185,5 @@ Primero te dejamos [aqui acceso a la presentación del meetup](https://docs.goog
 
 Recomendamos leer el libro [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) de [Jennifer Bryan](https://github.com/jennybc/happy-git-with-r) en el que se basa gran parte de este tutorial.
 
-Y por supuesto estás atentas a los nuevos meetups de R-Ladies!
+Y por supuesto prestar atención a los nuevos meetups de R-Ladies!
 
