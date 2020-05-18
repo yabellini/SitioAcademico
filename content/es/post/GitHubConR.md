@@ -72,9 +72,12 @@ Copia la URL HTTPS para clonar el repositorio mediante el botón verde "Clonar o
    {{< figure src="/img/git_githubfirst_new_project.png" alt="Pasos para crear un proyecto con control de versiones desde RStudio si ya existe el repositorio en GitHub">}}
     
   Cuando hacemos click en _Create Project_ se crea un nuevo directorio (carpeta), que cumplirá todas estas funciones:
+  
     - un directorio o "carpeta" en su computadora
+    
     - un repositorio de Git, vinculado a un repositorio de GitHub remoto
-    - un proyecto RStudio
+    
+    - un proyecto de RStudio
  
 El proyecto ya está listo para ser usando con control de versiones. 
 
