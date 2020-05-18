@@ -1,5 +1,5 @@
 ---
-date: "2020-05-18"
+date: "2020-05-17"
 draft: false
 type: page
 linktitle: Version Control. Primeros pasos de Git con R
