@@ -29,7 +29,7 @@ My goals to generate this tutorial were:
 
 That is why the tutorial includes a concept map with the topics it covers, two learner personas wich represent the people I thought about when I build the tutorial, the license, a series of explanations and exercises to make plots with R-and the sources.
 
-To install the package you have to download the .tar.gz or .zip (only for Windows) file and install the `tutorialgRaficosFN` package from the option **Tools -> Install Packages -> Install from -> Package Archive File (.zip; .tar.gz)**. If you have the latest version of RStudio it will appear in your Tutorial panel.
+To install the package you have to download the [.tar.gz](https://github.com/yabellini/tutorialgRaficosFN/blob/master/TutorialgRaficosFN_0.1.0.tar.gz) or [.zip (only for Windows)](https://github.com/yabellini/tutorialgRaficosFN/blob/master/TutorialgRaficosFN_0.1.0.zip) file and install the `tutorialgRaficosFN` package from the option **Tools -> Install Packages -> Install from -> Package Archive File (.zip; .tar.gz)**. If you have the latest version of RStudio it will appear in your Tutorial panel.
 
 If you don't have the latest version then you have to install the [learnr package](https://rstudio.github.io/learnr/index.html) and then run the Tutorial like this:
 
