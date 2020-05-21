@@ -17,7 +17,7 @@ El 12 de mayo empezó #30díasdegráficos con R, una iniciativa de la comunidad 
 
 El desafío: crear y compartir un gráfico al día.  Más info sobre como participar [aquí](https://github.com/cienciadedatos/datos-de-miercoles/blob/master/30-dias-de-graficos-2020.md)
 
-Como no he podido participar haciendo los gráficos para cada día, generé este **mini tutorial* usado el paquete `learnr` (mi nuevo paquete favorito) dond explico como hacer una serie de gráficos con `ggplot2`.  Si les gusta prometo ir mejorandolo y agregandole cómo gráficos.  Si quieren colaborar [aquí está el repo](https://github.com/yabellini/tutorialgRaficosFN)
+Como no he podido participar haciendo los gráficos para cada día, generé este **mini tutorial* usado el paquete `learnr` (mi nuevo paquete favorito) donde explico como hacer una serie de gráficos con `ggplot2`.  Si les gusta prometo ir mejorandolo y agregandole cómo gráficos.  Si quieren colaborar [aquí está el repo](https://github.com/yabellini/tutorialgRaficosFN)
 
 Mis objetivos para generar este tutorial fueron:
 
