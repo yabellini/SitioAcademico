@@ -73,11 +73,11 @@ Copia la URL HTTPS para clonar el repositorio mediante el botón verde "Clonar o
     
   Cuando hacemos click en _Create Project_ se crea un nuevo directorio (carpeta), que cumplirá todas estas funciones:
   
-    - un directorio o "carpeta" en su computadora
+  - un directorio o "carpeta" en su computadora
     
-    - un repositorio de Git, vinculado a un repositorio de GitHub remoto
+  - un repositorio de Git, vinculado a un repositorio de GitHub remoto
     
-    - un proyecto de RStudio
+  - un proyecto de RStudio
  
 El proyecto ya está listo para ser usando con control de versiones. 
 
