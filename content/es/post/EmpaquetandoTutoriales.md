@@ -41,4 +41,4 @@ Así se ve el tutorial cuando está ejecutandose:
  
  {{< figure src="/img/learnr_contenido_ggplot.png" alt="Ejemplo del contenido del tutorial">}}
 
-Espero que les sirva/divierta....yo me divertí y prendí mucho armandoló.
+Espero que les sirva/divierta....yo me divertí y aprendí mucho armandoló.
