@@ -13,7 +13,7 @@ tags:
   
 ---
 
-On May 12 the challange #30díasdegráficos (30 day of plots) with R, started. This is an initiative of the Spanish-speaking community of R to remember Florence Nightingale and learn about data visualization.
+On May 12, #30díasdegráficos (30 days of plots) with R, started. This is an initiative of the Spanish-speaking community of R to remember Florence Nightingale and learn about data visualization.
 
 The challenge: create and share a graphic a day. More info on how to participate [here](https://github.com/cienciadedatos/datos-de-miercoles/blob/master/30-dias-de-graficos-2020.md)
 
