@@ -21,7 +21,7 @@ Since I could not participate making the graphics for each day, I generated this
 
 My goals to generate this tutorial were:
 
- * learn how to generate a tutorial package developed in learnr
+ * learn how to generate a tutorial package developed in learnr. I use the [“Package Development"](https://github.com/hadley/pkg-dev) LatinR 2019 tutorial materia by Hadley Wickham. 
 * include in the tutorial a series of pedagogical tools described in the book [Teaching Tech Together](teachtogether.tech/)
 * that you could take advantage of the new Tutorial panel that comes in the [new version of RStudio](https://rstudio.com/products/rstudio/download/preview/).
 * learn how to change the tutorial styles based on [this post](https://education.rstudio.com/blog/2020/05/learnr-for-remote/)
