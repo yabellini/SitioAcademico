@@ -21,7 +21,7 @@ Como no he podido participar haciendo los gráficos para cada día, generé este
 
 Mis objetivos para generar este tutorial fueron:
 
- * aprender a generar un paquete de un tutorial desarrollado en `learnr`
+ * aprender a generar un paquete de un tutorial desarrollado en `learnr`. Usé el material del tutorial [“Package Development"](https://github.com/hadley/pkg-dev) que Hadley Wickham dictó en LatinR 2019.
  * que el tutorial incluya una serie de herramientas pedagogicas descriptas en el libro [Teaching Tech Together](teachtogether.tech/)
  * que pudiera aprovechar el nuevo panel de Tutorial que viene en la [nueva versión de RStudio](https://rstudio.com/products/rstudio/download/preview/).
  * aprender como cambiar los estilos del tutorial basado [este post](https://education.rstudio.com/blog/2020/05/learnr-for-remote/)
