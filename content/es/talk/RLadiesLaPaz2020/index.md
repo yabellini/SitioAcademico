@@ -2,7 +2,7 @@
 abstract: El 4 de Junio de 2020 participé de un meetup virtual de R-Ladies La Paz. Durante la conferencia tuve la oportunidad de compartir con los asistentes mi charla sobre Data Science para desarrollar AgTech dando ejemplos desarrollados con mi equipo en la Estación Experimental Agrícola INTA de Anguil y algunos materiales de R para realizar estas tareas.
 all_day: false
 authors: []
-date: "2019-06-04T09:00:00Z"
+date: "2020-06-04T09:00:00Z"
 event: Meetup R-Ladies La Paz
 event_url: 
 featured: false
