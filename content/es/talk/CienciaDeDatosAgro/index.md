@@ -1,5 +1,5 @@
 ---
-abstract: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil.
+abstract: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil. Doy detalles sobre los objetivos de cada trabajo, las heramientas que usamos, las profesiones e instituciones que formaron los equipos de trabajo y los resultados obtenidos. 
 all_day: false
 authors: []
 date: "2020-30-06T09:00:00Z"
@@ -15,9 +15,9 @@ location:
 math: true
 publishDate: "2020-30-06T09:00:00Z"
 slides: 
-summary: La Ciencia de Datos aplicada al sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil.
+summary: La Ciencia de Datos aplicada al sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil. Doy detalles sobre los objetivos de cada trabajo, las heramientas que usamos, las profesiones e instituciones que formaron los equipos de trabajo y los resultados obtenidos. 
 tags: []
-title: Ciencia de Datos aplicada al sector agropecuario
+title: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -45,7 +45,6 @@ url_video: ""
 **Localización**: Universidad Nacional de Río Negro, Argentina
 **Slides**: https://yabellini.netlify.app/UNRN2020_Bellini.pdf
 
-event: 
 
 ## 2019
 
@@ -56,7 +55,18 @@ event:
 **Slides**: https://yabellini.netlify.app/TACC22019_Bellini.pdf
 **Video**:
 
+**Charla**: Ciencia de Datos aplicada al desarrollo de AgTech
+**Fecha**: 6 de Diciembre de 2019
+**Evento**: [Simposio Argentino de Computación Científica](https://tallerargentinocc.github.io/)
+**Localización**: Universidad Nacional de San Luis, San Luis, Argentina
+**Slides**: https://yabellini.netlify.app/TACC22019_Bellini.pdf
+**Video**:
 
+**Charla**: Ciencia de Datos aplicada al desarrollo de AgTech
+**Fecha**: 15 de Marzo de 2019
+**Evento**: [Women in Data Science Conference 2019 Buenos Aires](http://wids.fi.uba.ar/)
+**Localización**: Facultad de Ingeniería, Buenos Aires, Argentina
+**Slides**: https://yabellini.netlify.app/Bellini_WIDS2019.pdf
 
 
 ## Preguntas y Respuestas
