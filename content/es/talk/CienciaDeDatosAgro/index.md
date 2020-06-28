@@ -53,20 +53,31 @@ url_video: ""
 **Evento**: [Simposio Argentino de Computación Científica](https://tallerargentinocc.github.io/)
 **Localización**: Universidad Nacional de San Luis, San Luis, Argentina
 **Slides**: https://yabellini.netlify.app/TACC22019_Bellini.pdf
-**Video**:
 
-**Charla**: Ciencia de Datos aplicada al desarrollo de AgTech
-**Fecha**: 6 de Diciembre de 2019
-**Evento**: [Simposio Argentino de Computación Científica](https://tallerargentinocc.github.io/)
-**Localización**: Universidad Nacional de San Luis, San Luis, Argentina
-**Slides**: https://yabellini.netlify.app/TACC22019_Bellini.pdf
-**Video**:
+**Charla**: Ciencia de datos aplicada al agro
+**Fecha**: 4 de Noviembre de 2019
+**Evento**: Seminario Sistemas de soporte a decisiones
+**Localización**: Licenciatura e Ingeniería en Sistema, UADE, Buenos Aires, Argentina
+**Slides**: https://yabellini.netlify.app/Bellini_UADE.pdf
 
-**Charla**: Ciencia de Datos aplicada al desarrollo de AgTech
+
+**Charla**: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario.
 **Fecha**: 15 de Marzo de 2019
 **Evento**: [Women in Data Science Conference 2019 Buenos Aires](http://wids.fi.uba.ar/)
 **Localización**: Facultad de Ingeniería, Buenos Aires, Argentina
 **Slides**: https://yabellini.netlify.app/Bellini_WIDS2019.pdf
+
+
+## 2018
+
+**Charla**: 20 años de desarrollo Agtech en la EEA Anguil
+**Fecha**: 12 de Octubre de 2018
+**Evento**: Consejo Regional La Pampa - San Luis
+**Localización**: INTA, Victorica, La Pampa, Argentina
+**Slides**: https://yabellini.netlify.app/AgTechAnguil2018.pdf
+**Video**:
+
+
 
 
 ## Preguntas y Respuestas
