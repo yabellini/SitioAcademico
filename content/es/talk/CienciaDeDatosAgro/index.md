@@ -3,7 +3,7 @@ abstract: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agr
 all_day: false
 authors: []
 date: "2020-06-30T09:00:00Z"
-event: el últimoe evento donde la presenté fue el Congreso MAIZAR 4.0  
+event: el último evento donde la presenté fue el Congreso MAIZAR 4.0  
 event_url: 
 featured: false
 links:
