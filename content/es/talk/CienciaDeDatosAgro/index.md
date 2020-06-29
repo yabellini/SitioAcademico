@@ -77,11 +77,20 @@ url_video: ""
 **Slides**: https://yabellini.netlify.app/AgTechAnguil2018.pdf
 **Video**:
 
+## 2013
 
+**Charla**: AgroTICs
+**Fecha**: 15 de Agosto de 2013
+**Evento**: Consejo Regional La Pampa - San Luis
+**Localización**: INTA, Anguil, La Pampa, Argentina
+**Slides**: https://yabellini.netlify.app/AgTechCR.pdf
 
 ## Preguntas y Respuestas
 
 Este es un compendio de algunas preguntas y respuestas que me han realizado en este charla, en diferentes ediciones de la misma.
+
+
+## Charlas 2020
 
 ### ¿Qué tipo de drone y cámara usan?
 
