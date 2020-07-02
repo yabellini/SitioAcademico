@@ -1,9 +1,9 @@
 ---
-abstract: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil. Doy detalles sobre los objetivos de cada trabajo, las heramientas que usamos, las profesiones e instituciones que formaron los equipos de trabajo y los resultados obtenidos. 
+abstract: Comunidades de práctica es una serie de charlas que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con las comunidades de práctica, la brecha de género, la colaboración científica, la ciencia abierta, la reproducibilidad y la educación sobre tecnología.  En estas charlas comparto con los asistentes detalles de diferentes comunidades de práctica en Argetina, Latonoamérica y el mundo y los desarrollos que hacemos en estas comunidades relacionados a sus objetivos. 
 all_day: false
 authors: []
 date: "2020-06-30T09:00:00Z"
-event: el último evento donde la presenté fue el Congreso MAIZAR 4.0  
+event: el último evento donde presenté sobre este tema fue useR2020!
 event_url: 
 featured: false
 links:
@@ -15,113 +15,62 @@ location:
 math: true
 publishDate: "2020-06-30T09:00:00Z"
 slides: 
-summary: La Ciencia de Datos aplicada al sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil. Doy detalles sobre los objetivos de cada trabajo, las heramientas que usamos, las profesiones e instituciones que formaron los equipos de trabajo y los resultados obtenidos. 
+summary: Comunidades de práctica es una serie de charlas que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con las comunidades de práctica, la brecha de género, la colaboración científica, la ciencia abierta y la reproducibilidad.  En estas charlas comparto con los asistentes detalles de diferentes comunidades de práctica en Argetina, Latonoamérica y el mundo y los desarrollos que hacemos en estas comunidades relacionados a sus objetivos. 
 tags: []
-title: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario
+title: Comunidades de práctica
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-## 2020
-
-### Los datos lo cambian todo: Big Data, Sensores Remotos e Inteligencia Artificial
-- **Fecha**: 30 de junio de 2020
-- **Evento**: Congreso Maizar 4.0
-- **Localización**: Virtual, Argentina
-- **Slides**: https://yabellini.netlify.app/Plantilla_Maizar_4.0_Bellini.pdf
-- **Video**:
-
-### Ciencia de Datos aplicada al desarrollo de AgTech
-- **Fecha**: 4 de Junio de 2020
-- **Evento**: Meetup R-Ladies La Paz
-- **Localización**: R-Ladies La Paz, Bolivia
-- **Slides**: https://yabellini.netlify.app/RLadiesLaPaz_2020.pdf
-
-### Ciencia de Datos aplicada al desarrollo de AgTech
-- **Fecha**: 22 de Abril de 2020
-- **Evento**: Seminario de AgroTICs
-- **Localización**: Universidad Nacional de Río Negro, Argentina
-- **Slides**: https://yabellini.netlify.app/UNRN2020_Bellini.pdf
-
-
 ## 2019
 
-### Ciencia de Datos aplicada al desarrollo de AgTech
-- **Fecha**: 6 de Diciembre de 2019
-- **Evento**: [Simposio Argentino de Computación Científica](https://tallerargentinocc.github.io/)
-- **Localización**: Universidad Nacional de San Luis, San Luis, Argentina
-- **Slides**: https://yabellini.netlify.app/TACC22019_Bellini.pdf
+### La comunidad R-Ladies
+- **Fecha**: 26 de Septiembre de 2019
+- **Evento**: [LatinR <- Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://latin-r.com/)
+- **Localización**: Centro de Extensión de la Universidad Católica, Santiago de Chile
+- **Slides**: https://yabellini.netlify.app/RLadiesLatinRConf2019.pdf
+- **Resumen**: En Septiembre de 2019, la segunda edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Santiago de Chile. Durante la conferencia tuve la oportunidad de compartir con los presentes la iniciativa de la comunidad de [R-Ladies](https://rladies.org/) junto con [Laura Acion](http://lacion.rbind.io/) y [Florencia D'Andrea](https://twitter.com/cantoflor_87). 
 
-### Ciencia de datos aplicada al agro
-- **Fecha**: 4 de Noviembre de 2019
-- **Evento**: Seminario Sistemas de soporte a decisiones
-- **Localización**: Licenciatura e Ingeniería en Sistema, UADE, Buenos Aires, Argentina
-- **Slides**: https://yabellini.netlify.app/Bellini_UADE.pdf
+### Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina
+- **Fecha**: 26 de Septiembre de 2019
+- **Evento**: [LatinR <- Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://latin-r.com/)
+- **Localización**: Centro de Extensión de la Universidad Católica, Santiago de Chile
+- **Slides**: https://yabellini.netlify.app/AgroTICsLatinR2019.pdf
+- **Resumen**: En Septiembre de 2019, la segunda edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Santiago de Chile. Durante la conferencia tuve la oportunidad de compartir con los presentes el trabajo "Análisis de la participación de la mujer en la informática aplicada al sector agropecuario en Argentina." realizado con Marina Cook.
 
-### Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario.
+### Técnicas de análisis de redes sociales para estudiar la colaboración científica
 - **Fecha**: 15 de Marzo de 2019
-- **Evento**: [Women in Data Science Conference 2019 Buenos Aires](http://wids.fi.uba.ar/)
-- **Localización**: Facultad de Ingeniería, Buenos Aires, Argentina
-- **Slides**: https://yabellini.netlify.app/Bellini_WIDS2019.pdf
+- **Evento**: Ciclo de Seminarios de la EEA Anguil
+- **Localización**: Estación Experimental Agropecuaria Anguil
+- **Slides**: https://yabellini.netlify.app/Seminario_Analisis_RedesSociales2019.pdf
+- **Resumen**: En esta charla, presento cómo utilizamos las tenicas del análisis de redes sociales para estudiar la colaboración científica a nivel de instituciones, autores y ubicaciones geográficas de los 10 años del congreso de agroinformática. Este trabajo se ha llevado a cabo en conjunto con profesores e investigadores de UNIPampa.
 
 
 ## 2018
 
-### 20 años de desarrollo Agtech en la EEA Anguil
-- **Fecha**: 12 de Octubre de 2018
-- **Evento**: Consejo Regional La Pampa - San Luis
-- **Localización**: INTA, Victorica, La Pampa, Argentina
-- **Slides**: https://yabellini.netlify.app/AgTechAnguil2018.pdf
+### La comunidad de R en Santa Rosa
+- **Fecha**: 23 de Noviembre de 2018
+- **Evento**: [10º PampaSeg Hackers Rurales](https://www.pampaseg.org/) 
+- **Localización**: Punto Digital, Santa Rosa, La Pampa, Argentina
+- **Slides**: https://yabellini.netlify.app/RLadiesPampaSeg.pdf
+- **Resumen**: En Noviembre de 2018, la décima edición de PampaSeg tuvo lugar en Santa Rosa, La Pampa. En esta charla presento la comunidad de R-Ladies Santa Rosa, el lenguaje R y que se puede hacer con él, a través del trabajo de varias R-Ladies latinoamericanas. 
+
+### La comunidad R-Ladies
+- **Fecha**: 4 de Septiembre de 2018
+- **Evento**: [LatinR <- Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://latin-r.com/)
+- **Localización**: Universidad de Palermo, Palermo, Buenos Aires, Argentina
+- **Slides**: https://yabellini.netlify.app/2018LatinR.pdf
+- **Resumen**: En Septiembre de 2018, la primera edición de LatinR, la [Conferencia Latinoamericana sobre el Uso de R en Investigación y Desarrollo](https://github.com/LatinR/presentaciones-LatinR2018) fue realizada en Buenos Aires. Durante la conferencia tuve la oportunidad de compartir con los presentes la iniciativa de la comunidad de [R-Ladies](https://rladies.org/) junto con [Laura Acion](http://lacion.rbind.io/) y [Bea Hernández](https://twitter.com/chucheria). La presentación también fue preparada por [Daniela Vazquez](https://d4tagirl.com/).
+
+## 2017
+
+### Agroinformática, R-Ladies y el rol de la mujer
+- **Fecha**: 4 de Septiembre de 2017
+- **Evento**:  [XLIII Conferencia Latinoamericana en Informática -  Congreso de AgroInformática](https://clei.org/clei2017/index.html)
+- **Localización**: Universidad Tecnológica Nacional-Facultad Regional Córdoba
+- **Slides**: https://yabellini.netlify.app/RLadies_AgroInformatica.pdf
+- **Resumen**: En septiembre de 2017, el Congreso de AgroInformática se realizó en Córdoba junto con la [XLIII Conferencia Latinoamericana en Informática](https://clei.org/clei2017/index.html). Durante la conferencia tuve la oportunidad de compartir con los asistentes la represetnación de las mujeres en la AgroInformática y la iniciativa de [R-Ladies](https://rladies.org/).
 
 
-## 2013
-
-### AgroTICs
-- **Fecha**: 15 de Agosto de 2013
-- **Evento**: Consejo Regional La Pampa - San Luis
-- **Localización**: INTA, Anguil, La Pampa, Argentina
-- **Slides**: https://yabellini.netlify.app/AgTechCR.pdf
-
-
-## Preguntas y Respuestas
-
-Este es un compendio de algunas preguntas y respuestas que me han realizado en este charla, en diferentes ediciones de la misma.
-
-## 2020
-
-### ¿Qué tipo de drone y cámara usan?
-
-Los equipos que estamos utilizando son: Cámara Multiespectral Parrot Sequoia, Cámara RGB Zenmuse X4S, Drone Multicomputer Dji Inspire 2.
-
-### ¿Dónde puedo encontrar tutoriales para iniciar mi trabajo con QGIS?
-
-* En el mismo sitio de QGIs hay un tutorial en español muy completo: https://docs.qgis.org/2.14/es/docs/training_manual/
-
-* El manual a la ultima versión se encuentra aquí: https://docs.qgis.org/3.10/en/docs/
-
-* Los técnicos de INTA Salta también han generado una serie de manuales sobre QGIS: https://inta.gob.ar/documentos/sistema-de-informacion-geografica-con-qgis-2x-nivel-inicial 
-https://inta.gob.ar/documentos/sistemas-de-informacion-geografica-con-quantum-gis-lisboa-nivel-i
-
-### ¿Dónde puedo iniciar a estudiar este tema relacionado con suelos?
-
-* Durante LatinR 2019 se presentaron varios trabajos sobre agro, teledetección y suelos, en este repositorio se encuentran todos los trabajos, tutoriales y presetnaciones de esa edición:  https://github.com/LatinR/presentaciones-LatinR2019
-
-* Estos paquetes de R son los que mas se usan para suelos: https://r-spatial.github.io/sf/index.html
-
-* El libro Using R for Digital Soil Mapping: http://smartdigiag.com/DSM_book/
-
-* Algorithms for Quantitative Pedology project: https://ncss-tech.github.io/AQP/
-
-### ¿Podrías compartirnos información para usar R con Sensores Remotos?
-
-Algunos libros y cursos on-line:
-
-* [An Introduction to Spatial Data Analysis andVisualisation in R](https://www.spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf)
-
-* [Using Spatial Data With R](https://cengel.github.io/R-spatial/)
-
-* [Spatial Data Science with R](https://rspatial.org/)
-
-* [Recopilación de libros para el uso de GIS con R](http://www.geomapik.com/spatial-data-science/libros-gratis-r-para-gis-data-science/amp/)
