@@ -54,6 +54,17 @@ url_video: ""
 - **Localización**: Facultad de Ciencias Humanas, Santa Rosa, La Pampa, Argentina
 - **Slides**: https://yabellini.netlify.app/GEE_Inundaciones2018.pdf
 
+
+## 2017
+
+### AgroTICs. Llevando la informática al campo
+- **Fecha**: 17 de Mayo de 2018
+- **Evento**: Seminario profesional
+- **Localización**:  Colegio Universitario Liceo Informático II
+- **Slides**: https://yabellini.netlify.app/AgroTICS2017.pdf
+
+
+
 ## 2015
 
 ### Presentando GeoINTA
