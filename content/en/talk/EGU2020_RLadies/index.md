@@ -3,10 +3,10 @@ abstract: In May 2020, EGU General Assembly 2020 was held on-line. During the co
 all_day: false
 authors: []
 date: "2020-05-08T10:00:00Z"
-event: 
+event: EGU General Assembly 2020
 event_url: https://latin-r.com/
 featured: false
-links:
+links: https://www.egu2020.eu/
 - icon: twitter
   icon_pack: fab
   name: Follow
