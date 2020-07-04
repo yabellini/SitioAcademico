@@ -1,8 +1,8 @@
 ---
-abstract: In June 2020, MiR Community hosted a webinar to learn more about the process of becoming a certified Rstudio Instructor. I was part of the panel with [Shelmit Kariuki](https://twitter.com/Shel_Kariuki) and [Greg Wilson](https://twitter.com/gvwilson). 
+abstract: MiR Community hosted a webinar to learn more about the process of becoming a certified Rstudio Instructor. I was part of the panel with [Shelmit Kariuki](https://twitter.com/Shel_Kariuki) and [Greg Wilson](https://twitter.com/gvwilson). 
 all_day: false
 authors: []
-date: "2020-05-08T10:00:00Z"
+date: "2020-06-12T10:00:00Z"
 event: MiR Community webinar
 event_url: 
 featured: false
@@ -13,9 +13,9 @@ links:
   url: https://twitter.com/yabellini 
 location: on-line
 math: true
-publishDate: "2020-05-08T10:00:00Z"
+publishDate: "2020-06-12T10:00:00Z"
 slides:  
-summary: In June 2020, MiR Community hosted a webinar to learn more about the process of becoming a certified Rstudio Instructor. I was part of the panel with [Shelmit Kariuki](https://twitter.com/Shel_Kariuki) and [Greg Wilson](https://twitter.com/gvwilson).  
+summary: MiR Community hosted a webinar to learn more about the process of becoming a certified Rstudio Instructor. I was part of the panel with [Shelmit Kariuki](https://twitter.com/Shel_Kariuki) and [Greg Wilson](https://twitter.com/gvwilson).  
 tags: []
 title: RStudio Instructor Certification Panel
 url_code: 
