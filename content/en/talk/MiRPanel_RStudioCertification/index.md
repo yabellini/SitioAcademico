@@ -24,9 +24,9 @@ url_slides:
 url_video: https://www.youtube.com/watch?v=582tMkPvloU&feature=youtu.be
 ---
 
-# Q & A for the Panel
+## Q & A for the Panel
 
-## 1) Why you decided to go through the certification process?
+### 1) Why you decided to go through the certification process?
 
 I have been teaching programming for twenty five years, but I have never had *any formal training* as a teacher until I became RStudio certified.
 
@@ -34,7 +34,7 @@ I wanted to become certified to back my work up as a teacher. I wanted to be abl
 
 Once I became certified, I was able to be in touch with other certified teachers. That means I am now part of a support network and I have access to the most advanced resources and updates. R is not just a language, it is a community for me.  
 
-## 2) what did you do to prepare?
+### 2) what did you do to prepare?
 
 I was lucky to go through this process with a group of R-Ladies from Argentina, Bolivia and Chile.
 
@@ -44,7 +44,7 @@ Once it was time for the certification teaching exam, we prepared the required m
 
 Because no lesson survives the first meeting with a student, this practice process helped us make sure Greg wasn´t our first student during the teaching exam. It worked! We all passed!
 
-## 3) how has getting the certification been helpful to you professionally?
+### 3) how has getting the certification been helpful to you professionally?
 
 I have been able to apply the pedagogical tools immediately in my teaching and in my work as a researcher. I use all I learned to teach R as well as other topics such as How to use and interpret Weather RADAR Data.
 
