@@ -4,9 +4,9 @@ all_day: false
 authors: []
 date: "2020-05-08T10:00:00Z"
 event: EGU General Assembly 2020
-event_url: https://latin-r.com/
+event_url: https://www.egu2020.eu/
 featured: false
-links: https://www.egu2020.eu/
+links: 
 - icon: twitter
   icon_pack: fab
   name: Follow
