@@ -25,6 +25,7 @@ url_video: ""
 ---
 
 ## 2020
+
 ### Comunidades de Práctica en América Latina: R y Colegas
 - **Fecha**: 06 de Julio de 2020
 - **Evento**: [useR!2020](https://user2020.r-project.org/program/contributed/)
@@ -33,6 +34,15 @@ url_video: ""
 - **Video**: https://youtu.be/gtRntU2J3Cg
 - **Script en Español**: https://drive.google.com/file/d/1WeEs23nj58RRgEibaeNAtwKED2LaAxm2/view?usp=sharing
 - **Resumen**: Video presentando 16 iniciativas de comunidades relacionadas a R en latinoamérica, escritas por 35 autores de diversos países de LatAm. 
+
+
+### Comunidades de Práctica en América Latina: R y Colegas
+- **Fecha**: 12 de Junio de 2020
+- **Evento**: MiR Community webinar
+- **Localización**: on-line
+- **Video**: https://www.youtube.com/watch?v=582tMkPvloU&feature=youtu.be
+- **Resumen**: MiR Community organizó un seminario web para compartir información sobre el proceso de convertirse en un Instructor certificado de Rstudio. Fui parte del panel junto a [Shelmit Kariuki](https://twitter.com/Shel_Kariuki) y [Greg Wilson](https://twitter.com/gvwilson).
+
 
 
 ## 2019
