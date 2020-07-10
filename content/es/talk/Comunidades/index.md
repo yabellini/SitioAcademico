@@ -24,6 +24,17 @@ url_slides: ""
 url_video: ""
 ---
 
+## 2020
+### Comunidades de Práctica en América Latina: R y Colegas
+- **Fecha**: 06 de Julio de 2020
+- **Evento**: [useR!2020](https://user2020.r-project.org/program/contributed/)
+- **Localización**: on-line
+- **Slides**: https://yabellini.netlify.app/useR2020_Communities_of_Practice_in_Latin_America_ R_and_Friends.pdf
+- **Video**: https://youtu.be/gtRntU2J3Cg
+- **Script en Español**: https://drive.google.com/file/d/1WeEs23nj58RRgEibaeNAtwKED2LaAxm2/view?usp=sharing
+- **Resumen**: Video presentando 16 iniciativas de comunidades relacionadas a R en latinoamérica, escritas por 35 autores de diversos países de LatAm. 
+
+
 ## 2019
 
 ### La comunidad R-Ladies
