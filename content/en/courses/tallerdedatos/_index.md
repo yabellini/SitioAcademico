@@ -20,10 +20,3 @@ This course in Spanish, conducted with [Juan Caldera](https://inta.gob.ar/person
 
 
 You can access the course material here: https://github.com/yabellini/TallerManejoDeDatos/blob/master/README.md
-
-## Taller de Manejo de Datos con Herramientas Libres. 
-
-Este curso en español, realizado con [Juan Caldera] (https://inta.gob.ar/personas/caldera.juan) presenta un conjunto de herramientas gratuitas y/o abiertas para realizar tareas relacionadas con el trabajo con datos. Tiene diez clases en las que se revisan los diferentes pasos del proceso de gestión de datos y se observa qué herramientas gratuitas y/o abiertas existen para poder realizarlo.
-
-
-Puede acceder al material del curso aquí: https://github.com/yabellini/TallerManejoDeDatos/blob/master/README.md
