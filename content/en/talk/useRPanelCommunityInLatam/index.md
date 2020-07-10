@@ -1,10 +1,10 @@
 ---
 abstract:  
 all_day: false
-authors: []
+authors: [admin]
 date: "2020-07-06T10:00:00Z"
 event: useR! 2020
-event_url: 
+event_url: https://user2020.r-project.org/program/contributed/
 featured: false
 links: 
 - icon: twitter
@@ -17,9 +17,9 @@ publishDate: "2020-07-06T10:00:00Z"
 slides:  
 summary:   
 tags: []
-title: Communities of Practice in Latin America: R and Friends
+title: Communities of Practice in Latin America. R and Friends
 url_code: 
-url_pdf: 
+url_pdf: https://yabellini.netlify.app/useR2020_Communities_of_Practice_in_Latin_America_ R_and_Friends.pdf
 url_slides: 
 url_video: https://youtu.be/gtRntU2J3Cg
 ---
