@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: Google Earth Engine from scratch (Google Earth Engine desde cero)
-summary: This workshop in Spanish introduces Google Earth Engine for working with raster and vectorial data. Este taller en español introduce google Earth Engine para trabajar con datos vectoriales y raster.
+linktitle: Google Earth Engine from scratch
+summary: This workshop in Spanish introduces Google Earth Engine for working with raster and vectorial data. 
 weight: 1
 
 # Page metadata.
@@ -48,8 +48,6 @@ Introduce attendees to Google Earth Engine for .
 5. Raster data management
 
 
-
-  
 ### Pre workshop:
 
 We need you to register in the tool to be able to use it during the course, for this you must enter this link:
@@ -58,38 +56,8 @@ https://signup.earthengine.google.com/
 
 ### Material:
 
-*In this link you have access to the material: https://github.com/rladies/meetup-presentations_santarosa/tree/master/TallerRMarkdown*
+*In this link you have access to the material: *
 
 ### License
 
 This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
-
-## Google Earth Engine desde cero
-
-Este curso en Español, fue organizado por [R-Ladies Santa Rosa](https://twitter.com/RLadiesSR) junto con la [Estación Experimental Agropecuaria Anguil](https://twitter.com/intaanguil) del Instituto Nacional de Tecnología Agropecuaria y fue impartido en PampaSeg 2019.
-
-### Objetivo: 
-Introducir a los asistentes en RMarkdown para realizar informes.
-
-### Contenido:
-
-1. ¿Qué es RMarkdown (Rmd)?
-2. Partes de un Archivo .Rmd
-3. Chunks de código y como configurarlos
-4. Tipos de salida, templates, paquetes.
-5. Parametrización
-6. Automatización
-
-
-### Requisitos previos
-
-Necesitamos que te registres en la herramienta para poder utilizarla durante el curso, para ello debes entrar en este link:
-https://signup.earthengine.google.com/
-
-### Material:
-
-*En este enlace tiene acceso al material: https://github.com/rladies/meetup-presentations_santarosa/tree/master/TallerRMarkdown*
-
-### Licencia
-
-Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
