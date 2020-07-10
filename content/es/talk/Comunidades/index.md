@@ -2,7 +2,7 @@
 abstract: Comunidades de práctica es una serie de charlas que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con las comunidades de práctica, la brecha de género, la colaboración científica, la ciencia abierta, la reproducibilidad y la educación sobre tecnología.  En estas charlas comparto con los asistentes detalles de diferentes comunidades de práctica en Argetina, Latonoamérica y el mundo y los desarrollos que hacemos en estas comunidades relacionados a sus objetivos. 
 all_day: false
 authors: []
-date: "2020-06-30T09:00:00Z"
+date: "2020-07-06T09:00:00Z"
 event: el último evento donde presenté sobre este tema fue useR2020!
 event_url: 
 featured: false
