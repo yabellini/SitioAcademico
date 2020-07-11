@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini
-summary: "Rol: Editora"
+summary: "Rol: Editor"
 tags:
 - R
 title: Libro de Actas LatinR 2019
