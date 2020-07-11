@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini
-summary: "Rol: Traductora"
+summary: "Rol: Translator"
 tags:
 - DataScience
 - R
