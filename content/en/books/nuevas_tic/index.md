@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini
-summary: "Rol: Autora"  
+summary: "Rol: Author"  
 tags:
 - geotecnologías
 title: Potencialidades de las nuevas tecnologías en el agro pampeano.
