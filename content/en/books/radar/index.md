@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini
-summary: "Rol: Editora"
+summary: "Rol: Editor"
 tags:
 - Weather RADAR
 title: Radar Meteorológico de la EEA Anguil.
