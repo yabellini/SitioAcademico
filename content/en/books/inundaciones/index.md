@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/yabellini
-summary: "Rol: Autora"
+summary: "Rol: Author"
 tags:
 - geotecnologías
 title: Las inundaciones en el Noreste de La Pampa. Una mirada multidisciplinar.
