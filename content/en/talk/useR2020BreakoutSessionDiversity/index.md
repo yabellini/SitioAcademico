@@ -26,7 +26,9 @@ url_video: https://www.youtube.com/watch?v=gDO1OphmF5Q&t=18s
 
 ## Yanina Bellini Saibene´s Presentation Script for the panel "Supporting diversity in the R community (R forwards panel)"
 
-My name is Yanina and I live with my husband and my two beautiful children in [Santa Rosa, La Pampa](https://es.wikipedia.org/wiki/Santa_Rosa_(La_Pampa)), Argentina, in South America. [I am a scientist](https://inta.gob.ar/personas/bellini.yanina). I am the first generation in my family to complete highschool. I won two scholarships at my job, which allowed me to finish my undergrad degree in Information Systems and a masters degree in Data Mining.
+My name is Yanina and I live with my husband and my two beautiful children in [Santa Rosa, La Pampa](https://es.wikipedia.org/wiki/Santa_Rosa_(La_Pampa)), Argentina, in South America. [I am a scientist](https://inta.gob.ar/personas/bellini.yanina). 
+
+I am the first generation in my family to complete highschool. I won two scholarships at my job, which allowed me to finish my undergrad degree in Information Systems and a masters degree in Data Mining.
 
 I had to work from an early age. I started teaching programming when I was 15 and never stopped. I love teaching, because education is one of the few tools that people like I, in countries like mine, have to improve our lives. Especially because it is esential to narrow the structural inequalities in our society. This is why, during the pandemic, I co-founded [MetaDocencia](https://www.metadocencia.org/), an organization to expand good teaching practices to Spanish-speaking teachers for free. It is also one of the reasons I have to love communities of practice such as [R-Ladies](https://rladies.org/). 
 
@@ -48,4 +50,6 @@ Language, education access, and location are good examples that not all of us st
 
 For many of us, the R Community is a very important resource. Being involved at the international level allows us to transfer information and opportunities to our region faster. It also gives us the chance to network with peers and stakeholders. All of this helps us improve our local reality. **But since there are not enough people that represent minorities from the Global South in teams were decisions are made, it is very challenging to open up spaces of conversation where we can discuss complex situations to increase inclusion in a safe way. Currently, the risk of disagreeing feels really high.** That is why many people from minorities don't speak up or decide to stay aside and focus on local changes rather than speaking up to end bigger structural biases. **But, if we don't get involved, we will always be excluded from the international picture.**
 
-**In order to change this, minority groups must be part of the decision-making tables where the future of R is decided. We need a much better balance of power. Also, work division inside the community must be evenly distributed in transparent ways and more public recognition should be given to all those who work behind the scenes enabling R to progress.** In my opinion, this is how we are really going to embrace inclusion and diversity in the R community.
+**In order to change this, minority groups must be part of the decision-making tables where the future of R is decided. We need a much better balance of power. Also, work division inside the community must be evenly distributed in transparent ways and more public recognition should be given to all those who work behind the scenes enabling R to progress.** 
+
+In my opinion, this is how we are really going to embrace inclusion and diversity in the R community.
