@@ -5,6 +5,6 @@ image:
   focal_point: Smart
 summary: Women in STEAM. ¿Who is Yanina Bellini Saibene? by Las de Sistemas
 tags:
-- Interview
+- YT Interview
 title: Interview
 ---
