@@ -32,11 +32,16 @@
   name = "Cursos"
   url = "courses/"
   weight = 50
+  
+  [[main]]
+  name = "Entrevistas"
+  url = "#interviews"
+  weight = 60
 
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
