@@ -1,6 +1,6 @@
 ---
-title: Mapa conceptual
-linktitle: Mapa conceptual
+title: Concept Map
+linktitle: Concept Map
 toc: true
 type: docs
 date: "2020-01-05T00:00:00+01:00"
@@ -15,7 +15,7 @@ weight: 1
 ---
 
 
-## What are we gonna see?
+## What are we gonna to see?
 
 This concept map presents the content of this workshop:
 
