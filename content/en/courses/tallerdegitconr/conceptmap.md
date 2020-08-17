@@ -15,7 +15,7 @@ weight: 1
 ---
 
 
-## What are we gonna to see?
+## What are we going to cover in this workshop?
 
 This concept map presents the content of this workshop:
 
