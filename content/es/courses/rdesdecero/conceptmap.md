@@ -38,16 +38,17 @@ B --> J[Teledetección y mapeo];
 
 {{< diagram >}}
 graph LR;
-A[R Languaje] -->|we use it through| B[RStudio IDE];
-B -->|has| C[console];
-B -->|has| D[enviroment/history];
-B -->|has| E[scripts];
-B -->|has| F[panels];
-F --> G[files];
-F --> H[plots];
-F --> I[packages];
-F --> J[help];
-F --> K[viewer];
+A[Lenguaje R] -->|lo usamos a través de| B[RStudio IDE];
+B -->|tiene| C[consola];
+B -->|tiene| D[entorno/historia];
+B -->|tiene| E[scripts];
+B -->|tiene| F[paneles];
+F --> G[archivos];
+F --> H[gráficos];
+F --> I[paquetes];
+F --> J[ayuda];
+F --> K[visor];
+F --> L[tutorial]
 
 {{< /diagram >}}
 
