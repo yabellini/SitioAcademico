@@ -84,25 +84,25 @@ E -->|something went wrong| H[code not executed];
 
 
 ## Mapa conceptual - lección 5
-### How to get help
+### Cómo obtener ayuda
 
 {{< diagram >}}
 graph LR;
-A[Help] -->|how to ask| B[efficiently];
-A -->|use R documentation in| C[RStudio help panel];
-A -->|search in| D[Google];
-A -->|consult| E[Cheat Sheet];
-A -->|consult| F[CRAN Task Views];
-A -->|search/ask| G[R-Studio Community];
-A -->|search/ask| H[StackOverflow];
-A -->|search/ask| I[Twitter];
-A -->|ask/join| J[R Community];
-B -->|using| K[sessionInfo];
-B -->|using| L[dput];
+A[Ayuda] -->|como preguntar| B[de manera eficiente];
+A -->|usar la documentación en| C[el panel de ayuda de RStudio];
+A -->|buscar en| D[Google];
+A -->|consultar| E[Cheat Sheet];
+A -->|consultar| F[CRAN Task Views];
+A -->|buscar/preguntar| G[Comunidad R-Studio];
+A -->|buscar/preguntar| H[StackOverflow];
+A -->|buscar/preguntar| I[Twitter];
+A -->|preguntar/unirte| J[Comunidad R];
+B -->|usar| K[sessionInfo];
+B -->|usar| L[dput];
 {{< /diagram >}}
 
 ## Mapa conceptual - lección 6
-### R Community: R-Ladies
+### Comunidad R: R-Ladies
 
 {{< diagram >}}
 graph LR;
