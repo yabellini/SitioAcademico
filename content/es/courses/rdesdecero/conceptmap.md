@@ -1,13 +1,13 @@
 ---
-title: Concept Map - Class 1
-linktitle: Concept Map
+title: Mapa Conceptual - Clase 1
+linktitle: Mapa Conceptual
 toc: true
 type: docs
 date: "2020-01-05T00:00:00+01:00"
 draft: false
 menu:
   rdesdecero:
-    name: Concept Map - Class 1
+    name: Mapa Conceptual - Clase 1
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -15,25 +15,25 @@ weight: 1
 ---
 
 
-## Concept Map - Lesson 1
-### R Languaje, examples of use. 
-#### with the work of all latin american data scientists women.
+## Mapa conceptual - lección 1
+### Ejemplos de uso del lenguaje R 
+#### con el trabajo de todas científicas de datos de latinoamérica. 
 
 {{< diagram >}}
 graph LR;
-A[R Languaje] -->|Has| B[Multiple uses];
-B -->|Not only| C[Statistics];
-B --> D[Text analysis];
-B --> E[Audio analysis];
-B --> F[Reporting, Dash boards, presentations];
-B --> G[Web apps];
-B --> H[Internet of Thing];
-B --> I[Modeling];
-B --> J[Remote Sensing, mapping];
+A[Lenguaje R] -->|tiene| B[multiple usos];
+B -->|No solo| C[estadística];
+B --> D[Análisis de texto];
+B --> E[Análisis de audio];
+B --> F[Informes, tableros de control, presentaciones];
+B --> G[Aplicaciones web];
+B --> H[Internet de las cosas];
+B --> I[Modelado];
+B --> J[Teledetección y mapeo];
 
 {{< /diagram >}}
 
-## Concept Map - Lesson 2
+## Mapa conceptual - lección 2
 ### RStudio IDE
 
 {{< diagram >}}
@@ -51,7 +51,7 @@ F --> K[viewer];
 
 {{< /diagram >}}
 
-## Concept Map - Lesson 3
+## Mapa conceptual - lección 3
 ### R base, packages, function, parameters, variables
 
 {{< diagram >}}
@@ -67,7 +67,7 @@ F -->|one is| G[variables] ;
 {{< /diagram >}}
 
 
-## Concept Map - Lesson 4
+## Mapa conceptual - lección 4
 ### Mensajes, errors, warnings
 
 {{< diagram >}}
@@ -83,7 +83,7 @@ E -->|something went wrong| H[code not executed];
 {{< /diagram >}}
 
 
-## Concept Map - Lesson 5
+## Mapa conceptual - lección 5
 ### How to get help
 
 {{< diagram >}}
@@ -101,7 +101,7 @@ B -->|using| K[sessionInfo];
 B -->|using| L[dput];
 {{< /diagram >}}
 
-## Concept Map - Lesson 6
+## Mapa conceptual - lección 6
 ### R Community: R-Ladies
 
 {{< diagram >}}
