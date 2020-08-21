@@ -69,17 +69,17 @@ F -->|una son| G[las variables] ;
 
 
 ## Mapa conceptual - lección 4
-### Mensajes, errors, warnings
+### Mensajes, erroress y warnings (advertencias)
 
 {{< diagram >}}
 graph LR;
-A[Console] -->|executed| B[R code];
-B -->|can give| C[mensages];
-B -->|can give| D[warnings];
-B -->|can give| E[errors];
-C -->|all ok| F[informative/code executed];
-D -->|something happened| G[informative/code executed];
-E -->|something went wrong| H[code not executed];
+A[Consola] -->|ejecuta| B[código de R];
+B -->|puede devolver| C[un mensaje];
+B -->|puede devolver| D[una advertencia (warnings)];
+B -->|puede devolver| E[un error];
+C -->|está todo bien| F[informativo/código ejecutado];
+D -->|algo pasó| G[informativo/código ejecutado];
+E -->|algo salió mal| H[código no ejecutado];
 
 {{< /diagram >}}
 
