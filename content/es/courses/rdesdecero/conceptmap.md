@@ -57,13 +57,13 @@ F --> L[tutorial]
 
 {{< diagram >}}
 graph LR;
-A[R Languaje] -->|formed by| B[R base];
-A -->|formed by| C[Packages];
-C -->|has| D[Functions];
-B -->|has| D;
-D -->|can have| E[parameters];
-A -->|work with| F[data estructures];
-F -->|one is| G[variables] ;
+A[Lenguaje R] -->|formado por| B[R base];
+A -->|formado por| C[Paquetes];
+C -->|tiene| D[funciones];
+B -->|tiene| D;
+D -->|puede tener| E[argumentos];
+A -->|trabaja con| F[estructura de datos];
+F -->|una son| G[las variables] ;
 
 {{< /diagram >}}
 
