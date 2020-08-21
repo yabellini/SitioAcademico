@@ -17,7 +17,7 @@ type: docs # Do not modify.
 # - weight: Position of link in menu.
 menu:
   rdesdecero:
-    name: Overview
+    name: Información general
     weight: 1
 ---
 
@@ -74,10 +74,3 @@ Introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la v
 
 *En este enlace tiene acceso al material: https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md*
 
-> Actualización: En noviembre de 2019 tomé un [curso sobre como enseñar tecnología](https://drive.google.com/drive/folders/13ohFt3D0EJ5PDbMaWTxnHH-hwA7G0IvY) como parte del [RStudio’s instructor training class](https://education.rstudio.com/trainers/). En esas clases aprendí [conceptos muy interesantes](http://teachtogether.tech/) y de implementación relativamente sencilla para mejorar mis cursos, desde la [preparación de las clases](http://teachtogether.tech/#s:process), la [forma de darlas](http://teachtogether.tech/#s:process) y como [evaluarlas](http://teachtogether.tech/#s:exercises). 
-
-> El concepto que mas me quedó dando vueltas en mi cabeza fue: _"¿Por qué no creamos las lecciones de forma que puedan ser reusables, que otros puedan aprovecharlas, que otros puedan contribuir?... si podemos hacerlo con el software abierto ¿por qué no con las lecciones?... estoy seguro que  en este momento hay mucha gente generando una lección para el mismo tema, inviertiendo un montón de tiempo que podríamos utilizar para enseñar"_
-
-> No se que les parece a ustedes, pero para mi tiene mucho sentido, de hecho, hacía ya un tiempo que había empezado a ver material realizado por [R-Ladies](https://github.com/rladies) y [The Carpentries](https://carpentries.org/) como ejemplos para diseñar mis clases y materiales.
-
-> A partir de estos conceptos nuevos, estoy agregando información a mis cursos de [Learner Personas](http://teachtogether.tech/#s:process-personas) y [Concept Maps](http://teachtogether.tech/#s:memory-concept-maps), con el objetivo de hacer mas sencillo determinar para que público está pensando el curso y que temas intenta abordar.  Esta información debería ayudar en la decisión de usar los materiales, tanto sea para tomar el curso, como para usarlos con el objetivo de generar los propios.
