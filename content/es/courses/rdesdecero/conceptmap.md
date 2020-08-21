@@ -72,7 +72,9 @@ F -->|una son| G[las variables] ;
 ### Mensajes, erroress y warnings (advertencias)
 
 {{< diagram >}}
+
 graph LR;
+
 A[Consola] -->|ejecuta| B[código de R];
 B -->|puede devolver| C[un mensaje];
 B -->|puede devolver| D[una advertencia (warnings)];
@@ -88,7 +90,9 @@ E -->|algo salió mal| H[código no ejecutado];
 ### Cómo obtener ayuda
 
 {{< diagram >}}
+
 graph LR;
+
 A[Ayuda] -->|como preguntar| B[de manera eficiente];
 A -->|usar la documentación en| C[el panel de ayuda de RStudio];
 A -->|buscar en| D[Google];
@@ -100,22 +104,26 @@ A -->|buscar/preguntar| I[Twitter];
 A -->|preguntar/unirte| J[Comunidad R];
 B -->|usar| K[sessionInfo];
 B -->|usar| L[dput];
+
 {{< /diagram >}}
 
 ## Mapa conceptual - lección 6
 ### Comunidad R: R-Ladies
 
 {{< diagram >}}
+
 graph LR;
+
 A[Comunidad R] -->|tiene| B[Usuarios de Grupos de R];
 C[R-Ladies] -->|es un tipo de| B;
 C -->|tiene| D[Capítulos];
 D -->|uno de ellos es| E[R-Ladies Santa Rosa];
 A -->|está creciendo mucho| F[en América Latina] ;
 F -->|organizamos| G[LatinR];
-F -->|traducimos| H[R4DS]
-F -->|traducimos| J[Guías rápidas de RStudio]
+F -->|traducimos| H[R4DS];
+F -->|traducimos| J[Guías rápidas de RStudio];
 F -->|llevamos adelante| I[DatosDeMiercoles];
 F -->|llevamos adelante| K[Paquetes Datos/Dados];
+
 {{< /diagram >}}
 

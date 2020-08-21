@@ -35,26 +35,32 @@ D -->|del mismo largo| G[data.frame];
 ### Estructuras de Datos
 
 {{< diagram >}}
+
 graph LR;
+
 A[tibble] -->|un tipo de| B[data.frame];
 A -->|tiene| C[columnas];
 A -->|tiene| D[filas];
 C -->|debe tener el mismo| E[tipo de dato];
 E -->|cuantitativo| F[doble(double), entero(integer)];
 E -->|cualitativo| G[lógico(logical), caracter(character)];
+
 {{< /diagram >}}
 
 ## Mapa Conceptual - Lección 3
 ### Como ver la estructura de los datos
 
 {{< diagram >}}
+
 graph LR;
-A[función] -->|muestra| B[la estructura de los datos]
+
+A[función] -->|muestra| B[la estructura de los datos];
 A --> E[type name of data];
-A -->|show| B
+A -->|show| B;
 B --> C[view()];
-A -->|show| B
+A -->|show| B;
 B -->D[glimpse()];
-A -->|show| B
+A -->|show| B;
 B -->E[kable()];
+
 {{< /diagram >}}
