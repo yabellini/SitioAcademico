@@ -5,7 +5,7 @@ summary: Este curso en español presenta el lenguaje de programación R y los co
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Información general
 date: "2018-09-09T00:00:00Z"
 lastmod: "2019-05-02T00:00:00Z"
 draft: false # Is this a draft? true/false

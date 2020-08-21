@@ -38,4 +38,4 @@ Los [Mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-conce
 
 {{< figure src="leccion4.png" title="Mapa Conceptual de la lección 4" >}}
 
-> Si querés obtener más información sobre los Mapas Conceptuales  y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
+> Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/

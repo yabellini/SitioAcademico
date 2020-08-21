@@ -26,4 +26,5 @@ Utiliza proyectos en RStudio para ordenar su trabajo. Comparte sus avances y res
 Compartir de esta manera le ha traído varios dolores de cabeza Sabe que Git puede ayudarla con estos problemas pero no le queda claro como. Tiene usuario en GitHub pero nunca usó.
 Quiere entender como funciona y como usarlo con R y RStudio para poder incorporarlo a sus proyectos.
 
+> Si querés obtener más información sobre las Personas Tipo y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 

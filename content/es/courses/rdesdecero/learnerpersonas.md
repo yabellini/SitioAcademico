@@ -23,3 +23,4 @@ Las [Personas Tipo](https://teachtogether.tech/es/index.html#s:process-personas)
 _Felicitas está dando sus primeros pasos como investigadora en el sector agrícola. Debe hacer informes que incluyan estadísticas como parte de sus actividades en INTA. Usa Excel e InfoStat (un programa de estadísticas argentino basado en menús) para registrar sus datos y realizar sus cálculos; y luego usa Word para escribir sus informes copiando y pegando desde los otros softwares.
 Ella escuhó sobre las herramientas que tiene R y está interesada en aprender a usarlas. Aunque en el único curso que hizo sobre R, le dio la impresión que el software no era amigable, ya que estaba aprendiendo R y modelos mixtos en el mismo curso._
 
+> Si querés obtener más información sobre las Personas Tipo y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/

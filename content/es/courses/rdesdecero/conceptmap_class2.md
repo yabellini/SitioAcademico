@@ -63,3 +63,6 @@ A -->|muestra| B;
 B -->E[kable];
 
 {{< /diagram >}}
+
+
+> Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
