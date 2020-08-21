@@ -27,7 +27,7 @@ B[estructura de datos] -->|un solo dato| C[variable];
 B -->|multiples datos| D[vector]; 
 B -->|vector multidimensional| E[matríz];
 C -->|del mismo tipo| F[vector atómico];
-D -->|del mismo largo| G[data.frame];
+D -->|varios del mismo largo| G[data.frame];
 
 {{< /diagram >}}
 
@@ -42,8 +42,8 @@ A[tibble] -->|un tipo de| B[data.frame];
 A -->|tiene| C[columnas];
 A -->|tiene| D[filas];
 C -->|debe tener el mismo| E[tipo de dato];
-E -->|cuantitativo| F[doble(double), entero(integer)];
-E -->|cualitativo| G[lógico(logical), caracter(character)];
+E -->|cuantitativo| F[doble/double, entero/integer];
+E -->|cualitativo| G[lógico/logical, caracter/character];
 
 {{< /diagram >}}
 
@@ -55,12 +55,11 @@ E -->|cualitativo| G[lógico(logical), caracter(character)];
 graph LR;
 
 A[función] -->|muestra| B[la estructura de los datos];
-A --> E[type name of data];
-A -->|show| B;
-B --> C[view()];
-A -->|show| B;
-B -->D[glimpse()];
-A -->|show| B;
-B -->E[kable()];
+A -->|muestra| B;
+B --> C[view];
+A -->|muestra| B;
+B -->D[glimpse];
+A -->|muestra| B;
+B -->E[kable];
 
 {{< /diagram >}}

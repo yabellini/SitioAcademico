@@ -48,12 +48,12 @@ F --> H[gráficos];
 F --> I[paquetes];
 F --> J[ayuda];
 F --> K[visor];
-F --> L[tutorial]
+F --> L[tutorial];
 
 {{< /diagram >}}
 
 ## Mapa conceptual - lección 3
-### R base, packages, function, parameters, variables
+### R base, pquetes, funciones, argumentos, variables
 
 {{< diagram >}}
 graph LR;
@@ -63,13 +63,13 @@ C -->|tiene| D[funciones];
 B -->|tiene| D;
 D -->|puede tener| E[argumentos];
 A -->|trabaja con| F[estructura de datos];
-F -->|una son| G[las variables] ;
+F -->|una son| G[las variables];
 
 {{< /diagram >}}
 
 
 ## Mapa conceptual - lección 4
-### Mensajes, erroress y warnings (advertencias)
+### Mensajes, errores y warnings (advertencias)
 
 {{< diagram >}}
 
@@ -77,10 +77,10 @@ graph LR;
 
 A[Consola] -->|ejecuta| B[código de R];
 B -->|puede devolver| C[un mensaje];
-B -->|puede devolver| D[una advertencia (warnings)];
+B -->|puede devolver| D[una advertencia-warnings];
 B -->|puede devolver| E[un error];
-C -->|está todo bien| F[informativo/código ejecutado];
-D -->|algo pasó| G[informativo/código ejecutado];
+C -->|está todo bien| F[informativo. Código ejecutado];
+D -->|algo pasó| G[informativo. Código ejecutado];
 E -->|algo salió mal| H[código no ejecutado];
 
 {{< /diagram >}}
