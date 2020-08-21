@@ -23,11 +23,11 @@ weight: 1
 
 graph LR;
 
-B[data estructures] -->|a single data| C[variables]; 
-B -->|multiple data| D[vector]; 
-B -->|multidimentional vector| E[matrix];
-C -->|same type| F[atomic vector];
-D -->|same length| G[data.frame];
+B[estructura de datos] -->|un solo dato| C[variable]; 
+B -->|multiples datos| D[vector]; 
+B -->|vector multidimensional| E[matríz];
+C -->|del mismo tipo| F[vector atómico];
+D -->|del mismo largo| G[data.frame];
 
 {{< /diagram >}}
 
@@ -36,12 +36,12 @@ D -->|same length| G[data.frame];
 
 {{< diagram >}}
 graph LR;
-A[tibble] -->|a type of| B[data.frame];
-A -->|has| C[columns];
-A -->|has| D[rows];
-C -->|must be the same| E[type of data];
-E -->|cuantitative| F[double, integer];
-E -->|cualitative| G[logical, character];
+A[tibble] -->|un tipo de| B[data.frame];
+A -->|tiene| C[columnas];
+A -->|tiene| D[filas];
+C -->|debe tener el mismo| E[tipo de dato];
+E -->|cuantitativo| F[doble(double), entero(integer)];
+E -->|cualitativo| G[lógico(logical), caracter(character)];
 {{< /diagram >}}
 
 ## Mapa Conceptual - Lección 3
@@ -49,8 +49,12 @@ E -->|cualitative| G[logical, character];
 
 {{< diagram >}}
 graph LR;
-A[function] -->|show data structure| B[type name of data];
-A -->|show data structure| C[view()];
-A -->|show data structure| D[glimpse()];
-A -->|show data structure| D[kable()];
+A[función] -->|muestra| B[la estructura de los datos]
+A --> E[type name of data];
+A -->|show| B
+B --> C[view()];
+A -->|show| B
+B -->D[glimpse()];
+A -->|show| B
+B -->E[kable()];
 {{< /diagram >}}
