@@ -1,5 +1,5 @@
 ---
-title: Learner Personas
+title: Personas tipo
 linktitle: Learner Personas
 toc: true
 type: docs
@@ -7,7 +7,7 @@ date: "2020-01-05T00:00:00+01:00"
 draft: false
 menu:
   tallerdegitconr:
-    name: Learner Personas
+    name: Personas tipo
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -15,9 +15,9 @@ weight: 1
 ---
 
 
-## Learner Personas: ¿Quién sos vos?
+## Personas tipo: ¿Quién sos vos?
 
-Las [Learner Personas](http://teachtogether.tech/#s:process-personas) describen el público para el que fue pensado el curso.  Esta información debería ayudar en la decisión de usar los materiales, tanto sea para tomar el curso, como para usarlos con el objetivo de generar los propios.
+Las [Learner Personas](https://teachtogether.tech/es/index.html#s:process-personas) describen el público para el que fue pensado el curso.  Esta información debería ayudar en la decisión de usar los materiales, tanto sea para tomar el curso, como para usarlos con el objetivo de generar los propios.
 
 Cada lección debe ser pensada, organizada y generada para una audiencia en particular, esta es la persona en la que pensamos cuando preparamos este taller:
 

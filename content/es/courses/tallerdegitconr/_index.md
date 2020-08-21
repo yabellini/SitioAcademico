@@ -5,7 +5,7 @@ summary: Taller para el meetup realizado en conjunto por los capítulos de R-Lad
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Información general
 date: "2020-05-22T00:00:00Z"
 lastmod: "2020-05-22T00:00:00Z"
 draft: false # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs # Do not modify.
 # - weight: Position of link in menu.
 menu:
   tallerdegitconr:
-    name: Overview
+    name: Información general
     weight: 1
 ---
 
