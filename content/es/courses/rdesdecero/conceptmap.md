@@ -107,12 +107,15 @@ B -->|usar| L[dput];
 
 {{< diagram >}}
 graph LR;
-A[R Community] -->|has| B[R User Groups];
-C[R-Ladies] -->|are a type of| B;
-C -->|has| D[Chapters];
-D -->|one of them| E[R-Ladies Santa Rosa];
-A -->|grow in| F[LatAm] ;
-F -->|organize| G[LatinR];
-F -->|translate| H[R4DS]
-F -->|carry on| I[DatosDeMiercoles];
+A[Comunidad R] -->|tiene| B[Usuarios de Grupos de R];
+C[R-Ladies] -->|es un tipo de| B;
+C -->|tiene| D[Capítulos];
+D -->|uno de ellos es| E[R-Ladies Santa Rosa];
+A -->|está creciendo mucho| F[en América Latina] ;
+F -->|organizamos| G[LatinR];
+F -->|traducimos| H[R4DS]
+F -->|traducimos| J[Guías rápidas de RStudio]
+F -->|llevamos adelante| I[DatosDeMiercoles];
+F -->|llevamos adelante| K[Paquetes Datos/Dados];
 {{< /diagram >}}
+
