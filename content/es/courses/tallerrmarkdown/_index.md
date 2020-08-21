@@ -5,7 +5,7 @@ summary: Este taller en español introduce rmarkdown para la generación de info
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Información general
 date: "2019-12-15T00:00:00Z"
 lastmod: "2019-12-15T00:00:00Z"
 draft: false # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs # Do not modify.
 # - weight: Position of link in menu.
 menu:
   tallerrmarkdown:
-    name: Overview
+    name: Información general
     weight: 1
 ---
 

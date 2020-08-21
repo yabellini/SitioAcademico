@@ -1,6 +1,6 @@
 ---
 title: Personas tipo
-linktitle: Learner Personas
+linktitle: Personas tipo
 toc: true
 type: docs
 date: "2020-01-05T00:00:00+01:00"
