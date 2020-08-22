@@ -54,53 +54,61 @@ var listDeStrings = ['BLUE', 'GREEN', 'RED', 'NIR', 'SWIR1','SWIR2'];
 print('Lista de strings:', listDeStrings);
 ```
 
-#### Objetos
-En JavaScript los objetos son diccionarios de pares clave: valor. Para crear un objeto (o diccionario) se utilizan las llaves { }. Este diccionario podrá contener valores diferentes tipos de datos.
+**Objetos: ** En JavaScript los objetos son diccionarios de pares _clave: valor_. Para crear un objeto (o diccionario) se utilizan las llaves { }. Este diccionario podrá contener valores diferentes tipos de datos.
 
+```{js}
 // Usamos las llaves {} para hacer un diccionario de pares clave:valor
 var object = {
   unString: 'Taller de GEE', 
   unNumero: 99,
   unaLista: ['BLUE', 'NIR', 'GREEN']
 };
+
 print('Diccionario:', object);
+
 // Para acceder al valor de un diccionario se utiliza la clave y los corchetes [ ].
 print('Imprime la clave unString:', object['unString']);
+
 // También se puede acceder utilizando la notación con punto.
 print('Print unaLista:', object.unaLista);
+```
 
+### Funciones
 
-Funciones
 Las funciones son otra forma de mejorar la legibilidad y reutilización del código mediante el agrupamiento de conjuntos de operaciones.
-●	Defina una función con la palabra clave function.
-●	Los nombres de las funciones comienzan con una letra y tienen un par de paréntesis al final.
-●	Las funciones a menudo toman parámetros que le dicen a la función qué hacer. Estos parámetros van dentro de los paréntesis ().
-●	El conjunto de declaraciones que componen la función van dentro de las llaves { }. La palabra clave return indica cuál es la salida de la función.
+
+●	Para definir una función se utiliza la palabra clave _function_.
+●	Los nombres de las funciones _comienzan con una letra y tienen un par de paréntesis al final_.
+●	Las funciones a menudo toman _parámetros_ o _argumentos_ que le proveen información a la función qué se utiliza junto con las intrucciones que definen que tiene que hacer. Estos parámetros van dentro de los paréntesis ().
+●	El conjunto de declaraciones que componen la función van dentro de las llaves { }. La palabra clave _return_ indica cuál es la salida de la función.
+
 Una de las formas de declarar una función
 
-
+```{js}
 // La función debe declararse antes de ser invocada
 //declaración:
-var  probando_Funcion= function(argumento) {
-  var mensaje=' Esto es una ' + argumento;
+
+var probando_Funcion = function(argumento) {
+  var mensaje = ' Esto es una ' + argumento;
   return mensaje;
 };
+
 // aqui la llamamos o invocamos a la funcion con el parametro.
+
 print('Llamamos a la funcion', probando_Funcion('prueba'));
+```
 
+### Objetos de GEE
 
-Objetos de GEE
-Primitivas y objetos JavaScript en  contenedores de Earth Engine para enviarlos al servidor y procesarlos en Google
+Son primitivas y objetos JavaScript en contenedores de Earth Engine para enviarlos al servidor y procesarlos en Google.  En el siguiente código de ejemplo _"Donde esta el string?"_ es una cadena de texto en el _cliente_ mientras que _"Esta en el server"_ es una cadena que fue enviada a los servidores de GEE para ser evaluada y luego devuelta.
 
+```{js}
 // Defino una cadena en el servidor.
 var serverString = ee.String('Está en el server.');
 print('¿Donde está el String?', serverString);
+```
 
-// Donde esta el string es una cadena de texto en el CLIENTE
-// Mientras que "Esta en el server" es una cadena que fue enviada
-// a los servidores de GEE para ser evaluada y luego devuelta.
-
-Los métodos ee.String() y ee.Number() son constructores. Un constructor tiene sus argumentos (y posiblemente otros parámetros) ponemos estos en un contenedor, y retornamos el contenedor y su contenido como un objeto EE que manipulamos en nuestro código. Un constructor comienza siempre con ee y retorna un objeto Earth Engine.
+Los métodos _ee.String()_ y _ee.Number()_ son constructores. Un constructor tiene sus argumentos (y posiblemente otros parámetros) ponemos estos en un contenedor, y retornamos el contenedor y su contenido como un objeto EE que manipulamos en nuestro código. Un constructor comienza siempre con ee y retorna un objeto Earth Engine.
 Para operar con un objeto de EE vamos a utilizar los métodos que son provistos según la clase de objeto con la que trabajamos. Para el ejemplo anterior vamos a convertir en mayúsculas la cadena contenida en serverString.
 var metodo= serverString.toUpperCase();
 print (metodo);
