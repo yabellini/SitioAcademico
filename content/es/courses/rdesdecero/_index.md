@@ -74,3 +74,6 @@ Introducir a los asistentes en el lenguaje R y sus posibilidades, ampliando la v
 
 *En este enlace tiene acceso al material: https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md*
 
+### Licencia:
+
+Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).

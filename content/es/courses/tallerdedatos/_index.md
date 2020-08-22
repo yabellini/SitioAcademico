@@ -20,3 +20,8 @@ Este curso en español, realizado con [Juan Caldera] (https://inta.gob.ar/person
 
 
 Puede acceder al material del curso aquí: https://github.com/yabellini/TallerManejoDeDatos/blob/master/README.md
+
+### Licencia:
+
+Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+

@@ -47,3 +47,7 @@ Introducir a los asistentes en el control de versiones utilizando Git desde RStu
 {{< youtube 33pZ9dtc-Co >}}
 
 
+### Licencia:
+
+Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+

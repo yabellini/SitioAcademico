@@ -23,3 +23,8 @@ Puede acceder al material del curso aquí: https://flor14.github.io/r_inta/
 Realizamos una versión más corta de este mismo curso en el marco del 11 Congreso Argentino de AgroInformática que se realizó en Salta durante Septiembre de 2019.
 
 Puede acceder al material de esta segunda edición del curso aquí: https://flor14.github.io/r_cai_2019/
+
+
+### Licencia:
+
+Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
