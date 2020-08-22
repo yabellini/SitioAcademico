@@ -14,6 +14,11 @@ menu:
 weight: 1
 ---
 
+## Mapas conceptuales
+
+Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) representan un modelo mental del tema que se quiere enseñar. Ayudan a las/os docentes a describir lo que quieren enseñar, brindan a otras/os instructores una descripción general rápida de una lección y permiten a las/os estudiantes verificar que han construido el modelo mental correcto.
+
+> Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 
 ## Mapa conceptual - lección 1
 ### Ejemplos de uso del lenguaje R 
@@ -126,5 +131,3 @@ F -->|llevamos adelante| I[DatosDeMiercoles];
 F -->|llevamos adelante| K[Paquetes Datos/Dados];
 
 {{< /diagram >}}
-
-> Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/

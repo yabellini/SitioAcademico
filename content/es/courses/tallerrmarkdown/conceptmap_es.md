@@ -14,7 +14,9 @@ menu:
 weight: 1
 ---
 
-Los [Mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps), describen los temas que abordará el curso y como están conectados entre sí.  También organizan las lecciones en conjuntos de conceptos a enseñar por lección, teniendo en cuenta la carga cognitiva y la regla de 7+- 2 conceptos por lección.  Esta información debería ayudar en la decisión de usar los materiales, tanto sea para tomar el curso, como para usarlos con el objetivo de generar los propios.
+Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) representan un modelo mental del tema que se quiere enseñar. Ayudan a las/os docentes a describir lo que quieren enseñar, brindan a otras/os instructores una descripción general rápida de una lección y permiten a las/os estudiantes verificar que han construido el modelo mental correcto.
+
+> Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 
 ## Concept Map - Taller completo
 
