@@ -5,7 +5,7 @@ summary: Este taller en español introduce Google Earth Engine para trabajar con
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Información general
 date: "2019-09-15T00:00:00Z"
 lastmod: "2019-09-15T00:00:00Z"
 draft: false # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs # Do not modify.
 # - weight: Position of link in menu.
 menu:
   gee_cai2019:
-    name: Overview
+    name: Información general
     weight: 1
 ---
 
@@ -25,6 +25,8 @@ menu:
 ## Google Earth Engine desde cero
 
 Este curso en español fue organizado por el [Instituto Nacional de Tecnología Agrícola INTA](https://twitter.com/intaargentina) por investigadores de las Estaciones Experimentales Agropecuarias de [Anguil](https://twitter.com/intaanguil) y [Salta]( https://twitter.com/intasalta) y se realizó en el Congreso de Agroinformática 2019.
+
+**Autores:  MSc. Hernán Elena (INTA Salta) y MSc. Yanina Bellini Saibene (INTA Anguil)**
 
 ### Objetivo: 
 Presentar a las y los asistentes la plataforma Google Earth Engine y como utilizarla con información espacial raster y vectorial.
@@ -68,9 +70,6 @@ Necesitamos que te registres en la herramienta para poder utilizarla durante el 
 
 https://signup.earthengine.google.com/
 
-### Material:
-
-*En este enlace tiene acceso al material: *
 
 ### Licencia
 
