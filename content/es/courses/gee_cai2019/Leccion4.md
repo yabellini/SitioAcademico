@@ -1,6 +1,6 @@
 ---
 title: Lección 4 -Features y Colecciones de Features
-linktitle: Lección 3 
+linktitle: Lección 4 
 toc: true
 type: docs
 date: "2020-01-05T00:00:00+01:00"
