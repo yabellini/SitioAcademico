@@ -1,5 +1,5 @@
 ---
-title: Lección 3 -Features y Colecciones de Features
+title: Lección 4 -Features y Colecciones de Features
 linktitle: Lección 3 
 toc: true
 type: docs
@@ -7,7 +7,7 @@ date: "2020-01-05T00:00:00+01:00"
 draft: false
 menu:
   gee_cai2019:
-    name: Lección 3 - Features y Colecciones de Features
+    name: Lección 4 - Features y Colecciones de Features
     weight: 5
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -115,7 +115,7 @@ Es posible instanciar un FC utilizando tablas que tenemos almacenadas en un Asse
 La carga del archivo (upload) no es instantáneo y puede demorar algunos minutos dependiendo de la congestión de la plataforma y el tamaño que tenga el archivo. Podemos verificar el progreso desde la solapa _Task_:
 Podemos incluir este FC de dos formas. La primera es desde la solapa Assest. Importar el FC. Automáticamente se incorpora al código en la sección import.:
 
-{{< figure src="Import.png" title="Secuancia de pantallas para cargar un shape file a GEE" >}}
+{{< figure src="Import.png" title="Secuencia de pantallas para cargar un shape file a GEE" >}}
 
 La segunda forma es:
 
