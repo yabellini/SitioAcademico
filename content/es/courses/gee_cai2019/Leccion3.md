@@ -79,5 +79,16 @@ Las opciones para dibujar están ubicadas en el sector superior izquierdo del ma
 
 Las geometrías creadas se incorporarán al codigo en la sección _import_ (en el panel de Script).  Una vez que se activa la herramienta esta se habilita para poder dibujar. Se asigna un color al azar y cada figura que se trace formará parte de una geometría múltiple.  En la configuración predeterminada de la instanciación de un objeto _ee.Geometry.XXXXX_ este se crea como *EPSG:4326*, es decir, será una geometría geodésica.
 
+### Operaciones con Geometrías
+
+Earth Engine admite una amplia variedad de operaciones en objetos [Geometry](https://developers.google.com/earth-engine/apidocs/ee-geometry). Estos incluyen operaciones en geometrías individuales tales como calcular un buffer, centroide, bounding box, perímetro, envolvente convexa, etc.
+
+Utilizando la definición del polígono de la anterior vamos a realizar algunas operaciones de geometrías:
+
+```{js}
+print('Área: ', poligono.area());
+// Todos los valores de mediciones de distancias vienen expresados en metros.
+// asi que para km2 : poligono.area().divide(1000 * 1000));
+```
 
 
