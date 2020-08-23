@@ -1,5 +1,5 @@
 ---
-title: Lección 5 - Operaciones Básicas sobre FeaturesCollection
+title: Lección 5 - Operaciones sobre FeaturesCollection
 linktitle: Lección 5 
 toc: true
 type: docs
@@ -7,7 +7,7 @@ date: "2020-01-05T00:00:00+01:00"
 draft: false
 menu:
   gee_cai2019:
-    name: Lección 5 - Operaciones Básicas sobre FeaturesCollection
+    name: Lección 5 - Operaciones sobre FeaturesCollection
     weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -75,10 +75,11 @@ var filtradasXarea = filtrados.filter(ee.Filter.lt('Superf_ha', 90));
 print('Parcelas menores de 90 ha:', filtradasXarea.size());
 
 Map.addLayer(filtradasXarea, {color: 'f54260'}, 'Menores de 90 ha')
-```{js}
+```
 
 
 ### Iteraciones sobre colecciones de features
+
 Una forma simple de modificar cada uno de los Features de un FC es utilizando la instrucción _ee.FeatureCollection.map_. Esta instrucción permite recorrer cada Feature y generar un FC nuevo.
 
 Veamos un ejemplo simple, supongamos que queremos incorporar al FC de las parcelas de desmontes  un atributo que sea perímetro. Esto requiere que para cada elemento (de tipo Feature) de la colección hagamos el cálculo, eso sería:
@@ -94,12 +95,13 @@ var get_perimetro = function(elemento){
 var desmonte_con_perimetro = mis_Desmontes.map(get_perimetro);
 
 print(desmonte_con_perimetro);
-```{js}
+```
 
 Otro ejemplo de map, supongamos que tenemos un archivo separado por comas (CSV) con coordenadas expresadas en grados decimales, como el de la figura siguiente, y queremos generar la geometría para cada Feature del FC.
 
 
 {{< figure src="EjemploCSV.png" title="Archivo CSV de ejemplo con coordenadas decimales" >}}
+
 
 ```{js}
 var key = 'ft:1698ps8Hs4UwU6iXmzRzRvYhuMIMmzxSEigAvY7Lf';

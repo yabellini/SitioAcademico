@@ -54,7 +54,7 @@ var listDeStrings = ['BLUE', 'GREEN', 'RED', 'NIR', 'SWIR1','SWIR2'];
 print('Lista de strings:', listDeStrings);
 ```
 
-**Objetos: ** En JavaScript los objetos son diccionarios de pares _clave: valor_. Para crear un objeto (o diccionario) se utilizan las llaves { }. Este diccionario podrá contener valores diferentes tipos de datos.
+**Objetos:** En JavaScript los objetos son diccionarios de pares _clave: valor_. Para crear un objeto (o diccionario) se utilizan las llaves { }. Este diccionario podrá contener valores diferentes tipos de datos.
 
 ```{js}
 // Usamos las llaves {} para hacer un diccionario de pares clave:valor
