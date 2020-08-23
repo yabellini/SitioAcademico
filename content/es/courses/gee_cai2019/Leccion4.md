@@ -126,3 +126,10 @@ print(cuenca);
 Map.addLayer(cuenca, {color:'fec44f'}, 'Cuenca');
 ```
 
+### Creación de FeaturesCollection desde el Mapa
+
+Al igual que mostramos anteriormente como dibujar geometrías, es posible definir FeaturesCollection dibujando desde el mapa.
+
+{{< figure src="GenerarGeometriaMapa.png" >}}
+
+{{< figure src="GenerarGeometriaMapa2.png" >}}
