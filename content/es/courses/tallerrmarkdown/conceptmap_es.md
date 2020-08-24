@@ -21,23 +21,23 @@ Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-conce
 ## Concept Map - Taller completo
 
 
-{{< figure src="ConcepMapFull_es.png" title="Mapa Conceptual Completo" >}}
+{{< figure src="ConcepMapFull_es.png" >}}
 
 ## Concept Map - Lección 1
 
 
-{{< figure src="leccion1.png" title="Mapa Conceptual de la lección 1" >}}
+{{< figure src="leccion1.png" >}}
 
 ## Concept Map - Lección 2
 
-{{< figure src="leccion2.png" title="Mapa Conceptual de la lección 2" >}}
+{{< figure src="leccion2.png" >}}
 
 ## Concept Map - Lección 3
 
-{{< figure src="leccion3.png" title="Mapa Conceptual de la lección 3" >}}
+{{< figure src="leccion3.png" >}}
 
 ## Concept Map - Lección 4
 
-{{< figure src="leccion4.png" title="Mapa Conceptual de la lección 4" >}}
+{{< figure src="leccion4.png" >}}
 
 > Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar acá este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
