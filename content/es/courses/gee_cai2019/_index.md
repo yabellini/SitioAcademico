@@ -37,29 +37,29 @@ Presentar a las y los asistentes la plataforma Google Earth Engine y como utiliz
 
 2. Plataforma GEE
 
-2.1. Editor de Código
+  * 2.1. Editor de Código
 
 3. Programando
 
-3.1. Conceptos Básicos
+  * 3.1. Conceptos Básicos
 
-3.2. Tipos de datos básicos de Java Scripts
+  * 3.2. Tipos de datos básicos de Java Scripts
 
-3.3. Funciones
+  * 3.3. Funciones
 
-3.4. Objetos de GEE
+  * 3.4. Objetos de GEE
 
 4. Gestión de datos Vectoriales
 
-4.1. Creación de Geometrías
+  * 4.1. Creación de Geometrías
 
-4.2. Operaciones con Geometrías
+  * 4.2. Operaciones con Geometrías
 
-4.3. Features 
+  * 4.3. Features 
 
-4.4. Features Collections
+  * 4.4. Features Collections
 
-4.5. Operaciones con FeaturesCollection
+  * 4.5. Operaciones con FeaturesCollection
 
 5. Gestión de datos Raster
 
