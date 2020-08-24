@@ -21,11 +21,11 @@ Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-conce
 ## Mapa Conceptual - Lección 1
 
 
-{{< figure src="leccion1.png"  >}}
+{{< figure src="GEE_Lesson_1.png"  >}}
 
 ## Mapa Conceptual - Lección 2
 
-{{< figure src="leccion2.png"  >}}
+{{< figure src="GEE_Lesson_2.png"  >}}
 
 ## Mapa Conceptual - Lección 3
 
