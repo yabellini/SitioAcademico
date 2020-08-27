@@ -17,7 +17,7 @@ weight: 6
 
 ## Operaciones básicas 
 
-A continuación se presetna el código necesario para realizar operaciones básicas sobre FC como listar atributos desde el primer feature, contar instancias, calcular area promedio...
+A continuación se presenta el código necesario para realizar operaciones básicas sobre FC como listar atributos desde el primer feature, contar instancias, calcular area promedio...
 
 ```{js}
 var mis_Desmontes = ee.FeatureCollection('users/hernanelena/Desmonte_anta')
