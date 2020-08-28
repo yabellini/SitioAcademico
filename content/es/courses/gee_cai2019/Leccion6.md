@@ -199,7 +199,7 @@ Para extraer información de nuestra imagen vamos a utilizar geometría de punto
 *	Clase 2: Cultivos existentes en 2010  y 2016
 *	Clase 3: Bosque en 2010 y 2016
 
-Copiar el [siguiente código]() y pegarlo en el _Scripts_
+Copiar el [siguiente código](https://github.com/yabellini/GEE_course_code/blob/master/extraccion_info_CAI.js) y pegarlo en el _Scripts_
 
 Esto generará _FeatureCollections_ con información de los puntos que son cargadas en el código al inicio.
 Al pegar esta sección de código y apoyar el mouse sobre este, preguntará si queremos convertir a registros importados, a lo que le indicamos _Convert_. De esta manera ubica el código de los puntos agregados en una sección diferente (al inicio, en _imports_):
