@@ -18,27 +18,27 @@ Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-conce
 
 > Si querés obtener más información sobre los Mapas Conceptuales y cómo enseñar podés consultar este libro https://teachtogether.tech/es/index.html y esta web https://www.metadocencia.org/
 
-## Mapa Conceptual - Lección 1
+## Mapa Conceptual - Lección 1 - Google Earth Engine
 
 
 {{< figure src="GEE_Lesson_1.png"  >}}
 
-## Mapa Conceptual - Lección 2
+## Mapa Conceptual - Lección 2 - Java Script para GEE
 
 {{< figure src="GEE_Lesson_2.png"  >}}
 
-## Mapa Conceptual - Lección 3
+## Mapa Conceptual - Lección 3 - Datos Vectoriales
 
 {{< figure src="GEE_Lesson_3.png"  >}}
 
-## Mapa Conceptual - Lección 4
+## Mapa Conceptual - Lección 4 -Features y Colecciones de Features
 
 {{< figure src="GEE_Lesson_4.png"  >}}
 
-## Mapa Conceptual - Lección 5
+## Mapa Conceptual - Lección 5 - Operaciones sobre FeaturesCollection
 
 {{< figure src="GEE_Lesson_5.png"  >}}
 
-## Mapa Conceptual - Lección 6
+## Mapa Conceptual - Lección 6 - Manejo de datos rasters
 
-## Mapa Conceptual - Lección 7
+## Mapa Conceptual - Lección 7 - Clasificaciones Supervisadas
