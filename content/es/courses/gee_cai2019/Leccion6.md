@@ -40,7 +40,7 @@ var landsat8 = ee.ImageCollection('LANDSAT/LC08/C01/T1_RT_TOA');
 ```
 ### Realizando operaciones en las imágenes
 
-Cada elemento de la colección instanciada en la variable Landsat8 es a su vez un objeto de tipo _ee.Image_.
+Cada elemento de la colección instanciada en la variable Landsat8 es a su vez un objeto de tipo [ee.Image](https://developers.google.com/earth-engine/api_docs).
 A partir de aquí comenzaremos a utilizar filtros que permitan limitar la cantidad de imágenes dentro del área y el periodo que deseamos analizar. Para ello haremos uso de las funciones _.filterDate_ y _.filterBounds_. Donde _.filterDate_ indica la temporalidad de las imágenes y _.filterBounds_ indica los límites geográficos de las imágenes que deseamos analizar.
 
 Para tener en cuenta:
