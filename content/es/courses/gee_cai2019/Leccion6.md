@@ -243,4 +243,4 @@ Export.table.toDrive({
 );
 ```
 
-
+{{< figure src="EjemploTablaExportada.png" >}}
