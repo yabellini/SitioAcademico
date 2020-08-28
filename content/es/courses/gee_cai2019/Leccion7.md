@@ -24,13 +24,16 @@ Para extraer información de nuestra imagen vamos a utilizar geometría de punto
 *	Clase 2: Cultivos existentes en 2010  y 2016
 *	Clase 3: Bosque en 2010 y 2016
 
-Copiar el siguiente código y pegarlo en el Scripts
+Copiar el [siguiente código]() y pegarlo en el _Scripts_
 
-Esto generará FeatureCollections con información de los puntos que son cargadas en el código al inicio.
-Al pegar esta sección de código y apoyar el mouse sobre este, preguntará si queremos convertir a registros importados, a lo que le indicamos “Convert”. De esta manera ubica el código de los puntos agregados en una sección diferente (al inicio, en imports):
+Esto generará _FeatureCollections_ con información de los puntos que son cargadas en el código al inicio.
+Al pegar esta sección de código y apoyar el mouse sobre este, preguntará si queremos convertir a registros importados, a lo que le indicamos _Convert_. De esta manera ubica el código de los puntos agregados en una sección diferente (al inicio, en _imports_):
+
+{{< figure src="convertImport.png" >}}
  
-
 Para extraer la información primero debemos unificar todas las clases en un solo FC
+
+```{js}
 // Extracción de información
 // Unir muestras por clase en un único FeatureCollection    
 // podemos hacerlo de varias formas Ej:
@@ -41,8 +44,11 @@ print ('Puntos',puntos)
 // Otra forma de unificar
 //var puntos2 = Cambios1016.merge(Cultivos).merge(BosqueEstable);
 //print ('puntos2',puntos2);
+```
 
 Luego utilizaremos sampleregion para extraer información. Hay que indicar la imágen a utilizar (“stack_completo”), los atributos del vector (FeatureCollection) que se desean mantener (atributo “clase”) y la escala (resolución de la imagen):
+
+```{js}
 // extraer información:
 var training = stack_completo.sampleRegions({
   collection: puntos,
@@ -60,3 +66,4 @@ Export.table.toDrive({
 	'fileNamePrefix': 'muestrasCAI',
 	'fileFormat': 'CSV'}
 );
+```
