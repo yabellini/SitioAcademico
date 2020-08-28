@@ -68,7 +68,7 @@ F -->|one is| G[variables] ;
 
 
 ## Concept Map - Lesson 4
-### Mensajes, errors, warnings
+### Menssages, errors, warnings
 
 {{< diagram >}}
 graph LR;
