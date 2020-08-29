@@ -46,4 +46,6 @@ Introduce to version control using Git from RStudio.
 
 {{< youtube 33pZ9dtc-Co >}}
 
+### License
 
+This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).

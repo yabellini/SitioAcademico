@@ -20,7 +20,7 @@ Este curso en español, realizado con [Juan Caldera] (https://inta.gob.ar/person
 
 Este curso fue dictado en cuatro ocasiones (2017-2018) como curso extracurricular en la Universidad Nacional de La Pampa. Los contenidos se van actualizando a medida que se realiza una nueva edición de la capacitación.
 
-#### Autores y docentes: Yanina Bellini Saibene, Juan Marcelo Caldera Ediciones
+#### Autores y docentes: Yanina Bellini Saibene, Juan Marcelo Caldera 
 
 Puede acceder al material del curso aquí: https://github.com/yabellini/TallerManejoDeDatos/blob/master/README.md
 

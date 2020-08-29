@@ -74,3 +74,7 @@ Introduce attendees in the R language and its possibilities, expanding the visio
 ### Material:
 
 *In this link you have access to the material (Spanish): https://github.com/rladies/meetup-presentations_santarosa/blob/master/RdesdeCero/README.md*
+
+### License
+
+This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
