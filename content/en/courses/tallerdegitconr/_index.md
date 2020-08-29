@@ -42,7 +42,7 @@ Introduce to version control using Git from RStudio.
 
 *In this link you have access to the material: https://yabellini.netlify.app/es/post/githubconr/*
 
-*Video of the tutorial:*
+*Video (in Spanish):*
 
 {{< youtube 33pZ9dtc-Co >}}
 
