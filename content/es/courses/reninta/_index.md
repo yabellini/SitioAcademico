@@ -5,10 +5,10 @@ lastmod: "2019-08-06T00:00:00Z"
 linktitle: R para análsis científicos repoducibles. Elige tu propio camino.
 menu:
   reninta:
-    name: Overview
+    name: Información general
     weight: 1
 summary: Este curso en español introduce el lenguaje de programación R para realizar análisis científicos reproducibles. Tiene cuatro partes en las que se revisan los diferentes pasos del proceso de Data Science y se presentan qué herramientas proporciona R para poder realizarlo de forma reproducible.
-title: Overview
+title: Información general
 toc: false
 type: docs
 weight: 1
