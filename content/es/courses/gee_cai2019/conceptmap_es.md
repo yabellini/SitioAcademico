@@ -41,4 +41,8 @@ Los [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-conce
 
 ## Mapa Conceptual - Lección 6 - Manejo de datos rasters
 
+{{< figure src="GEE_Lesson_6.png"  >}}
+
 ## Mapa Conceptual - Lección 7 - Clasificaciones Supervisadas
+
+{{< figure src="GEE_Lesson_7.png"  >}}
