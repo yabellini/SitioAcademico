@@ -14,9 +14,9 @@ menu:
 weight: 8
 ---
 
-Las clasificaciones supervisadas se realizan cuando se tienen definidas las clases y se dispone  de información de casos correspondientes a esas clases (información de campo). Los distintos clasificadores se entrenan con la información de campo disponible a partir del comportamiento en las distintas bandas consideradas. **La evaluación del resultado de una clasificación requiere disponer de datos independientes a los utilizados para el entrenamiento.** 
+Las clasificaciones supervisadas se realizan cuando se tienen definidas las clases y se dispone  de información de casos correspondientes a esas clases (información de campo). Los distintos clasificadores se entrenan con la información de campo disponible a partir del comportamiento en las distintas bandas consideradas. **La evaluación del resultado de una clasificación requiere disponer de datos independientes a los utilizados para el entrenamiento.** Estos datos se suelen llamar de testing o validación.
 
-Separación del conjunto de datos para entrenamiento y validación. La plataforma permite generar atributos (llamado “random” en este caso) con números al azar mediante la función randomColumn y agregarlos al FeatureCollection que contiene el set de datos. Genera valores entre 0 y 1. Esta requiere indicar el FeatureCollection y un valor inicial para generar los números al azar (“seed”):
+Una de las primeras tareas a realizar para poder realizar la clasificación supervisada es separar el conjunto de datos para entrenamiento y validación. La plataforma permite generar atributos (llamado _random_ en este caso) con números al azar mediante la función _randomColumn_ y agregarlos al _FeatureCollection_ que contiene el set de datos. La función genera valores entre 0 y 1; requiere indicar el _FeatureCollection_ y un valor inicial (semilla) para generar los números al azar (_seed_):
 
 ```{js}
 // Separación de set de datos (polígonos) para entrenamiento y validación
@@ -28,7 +28,7 @@ puntos = puntos.randomColumn('random', seed);
 print ('Puntos random',puntos)
 ```
 
-Esto nos permitirá hacer un muestreo, seleccionando filas que contengan cierto rango de números generados al azar (Mayores o menores a cierto valor umbral). Para entrenar el algoritmo de clasificación se requiere extraer información de las imágenes para los puntos seleccionados, incluyendo en las salidas los atributos clase y “random”:
+Esto nos permitirá hacer un muestreo, seleccionando filas que contengan cierto rango de números generados al azar (mayores o menores a cierto valor umbral). Para entrenar el algoritmo de clasificación se requiere extraer información de las imágenes para los puntos seleccionados, incluyendo en las salidas los atributos clase y “random”:
 
 ```{js}
 // extracción de información incluyendo atributos clase y "random"
@@ -41,9 +41,9 @@ var set_datos = stack_completo.sampleRegions({
 print (' set datos ',set_datos);
 ```
 
-Posteriormente se subdivide el FeatureCollection con el set de datos en Entrenamiento (“training”) y Validación (“testing”). Se selecciona un umbral de separación de los valores al azar generados entre 0 y 1 (atributo “random”). En este caso, se seleccionan los valores mayores o iguales a 0.6 para entrenamiento y los menores a 0.6 para validación. Se pueden ver en consola los nuevos set de datos generados:
+Posteriormente se subdivide el _FeatureCollection_ con el set de datos en Entrenamiento (_training_) y Validación (_testing_). Se selecciona un umbral de separación de los valores al azar generados entre 0 y 1 (atributo _random_). En este caso, se seleccionan los valores mayores o iguales a 0.6 para entrenamiento y los menores a 0.6 para validación. Se pueden ver en consola los nuevos set de datos generados:
 
-```{js}
+```{js} 
 // Separación entre Entrenamiento y validación. Identificar umbral de separación
 var training = set_datos.filterMetadata('random', 'not_less_than', 0.6);
 var testing = set_datos.filterMetadata('random', 'less_than', 0.6);
@@ -55,7 +55,7 @@ print ("Set de datos validación", testing);
 
 ### Entrenamiento
 
-Aquí debemos seleccionar el algoritmo de clasificación, el set de datos de entrenamiento (“training”), el atributo de separación en clases (“clase”) y las bandas seleccionadas. En este caso usamos el algoritmo Random Forest:
+Aquí debemos seleccionar el algoritmo de clasificación, el set de datos de entrenamiento (_training_), el atributo de separación en clases (_clase_) y las bandas seleccionadas. En este caso usamos el algoritmo _Random Forest_:
 
 ```{js}
 // Entrenamiento
@@ -79,7 +79,9 @@ Export.image.toDrive({
   region: area_estudio
 });
 ```
-Generación de Matriz de Confusión y resultados. La herramienta permite calcular la matriz de confusión, y estimar exactitud general, de usuario y de productor e indice Kappa.
+### Generación de Matriz de Confusión y resultados. 
+
+La herramienta permite calcular la matriz de confusión, y estimar exactitud general, de usuario y de productor e índice Kappa.
 
 ```{js}
 // Generación de matriz de confusión y resultados
