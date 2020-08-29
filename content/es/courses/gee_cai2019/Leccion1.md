@@ -23,6 +23,8 @@ Google Earth Engine (GEE) es una plataforma informática que permite a sus usuar
 
 GEE combina un catálogo de imágenes de satélite y conjuntos de datos geoespaciales de varios petabytes con capacidades de análisis a escala planetaria utilizando algortimos de aprendizaje automático y lo pone a disposición de científicos, investigadores y desarrolladores para detectar cambios, trazar tendencias y cuantificar diferencias en la superficie de la Tierra.
 
+En [esta presentación](https://yabellini.netlify.app/es/courses/gee_cai2019/leccion1/Google_Earth_Engine_TallerCAI2019.pdf) hay mas detalles sobre su funcionamiento, la información disponible y que tipo de productos y análisis se pueden realizar.
+
 Hay varias maneras de interactuar con la plataforma:
 
 *	_Code Editor (editor de código)_ :es una Interfaz de Desarrollo (IDE) basada en la web (se utliza a través de un explorador de Internet como FireFox o Chrome) para escribir y ejecutar secuencias de comandos.
