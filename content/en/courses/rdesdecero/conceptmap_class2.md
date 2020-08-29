@@ -50,17 +50,9 @@ E -->|cualitative| G[logical, character];
 {{< diagram >}}
 graph LR;
 A[function] -->|show data structure| B[type name of data];
-A -->|show data structure| C[view()];
-A -->|show data structure| D[glimpse()];
-A -->|show data structure| D[kable()];
+A -->|show data structure| C[view];
+A -->|show data structure| D[glimpse];
+A -->|show data structure| D[kable];
 {{< /diagram >}}
 
-
-## Concept Map - Lesson 4
-### Mensajes, errors, warnings
-
-
-
-## Concept Map - Lesson 5
-### How to get help
 
