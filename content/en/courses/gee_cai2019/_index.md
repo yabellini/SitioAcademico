@@ -26,25 +26,34 @@ menu:
 
 This course in Spanish, was organized by the [National Institute of Agricultural TechnologyINTA](https://twitter.com/intaargentina) by researcher from the [Anguil](https://twitter.com/intaanguil) and [Salta](https://twitter.com/intasalta) Agricultural Experimental Station and was deliverd in Agroinformatics Congress 2019.
 
+**Authors:  MSc. Hernán Elena (INTA Salta) y MSc. Yanina Bellini Saibene (INTA Anguil)**
+
 ### Objective: 
 Introduce attendees to Google Earth Engine for .
 
 ### Contents:
 
 1. What is Google Earth Engine?
+
 2. GEE platform
-2.1. Code Editor
+
+  * Code Editor
+
 3. Coding
-3.1. Basic concepts
-3.2. Basic Java Scripts data types
-3.3. Functions
-3.4. Objetos de GEE
+
+  * Basic concepts
+  * Basic Java Scripts data types
+  * Functions
+  * Objetos de GEE
+
 4. Vector Data Management
-4.1. Geometry Creation
-4.2. Operations with Geometries
-4.3. Features 
-4.4. Features Collections
-4.5. Operations on FeaturesCollection
+
+  * Geometry Creation
+  * Operations with Geometries
+  * Features 
+  * Features Collections
+  * Operations on FeaturesCollection
+
 5. Raster data management
 
 
@@ -56,7 +65,7 @@ https://signup.earthengine.google.com/
 
 ### Material:
 
-*In this link you have access to the material: *
+*In this link you have access to the material (in Soanish): https://yabellini.netlify.app/es/courses/gee_cai2019/ *
 
 ### License
 
