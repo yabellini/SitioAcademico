@@ -29,7 +29,7 @@ This course in Spanish, was organized by the [National Institute of Agricultural
 **Authors:  MSc. Hernán Elena (INTA Salta) y MSc. Yanina Bellini Saibene (INTA Anguil)**
 
 ### Objective: 
-Introduce attendees to Google Earth Engine for .
+Introduce attendees to Google Earth Engine.
 
 ### Contents:
 
