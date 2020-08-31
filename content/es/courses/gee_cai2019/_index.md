@@ -70,6 +70,11 @@ Necesitamos que te registres en la herramienta para poder utilizarla durante el 
 
 https://signup.earthengine.google.com/
 
+### Cómo citar este trabajo
+![](https://zenodo.org/badge/DOI/10.5281/zenodo.4008748.svg)
+
+Yanina Bellini Saibene, & Hernan Elena. (2020, August). yabellini/GEE_course_code: Google Earth Engine desde cero (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4008748
+
 
 ### Licencia
 
