@@ -103,3 +103,43 @@ El esquema muestra el ciclo de vida de los archivos mediante Git. El primer cuad
 
 Entre el cuadro _“Sin versionar”_ y el cuadro _“Staged”_ hay una flecha que se llama _Add_. Entre el cuadro _“Sin modificar”_ y el cuadro _“Modificado”_ hay una flecha que se llama _“Editamos archivo”_. Entre el cuadro _“Modificado”_ y _“Staged”_ hay una flecha que se llama _“Commit”_. Por último entre el cuadro _“Staged”_ y el cuadro _“Sin modificar”_ hay una flecha que se llama _“Push”_.
 
+### Para tener en cuenta :)
+
+* Ejecutar pull antes de hacer un push.
+
+* Quedarnos tranquilxs que Git gestiona los conflictos.
+
+* Siempre se puede volver a una versión anterior, solucionar, romper y volver a solucionar :)
+
+### ¿Qué software necesitamos?
+
+Para poder realizar todos los comandos que vimos antes, tenemos que tener instalados los siguientes softwares:
+
+* Última versión de R: https://cloud.r-project.org/
+* Útima versión preview de RStudio: https://www.rstudio.com/products/rstudio/download/preview/
+
+#### Git
+
+* Git para Windows: https://gitforwindows.org/
+* Git para macOS: http://git-scm.com/downloads 
+* Git para Linux: 
+  - Ubuntu o Debian Linux:  sudo apt-get install git
+  - Fedora o RedHat Linux: sudo yum install git
+
+#### Clientes de Git:
+
+* GitKraken: https://www.gitkraken.com/
+
+* GitHub Desktop: https://desktop.github.com/ 
+
+* Github: https://github.com/ 
+
+Este es un listado de guías sobre Git para que puedan incursionar mas en detalle sobre los comandos de git y los diferentes estados de un archivo: 
+
+* https://book.git-scm.com/
+* https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud
+* http://marklodato.github.io/visual-git-guide/index-en.html
+
+
+
+
