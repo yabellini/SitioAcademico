@@ -17,6 +17,9 @@ weight: 5
 
 ## A usar Git desde RStudio
 
+El material presentado en este taller tiene como fuente el libro [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) de [Jennifer Bryan](https://github.com/jennybc/happy-git-with-r)
+
+
 ### Primera situación: Nuevo proyecto, GitHub primero
 
 #### Paso 1: Hacer un repositorio en GitHub
