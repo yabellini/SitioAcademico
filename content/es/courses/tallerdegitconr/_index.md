@@ -38,17 +38,9 @@ Introducir a los asistentes en el control de versiones utilizando Git desde RStu
 5. Como tener control de versiones en un proyecto de RStudio.
 6. Cómo aplico los comandos de git desde RStudio.
 
-### Material:
-
-*En este enlace tiene acceso al material: https://yabellini.netlify.app/es/post/githubconr/*
-
-*Video del tutorial:*
-
-{{< youtube 33pZ9dtc-Co >}}
 
 
 ### Licencia:
-
 Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 
 ### Citar como:
