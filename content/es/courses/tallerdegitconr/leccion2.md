@@ -157,11 +157,3 @@ Si haces clic en _commits_, debería ver un _commit_ con el mensaje "Commit from
 
 Y eso es todo...solamente se debe repetir este patrón. Siempre intenta tener los dos repositorios: local y remoto, sincronizados. Recuerda que es recomendable siempre hacer un _Pull_ antes de intentar hacer _Push_ con nuestros cambios.
 
-## ¿Cómo seguimos?
-
-Primero te dejamos [aqui acceso a la presentación del meetup](https://docs.google.com/presentation/d/1rDWruJpZPHVSCeypC_sgNYaArTzxvmFbRxum-lCuSmA/edit?usp=sharing) donde hay más datos de como utilizar Git desde la consula.  Estos son solos los primeros pasos y hay mucho mas para conocer sobre el funcionamiento del control de versiones.
-
-Recomendamos leer el libro [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html) de [Jennifer Bryan](https://github.com/jennybc/happy-git-with-r) en el que se basa gran parte de este tutorial.
-
-Y por supuesto prestar atención a los nuevos meetups de R-Ladies!
-
