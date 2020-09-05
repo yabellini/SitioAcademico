@@ -31,7 +31,7 @@ Opciones:
 
 * Creamos un repositorio local y luego lo publicamos en el servidor remoto
 * Creamos el repositorio en el servidor remoto y luego lo descargamos en nuestro directorio local.
-* Bajamos un repositorio existente desde el servidor remoto, mediante el comando :  `git clone <remote>`
+* Bajamos un repositorio existente desde el servidor remoto, mediante el comando:  `git clone <remote>`
 
 ### Comandos básicos: 
 
@@ -45,11 +45,10 @@ Agrega el archivo o directorio al Staging Area.
 **Opciones:**
 
 ``` 
-git add <file-path>
-git add -all
-git add -u
-git add .
-
+  git add <file-path>
+  git add -all
+  git add -u
+  git add .
 ```
 
 #### Commit
@@ -62,10 +61,9 @@ Agrega/guarda los cambios al repositorio local.
 **Opciones:** 
 
 ``` 
-git commit -m “Primer commit”
-git commit -am “Primer commit”
-git revert “hash_commit”
-
+  git commit -m “Primer commit”
+  git commit -am “Primer commit”
+  git revert “hash_commit”
 ```  
 #### Pull
 
@@ -77,7 +75,6 @@ Actualiza el repositorio local con el repositorio remoto.
 **Opciones:** 
 ```
   git pull <remote>
-
 ```
 
 #### Push
@@ -89,15 +86,14 @@ Envía los cambios desde el repositorio local al repositorio remoto.
 
 **Opciones:** 
 ```
-
-git push 
-git push -- force
+  git push 
+  git push -- force
 ```
 
 #### Ciclo de vida de los archivos mediante Git
 
 
-{{< figure src="/estadosarchivogit.png" >}}
+{{< figure src="estadosarchivogit.png" >}}
 
 El esquema muestra el ciclo de vida de los archivos mediante Git. El primer cuadro representa el estado _“Sin versionar”_, hay un segundo cuadro que simboliza el estado _“Sin modificar”_, un tercer cuadro que muestra el estado _“Modificado”_ y por último un cuadro que representa el estado _"Staged"_. Entre los estados/cuadros hay flechas que simbolizan el cambio de estado. 
 
@@ -105,7 +101,7 @@ Entre el cuadro _“Sin versionar”_ y el cuadro _“Staged”_ hay una flecha 
 
 ### Para tener en cuenta :)
 
-* Ejecutar pull antes de hacer un push.
+* Ejecutar _pull_ antes de hacer un _push_.
 
 * Quedarnos tranquilxs que Git gestiona los conflictos.
 
@@ -139,7 +135,3 @@ Este es un listado de guías sobre Git para que puedan incursionar mas en detall
 * https://book.git-scm.com/
 * https://www.atlassian.com/es/git/tutorials/learn-git-with-bitbucket-cloud
 * http://marklodato.github.io/visual-git-guide/index-en.html
-
-
-
-
