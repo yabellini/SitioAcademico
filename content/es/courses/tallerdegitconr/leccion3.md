@@ -21,7 +21,7 @@ Primero te dejamos acceso al video del tutorial donde repasamos este taller:
 
 {{< youtube 33pZ9dtc-Co >}}
 
-
+<br></br>
 
 
 [Aqui acceso a la presentación del meetup](https://docs.google.com/presentation/d/1rDWruJpZPHVSCeypC_sgNYaArTzxvmFbRxum-lCuSmA/edit?usp=sharing).

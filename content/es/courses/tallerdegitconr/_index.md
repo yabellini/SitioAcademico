@@ -46,4 +46,6 @@ Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike
 
 Yanina Bellini Saibene, & Marysol Gatti. (2020, September). yabellini/Intro_to_Git_with_Rstudio: Primeros pasos de Git con R y RStudio (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4012062
 
-### Repositorio: https://github.com/yabellini/Intro_to_Git_with_Rstudio
+### Repositorio: 
+
+https://github.com/yabellini/Intro_to_Git_with_Rstudio
