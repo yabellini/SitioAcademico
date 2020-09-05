@@ -74,10 +74,32 @@ git revert “hash_commit”
 **Descripción:** 
 Actualiza el repositorio local con el repositorio remoto.
 
- **Opciones:** 
+**Opciones:** 
 ```
   git pull <remote>
 
 ```
 
+#### Push
+
+**Sinopsis:** `git push`
+
+**Descripción:** 
+Envía los cambios desde el repositorio local al repositorio remoto.
+
+**Opciones:** 
+```
+
+git push 
+git push -- force
+```
+
+#### Ciclo de vida de los archivos mediante Git
+
+
+{{< figure src="/estadosarchivogit.png" >}}
+
+El esquema muestra el ciclo de vida de los archivos mediante Git. El primer cuadro representa el estado _“Sin versionar”_, hay un segundo cuadro que simboliza el estado _“Sin modificar”_, un tercer cuadro que muestra el estado _“Modificado”_ y por último un cuadro que representa el estado _"Staged"_. Entre los estados/cuadros hay flechas que simbolizan el cambio de estado. 
+
+Entre el cuadro _“Sin versionar”_ y el cuadro _“Staged”_ hay una flecha que se llama _Add_. Entre el cuadro _“Sin modificar”_ y el cuadro _“Modificado”_ hay una flecha que se llama _“Editamos archivo”_. Entre el cuadro _“Modificado”_ y _“Staged”_ hay una flecha que se llama _“Commit”_. Por último entre el cuadro _“Staged”_ y el cuadro _“Sin modificar”_ hay una flecha que se llama _“Push”_.
 
