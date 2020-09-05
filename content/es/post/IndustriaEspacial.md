@@ -14,7 +14,7 @@ tags:
   - Agro
 ---
 
-Durante el 5 y 6 de Septiembre pasado (2016) se llevó a cabo el [Congreso Argentino de AgroInformática](), en la ciudad de Buenos Aires. Allí se discutieron los aportes de las AgroTICs al desarrollo de una agroindustria que satisfaga las demandas de un mundo con mayor necesidad de alimentos que se produzcan cuidando la salud, el ambiente y los recursos naturales.
+Durante el 5 y 6 de Septiembre pasado (2016) se llevó a cabo el [Congreso Argentino de AgroInformática](https://inta.gob.ar/documentos/congreso-argentino-de-agroinformatica-cai-2016-resultados), en la ciudad de Buenos Aires. Allí se discutieron los aportes de las AgroTICs al desarrollo de una agroindustria que satisfaga las demandas de un mundo con mayor necesidad de alimentos que se produzcan cuidando la salud, el ambiente y los recursos naturales.
 
 El objetivo de producir más y mejor, con los mismos o menos recursos, se abordó desde dos ópticas: por un lado, el desarrollo y masificación de máquinas precisas y por el otro, el aumento en el uso y explotación de datos e información que ya se generan (o generarán en el futuro cercano) para mejorar la toma de decisiones en el manejo agropecuario.
 
@@ -39,7 +39,7 @@ Esta nueva forma de adquirir la información abre un mundo de posibilidades para
 
 {{< figure src="/img/satellogic.png" >}}
 
-## Para qué?
+## ¿Para qué?
 
 Para los productores y profesionales del sector, el seguimiento de sus explotaciones con ese nivel de detalle será posible de adquirir a un costo de 5 dólares la hectárea, costo que se reduce a medida que la cantidad de hectáreas aumenta.  El plus que ofrecen estos nanosatelites, además de la imagen satelital tradicional, es el procesamiento de las imágenes en los mismos satélites y la entrega de un producto terminado, listo para utilizarse o como insumo de  sistemas de soporte de decisión y plataformas de gestión. Cómo ejemplos de estos productos, se pueden mencionar: el cálculo de diversos índices vegetales, generación de mapas de estrés hídrico, de daño por granizo, de uso y cobertura del suelo a escalas de medio metro y disponibles cada 5 minutos.
 
@@ -48,4 +48,4 @@ Esta alta resolución espacial y temporal, minimiza los efectos de las nubes que
 En resumen, la tecnología espacial nacional presenta productos muy interesantes y con muchas potencialidades para el sector agropecuario, las nuevas formas de obtener, procesar, analizar y disponer la información trae nuevas oportunidades, que podrían permitirnos tomar mejores decisiones, haciendo más eficiente la actividad, tanto desde el punto de vista productivo como sustentable.  Su aprovechamiento, desarrollo y validación local y masificación son los desafíos que se nos presentan en el futuro cercano.
 
 
-> Publicado originalmente en [La Arena del Campo](http://www.laarena.com.ar/category/la_arena_del_campo) y [RuralNet ](https://ruralnet.com.ar/la-industria-espacial-al-servicio-agro/)
+> Publicado originalmente en [La Arena del Campo](http://www.laarena.com.ar/category/la_arena_del_campo), [RuralNet ](https://ruralnet.com.ar/la-industria-espacial-al-servicio-agro/) y [EEA INTA Anguil](https://inta.gob.ar/documentos/sobre-estrellas-y-semillas-la-industria-espacial-al-servicio-de-agro)
