@@ -40,7 +40,7 @@ user_groups:
 - Visitors
 ---
 
-Soy investigadora en INTA (Instituto Nacional de Tecnología Agrícola) y me dedico a aplicar la ciencia de datos al sector agropecuario. Trabajo en una [Estación Experimental Agropecuaria](https://inta.gob.ar/anguil), por lo que mis desarrollos y soluciones están relacionados con la realidad productiva de la provincia de La Pampa, donde vivo con mi esposo y mis dos hermosos hijos. 
+Soy investigadora en INTA (Instituto Nacional de Tecnología Agropecuaria) y me dedico a aplicar la ciencia de datos al sector agropecuario. Trabajo en una [Estación Experimental Agropecuaria](https://inta.gob.ar/anguil), por lo que mis desarrollos y soluciones están relacionados con la realidad productiva de la provincia de La Pampa, donde vivo con mi esposo y mis dos hermosos hijos. 
 
 Disfruto mucho enseñando, así que paso parte de mi tiempo impartiendo cursos y escribiendo material de enseñanza sobre mis temas de investigación. Soy cofundadora de [MetaDocencia](https://metadocencia.netlify.app/), una organización educativa abierta, gratuita, dirigida por voluntarios y sin fines de lucro. Desde 2019 soy [RStudio Certified Trainer](https://education.rstudio.com/trainers/) y desde 2020 Instructora Certificada de [Software Carpentries](https://carpentries.github.io). También traduzco material educativo al español, como el libro [Teaching Tech together](https://teachtogether.tech) y algunas [lecciones de The Carpentries](https://github.com/Carpentries-ES). Si te interesa alguna [capacitación personalizada](https://yabellini.netlify.com/courses/), contáctame.
 
