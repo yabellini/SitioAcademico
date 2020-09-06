@@ -46,6 +46,11 @@ Introduce to version control using Git from RStudio.
 
 {{< youtube 33pZ9dtc-Co >}}
 
-### License
+</br>
 
+### License
 This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+
+### Cite as
+
+Yanina Bellini Saibene, & Marysol Gatti. (2020, September). yabellini/Intro_to_Git_with_Rstudio: Primeros pasos de Git con R y RStudio (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4012062
