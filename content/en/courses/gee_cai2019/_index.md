@@ -68,5 +68,7 @@ https://signup.earthengine.google.com/
 *In this link you have access to the material (in Soanish): https://yabellini.netlify.app/es/courses/gee_cai2019/ *
 
 ### License
-
 This course is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
+
+### Cite as
+Yanina Bellini Saibene, & Hernan Elena. (2020, August). yabellini/GEE_course_code: Google Earth Engine desde cero (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4008748
