@@ -3,7 +3,7 @@ date: "2020-07-09"
 draft: false
 type: page
 linktitle: Comunidades de Práctica en América Latina. R y Colegas
-summary: _Esta sesión de useR!2020 y video fueron organizados por [Laura Acion](https://twitter.com/_lacion_), [Yanina Bellini Saibene](https://twitter.com/yabellini), [Paola Corrales](https://twitter.com/PaobCorrales) y [Paloma Rojas Saunero](https://twitter.com/palolili23). [Leonardo Collado Torres](https://twitter.com/fellgernon) coordinó el blog post. Este blog post fue originalmente publicado en el [blog del R Consortium](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020) el 7 de julio del 2020._
+summary: Esta sesión de useR!2020 y video fueron organizados por [Laura Acion](https://twitter.com/_lacion_), [Yanina Bellini Saibene](https://twitter.com/yabellini), [Paola Corrales](https://twitter.com/PaobCorrales) y [Paloma Rojas Saunero](https://twitter.com/palolili23). [Leonardo Collado Torres](https://twitter.com/fellgernon) coordinó el blog post. Este blog post fue originalmente publicado en el [blog del R Consortium](https://www.r-consortium.org/blog/2020/07/07/latin-american-communities-and-organizations-at-user2020) el 7 de julio del 2020.
 title: Comunidades de Práctica en América Latina. R y Colegas
 authors: 
     - admin
