@@ -2,8 +2,8 @@
 abstract: Sobre teras y semillas. La Ciencia de Datos al servicio del sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil. Doy detalles sobre los objetivos de cada trabajo, las heramientas que usamos, las profesiones e instituciones que formaron los equipos de trabajo y los resultados obtenidos. 
 all_day: false
 authors: []
-date: "2020-06-30T09:00:00Z"
-event: el último evento donde la presenté fue el Congreso MAIZAR 4.0  
+date: "2020-09-14T09:00:00Z"
+event: el último evento donde la presenté fue el Seminario de Matemática aplicada en FAMAF, UNC
 event_url: 
 featured: false
 links:
@@ -13,7 +13,7 @@ links:
   url: https://twitter.com/yabellini 
 location: 
 math: true
-publishDate: "2020-06-30T09:00:00Z"
+publishDate: "2020-09-14T09:00:00Z"
 slides: 
 summary: La Ciencia de Datos aplicada al sector agropecuario es una charla que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con la ciencia de datos y compartir con los asistentes como se aplican en el desarrollo de soluciones para el sector agropecuario dando ejemplos concretos de productos y soluciones digitales realizados con mi equipo en la Estación Experimental Agropecuaria Anguil. Doy detalles sobre los objetivos de cada trabajo, las heramientas que usamos, las profesiones e instituciones que formaron los equipos de trabajo y los resultados obtenidos. 
 tags: []
