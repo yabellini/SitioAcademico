@@ -26,12 +26,19 @@ url_video: ""
 
 ## 2020
 
+### Ciencia de Datos en el Agro
+- **Fecha**: 14 de Septiembre de 2020
+- **Evento**: Seminario de Matemática Aplicada - FAMAF, UNC
+- **Localización**: Virtual, Argentina
+- **Slides**: https://yabellini.netlify.app/Bellini_FAMAF_2020.pptx
+- **Video**: 
+
 ### Los datos lo cambian todo: Big Data, Sensores Remotos e Inteligencia Artificial
 - **Fecha**: 30 de junio de 2020
 - **Evento**: Congreso Maizar 4.0
 - **Localización**: Virtual, Argentina
 - **Slides**: https://yabellini.netlify.app/Plantilla_Maizar_4.0_Bellini.pdf
-- **Video**:
+- **Video**: https://youtu.be/F5M0zX2tORc
 
 ### Ciencia de Datos aplicada al desarrollo de AgTech
 - **Fecha**: 4 de Junio de 2020
