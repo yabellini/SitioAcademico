@@ -66,3 +66,5 @@ If our material has code in a programming language, then we must also select an 
 Done, now we have the DOI and the "cite as" that we can add to our repo and ask those who use our materials to use, to mention us.
 
 > Thanks to [Silvia Canelón](https://twitter.com/spcanelon) for review the English in this post.
+
+> Publish first in [MetaDocencia](https://www.metadocencia.org/en/post/compartirmaterialdoi/)

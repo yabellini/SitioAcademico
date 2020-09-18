@@ -66,7 +66,7 @@ Si nuestro material tiene código en algún lenguaje de programación, entonces 
 
 Listo, ya tenemos el DOI y la cita que podemos agregar a nuestro repo y pedirle a las personas que usen nuestros materiales que la utilicen para mencionarnos.
 
-> Publicado originalmente en [MetaDocencia](https://metadocencia.netlify.app/)
+> Publicado originalmente en [MetaDocencia](https://www.metadocencia.org/post/compartirmaterialdoi/)
 
 
 
