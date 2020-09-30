@@ -3,7 +3,7 @@ abstract: En el seminario El INTA y la Agricultura Digital charlamos sobre las d
 all_day: false
 authors: [admin]
 date: "2020-09-22T10:00:00Z"
-event: useR! 2020
+event: El INTA y la Agricultura Digital
 event_url: 
 featured: false
 links: 
