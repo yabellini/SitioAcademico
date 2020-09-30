@@ -1,10 +1,10 @@
 ---
-abstract:  
+abstract: En el seminario El INTA y la Agricultura Digital charlamos sobre las diferentes dimensiones de los datos y vemos ejemplos de un flujo de trabajo para agreagrle valor a esos datos.  
 all_day: false
 authors: [admin]
-date: "2020-07-17T10:00:00Z"
+date: "2020-09-22T10:00:00Z"
 event: useR! 2020
-event_url: https://user2020.r-project.org/program/agenda/
+event_url: 
 featured: false
 links: 
 - icon: twitter
@@ -13,15 +13,15 @@ links:
   url: https://twitter.com/yabellini 
 location: on-line
 math: true
-publishDate: "2020-07-17T10:00:00Z"
+publishDate: "2020-09-22T10:00:00Z"
 slides:  
-summary:   
+summary: En el seminario El INTA y la Agricultura Digital charlamos sobre las diferentes dimensiones de los datos y vemos ejemplos de un flujo de trabajo para agreagrle valor a esos datos.  
 tags: []
-title: Breakout session - Apoyo a la diversidad en la comunidad R (panel de R Forwards)
+title: Cosechando datos. El manejo de la información digital.
 url_code: 
 url_pdf: 
-url_slides: 
-url_video: https://www.youtube.com/watch?v=gDO1OphmF5Q&t=18s
+url_slides: https://docs.google.com/presentation/d/1pHgY155_lkU0DwpJtDkMRGu8xDo7os2GXEJh77zh2UU/edit?usp=sharing
+url_video: https://youtu.be/ZxAN_VnX4kw?t=5105
 ---
 
 ## Guión de presentación de Yanina Bellini Saibene para el panel de R Forwards "Apoyo a la diversidad en la comunidad R"
