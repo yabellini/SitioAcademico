@@ -2,8 +2,8 @@
 abstract: Comunidades de práctica es una serie de charlas que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con las comunidades de práctica, la brecha de género, la colaboración científica, la ciencia abierta, la reproducibilidad y la educación sobre tecnología.  En estas charlas comparto con los asistentes detalles de diferentes comunidades de práctica en Argetina, Latonoamérica y el mundo y los desarrollos que hacemos en estas comunidades relacionados a sus objetivos. 
 all_day: false
 authors: []
-date: "2020-07-06T09:00:00Z"
-event: el último evento donde presenté sobre este tema fue useR2020!
+date: "2020-10-23T09:00:00Z"
+event: el último evento donde presenté sobre este tema fue en la Plataforma de Asistencia Estadística del INTA
 event_url: 
 featured: false
 links:
@@ -13,7 +13,7 @@ links:
   url: https://twitter.com/yabellini 
 location: 
 math: true
-publishDate: "2020-06-30T09:00:00Z"
+publishDate: "2020-10-23T09:00:00Z"
 slides: 
 summary: Comunidades de práctica es una serie de charlas que he dado en diversos ámbitos y con diferente nivel de detalle pero que tiene como objetivo introducir conceptos relacionados con las comunidades de práctica, la brecha de género, la colaboración científica, la ciencia abierta y la reproducibilidad.  En estas charlas comparto con los asistentes detalles de diferentes comunidades de práctica en Argetina, Latonoamérica y el mundo y los desarrollos que hacemos en estas comunidades relacionados a sus objetivos. 
 tags: []
@@ -25,6 +25,13 @@ url_video: ""
 ---
 
 ## 2020
+
+### Comunidades de práctica para I+D y T+E: R y colegas
+- **Fecha**: 23 de Octubre de 2020
+- **Evento**: Seminario de la Plataforma de Asistencia Estadística del INTA
+- **Localización**: on-line
+- **Slides**: https://docs.google.com/presentation/d/1jFA5xQ0i5qdSv-N3wktu2ZqHaXgtJh5Ue_CIKTWQCzY/edit?usp=sharing
+- **Resumen**: Selección de comunidades relacionadas con R, la investigación y la enseñanza.  Qué tipo de iniciativas lleva adelante cada una, que tipo de material hay disponible, como empezar a participar y colaborar.
 
 ### Comunidades de Práctica en América Latina: R y Colegas
 - **Fecha**: 06 de Julio de 2020
