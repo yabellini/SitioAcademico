@@ -119,7 +119,7 @@ Map.addLayer( stackL8, {bands: ['NIR', 'SWIR1', 'GREEN'], min: [0,0,0], max:[1,1
 print ('Stack: ',stackL8);
 ```
 
-```StackL8``` será una imagen de 6 bandas donde cada pixel es la mediana de los pixeles de la colección que habíamos filtrado (imágenes de 2016).
+_StackL8_ será una imagen de 6 bandas donde cada pixel es la mediana de los pixeles de la colección que habíamos filtrado (imágenes de 2016).
 
 Supongamos que deseamos posteriormente realizar una clasificación supervisada para determinar desmontes ocurridos entre periodos 2010 y 2016.
 
@@ -141,7 +141,7 @@ var stackL5 = l5.median().clip(area_estudio);
 Map.addLayer( stackL5, {bands: ['NIR', 'SWIR1', 'GREEN'], min: [0,0,0], max:[1,1,1] } , "Landsat 5 2010 " );
 ```
 
-###○ Generación de índices
+### Generación de índices
 
 Siguiendo con la idea anterior, El stack final, que será utilizado para clasificar, además de contener la bandas seleccionadas de los mosaicos de 2010 y 2016 podría también contener índices calculados a partir de bandas.
 Hay varias maneras de realizar el cálculo:
