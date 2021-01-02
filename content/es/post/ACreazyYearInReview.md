@@ -143,4 +143,4 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
   - con 1 trabajo científico aceptado y 1 rechazado. Y no pude escribir nada más.
   - con 28 cursos dictados, 19 charlas y 6 entrevistas. Se ve que en pandemia se me da mejor enseñar, que escribir y programar.
   
-_Una vez más, las personas que me acompañó en el camino son la mejor parte del viaje._
+_Una vez más, las personas que me acompañaron en el camino son la mejor parte del viaje._

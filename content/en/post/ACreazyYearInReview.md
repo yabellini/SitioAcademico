@@ -72,7 +72,7 @@ tags:
 
 * I "visited" a chapter of R-Ladies from another country for the first time: R-Ladies La Paz. Another community that makes you feel welcome.
 
-* I joined the useR team! 2020 as a link with R-Ladies. This allowed me to work with many R-Ladies worldwide who [hosted tutorials](https://user2020.r-project.org/program/tutorials/). I wouldn't say I like time zones.
+* I joined the useR! 2020 team as a link with R-Ladies. This allowed me to work with many R-Ladies worldwide who [hosted tutorials](https://user2020.r-project.org/program/tutorials/). I wouldn't say I like time zones.
 
 
 ## July
