@@ -13,7 +13,7 @@ tags:
   
 ---
 
-{{< figure src="/img/YearInReview_2020.png" >}}
+{{< figure src="/img/YearInReview_2020.png" alt="Hex Stickers de algunas de las comunidades e iniciativas en las cuales trabajé este año">}}
 
 ## Enero
 
@@ -33,7 +33,7 @@ tags:
 
 * Mis hijos comenzaron la escuela primaria y el jardín de infantes.
 
-* Hacemos la campaña de R-Ladies del Día Internacional de la Mujer y como producto generamos una Shiny App con los [materiales de los eventos de R-Ladies](https://yabellini.shinyapps.io/RLadiesLesson/).
+* Hacemos la campaña de R-Ladies del Día Internacional de la Mujer y como resultado generamos una Shiny App con los [materiales de los eventos de R-Ladies](https://yabellini.shinyapps.io/RLadiesLesson/).
 
 * El mundo conoce al COVID-19. Iniciamos una estricta cuarentena. Tengo que seguir trabajando desde casa mientras me hago cargo de la casa y me convierto en la maestra de mis dos hijos. 
 
@@ -43,7 +43,7 @@ tags:
 
 ## Abril
 
-* Mis hijos descubrieron mi guitarra y mi juego de ajedrez. Ya juegan mejor que yo, a las dos cosas.
+* Mis hijos descubrieron mi guitarra y mi juego de ajedrez. Ya juegan y tocan mejor que yo.
 
 * La escuela en casa es difícil, para niños y niñas, mapadres y docentes; y lo estoy diciendo desde una posición privilegiada.
 
@@ -79,7 +79,7 @@ tags:
 
 * Fuí organizadora y disertante del Primer Encuentro Global de R-Ladies para las R-Ladies de habla hispana sobre [Cómo hacer una reunión virtual inolvidable (sin morir en el intento)](https://www.youtube.com/watch?v=lZICjcX7O0U&feature=youtu.be).
 
-* Conocí a Maru de Las De Sistemas; tenemos una charla de amigas que ella transformó en [una entrevista](https://youtu.be/_SmnmK6DgOg).
+* Las de Sistemas me [entrevistaron](https://youtu.be/_SmnmK6DgOg).
 
 * Ayudé a generar la versión en Español de [Learn R for Free - Aprende R Gratis](https://www.learnr4free.com/es/index.html)
 
@@ -91,7 +91,7 @@ tags:
 
 * Presenté otra propuesta a RStudioConf::global sobre tutoriales interactivos, en español.
 
-* Dejé de ser parte del equipo de administración del R-Ladies Community Slack. También pedí dejar de ser e-mail master de R-Ladies. Quiero enfocarme en organizar la inmensa cantidad de material educativo que genera la comunidad porque espero que más personas lo encuentren y lo aprovechen. Veremos, tal vez para el 2021.
+* Dejé de ser parte del equipo de administración del [R-Ladies Community Slack](https://rladies-community-slack.herokuapp.com/). También pedí dejar de ser e-mail master de R-Ladies. Quiero enfocarme en organizar la inmensa cantidad de material educativo que genera la comunidad porque espero que más personas lo encuentren y lo aprovechen. Veremos, tal vez para el 2021.
 
 * Me invitan a ser parte del equipo que organiza [useR! 2021](https://user2021.r-project.org/) y digo que si.
 
@@ -101,9 +101,9 @@ tags:
 
 * Empecé a enseñar de nuevo a nivel de postgrado. Utilizo todo lo que aprendí de Teaching Teach Together y todo lo que enseñamos en MetaDocencia. 
 
-* [RStudioConf::global 2021](https://rstudio.com/conference/) aceptó mi charla sobre tutoriales interactivos. Una vez más, gracias por la ayuda y el aliento a la Comunidad R Latinoamericana.
+* [RStudioConf::global 2021](https://rstudio.com/conference/) aceptó mi charla sobre tutoriales interactivos. Una vez más, llego allí, gracias a la ayuda y el aliento a la Comunidad R Latinoamericana.
 
-* Pido consejo a un gran aliado y comparte conmigo su conocimiento y su red de contactos.  Empiezo a aprender y a trabajar en planificación organizacional y fundacional para comunidades.
+* Pedí consejo a un gran aliado y él compartió conmigo su conocimiento y su red de contactos.  Empiezo a aprender y a trabajar en planificación organizacional y fundacional para comunidades.
 
 ## Octubre
 
@@ -129,6 +129,9 @@ tags:
 
 * Me ofrecieron ser coordinadora nacional de la [Red de Modelado de Agroecosistemas del INTA](https://inta.gob.ar/paginas/redes-estrategicas-de-conocimiento). Acepté.
 
+
+* Abrimos el [llamado a presentación de tutoriales para useR! 2021](https://user2021.r-project.org/participation/call-for-tutorials/) (Estoy a cargo de esta actividad). 
+
 * Logramos traducir el 100% de Teaching Teach Together al español gracias a un increíble equipo de voluntarias.
 
 * Aseguramos el funcionamiento de MetaDocencia un año más.
@@ -137,3 +140,5 @@ tags:
   - siendo jurado de dos Agro-hackatones.
   - con 1 trabajo científico aceptado y 1 rechazado. Y no pude escribir nada más.
   - con 28 cursos dictados, 19 charlas y 6 entrevistas. Se ve que en pandemia se me da mejor enseñar, que escribir y programar.
+  
+_Una vez más, las personas que te acompañan en el camino son la mejor parte del viaje._
