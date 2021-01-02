@@ -23,7 +23,7 @@ tags:
 
 ## Febrero
 
-* ¡Recibí la notificación confirmando que me otorgaron la beca de diversidad de useR! 2020 en St Louis, MO, EE. UU. Aceptar la beca e invertir ese dinero en esta oportunidad fue una decisión familiar, porque sólo el costo de los tickets necesarios para el viaje equivalen a 4 meses de mi sueldo, sumado a la posibilidad de no recuperar todo el dinero y no recuperarlo rápidamente por la burocracia y las restricciones para recibir dólares en mi país. 
+* Me otorgaron la beca de diversidad de useR! 2020 en St Louis, MO, EE. UU. Aceptar la beca e invertir ese dinero en esta oportunidad fue una decisión familiar porque sólo el costo de los tickets necesarios para el viaje equivalen a 4 meses de mi sueldo, sumado a la posibilidad de no recuperar todo el dinero y no recuperarlo rápidamente por la burocracia y las restricciones para recibir dólares en mi país. 
 
 * Hice uno de los trámites más inútiles de este año: renové el pasaporte.
 
@@ -53,7 +53,7 @@ tags:
 
 ## Mayo
 
-* Hicimos un [encuentro virtual entre R-Ladies Santa Rosa, R-Ladies Buenos Aires y R-Ladies General Pico](https://yabellini.netlify.app/es/courses/tallerdegitconr/). Fue la reunión inaugural de General Pico, el segundo capítulo de R-Ladies en mi provincia. Qué linda que es esta comunidad.
+* Hicimos un [encuentro virtual entre R-Ladies Santa Rosa, R-Ladies Buenos Aires y R-Ladies General Pico](https://yabellini.netlify.app/es/courses/tallerdegitconr/). Fue la reunión inaugural de General Pico, el segundo capítulo de R-Ladies en mi provincia. _Qué linda que es esta comunidad_.
 
 * Ayudé a construir una propuesta de posgrado en Agricultura Digital.
 
@@ -127,7 +127,7 @@ tags:
 
 * Terminan las clases. Mi hijo con TEL (Trastorno Específico del Lenguaje) lee, escribe, habla, suma, resta. Él es increíble, inteligente, trabajador y amable. Y yo no puedo estar más orgullosa. 
 
-* Me ofrecieron ser coordinadora nacional de la [Red de Modelado de Agroecosistemas del INTA](https://inta.gob.ar/paginas/redes-estrategicas-de-conocimiento). Dije si.
+* Me ofrecieron ser coordinadora nacional de la [Red de Modelado de Agroecosistemas del INTA](https://inta.gob.ar/paginas/redes-estrategicas-de-conocimiento). Acepté.
 
 * Logramos traducir el 100% de Teaching Teach Together al español.
 
