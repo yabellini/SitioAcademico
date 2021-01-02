@@ -129,7 +129,7 @@ tags:
 
 * Me ofrecieron ser coordinadora nacional de la [Red de Modelado de Agroecosistemas del INTA](https://inta.gob.ar/paginas/redes-estrategicas-de-conocimiento). Acepté.
 
-* Logramos traducir el 100% de Teaching Teach Together al español.
+* Logramos traducir el 100% de Teaching Teach Together al español gracias a un increíble equipo de voluntarias.
 
 * Aseguramos el funcionamiento de MetaDocencia un año más.
 
