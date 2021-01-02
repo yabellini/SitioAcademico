@@ -3,7 +3,7 @@ date: "2020-12-31"
 draft: false
 type: page
 linktitle: El balance de un año loco
-summary: El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue durísimo para todes y mucho más para algunas personas. Aquí mi balance de este año, destacando las cosas positivas.
+summary: El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy complejo.Aquí mi balance de este año, destacando las cosas positivas que me ocurrieron.
 title: El balance de un año loco
 authors: 
     - admin
@@ -14,6 +14,8 @@ tags:
 ---
 
 {{< figure src="/img/YearInReview_2020.png" alt="Hex Stickers de algunas de las comunidades e iniciativas en las cuales trabajé este año">}}
+
+El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy complejo.Aquí mi balance de este año, destacando las cosas positivas que me ocurrieron.
 
 ## Enero
 

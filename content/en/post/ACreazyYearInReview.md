@@ -3,7 +3,7 @@ date: "2020-12-31"
 draft: false
 type: page
 linktitle: A crazy year in review
-summary: 2020 will remain in our memories for a long time. It was very hard for everyone and much more for some people. Here is my balance of this year, highlighting the positive things.
+summary: 2020 will remain in our memories for a long time. It was a very complex year. Here is my balance of this year, highlighting the positive things that happened to me.
 title: A crazy year in review
 authors: 
     - admin
@@ -14,6 +14,8 @@ tags:
 ---
 
 {{< figure src="/img/YearInReview_2020.png" alt="Hex Stickers of some of the communities and initiatives in which I worked this year">}}
+
+2020 will remain in our memories for a long time. It was a very complex year. Here is my balance of this year, highlighting the positive things that happened to me.
 
 ## January
 
