@@ -33,7 +33,7 @@ tags:
 
 * Mis hijos comenzaron la escuela primaria y el jardín de infantes.
 
-* Hacemos la campaña de R-Ladies del Día Internacional de la Mujer y como resultado generamos una Shiny App con los [materiales de los eventos de R-Ladies](https://yabellini.shinyapps.io/RLadiesLesson/).
+* Lideré la campaña de R-Ladies del Día Internacional de la Mujer y como resultado generamos una Shiny App con los [materiales de los eventos de R-Ladies](https://yabellini.shinyapps.io/RLadiesLesson/).
 
 * El mundo conoce al COVID-19. Iniciamos una estricta cuarentena. Tengo que seguir trabajando desde casa mientras me hago cargo de la casa y me convierto en la maestra de mis dos hijos. 
 
@@ -141,4 +141,4 @@ tags:
   - con 1 trabajo científico aceptado y 1 rechazado. Y no pude escribir nada más.
   - con 28 cursos dictados, 19 charlas y 6 entrevistas. Se ve que en pandemia se me da mejor enseñar, que escribir y programar.
   
-_Una vez más, las personas que te acompañan en el camino son la mejor parte del viaje._
+_Una vez más, las personas que me acompañó en el camino son la mejor parte del viaje._

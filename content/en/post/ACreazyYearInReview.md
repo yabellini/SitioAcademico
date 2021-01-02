@@ -26,7 +26,7 @@ tags:
 
 * I was awarded the useR Diversity Scholarship! 2020 in St Louis, MO, the USA. Accepting the scholarship and investing that money in this opportunity was a family decision because only the cost of the tickets necessary for the trip is equivalent to 4 months of my salary, added to the possibility of not recover all the money and not recover it quickly because of the bureaucracy and the restrictions to receive dollars in my country.
 
-* I did one of the most useless procedures this year: I renewed my passport.
+* I did one of the most useless transaction this year: I renewed my passport.
 
 * I was editor of the special issue on AgTech of the [SADIO's Electronic Journal](https://publicaciones.sadio.org.ar/index.php/EJS/issue/view/20).
 
@@ -34,19 +34,19 @@ tags:
 
 * My children started elementary school and kindergarten.
 
-* We do the R-Ladies campaign for International Women's Day. We generate a Shiny App with the [R-Ladies event materials](https://yabellini.shinyapps.io/RLadiesLesson/).
+* I lead the R-Ladies campaign for International Women's Day. We generate a Shiny App with the [R-Ladies events materials](https://yabellini.shinyapps.io/RLadiesLesson/).
 
 * The world knows COVID-19. We started a strict quarantine. I have to keep working from home while I take care of the house and become my two children's teacher.
 
 * I co-founded [MetaDocencia](https://www.metadocencia.org/).
 
-* I am starting to coordinate the translation of [Teaching Teach Together](https://teachtogether.tech/es/index.html).
+* I am starting to lead the translation of [Teaching Teach Together](https://teachtogether.tech/es/index.html).
 
 ## April
 
 * My children discovered my guitar and my chess game. They already play better than me at both.
 
-* Home school is difficult for boys and girls, teachers and teachers; and I'm saying it from a privileged position.
+* Home school is difficult for kids, teachers and parents; and I'm saying it from a privileged position.
 
 * Virtual speech therapy is even more difficult, but my son is amazing.
 
@@ -54,7 +54,7 @@ tags:
 
 ## May
 
-* We did a [joint virtual meeting with R-Ladies Santa Rosa, R-Ladies Buenos Aires, and R-Ladies General Pico](https://yabellini.netlify.app/es/courses/tallerdegitconr/). It was the inaugural meeting of General Pico, the second chapter of R-Ladies in my province. _ How beautiful this community is_.
+* We did a [joint virtual meeting with R-Ladies Santa Rosa, R-Ladies Buenos Aires, and R-Ladies General Pico](https://yabellini.netlify.app/es/courses/tallerdegitconr/). It was the inaugural meeting of General Pico, the second chapter of R-Ladies in my province. _How beautiful this community is_.
 
 * I helped build a postgraduate proposal in Digital Agriculture.
 
@@ -64,7 +64,7 @@ tags:
 
 ## June
 
-* _Ana would have been eight years old if she were alive. Pain and sadness are always there but under control. I never stop missing her.
+* _Ana would have been eight years old if she were alive. Pain and sadness are always there but under control. I never stop missing her._
 
 * I participated for the first time in a [panel speaking in English](https://youtu.be/582tMkPvloU). Thanks to [MiR Community](https://mircommunity.com/), who made me feel comfortable enough to give it a try.
 
@@ -95,13 +95,13 @@ tags:
 
 * I am no longer part of the [R-Ladies Community Slack](https://rladies-community-slack.herokuapp.com/) management team. I also asked to stop being R-Ladies' email master. I want to focus on organizing the immense amount of educational material that the community generates because I want more people will find it and take advantage of it. We will see, maybe by 2021.
 
-* They invite me to be part of the team that organizes [useR! 2021](https://user2021.r-project.org/) and I say yes.
+* I was invited to be part of the team that organizes [useR! 2021](https://user2021.r-project.org/). I say yes.
 
 ## September
 
 * I started to share [all my courses freely and openly](https://yabellini.netlify.app/es/courses/). I received beautiful and grateful comments and several improvements to my material.
 
-* I started teaching again at the graduate level. I use everything I learned from Teaching Teach Together and everything we teach in MetaDocencia.
+* I started teaching again at graduate level. I use everything I learned from Teaching Teach Together and everything we teach in MetaDocencia.
 
 * [RStudioConf::global 2021](https://rstudio.com/conference/) accepted my talk on interactive tutorials. Once again, I get there thanks to the help and encouragement of the Latin American R Community.
 
@@ -109,7 +109,7 @@ tags:
 
 ## October
 
-* My conference season begins: I was chair of LatinR 2020, of the 49 Argentine Conference of Informática (JAIIO) and the 12th Congress of AgroInformática.
+* My conference season begins: I was chair of LatinR 2020, of the 49 Argentine Conference of Informatic (JAIIO) and the 12th Congress of AgroInformatic.
 
  - [LatinR] (https://latin-r.com/) was a success. Completely virtual. Two weeks. [Nine tutorials (in Spanish and Portuguese)] (https://github.com/LatinR/talleres-2020). [Two luxury guest talks (In Spanish and English)] (https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones). [Prerecorded talks and live question sections] (https://www.youtube.com/latinr). Beautiful.
 
@@ -117,7 +117,7 @@ tags:
 
  - The Agroinformatics Congress was held during 3 synchronous virtual days using Zoom + [YouTube] (http://tiny.cc/sala1_jaiio) with +50 trilingual presentations (Spanish, Portuguese and English) and 2 women scientific (one Argentina and the other Brazilian) as keynotes.
  
- ## November
+## November
 
 * MetaDocencia reaches 51 courses taught to more than 700 teachers from 20 countries.
 * I become one of the Global Coordinators of useR! 2021. We have an amazing team working in this conf.
@@ -126,7 +126,7 @@ tags:
 
 ## December
 
-* Classes end. My child with SLI (Specific Language Disorder) reads, writes, speaks, adds, subtracts. He is amazing, smart, hardworking, and kind. And I couldn't be more proud.
+* Classes end. My child with SLI (Specific Language Impairment) reads, writes, speaks, adds, subtracts. He is amazing, smart, hardworking, and kind. And I couldn't be more proud.
 
 * I was offered to be the national coordinator of the [INTA Agroecosystems Modeling Network](https://inta.gob.ar/paginas/redes-estrategicas-de-conocimiento). I accepted.
 
@@ -141,4 +141,4 @@ tags:
  - with 1 scientific paper accepted and 1 rejected. And I couldn't write anything else.
  - with 28 courses, 19 talks, and 6 interviews delivery. It seems that in a pandemic, I am better at teaching than writing and programming.
  
-_Once again, the people who accompany you on the road are the best part of the trip._ 
+_Once again, the people who accompany me on the road are the best part of the trip._ 
