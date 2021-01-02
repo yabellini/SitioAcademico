@@ -77,7 +77,7 @@ tags:
 
 ## July
 
-* I was invited to be part of the [Panel _Supporting diversity in the R_ community of useR! 2020](https://www.youtube.com/watch?v=gDO1OphmF5Q&t=18s). It was my first participation in one of R.'s great international conferences. I speak again in English, but [also in Spanish](https://yabellini.netlify.app/es/talk/user2020breakoutsessiondiversity/).
+* I was invited to be part of the [Panel _Supporting diversity in the R_ community of useR! 2020](https://www.youtube.com/watch?v=gDO1OphmF5Q&t=18s). It was my first participation in one of R.'s big international conferences. I speak again in English, but [also in Spanish](https://yabellini.netlify.app/es/talk/user2020breakoutsessiondiversity/).
 
 * I helped build a proposal for a new master's degree in Data Science in Argentina.
 
