@@ -109,7 +109,7 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
 ## Octubre
 
-* Mi temporada de conferencias inicia: fui chair de LatinR 2020, de las 49 Jornadas Argentinas de Informática (JAIIO) y del 12 Congreso de AgroInformática.
+* Mi temporada de conferencias inicia: fui co-chair (presidenta) de LatinR 2020, de las 49 Jornadas Argentinas de Informática (JAIIO) y del 12 Congreso de AgroInformática.
 
   - [LatinR](https://latin-r.com/) fue un éxito. Completamente virtual.  Dos semanas. [Nueve tutoriales (en español y portugués)](https://github.com/LatinR/talleres-2020). [Dos charlas invitadas de lujo (En español e inglés)](https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones). [Charlas pregrabadas y secciones de preguntas en vivo](https://www.youtube.com/latinr). Hermoso.
 
@@ -121,7 +121,7 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
 * MetaDocencia llega a los 51 cursos dictados a más de 700 docentes de 20 países.
 
-* Me convierto en una de las Coordinadoras Globales de useR! 2021
+* Me convierto en una de las Coordinadoras Globales de useR! 2021. Tenemos un [equipo increible](https://user2021.r-project.org/about/global-team/) trabajando en esta conferencia.
 
 * Empiezo a realizar algunos trabajos para RStudio.
 

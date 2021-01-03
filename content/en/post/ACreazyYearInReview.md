@@ -122,7 +122,8 @@ tags:
 ## November
 
 * MetaDocencia reaches 51 courses taught to more than 700 teachers from 20 countries.
-* I become one of the Global Coordinators of useR! 2021. We have an amazing team working in this conf.
+
+* I become one of the Global Coordinators of useR! 2021. We have an [amazing team](https://user2021.r-project.org/about/global-team/) working in this conf.
 
 * I'm starting to do some work for RStudio.
 
