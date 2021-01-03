@@ -111,7 +111,7 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
 * Mi temporada de conferencias inicia: fui co-chair (presidenta) de LatinR 2020, de las 49 Jornadas Argentinas de Informática (JAIIO) y del 12 Congreso de AgroInformática.
 
-  - [LatinR](https://latin-r.com/) fue un éxito. Completamente virtual.  Dos semanas. [Nueve tutoriales (en español y portugués)](https://github.com/LatinR/talleres-2020). [Dos charlas invitadas de lujo (En español e inglés)](https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones). [Charlas pregrabadas y secciones de preguntas en vivo](https://www.youtube.com/latinr). Hermoso.
+  - [LatinR](https://latin-r.com/) fue un éxito. Completamente virtual.  Dos semanas. [Nueve tutoriales (en español y portugués)](https://github.com/LatinR/talleres-2020). [Dos charlas invitadas de lujo (En español e inglés)](https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones) y un panel increible sobre diversidad, accesibilidad e inclusión.  Un hackaton de reproducibilidad y [charlas pregrabadas y secciones de preguntas en vivo](https://www.youtube.com/latinr). Hermoso.
 
   - Las [49 JAIIO](http://49jaiio.sadio.org.ar/) también fueron virtuales con 13 simposios y un concurso estudiantil. Se realizaron +500 ponencias en 3 canales de YouTube ([Sala 1](http://tiny.cc/sala1_jaiio), [Sala 2](http://tiny.cc/sala2_jaiio), [Sala 3](http://tiny.cc/sala3_jaiio)). Fueron un éxito de participación con más de 13.000 vistas durante los 10 días de jornadas.
 
