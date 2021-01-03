@@ -26,7 +26,7 @@ tags:
 
 ## February
 
-* I was awarded the useR Diversity Scholarship! 2020 in St Louis, MO, the USA. Accepting the scholarship and investing that money in this opportunity was a family decision because only the cost of the tickets necessary for the trip is equivalent to 4 months of my salary, added to the possibility of not recover all the money and not recover it quickly because of the bureaucracy and the restrictions to receive dollars in my country.
+* I was awarded the useR! 2020 Diversity Scholarship in St Louis, MO, the USA. Accepting the scholarship and investing that money in this opportunity was a family decision because only the cost of the tickets necessary for the trip is equivalent to 4 months of my salary, added to the possibility of not recover all the money and not recover it quickly because of the bureaucracy and the restrictions to receive dollars in my country.
 
 * I did one of the most useless transaction this year: I renewed my passport.
 
