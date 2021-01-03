@@ -117,6 +117,8 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
   - El Congreso de Agroinformática se realizó durante 3 días virtuales sincrónicos utilizando Zoom + [YouTube](http://tiny.cc/sala1_jaiio) con +50 presentaciones trilingües (español, portugués e Inglés) y 2 científicas (una Argentina y la otra Brasilera) como keynotes.
 
+* Paso a ser parte del equipo de la plataforma de asistencia estadística de INTA como experta en R.
+
 ## Noviembre
 
 * MetaDocencia llega a los 51 cursos dictados a más de 700 docentes de 20 países.

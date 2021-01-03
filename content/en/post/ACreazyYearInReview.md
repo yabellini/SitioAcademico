@@ -118,7 +118,9 @@ tags:
  - The [49 JAIIO] (http://49jaiio.sadio.org.ar/) were also virtual with 13 symposia and a student contest. +500 presentations were made on 3 YouTube channels ([Room 1] (http://tiny.cc/sala1_jaiio), [Room 2] (http://tiny.cc/sala2_jaiio), [Room 3] (http: //tiny.cc/sala3_jaiio)). They were a success of participation with more than 13,000 views during 10 days.
 
  - The Agroinformatics Congress was held during 3 synchronous virtual days using Zoom + [YouTube] (http://tiny.cc/sala1_jaiio) with +50 trilingual presentations (Spanish, Portuguese and English) and 2 women scientific (one Argentina and the other Brazilian) as keynotes.
- 
+
+* I became part of the INTA's statistical assistance platform team as an expert in R.
+
 ## November
 
 * MetaDocencia reaches 51 courses taught to more than 700 teachers from 20 countries.
