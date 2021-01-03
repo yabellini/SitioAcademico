@@ -111,7 +111,7 @@ tags:
 
 ## October
 
-* My conference season begins: I was chair of LatinR 2020, of the 49 Argentine Conference of Informatic (JAIIO) and the 12th Congress of AgroInformatic.
+* My conference season begins: I was co-chair of LatinR 2020, of the 49 Argentine Conference of Informatic (JAIIO) and the 12th Congress of AgroInformatic.
 
  - [LatinR] (https://latin-r.com/) was a success. Completely virtual. Two weeks. [Nine tutorials (in Spanish and Portuguese)] (https://github.com/LatinR/talleres-2020). [Two luxury guest talks (In Spanish and English)] (https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones). [Prerecorded talks and live question sections] (https://www.youtube.com/latinr). Beautiful.
 
