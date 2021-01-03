@@ -79,7 +79,7 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
 * Ayudé a construir una propuesta para una nueva maestría en Ciencia de Datos en Argentina.
 
-* Fuí organizadora y disertante del Primer Encuentro Global de R-Ladies para las R-Ladies de habla hispana sobre [Cómo hacer una reunión virtual inolvidable (sin morir en el intento)](https://www.youtube.com/watch?v=lZICjcX7O0U&feature=youtu.be).
+* Fuí una de las organizadoras y disertante del Primer Encuentro Global de R-Ladies para las R-Ladies de habla hispana sobre [Cómo hacer una reunión virtual inolvidable (sin morir en el intento)](https://www.youtube.com/watch?v=lZICjcX7O0U&feature=youtu.be).
 
 * Las de Sistemas me [entrevistaron](https://youtu.be/_SmnmK6DgOg).
 
