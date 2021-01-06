@@ -44,6 +44,8 @@ One of the activities to prepare classes or talks is the recording and editing o
 
 * GIMP: https://gimp.org
 
+* Glimpse: https://glimpse-editor.github.io/
+
 * Photopea (on-line): https://photopea.com
 
 * Inkspace: https://inkscape.org/es/
@@ -86,6 +88,8 @@ One of the activities to prepare classes or talks is the recording and editing o
 If you need to read a script while giving your talk or recording your video, a teleprompter can be a very good help:
 
 * https://bigstageteleprompter.online
+
+* https://imaginarysense.github.io/Imaginary-Teleprompter/
 
 ### Caption
 

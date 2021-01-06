@@ -43,10 +43,11 @@ Una de las actividades para preparar clases o charlas es la grabación y edició
 
 * GIMP: https://gimp.org
 
+* Glimpse: https://glimpse-editor.github.io/
+
 * Photopea (on-line): https://photopea.com
 
 * Inkspace: https://inkscape.org/es/
-
 
 ### Para descargar con licencia libre:
 
@@ -85,6 +86,8 @@ Una de las actividades para preparar clases o charlas es la grabación y edició
 Si necesitas leer un guión mientras estás dando tu charla o grabando tu video, un teleprompter puede ser una muy buena ayuda:
 
 * https://bigstageteleprompter.online
+
+* https://imaginarysense.github.io/Imaginary-Teleprompter/
 
 ### Subtítulos
 
