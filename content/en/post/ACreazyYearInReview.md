@@ -81,7 +81,7 @@ tags:
 
 * I helped build a proposal for a new master's degree in Data Science in Argentina.
 
-* I was one of the organizer and speaker of the First R-Ladies Global Meeting for Spanish-speaking R-Ladies on [How to make an unforgettable virtual meeting (without dying trying)](https://www.youtube.com/watch?v=lZICjcX7O0U&feature=youtu.be). 
+* I was one of the organizer and speaker of the First R-Ladies Global Meeting for Spanish-speaking R-Ladies on [How to make an unforgettable online meeting (and don’t die trying)](https://www.youtube.com/watch?v=lZICjcX7O0U&feature=youtu.be). 
 
 * Las De Sistemas [interviewed me](https://youtu.be/_SmnmK6DgOg).
 
