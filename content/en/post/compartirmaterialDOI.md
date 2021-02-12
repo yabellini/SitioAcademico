@@ -31,6 +31,8 @@ _So if I want to share my didactic material, how do I do it? Keep reading and we
 
 If our material has code in a programming language, then we must also select an [open license, designed for software](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses).  I suggest the license [MIT](https://opensource.org/licenses/MIT) or, considering the impact that software and data science have on our lives, the [Hippocratic license](https://firstdonoharm.dev/), that allows the code to be freely used as long as the user is not violating basic human rights treaties.
 
+You can also add a Code of Conduct and guidelines for contrubute to your project, [Contributor Covenant](https://www.contributor-covenant.org/) is a very good place to start and the text is available in various languages.
+
 * **Step 2: store the material in a repository that allows us to publish it.** One place that allows us to do this is [GitHub](https://github.com/) which is used to develop a variety of materials because it allows us to have different types of content such as slides, documents, source code, images, and also allows us to continuously develop them through an iterative process and with input from others, since GitHub implements a [version control system](https://es.wikipedia.org/wiki/Control_de_versiones). If you haven't used GitHub, you can use this [initial Git tutorial](https://yabellini.netlify.app/es/courses/tallerdegitconr/).
 
 * **Step 3: add a [digital object identifier (DOI)](https://es.wikipedia.org/wiki/Identificador_de_objeto_digital) so that it is citable.** We will describe this step in great detail by following these [GitHub instructions](https://guides.github.com/activities/citable-code/).
