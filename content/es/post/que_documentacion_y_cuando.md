@@ -27,9 +27,10 @@ Como siempre espero que sea de utilidad.  Los comentarios son muy bienvenidos.
 
 El siguiente diagrama muestra cómo diferentes tipos de materiales ayudan a diferentes personas.
 
+
 {{< figure src="/img/DocType_es.png" >}}
 
-El diaframa divide el plano en tres etapas del modelo de desarrollo cognitivo:
+El diagrama divide el plano en tres etapas del modelo de desarrollo cognitivo:
 
 * Una persona _principiante ó novata_ aún no tiene un modelo mental del dominio. No saben lo que no saben, no hablan la jerga y hacen las cosas por analogía o de memoria.
 
@@ -37,5 +38,7 @@ El diaframa divide el plano en tres etapas del modelo de desarrollo cognitivo:
 
 * Una _persona experta_ tiene un modelo bastante completo y densamente conectado del dominio. Pueden resolver problemas comunes de un vistazo y descubrir los casos extraños o pocos comunes.
 
- El **eje X** es el conocimiento general del usuario, por ejemplo sobre R, tidyverse y ciencia de datos. El **eje Y** es qué tan bien comprenden el problema particular que están tratando de resolver.
+El **eje X** es el conocimiento general del usuario, por ejemplo sobre R, tidyverse y ciencia de datos. El **eje Y** es qué tan bien comprenden el problema particular que están tratando de resolver.
+ 
+Cada flecha indica un tipo de material que es adecuado para la conjunción de cada etapa de desarrollo cognitivo y hacia cual te puede ayudar a alcanzar
 
