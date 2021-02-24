@@ -1,6 +1,6 @@
 ---
 date: "2021-02-23"
-draft: true
+draft: false
 type: page
 linktitle: Tipos de Documentación de acuerdo al nivel de conocimiento
 summary: Una versión resumida y en español de dos post de Greg Wilson y una presentación de Allison Presman Hill.
@@ -14,9 +14,10 @@ tags:
   - Educación
 ---
 
-Estamos desarrollando nuevos cursos en [MetaDocencia](www.metadocencia.org) y una de las secciones del curso de [Enseñar a Programar]() se refiere a enseñar como buscar, pedir e interpretar diferentes tipos de ayuda.
+Estamos desarrollando nuevos cursos en [MetaDocencia](www.metadocencia.org) y una de las secciones del curso de [Enseñar a Programar](https://www.metadocencia.org/curso/programar/) se refiere a enseñar como buscar, pedir e interpretar diferentes tipos de ayuda.
 
-Una de mis lecturas obligadas sobre temas relacionados a la educación de la computación y la informática es el [blog de Greg Wilson](https://third-bit.com/) donde el autor publicó dos post ([What Docs and When](https://third-bit.com/2019/04/10/what-docs-and-when/) [What Docs When](https://third-bit.com/2019/04/16/what-docs-when/)) donde resume en dos diagramas qué tipo de documentación es más adecuada para utilizar de acuerdo al nivel de conocimiento que tengas sobre el tema específico que quieres aprender y con conocimientos generales de la disciplina donde se aplica ese tema, en los post se refiere a Ciencia de Datos, Tidyverse, etc.  Más tarde, tuve la oportunidad de disfrutar de una charla de Allison Presman Hill sobre [Aprender sin una red](https://alison.netlify.app/latinr-learn/#1) donde utiliza estos diagramas publicados por Greg para aconsejar como aprender de forma autónoma (por eso sin una red) sobre un tema en particular.
+Una de mis lecturas obligadas sobre temas relacionados a la educación de la computación y la informática es el [blog de Greg Wilson](https://third-bit.com/) donde el autor publicó dos post ([What Docs and When](https://third-bit.com/2019/04/10/what-docs-and-when/) y [What Docs When](https://third-bit.com/2019/04/16/what-docs-when/)) donde resume, en dos diagramas, _qué tipo de documentación_ es _más adecuada_ de utilizar de acuerdo _al nivel de conocimiento_ que tengas sobre el _tema específico_ que quieres aprender y _sobre la disciplina_ donde se aplica ese tema.
+Más tarde, tuve la oportunidad de disfrutar de una charla de Alison Presman Hill sobre [Aprender sin una red](https://alison.netlify.app/latinr-learn/#1) donde utiliza estos diagramas para aconsejar como aprender de forma autónoma sobre un tema en particular.
 
 En este post les comparto uno de los diagramas en español (y con algunas adaptaciones menores) y las definiciones de cada tipo de documentación también en nuestro idioma y con ejemplos en castellano.  
 
