@@ -40,5 +40,23 @@ El diagrama divide el plano en tres etapas del modelo de desarrollo cognitivo:
 
 El **eje X** es el conocimiento general del usuario, por ejemplo sobre R, tidyverse y ciencia de datos. El **eje Y** es qué tan bien comprenden el problema particular que están tratando de resolver.
  
-Cada flecha indica un tipo de material que es adecuado para la conjunción de cada etapa de desarrollo cognitivo y hacia cual te puede ayudar a alcanzar
+Cada flecha indica un tipo de material que es adecuado para la conjunción de cada etapa de desarrollo cognitivo y hacia cual te puede ayudar a alcanzar. Los materiales que se presentan en el gráfico son:
+
+
+1. Un **cómo se hace** es una receta paso a paso para resolver un problema en particular. Las personas principiantes pueden usarlo sin entender el _"por qué"_ detrás de cada paso.
+
+2. Una **intro** es una descripción general que ayuda a que las personas se enteren que algo existe. Las introducciones pueden presentarse en *seminarios web*, la *primera parte de un taller o curso más largo*, como *presentaciones de marketing*, como *parte de un libro*, como una *viñeta* (vignette) o como parte de una *guía rápida* (cheatsheet).
+
+3. Un **tutorial** es una lección planificada que ayuda a las personas a construir un modelo mental sobre un dominio y adquirir  habilidades básicas para que puedan comenzar a abordar problemas de interés. Los tutoriales mueven a las personas de novatas a competentes.  Los tutoriales pueden presentarse en forma de *talleres*, *libros*, *charlas principales en conferencias*, *blog post* ó *notebooks* (incluidos paquetes y sitios shyni de {learnr}). 
+
+4. Una **traducción** presenta cómo hacer con la herramienta Y lo que alguien ya sabe hacer con la herramienta X. Aprovecha la comprensión de un tema para aumentar la comprensión de otro.
+
+5. Las **notas de nueva versión** y las **actualizaciones** son para falsos/as principiantes: asumen una comprensión general y completan lagunas de conocimiento identificadas previamente.
+
+6. Los **manuales y referencias** asumen que la persona sabe lo que está buscando, pero no recuerda o nunca conoció los detalles. Siguen siendo útiles sin importar cuánto se avance.
+    
+    Un libro de cocina lleno de ejemplos resueltos es como un instructivo, pero asume que el usuario sabe lo suficiente para generalizar a partir de una serie específica de pasos para resolver un problema en particular. Los libros de cocina se vuelven menos necesarios a medida que el usuario pasa de la competencia a la experiencia: en la última etapa, habrá internalizado los procedimientos y la mayoría de los pasos y solo ocasionalmente necesitará verificar el pedido. (Las listas de verificación, por otro lado, continúan siendo útiles incluso para los expertos).
+    Los sitios de preguntas y respuestas se incluyen con los libros de cocina porque satisfacen una necesidad similar, pero están construidos de una manera diferente: los sitios de preguntas y respuestas son impulsados ​​por usuarios que hacen preguntas específicas y la comunidad (o expertos) completa las respuestas. Sitios como Stack Overflow son el mayor avance en cómo programamos en los últimos 20 años. Muchas empresas y proyectos tienen sus propios foros de discusión (como RStudio Community) y mucha gente aprende de ellos, pero solo una vez que saben lo suficiente como para hacer una pregunta significativa y reconocer una respuesta útil.
+    
+    La transición de competente a experto es cuando los instructores dejan de enseñar reglas fijas para aplicarlas en situaciones predecibles y comienzan a decir: "Depende ..." Una gran cantidad de material en este nivel toma la forma de ensayos introspectivos, como King's On Writing o Kael's The Age of Movies, en el que el autor dice implícitamente: "Así es como se ve el mundo a través de mis ojos". Aquí es también donde la gente usa los estudios de casos; donde un ensayo trata principalmente sobre el punto de vista con casos como apoyo, un estudio de caso trata principalmente sobre el caso particular con el punto de vista del autor como valor agregado. No tenemos suficientes ejemplos de esto en informática, aunque me vienen a la mente Design and Evolution of C ++ de Stroustrup, Bloopers GUI de Johnson y la mayoría de los libros de Kernighan.
 
