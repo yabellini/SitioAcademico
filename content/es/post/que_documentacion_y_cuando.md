@@ -17,7 +17,7 @@ tags:
 Estamos desarrollando nuevos cursos en [MetaDocencia](www.metadocencia.org) y una de las secciones del curso de [Enseñar a Programar](https://www.metadocencia.org/curso/programar/) se refiere a enseñar como buscar, pedir e interpretar diferentes tipos de ayuda.
 
 Una de mis lecturas obligadas sobre temas relacionados a la educación de la computación y la informática es el [blog de Greg Wilson](https://third-bit.com/) donde el autor publicó dos post ([What Docs and When](https://third-bit.com/2019/04/10/what-docs-and-when/) y [What Docs When](https://third-bit.com/2019/04/16/what-docs-when/)) donde resume, en dos diagramas, _qué tipo de documentación_ es _más adecuada_ de utilizar de acuerdo _al nivel de conocimiento_ que tengas sobre el _tema específico_ que quieres aprender y _sobre la disciplina_ donde se aplica ese tema.
-Más tarde, tuve la oportunidad de disfrutar de una charla de Alison Presman Hill sobre [Aprender sin una red](https://alison.netlify.app/latinr-learn/#1) donde utiliza estos diagramas para aconsejar como aprender de forma autónoma sobre un tema en particular.
+Más tarde, tuve la oportunidad de disfrutar de una charla de Alison Presmanes Hill sobre [Aprender sin una red](https://alison.netlify.app/latinr-learn/#1) donde utiliza estos diagramas para aconsejar como aprender de forma autónoma sobre un tema en particular.
 
 En este post les comparto uno de los diagramas en español (y con algunas adaptaciones menores) y las definiciones de cada tipo de documentación también en nuestro idioma y con ejemplos en castellano.  
 
