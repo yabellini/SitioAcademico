@@ -18,7 +18,7 @@ A partir de [este tweet](https://twitter.com/luucamay_/status/136679946969883443
 
 Si tenes mas data avisanos y lo actualizamos
 
-* Directorio de oradoras de tecnología de [Las de Sistemas](https://twitter.com/lasdesistemas/status/1273374539888672774?s=20: https://github.com/lasdesistemas/speakers-tecnologia
+* Directorio de oradoras de tecnología de [Las de Sistemas](https://twitter.com/lasdesistemas/status/1273374539888672774?s=20): https://github.com/lasdesistemas/speakers-tecnologia)
 
 * Directorio de R-Ladies (¡por supuesto!): https://rladies.org/directory/
 
