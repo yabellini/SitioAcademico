@@ -34,4 +34,6 @@ citando el pedido original de [Laura Acion](https://lacion.rbind.io/) terminamos
 
 * Encuentra a tu speakers: https://speakerinnen.org/
 
+* Relevamiento de científicas de Women in Bioinformatics and Data Science LatAm: https://t.co/nI8rHED8ry?amp=1
+
 > Por estas cosas me gusta twitter
