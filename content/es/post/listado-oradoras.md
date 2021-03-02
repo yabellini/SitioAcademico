@@ -27,3 +27,6 @@ Si tenes mas data avisanos y lo actualizamos
 * Diversifica: https://diversifyeeb.com
 
 * Women in geospatial: https://www.womeningeospatial.org/join/speakers-database
+
+* Encuentra a tu speakers: https://speakerinnen.org/
+
