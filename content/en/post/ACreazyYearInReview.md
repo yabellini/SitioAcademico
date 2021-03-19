@@ -32,6 +32,8 @@ tags:
 
 * I was editor of the special issue on AgTech of the [SADIO's Electronic Journal](https://publicaciones.sadio.org.ar/index.php/EJS/issue/view/20).
 
+* I served 5 years as a member of the Council of the Natural Resources Research Center in Argentina. (I was the first woman to hold this position, now we are 3 of us of 6 members).
+
 ## March
 
 * My children started elementary school and kindergarten.
@@ -127,7 +129,7 @@ tags:
 
 * I become one of the Global Coordinators of useR! 2021. We have an [amazing team](https://user2021.r-project.org/about/global-team/) working in this conf.
 
-* I'm starting to do some work for RStudio.
+* I'm starting to do some work for RStudio Education.
 
 ## December
 
