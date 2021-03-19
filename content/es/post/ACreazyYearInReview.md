@@ -31,6 +31,8 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
 * Fuí editora del número especial de la [Revista Electrónica de SADIO sobre AgTech](https://publicaciones.sadio.org.ar/index.php/EJS/issue/view/20).
 
+* Cumplí 5 años como consejera del Centro de Investigaciones de Recursos Naturales de Argentina (fui la primera mujer en tener esta posición, hoy somos 3 de 6 integrantes)
+
 ## Marzo 
 
 * Mis hijos comenzaron la escuela primaria y el jardín de infantes.
