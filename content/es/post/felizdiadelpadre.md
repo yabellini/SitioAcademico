@@ -15,7 +15,7 @@ tags:
 
 Hoy domingo se festeja el día del padre, algunas cosas que mi viejo hizo por mi.
 
-- Fue siempre parte de todas las cooperadoras y comisiones de las escuelas y clubes donde asistíamos con mi hermana.  El fue quien convenció a la cooperadora de mi escuela primaria para trabajar más y poder arreglar el piano _y comprar la computadora_ (la escuela pensaba hacer una cosa o la otra).  Esa computadora fue la primera que vi con seis años y marcó mi vida para siempre.
+- Fue siempre parte de todas las cooperadoras y comisiones de las escuelas y clubes donde asistíamos con mi hermana.  Él fue quien convenció a la cooperadora de mi escuela primaria para trabajar más y poder arreglar el piano _y comprar la computadora_ (la escuela pensaba hacer una cosa o la otra).  Esa computadora fue la primera que vi con seis años y marcó mi vida para siempre.
 
 - Desde mis 9 a mis 14 años les pidió prestado el auto a sus clientes (es mecánico y nosotros no teníamos vehículo propio y no había transporte) para llevarme 80 km todos los sabados a la mañana a estudiar computación.
 
