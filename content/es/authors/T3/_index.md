@@ -1,10 +1,10 @@
 ---
 authors:
 - T3
-bio: Enseñar tencnología en comunidad
-name: Enseñar tencnología en comunidad
+bio: Enseñar tecnología en comunidad
+name: Enseñar tecnología en comunidad
 organizations:
-- name: Enseñar tencnología en comunidad
+- name: Enseñar tecnología en comunidad
   url: "http://teachtogether.tech/es/index.html"
 social:
 - icon: github
