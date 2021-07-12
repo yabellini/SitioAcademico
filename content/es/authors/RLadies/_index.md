@@ -26,7 +26,7 @@ user_groups:
 
 ## Mi rol en R-Ladies
 
-Soy parte del Global Team de R-Ladies. Mis tareas incluyen el asesoramiento al equipo de liderazgo en la toma de decisiones, representar a R-Ladies en la organización de las grandes conferencias de R, generar contenidos, realizar traduciones al español y colaborar con la infraestructura general que da soporte a los capítulos.
+Soy parte del Global Team de R-Ladies. Mis tareas incluyen el asesoramiento al equipo de liderazgo en la toma de decisiones, representar a R-Ladies en la organización de las grandes conferencias de R, generar contenidos, realizar traduciones al español, realizar la campaña para el día internacional de la mujer y colaborar con la infraestructura general que da soporte a los capítulos.
 
 ## Misión
 
