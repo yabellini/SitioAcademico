@@ -27,3 +27,5 @@ En el año 2015 recibí, junto con mis co-autores, el [Premio Nacional de Gobier
 * [Radar meteorológico de la EEA Anguil. Contribuciones para su uso en el sector agropecuario](/es/books/radar). Editoras: María Laura Belmonte, Yanina Bellini Saibene. Publicación Técnica Nº 105, ISSN: 0325-2132, Fecha de publicación: Mayo de 2017, Editorial: Ediciones INTA
 
 * [Ciencia de Datos con el Radar Meteorológico](https://www.youtube.com/watch?v=JUBySmXqwc4). Entrevista en el programa de TV. Amucan.
+
+* [Estimación de ocurrencia de granizo en superficie y daño en cultivos, mediante datos del radar meteorológico utilizando técnicas de Data Mining](https://repositorio.inta.gob.ar/handle/20.500.12123/5443). Bellini Saibene, Yanina.  Tesis presentada para optar por el grado de Magíster en Explotación de Datos y Gestión del Conocimiento, de la Universidad Austral, en octubre de 2015. 
