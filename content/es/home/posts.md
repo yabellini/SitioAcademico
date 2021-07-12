@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Posts recientes"
-subtitle = ""
+subtitle = "Escritos de temas variados: educación, R, comunidades, investigación, recursos, experiencias y mis pensamientos."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

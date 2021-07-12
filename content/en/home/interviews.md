@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Interviews (in spanish)"
-subtitle = ""
+subtitle = "Interviews on television, radio or podcast"
 
 [content]
   # Page type to display. E.g. project.
