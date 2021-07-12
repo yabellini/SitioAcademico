@@ -25,6 +25,9 @@ user_groups:
 
 Soy responsable del nodo de La Pampa de la Infraestructura de Datos Espaciales (IDE) del INTA.
 
+En el año 2016, recibí junto con Santiago Banchero, la [Mención especial a la Excelencia en Gobierno Electrónico en la categoría Iniciativas de Éxito](https://inta.gob.ar/noticias/reconocimiento-nacional-para-geointa) por el trabajo [GeoINTA: compartiendo datos por medio de la Infraestructura de Datos Espaciales del INTA](http://inta.gob.ar/documentos/geointa-compartiendo-datos-por-medio-de-la-infraestructura-de-datos-espaciales-del-inta).
+
+
 ## ¿Qué es GeoINTA?
 
 GeoINTA es la Infraestructura de Datos Espaciales (IDE) del INTA.
