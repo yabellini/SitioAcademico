@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Researcher at INTA.
+bio: Investigadora en INTA.
 education:
   courses:
   - course: Magister en Explotación de Datos y Gestión del Conocimiento
@@ -10,6 +10,15 @@ education:
   - course: Licenciada en Sistemas de Información
     institution: Universidad del Salvador
     year: 2005
+  - course: Trainer 
+    institution: The Carpentries
+    year: 2021
+  - course: Instructor
+    institution: The Carpentries
+    year: 2020
+  - course: Tidyverse Trainer
+    institution: RStudio
+    year: 2019  
 email: ""
 interests:
 - Inteligencia Artificial 
@@ -20,7 +29,11 @@ name: Yanina Bellini Saibene
 organizations:
 - name: Instituto Nacional de Tecnología Agropecuaria
   url: "https://inta.gob.ar/personas/bellini.yanina"
-role: Investigadora
+- name: MetaDocencia
+  url: "https://www.metadocencia.org"
+- name: R-Ladies
+  url: "https://www.rladies.org"  
+role: Investigadora - Core/Global Team
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,8 +49,7 @@ social:
   link: https://github.com/yabellini
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- Investigadora
 ---
 
 Soy investigadora en INTA (Instituto Nacional de Tecnología Agropecuaria) y me dedico a aplicar la ciencia de datos al sector agropecuario. Trabajo en una [Estación Experimental Agropecuaria](https://inta.gob.ar/anguil), por lo que mis desarrollos y soluciones están relacionados con la realidad productiva de la provincia de La Pampa, donde vivo con mi esposo y mis dos hermosos hijos. 
