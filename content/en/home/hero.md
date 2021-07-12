@@ -40,7 +40,7 @@ title = "Hi!"
   icon = "download"
   
 [cta_alt]
-  url = "https://yabellini.netlify.app/es/authors/admin/"
+  url = "https://yabellini.netlify.app/en/authors/admin/"
   label = "More about me"
 
 # Note. An optional note to show underneath the links.
