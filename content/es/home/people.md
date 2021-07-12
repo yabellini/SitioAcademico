@@ -12,5 +12,6 @@ subtitle = "Proyectos, conferencias y comunidades en las que participo"
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Proyectos",
                "Conferencias",
-               "Comunidades"]
+               "Comunidades",
+               "Paquetes"]
 +++
