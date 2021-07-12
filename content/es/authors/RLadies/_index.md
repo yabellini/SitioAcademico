@@ -24,6 +24,10 @@ user_groups:
 - Comunidades
 ---
 
+## Mi rol en R-Ladies
+
+Soy parte del Global Team de R-Ladies. Mis tareas incluyen el asesoramiento al equipo de liderazgo en la toma de decisiones, representar a R-Ladies en la organización de las grandes conferencias de R, generar contenidos, realizar traduciones al español y colaborar con la infraestructura general que da soporte a los capítulos.
+
 ## Misión
 
 ## _R-Ladies es una organización mundial cuya misión es promover la diversidad de género en la comunidad R._
