@@ -15,7 +15,7 @@ user_groups:
 - Paquetes
 ---
 
-#Paquete agromet
+## Paquete agromet
 
 El paquete {agromet} incluye una serie de funciones para calcular índices y estadísticos climáticos e hidrológicos a partir de datos tidy. Por ejemplo umbrales() permite contar la cantidad de observaciones que cumplen una determinada condición y dias_promedios() devuelve el primer y último día del año promedio de ocurrencia de un evento.
 

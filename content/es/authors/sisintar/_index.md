@@ -16,5 +16,5 @@ user_groups:
 
 ## Paquete SisINTAR
 
-El paquete SISINTAR permite descargar, leer y manipular datos de perfiles de suelo del sistema SISINTA.
+El paquete SISINTAR permite descargar, leer y manipular datos de perfiles de suelo del sistema de información de suelos del INTA, llamado [SISINTA](http://sisinta.inta.gob.ar/).
 
