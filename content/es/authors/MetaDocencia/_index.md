@@ -33,6 +33,10 @@ user_groups:
 - Comunidades
 ---
 
+## Mi rol en MetaDocencia
+
+Soy co-fundadora y parte del equipo coordinador de MetaDocencia.  Además de cumplir un rol de dirección, también genero contenido, nuevos cursos, dicto clases, traduzto material de inglés al español y mentoreo personas dentro de la comunidad.
+
 ## Nuestra visión 
 
 Somos una comunidad inclusiva y colaborativa que mejora la educación potenciando docentes de países menos favorecidos.
