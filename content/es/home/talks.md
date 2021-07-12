@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Charlas"
-subtitle = ""
+subtitle = "Charlas como invitada sobre ciencia de datos en el agro, comunidades y uso de R"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
