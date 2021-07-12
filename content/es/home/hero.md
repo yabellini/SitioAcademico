@@ -34,7 +34,7 @@ title = "Hola!"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#people"
+  url = "#projects"
   label = "Mis proyectos"
   icon_pack = "fas"
   icon = "download"
