@@ -18,3 +18,12 @@ user_groups:
 ## Mi rol en la Red de Radares de INTA
 
 El INTA cuenta con tres radares meteorológicos, uno de ellos ubicado en la Estación Experimental Agropecuaria Anguil en la provincia de La Pampa.  Soy jefa de división del grupo de Gestión de la Innovación, AgroTICs y Comunicación que tiene a cargo la investigación y desarrollo de productos utilizando los datos del radar meteorológico.
+
+En el año 2015 recibí, junto con mis co-autores, el [Premio Nacional de Gobierno Electrónico en la modalidad Proyectos](https://inta.gob.ar/documentos/hacia-una-arquitectura-de-procesamiento-de-datos-del-radar-meteorologico-de-inta-anguil-1).
+
+
+## Material relacionado en esta web
+
+* [Radar meteorológico de la EEA Anguil. Contribuciones para su uso en el sector agropecuario](/es/books/radar). Editoras: María Laura Belmonte, Yanina Bellini Saibene. Publicación Técnica Nº 105, ISSN: 0325-2132, Fecha de publicación: Mayo de 2017, Editorial: Ediciones INTA
+
+* [Ciencia de DAtos con el Radar Meteorológico](https://www.youtube.com/watch?v=JUBySmXqwc4). Entrevista en el programa de TV. Amucan.
