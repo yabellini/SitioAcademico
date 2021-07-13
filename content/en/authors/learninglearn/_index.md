@@ -18,7 +18,7 @@ social:
   link: https://github.com/yabellini/learninglearnr
 superuser: false
 user_groups:
-- Proyectos
+- Projects
 ---
 
 This project was born in 2019 when I started using the `{learnr}` package, from the R programming language, to generate interactive tutorials based on *rmarkdown* documents.
