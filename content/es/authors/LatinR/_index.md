@@ -7,12 +7,21 @@ organizations:
 - name: Conferencia Latinoamericana de R para investigación y desarrollo
   url: "https://latin-r.com/"
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LatinR_Conf
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/LatinRConf
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/company/latinrconf
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/LatinR  
+- icon: slack
+  icon_pack: fab
+  link: https://latin-r.slack.com/join/shared_invite/enQtNDA3MjM3MTQwOTM1LTg3ZWMyNWU3MGI2MGM5YzU0MGU4NWE5NjYwMjBhMGZmYTQzYTA0ODZlOTE1NDc0YzIwM2NhYTJiNDQyZjMzZjc
 - icon: github
   icon_pack: fab
   link: https://github.com/LatinR
