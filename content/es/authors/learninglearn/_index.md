@@ -4,7 +4,7 @@ authors:
 bio: Aprendiendo {learnr}
 name: Aprendiendo {learnr}
 organizations:
-- name: Tutoriales interactivos con R
+- name: Tutoriales interactivos en R
   url: "https://learning-learnr.netlify.app/"
 social:
 - icon: envelope
