@@ -4,7 +4,7 @@ authors:
 bio: MetaDocencia
 name: MetaDocencia
 organizations:
-- name: Enseñando a enseñar en español
+- name: Teaching how to teach in Spanish
   url: "www.metadocencia.org"
 social:
 - icon: facebook
