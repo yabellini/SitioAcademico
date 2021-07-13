@@ -33,9 +33,9 @@ user_groups:
 - Communities
 ---
 
-## My role in MetaDocencia (MetaTeaching in Spanish)
+## My role in MetaDocencia
 
-I am a co-founder and part of the corr team of MetaDocencia. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, and mentor people within the community.
+MetaDocencia means MetaTeaching in Spanish. I am a _co-founder_ and part of the MetaDocencia's _Core Team_. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, and mentor people within the community.
 
 ## Our vision
 
@@ -85,3 +85,6 @@ These principles arise from the experience of [The Carpentries](https://carpentr
 
 Part of our course materials are based on [RStudio Education](https://education.rstudio.com/) materials.
 
+## 2020 Report
+
+* [2020 Report. Cheers to the great MetaDocencia community!](https://www.metadocencia.org/en/post/reporte-2020/) 
