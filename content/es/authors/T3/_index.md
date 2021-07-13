@@ -17,7 +17,7 @@ user_groups:
 
 ## Proyecto de traducción colaborativa y voluntaria de "Enseñar Tecnología en Comunidad"
 
-Enseñar Tecnología en comunidad es un libro sobre enseñar a programar para personas con una formación técnica pero sin un entrenamiento formal como educadores. Este proyecto tiene por objetivo desarrollar una traducción colaborativa del libro [Teaching Tech Together](http://teachtogether.tech/en/index.html) para la comunidad hispanoparlante. Se puede acceder a la versión en español [acá](http://teachtogether.tech/es/index.html).
+_Enseñar tecnología en comunidad_ es un libro sobre enseñar a programar para personas con una formación técnica pero sin un entrenamiento formal como educadores. Este proyecto tiene por objetivo desarrollar una traducción colaborativa del libro [Teaching Tech Together](http://teachtogether.tech/en/index.html) de [Greg Wilson](https://third-bit.com/) para la comunidad hispanoparlante. Se puede acceder a la versión en español [acá](http://teachtogether.tech/es/index.html).
 
 ### Orientaciones para la traducción
 
