@@ -41,4 +41,6 @@ Para _mediados de noviembre_ ya estaba todo definido: un nombre, un lugar, una f
 
 En la primera edición no fui chair porque se realizó en el marco de las JAIIO, a partir de mi contacto y propuesta a la Sociedad Argentina de Informática e Investigación Operativa, y yo ya cumplía el rol de chair en otro simposio dentro de las jornadas.  Por lo que en esa edición y en la segunda fui un activo miembro del comité organizador, pasando a ser chair durante la edición 2020 y 2021.
 
-La conferencia logró que personalidades importantes del mundo R vinieran por primera vez a sudamérica como keynotes y como instructores para los tutoriales.  La conferencia es trilingue, para que quienes hablan Español, Portugués e Inglés puedan participar.  El año pasado logramos charlas, keynotes y tutoriales en los tres idiomas.
+La conferencia logró que personalidades importantes del mundo R vinieran por primera vez a sudamérica como keynotes y como instructores para los tutoriales.  La conferencia es trilingüe, para que quienes hablan Español, Portugués e Inglés puedan participar.  El año pasado logramos charlas, keynotes y tutoriales en los tres idiomas.  
+
+Toda la conferencia se hace con trabajo voluntario.
