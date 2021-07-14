@@ -50,4 +50,4 @@ title = "Hi!"
 
 I'm a researcher at the National Institute of Agricultural Technology and I apply data science to the agricultural sector. I'm a professor at national universities in Argentina and Uruguay.
 
-Co-founder of [MetaDocencia](www.metadocencia.org). Part of the [R-Ladies](www.rladies.org) Global Team. Co-founder and president of [LatinR](https://latin-r.com/), chair of [user! 2021](https://user2021.r-project.org/), [JAIIO](https: //50jaiio.sadio.org.ar/) and the AgroInformatics Congress. Translator of severals R, data science and education materials into Spanish.
+Co-founder of [MetaDocencia](www.metadocencia.org). Part of the [R-Ladies](www.rladies.org) Global Team. Co-founder and chair of [LatinR](https://latin-r.com/), chair of [user! 2021](https://user2021.r-project.org/), [JAIIO](https: //50jaiio.sadio.org.ar/) and the AgroInformatics Congress. Translator of severals R, data science and education materials into Spanish.
