@@ -15,7 +15,7 @@ social:
   link: https://github.com/cienciadedatos
 superuser: false
 user_groups:
-- Proyectos
+- Projects
 ---
 
 ## R for Data Science in Spanish
