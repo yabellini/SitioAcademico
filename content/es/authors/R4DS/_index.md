@@ -5,7 +5,7 @@ bio: R para Ciencia de Datos en español
 name: R para Ciencia de Datos en español
 organizations:
 - name: R para Ciencia de Datos en español
-  url: "http://teachtogether.tech/es/index.html"
+  url: "https://es.r4ds.hadley.nz/"
 social:
 - icon: twitter
   icon_pack: fab
