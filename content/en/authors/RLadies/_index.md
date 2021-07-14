@@ -21,7 +21,7 @@ social:
   link: https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA
 superuser: false
 user_groups:
-- Comunidades
+- Communities
 ---
 
 ## My role in R-Ladies
