@@ -1,10 +1,10 @@
 ---
 authors:
 - T3
-bio: Teaching Tech Together
-name: Teaching Tech Together
+bio: Teaching Tech Together in Spanish
+name: Teaching Tech Together in Spanish
 organizations:
-- name: Teaching Tech Together
+- name: Teaching Tech Together in Spanish
   url: "http://teachtogether.tech/en/index.html"
 social:
 - icon: github
