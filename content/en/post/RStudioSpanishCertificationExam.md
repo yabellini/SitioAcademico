@@ -1,6 +1,6 @@
 ---
 date: "2020-01-06"
-draft: false
+draft: true
 type: page
 linktitle: Examples of Instructor Certification Exams
 summary: In 2019 I became a certified RStudio instructor for tidyverse. This is the test I took.

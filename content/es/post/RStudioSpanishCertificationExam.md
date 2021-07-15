@@ -1,6 +1,6 @@
 ---
 date: "2020-01-06"
-draft: false
+draft: true
 type: page
 linktitle: Ejemplos de exámenes de certificación de instructor en español
 summary: En el 2019 me certifiqué como RStudio instructora de tidyverse.  Este es el exámen que rendí.
