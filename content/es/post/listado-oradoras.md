@@ -3,7 +3,7 @@ date: "2021-03-02"
 draft: false
 type: page
 linktitle: Listado de directorios de oradoras
-summary: Debido a un intercambio en twitter iniciado por Laura Acion aqui un listado de directorios de oradoras mujeres.
+summary: Debido a un intercambio en twitter se armó este listado de directorios de oradoras mujeres.
 title: Listado de directorios de oradoras
 authors: 
     - admin
@@ -22,18 +22,18 @@ citando el pedido original de [Laura Acion](https://lacion.rbind.io/) terminamos
 
 > Si tenes mas data avisanos y lo actualizamos
 
-* Directorio de oradoras de tecnología de [Las de Sistemas](https://twitter.com/lasdesistemas/status/1273374539888672774?s=20): https://github.com/lasdesistemas/speakers-tecnologia)
+* [Directorio de oradoras](https://github.com/lasdesistemas/speakers-tecnologia)) de tecnología de [Las de Sistemas](https://twitter.com/lasdesistemas/status/1273374539888672774?s=20): 
 
-* Directorio de [R-Ladies](https://rladies.org/) (¡por supuesto!): https://rladies.org/directory/
+* [Directorio](https://rladies.org/directory/) de [R-Ladies](https://rladies.org/) 
 
-* 500 científicas: https://500womenscientists.org/request-a-scientist
+* [500 científicas](https://500womenscientists.org/request-a-scientist)
 
-* Diversifica: https://diversifyeeb.com
+* [Diversifica](https://diversifyeeb.com)
 
-* Women in geospatial: https://www.womeningeospatial.org/join/speakers-database
+* [Women in geospatial](https://www.womeningeospatial.org/join/speakers-database)
 
-* Encuentra a tu speakers: https://speakerinnen.org/
+* [Encuentra a tu speakers](https://speakerinnen.org/)
 
-* Relevamiento de científicas de Women in Bioinformatics and Data Science LatAm: https://t.co/nI8rHED8ry?amp=1
+* [Relevamiento de científicas de Women in Bioinformatics and Data Science LatAm]( https://t.co/nI8rHED8ry?amp=1)
 
 > Por estas cosas me gusta twitter
