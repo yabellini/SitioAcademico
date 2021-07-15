@@ -4,7 +4,7 @@ authors:
 bio: The Carpentries
 name: The Carpentries
 organizations:
-- name: The Carpentries
+- name: Software Carpentry, Data Carpentry, y Library Carpentry
   url: "https://carpentries.org/"
 social:
 - icon: twitter
