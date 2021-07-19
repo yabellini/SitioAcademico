@@ -15,7 +15,7 @@ tags:
   - rstats
 ---
 
-## El proyecto universo R (R-universe).
+## El proyecto universo R (_R-universe_).
 
 Durante [useR! 2021](https://user2021.r-project.org/) Jeroen Ooms presentó [el proyecto universo R](https://jeroen.github.io/user2021/#1) en su _keynote_.  
 
@@ -77,8 +77,21 @@ En este paso debes instalar la aplicación R-universe en tu cuenta de GitHub hac
 
 {{< figure src="/img/r_univserse_instalar_app.png" >}}
 
+Se nos presentará la siguiente imágen dandonos la bienvenida al _universo-r_
+
+{{< figure src="/img/r_universe_listo.png" >}} 
+
 
 ### Paso 4: R-universe listo
 
+Una vez que se haya instalado la aplicación, el sistema creará automáticamente tu repositorio personal bajo la organización _r-universe_: `https://github.com/r-universe/<tu_nombre_de_usuario>` (ver imagen siguiente). Aquí es donde el sistema mantiene el historial completo de tus paquetes .
 
+{{< figure src="/img/r_universe_repo_creado.png" >}} 
 
+Después de un par de minutos, por lo general, no más de una hora (en mi caso fueron unos 15 minutos), los paquetes y artículos de los que se hayan completado la compilación en todas las plataformas comenzarán a aparecer en tu panel personal y estarán disponibles para que los usuarios los instalen. 
+
+El panel personal se parece a la siguiente figura.
+
+{{< figure src="/img/r_universe_panel.png" >}}
+
+Allí se presentan tus datos
