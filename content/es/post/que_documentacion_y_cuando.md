@@ -3,7 +3,7 @@ date: "2021-02-23"
 draft: false
 type: page
 linktitle: Tipos de Documentación de acuerdo al nivel de conocimiento
-summary: Una versión resumida y en español de dos post de Greg Wilson y una presentación de Allison Presman Hill.
+summary: Una versión resumida y en español de dos post de Greg Wilson y una presentación de Alison Presmanes Hill.
 title: Tipos de Documentación de acuerdo al nivel de conocimiento
 authors: 
     - admin
