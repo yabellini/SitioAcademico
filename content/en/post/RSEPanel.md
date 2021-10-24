@@ -22,7 +22,7 @@ The abtract for the panel said
 
 You can access the [introductory presentation](https://www.rowlandm.com/accessible/2021-09_SeptembRSE/), the [panel recording](https://www.youtube.com/watch?v= tpxCWCTSZUc & t = 2014s) and the [shared notes](https://pad.sfconservancy.org/p/missing-narrative-rse-panel-2021) that were taken during the panel and the discussion that followed after the panel.
 
-I shared the live panel with Alex Chan (who already wrote a [blog post about this panel](https://alexwlchan.net/2021/09/septembrse/)), Caleb Kibet, Charles Gray and Liz Hare. Malvika Sharan led the panel and Rowland Mosbergen moderated it.
+I shared the live panel with Alex Chan (who already wrote a [blog post about this panel](https://alexwlchan.net/2021/09/septembrse/)), Caleb Kibet, Charles Gray and Liz Hare. Malvika Sharan led the panel and Rowland Mosbergen moderated it. eremy Cohen, Michelle Barker were co-organisers.
 
 The instructios for the panelists was that we think and share a story with a positive result, answering one of these two questions:
 
