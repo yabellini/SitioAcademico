@@ -29,7 +29,7 @@ As we are data people, let's first take a look at some general data. Of the more
 <br>
 <p align="center">
 <img src="/img/usermap.svg"
-     alt="A worldmap with the number of participants to useR! 2021 for each country. We reached 122 countries"
+     alt="A worldmap with the number of participants to useR! 2021 for each country. We reached 122 countries. Participants range is 1 to more than 200."
       />
 </p>
 <br>
