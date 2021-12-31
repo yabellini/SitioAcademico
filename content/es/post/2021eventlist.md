@@ -15,7 +15,7 @@ tags:
 
 {{< figure src="/img/eventos_2021.png" alt="collage de los flyers de algunos de los eventos">}}
 
-Repasando lo que hice durante el 2021 me armé este listado con los 53 eventos en los cuales participé como disertante u organizadora.
+Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en los cuales participé como disertante u organizadora.
 
 ## Enero : +1
 
