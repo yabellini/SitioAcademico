@@ -13,6 +13,8 @@ tags:
   - Community
 ---
 
+{{< figure src="/img/eventos_2021.png" alt="collage of some of the events flyers">}}
+
 Reviewing what I did during 2021 I put together this list with the 53 events in which I participated as a speaker or organizer.
 
 ## January : +1
