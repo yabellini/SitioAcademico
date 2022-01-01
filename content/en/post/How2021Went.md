@@ -18,7 +18,7 @@ Once again we come to the end of a complex year.  Reflecting on what happened is
 
 ## Teaching
 
-* I taught at two graduate programs - [Data science applied to public policies](https://www.unab.edu.ar/diplomatura-analisis-datos.html) at Guillermo Brown National University and [New technologies for agriculture](https://www.fca-ude.edu.uy/diploma-en-nuevas-tecnologias-para-la-agricultura.php) at Universidad de la Empresa (Uruguay) - and a [Data science](https://www.edn.org.ar/curso.php?center=cit&idcurso=NTYw) diploma. The courses are Big Data, Visualization and Introduction to programming.
+* I taught at two graduate programs - [Data science applied to public policies](https://www.unab.edu.ar/diplomatura-analisis-datos.html) at Guillermo Brown National University and [New technologies for agriculture](https://www.fca-ude.edu.uy/diploma-en-nuevas-tecnologias-para-la-agricultura.php) at Universidad de la Empresa (Uruguay) - and a [Data science](https://www.edn.org.ar/curso.php?center=cit&idcurso=NTYw) diploma. The courses are Big Data, [Visualization](https://diplodatosunab.github.io/visualizacion/) and Introduction to programming.
 
 * I started teaching at the undergraduate level again.  It is [an undergraduate degree in Data Science](https://www.unab.edu.ar/lic-ciencia-datos.html) at Guillermo Brown National University.  The course is Data Management.
 
