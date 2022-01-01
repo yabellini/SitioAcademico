@@ -93,7 +93,7 @@ Reviewing what I did during 2021 I put together this list with the 53 events in 
 
 * Taught MetaDocencia's [How to teach programming online](https://www.metadocencia.org/en/curso/programar/) course. 
 
-* Co-taught my first [training for instructors](https://carpentries.org/blog/2021/11/metadocencia-instructor-training-english/) for [The Carpentries](https://carpentries.org) organized by MetaDocencia.
+* Co-taught my first [instructor training](https://carpentries.org/blog/2021/11/metadocencia-instructor-training-english/) for [The Carpentries](https://carpentries.org) organized by MetaDocencia.
 
 
 ## September: +38
