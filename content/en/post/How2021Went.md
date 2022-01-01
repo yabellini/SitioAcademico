@@ -58,11 +58,11 @@ A beautiful job, with a wonderful team.  A conference that expanded what was pos
 
 - I gave __13 talks__, of which three of them were keynotes:
 
-* [Data Science Applications in the Agricultural Sector](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) at the [X international seminar on applied statistics](https://congreso.see-ec.org/),  
+  * [Data Science Applications in the Agricultural Sector](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) at the [X international seminar on applied statistics](https://congreso.see-ec.org/),  
 
-* [Teaching to teach without losing anyone along the way](https://docs.google.com/presentation/d/1CSp-YjyoxMgQYU_cXJx-JVTvY0SOFfMblkJ4RBLfrCQ/edit?usp=sharing) at the [50 JAIIO](https://50jaiio.sadio.org.ar/) and 
+  * [Teaching to teach without losing anyone along the way](https://docs.google.com/presentation/d/1CSp-YjyoxMgQYU_cXJx-JVTvY0SOFfMblkJ4RBLfrCQ/edit?usp=sharing) at the [50 JAIIO](https://50jaiio.sadio.org.ar/) and 
 
-* [Data Science applied to Agriculture](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) at the Statistics Virtual Seminar "Big data and Data Science" in Colombia.  
+  * [Data Science applied to Agriculture](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) at the Statistics Virtual Seminar "Big data and Data Science" in Colombia.  
 
 - My [talk about education](https://resources.rstudio.com/resources/rstudioglobal-2021/on-programming-teaching-and-building-interactive-tutorials-with-learnr/) at RStudio::global was special because __was the first talk in a language other than English__. I generated this [web page](https://learning-learnr.netlify.app/) for the talk.
 
@@ -77,7 +77,7 @@ A beautiful job, with a wonderful team.  A conference that expanded what was pos
 
 - The R community in Latin America continues to grow, I have already talked about LatinR, RStudio certifications, the [participation of Latines at useR!](https://user2021.r-project.org/blog/2021/11/26/latines_at_user/) and [R-Ladies](https://yabellini.netlify.app/post/wsds_2021/).
 
-- I was interviewed by María Nanton for [The Turing Way](https://the-turing-way.netlify.app) to add a personal history to the [Communication Chapter](https://the-turing-way.netlify.app/communication/presentations/presentations-personal-stories.html?highlight=yanina)
+- I was interviewed by María Nanton to add a personal history to the [Communication Chapter](https://the-turing-way.netlify.app/communication/presentations/presentations-personal-stories.html?highlight=yanina) of the [The Turing Way](https://the-turing-way.netlify.app)
 
 - I have been invited to other communities but my participation is not as active as in these others I mentioned.  If you are not yet part of any community, I invite you to give them a try, they have changed my life in an extremely positive way.
 
@@ -85,9 +85,9 @@ A beautiful job, with a wonderful team.  A conference that expanded what was pos
 
 last but not least, lets talk about health and family:
 
-- My youngest son finished kindergarten and my youngest sister graduated with a degree in Communication Sciences (she is already a Radio and TV Broadcaster and Journalist).
+- My youngest son finished kindergarten and my little sister graduated with a degree in Communication Sciences (she is already a Radio and TV Broadcaster and Journalist).
 
-- My son with a language disability now reads stories to me.
+- My son with a language impairment now reads stories to me.
 
 - I had a hysterectomy in November after a year of struggling with fibroids. I'm recovering and everything is going really well.
 

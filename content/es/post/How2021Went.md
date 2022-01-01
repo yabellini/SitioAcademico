@@ -59,9 +59,11 @@ Un trabajo hermoso, con un equipo maravilloso.  Una conferencia que amplió lo q
 
 - Di __13 charlas__, de las cuales tres han sido keynotes:
 
-* [Aplicaciones de la Ciencia de Datos en el Sector Agrícola]((https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing)) en el [X seminario internacional de estadística aplicada](https://congreso.see-ec.org/), 
-* [Enseñando a enseñar sin perder a nadie en el camino](https://docs.google.com/presentation/d/1CSp-YjyoxMgQYU_cXJx-JVTvY0SOFfMblkJ4RBLfrCQ/edit?usp=sharing) en las [50 JAIIO](https://50jaiio.sadio.org.ar/) y 
-* [Ciencia de Datos aplicada a la Agricultura](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) en el Seminario Virtual de Estadística "Big data y Ciencia de Datos" en Colombia.  
+  * [Aplicaciones de la Ciencia de Datos en el Sector Agrícola]((https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing)) en el [X seminario internacional de estadística aplicada](https://congreso.see-ec.org/), 
+  
+  * [Enseñando a enseñar sin perder a nadie en el camino](https://docs.google.com/presentation/d/1CSp-YjyoxMgQYU_cXJx-JVTvY0SOFfMblkJ4RBLfrCQ/edit?usp=sharing) en las [50 JAIIO](https://50jaiio.sadio.org.ar/) y 
+  
+  * [Ciencia de Datos aplicada a la Agricultura](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) en el Seminario Virtual de Estadística "Big data y Ciencia de Datos" en Colombia.  
 
 - Mi [charla sobre educación](https://resources.rstudio.com/resources/rstudioglobal-2021/on-programming-teaching-and-building-interactive-tutorials-with-learnr/) en RStudio::global fue especial porque __fue la primera charla en un idioma distinto al inglés__. Generé esta [página web](https://learning-learnr.netlify.app/) para la charla.
 
@@ -77,7 +79,7 @@ Un trabajo hermoso, con un equipo maravilloso.  Una conferencia que amplió lo q
 
 - La comunidad de R en América Latina sigue creciendo, ya he hablado de LatinR, de las certificaciones de RStudio, de la [participación de Latines en useR!](https://yabellini.netlify.app/es/post/latines_at_user/) y de [R-Ladies](https://yabellini.netlify.app/post/wsds_2021/).
 
-- Fui entrevistada por María Nanton para [The Turing Way](https://the-turing-way.netlify.app) para añadir una historia personal al [Capítulo de Comunicación](https://the-turing-way.netlify.app/communication/presentations/presentations-personal-stories.html?highlight=yanina)
+- Fui entrevistada por María Nanton para [The Turing Way](https://the-turing-way.netlify.app) para añadir una historia personal al [Capítulo de Comunicación](https://the-turing-way.netlify.app/communication/presentations/presentations-personal-stories.html?highlight=yanina) del libro.
 
 - Me han invitado a otras comunidades pero mi participación no es tan activa como en estas otras que he mencionado.  Si aún no formas parte de ninguna comunidad, te invito a que las pruebes, a mí me han cambiado la vida de forma muy positiva.
 
