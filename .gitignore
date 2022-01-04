@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+resources
+Thumbs.db
 public
 texto en ingles sobre los mapas conceptuales
