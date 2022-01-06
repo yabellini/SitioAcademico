@@ -4,15 +4,12 @@ draft: false
 summary: listado de los eventos de los cuales fui parte este 2021
 title: Listado de eventos en los que participé este año
 authors: 
-    - admin
-weight: 1
-tags: 
-  - Comunidad
 ---
+
+Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en los cuales participé como disertante u organizadora.
 
 {{< figure src="/img/eventos_2021.png" alt="collage de los flyers de algunos de los eventos">}}
 
-Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en los cuales participé como disertante u organizadora.
 
 ## Enero : +1
 

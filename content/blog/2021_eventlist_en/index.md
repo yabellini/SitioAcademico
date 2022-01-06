@@ -1,13 +1,10 @@
 ---
 date: "2021-12-30"
-draft: false
-summary: list of events in which I was part of this 2021
 title: List of events in which I participated this year
+summary: list of events in which I was part of this 2021
 authors: 
-    - admin
-weight: 1
 tags: 
-  - Community
+
 ---
 
 {{< figure src="/img/eventos_2021.png" alt="collage of some of the events flyers">}}
