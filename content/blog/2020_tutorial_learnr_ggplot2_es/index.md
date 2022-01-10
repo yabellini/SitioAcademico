@@ -1,9 +1,9 @@
 ---
 date: "2020-05-21"
 draft: false
-linktitle: Empaquetando tutoriales interactivos
+linktitle: Un paquete para aprender ggplot2
 summary: Mini tutorial para generar gráficos en R festejando a Florence Nightingale
-title: Empaquetando tutoriales interactivos 
+title: Un paquete para aprender ggplot2
 authors: 
     - admin
 weight: 1
