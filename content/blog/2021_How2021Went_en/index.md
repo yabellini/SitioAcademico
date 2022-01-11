@@ -1,8 +1,13 @@
 ---
 date: "2022-01-01"
 title: How 2021 went?
+layout: single-sidebar
 summary: Once again we come to the end of a complex year.  Reflecting on what happened is a way to improve in the future (or so I hope).  This is my summary of my highs of this 2021.
-authors: 
+authors: Yanina Bellini Saibene
+featured: yes
+tags: 
+  - Community
+  - Personal
 ---
 
 Once again we come to the end of a complex year.  Reflecting on what happened is a way to improve in the future (or so I hope).  This is my summary of my highs of this 2021.
@@ -73,7 +78,7 @@ A beautiful job, with a wonderful team.  A conference that expanded what was pos
 
 - I have been invited to other communities but my participation is not as active as in these others I mentioned.  If you are not yet part of any community, I invite you to give them a try, they have changed my life in an extremely positive way.
 
-### Health and family
+## Health and family
 
 last but not least, lets talk about health and family:
 

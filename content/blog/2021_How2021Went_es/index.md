@@ -1,12 +1,14 @@
 ---
 date: "2022-01-01"
 draft: false
+layout: single-sidebar
 summary: Nuevamente llegamos al final de un año complejo.  Reflexionar sobre lo que pasó es una forma de poder mejorar en el futuro (o eso al menos espero).  Este es mi resumen de mis momentos seleccionados de este 2021.
 title:  ¿Cómo fue el 2021?
-authors: 
-    - admin
+authors: Yanina Bellini Saibene
+featured: yes
 tags: 
-  
+  - Comunidad
+  - Personal
 ---
 
 Nuevamente llegamos al final de un año complejo.  Reflexionar sobre lo que pasó es una forma de poder mejorar en el futuro (o eso al menos espero).  Este es mi resumen de mis momentos seleccionados de este 2021.
@@ -80,7 +82,7 @@ Un trabajo hermoso, con un equipo maravilloso.  Una conferencia que amplió lo q
 - Me han invitado a otras comunidades pero mi participación no es tan activa como en estas otras que he mencionado.  Si aún no formas parte de ninguna comunidad, te invito a que las pruebes, a mí me han cambiado la vida de forma muy positiva.
 
 
-### Salud y familia
+## Salud y familia
 
 Por último, pero no menos importante, hablemos de la salud y la familia:
 

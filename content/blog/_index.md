@@ -4,8 +4,8 @@ description: |
   Writings about my interests and my work: R, education, communities of practice, research, data science, experiences, talks and some more personal stuff.| Escritos sobre mis intereses y mis trabajos: R, educación, comunidades de práctica, investigación, ciencia de datos, experiencias, charlas y algunas cosas más personales.
 author: "Yanina Bellini Saibene"
 show_post_thumbnail: true
-thumbnail_left: true # for list-sidebar only
-show_author_byline: true
+thumbnail_left: false # for list-sidebar only
+show_author_byline: false
 show_post_date: true
 show_button_links: false
 # for listing page layout
@@ -13,15 +13,15 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Writing, thinking, sharing, learning. | Escribiendo, pensando, compartiendo, aprendiendo.
+  title: Writing, thinking, sharing, learning. <br> <br> Escribiendo, pensando, compartiendo, aprendiendo.
   description: |
-    Writings about my interests and my work: R, education, communities of practice, research, data science, experiences, talks and some more personal stuff. <br> 
+    Writings about my interests and my work: R, education, communities of practice, research, data science, experiences, talks and some more personal stuff. <br> <br>
     Escritos sobre mis intereses y mis trabajos: R, educación, comunidades de práctica, investigación, ciencia de datos, experiencias, charlas y algunas cosas más personales.
     
   author: "Yanina Bellini Saibene"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  show_sidebar_adunit: true # show ad container
+  show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
