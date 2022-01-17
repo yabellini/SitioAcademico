@@ -4,8 +4,13 @@ diagram: true
 markup: mmark
 math: true
 title: Receta para un video de fin de año 
-authors: 
-    - admin
+authors: []
+categories:
+  - Comunidad
+  - R-Ladies
+tags:
+  - R-Ladies
+    
 ---
 
 Para cerrar el 2019 desde R-Ladies hicimos un video, si aún no lo viste, aquí está:

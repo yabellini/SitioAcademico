@@ -4,12 +4,12 @@ diagram: true
 markup: mmark
 math: true
 title: Recipe for a year-end video
-authors: 
-    - admin
-    - Alejandra Bellini
-    - Laura Acion
+authors: "Yanina Bellini Saibene, Alejandra Bellini, Laura Acion"
+categories:
+  - Community
+  - R-Ladies
 tags:
-    - R-Ladies
+  - R-Ladies
 ---
 
 To close the awesome R-Ladies 2019 year we made a video, if you haven't seen it yet, here it is:

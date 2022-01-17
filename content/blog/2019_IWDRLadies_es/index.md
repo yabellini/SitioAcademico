@@ -4,12 +4,14 @@ diagram: true
 markup: mmark
 math: true
 title: Campaña de Twitter de R-Ladies IWD 2019. Explicando el proyecto de twitter para el IWD 2019
-authors: 
-    - admin
-    - Patricia Loto
-    - Divya Seernani
-    - Roxana Noelia Villafane
-    - Gabriela De Queiroz
+authors: "Yanina Bellini Saibene, Patricia Loto, Divya Seernani, Roxana Noelia Villafane, Gabriela De Queiroz"
+categories:
+  - Comunidad
+  - R-Ladies
+tags:
+  - R-Ladies
+  - Día Internacional de la mujer
+  - Campaña Twitter    
 ---
 
 > _Como fue contado por Yanina Bellini, Patricia Loto y Divya Seernani;_

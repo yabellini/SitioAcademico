@@ -4,12 +4,16 @@ draft: false
 linktitle: Sobre estrellas y semillas. La industria espacial al servicio del agro.
 summary: 
 title: Sobre estrellas y semillas. La industria espacial al servicio del agro.
-authors: 
-    - admin
+authors: []
 weight: 1
+categories:
+  - Ciencia de Datos
+  - Agro
+  - Teledetección
 tags: 
   - Teledetección
   - Agro
+  - Ciencia de Datos
 ---
 
 Durante el 5 y 6 de Septiembre pasado (2016) se llevó a cabo el [Congreso Argentino de AgroInformática](https://inta.gob.ar/documentos/congreso-argentino-de-agroinformatica-cai-2016-resultados), en la ciudad de Buenos Aires. Allí se discutieron los aportes de las AgroTICs al desarrollo de una agroindustria que satisfaga las demandas de un mundo con mayor necesidad de alimentos que se produzcan cuidando la salud, el ambiente y los recursos naturales.

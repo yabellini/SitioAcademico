@@ -5,14 +5,14 @@ markup: mmark
 math: true
 title: IWD 2019 Twitter Action.
 summary:  Every year on March 8th, the world celebrates International Women's Day (IWD). R-Ladies run a twitter campaing. We told how in this blog post.
-authors: 
-    - admin
-    - Patricia Loto
-    - Divya Seernani
-    - Roxana Noelia Villafane
-    - Gabriela De Queiroz
+authors: "Yanina Bellini Saibene, Patricia Loto, Divya Seernani, Roxana Noelia Villafane, Gabriela De Queiroz"
+categories:
+  - Community
+  - R-Ladies
 tags:
-    - R-Ladies
+  - R-Ladies
+  - IWD
+  - Twitter campaign
 ---
 
 > As told by Yanina Bellini, Patricia Loto and Divya Seernani; with notes from Roxana Noelia Villafane and Gabriela De Queiroz
