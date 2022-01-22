@@ -6,6 +6,7 @@ math: true
 title: Generando una nube de palabras con R
 authors: []
 categories:
+  - Español
   - Comunidad
   - R-Ladies
 tags:

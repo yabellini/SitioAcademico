@@ -3,6 +3,7 @@ date: "2019-04-10"
 title: La Ciencia de Datos al servicio del Agro
 authors: []
 categories:
+  - Español
   - Ciencia de Datos
   - Agro
 tags:

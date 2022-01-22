@@ -6,6 +6,7 @@ math: true
 title: Recipe for a year-end video
 authors: "Yanina Bellini Saibene, Alejandra Bellini, Laura Acion"
 categories:
+  - English
   - Community
   - R-Ladies
 tags:

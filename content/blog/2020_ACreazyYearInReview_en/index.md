@@ -3,11 +3,13 @@ date: "2020-12-31"
 draft: false
 summary: 2020 will remain in our memories for a long time. It was a very complex year. Here is my balance of this year, highlighting the positive things that happened to me.
 title: A crazy year in review
-authors: 
-    - admin
-weight: 1
+authors: []
+categories:
+  - English
+  - Community
 tags: 
-  
+  - Community
+  - Personal
 ---
 
 {{< figure src="/img/YearInReview_2020.png" alt="Hex Stickers of some of the communities and initiatives in which I worked this year">}}

@@ -7,6 +7,7 @@ title: Sobre estrellas y semillas. La industria espacial al servicio del agro.
 authors: []
 weight: 1
 categories:
+  - Español
   - Ciencia de Datos
   - Agro
   - Teledetección

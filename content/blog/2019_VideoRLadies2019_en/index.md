@@ -6,6 +6,7 @@ math: true
 title: Receta para un video de fin de año 
 authors: []
 categories:
+  - Español
   - Comunidad
   - R-Ladies
 tags:
