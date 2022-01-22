@@ -18,5 +18,5 @@ Co-winner of CIALP Technological Innovation Award and the National e-Government 
 
 M.S. in Data Mining and Knowledge Management.
 
-_You will found the content of this web site in Spanglish: the content may be written in English and/or Spanish._
+_You will found the content of this web site in Spanglish, it may be written in English and/or Spanish._
 
