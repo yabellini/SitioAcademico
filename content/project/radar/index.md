@@ -1,27 +1,27 @@
 ---
+title: Radar Meteorológico de la EEA Anguil
+subtitle: "Contribuciones para su uso en el sector agropecuario"
+excerpt: ""
+date: 2020-07-02
+author: "Yanina Bellini Saibene"
+featured: true
+draft: false
 date: "2017-05-02T00:00:00Z"
-external_link: ""
-image:
-  caption: Foto de Juan Caldera
-  focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/yabellini
-summary: "Rol: Editora"
+- icon: book
+  icon_pack: fas
+  name: Libro en español
+  url: project/radar/inta_radar_meteorologico_de_la_eea_anguil.pdf
 tags:
-- Weather RADAR
-title: Radar Meteorológico de la EEA Anguil.
-url_code: ""
-url_pdf: inta_radar_meteorologico_de_la_eea_anguil.pdf
-url_slides: ""
-url_video: ""
+  - RADAR Meterológico
+  - Teledetección
+  - Español
+excerpt: "Compilación de los trabajos de investigación y desarrollo llevados adelante en la Estación Experimental Agropecuaria Anguil utilizando el radar meteorológico situado en sus instalaciones, desde el 2009 al 2017"
 ---
 
-#  Radar meteorológico de la EEA Anguil. Contribuciones para su uso en el sector agropecuario.
+### Editoras: María Laura Belmonte, Yanina Bellini Saibene  
 
-## Editoras: María Laura Belmonte, Yanina Bellini Saibene
+<img src='featured.jpg' align="right" height="500" alt='Tapa del libro donde aparece el radomo del radar de la EEA Anguil'/>
 
 Esta publicación tiene como objetivo compilar los trabajos de investigación y desarrollo llevados adelante en la Estación Experimental Anguil utilizando como herramienta principal el radar meteorológico situado en sus instalaciones, desde el 2009 al 2017.
 

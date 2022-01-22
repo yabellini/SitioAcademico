@@ -11,7 +11,8 @@ tags:
 categories:
 - Traducciones
 - Educación
-- Comunnidad
+- Comunidad
+- Español
 # layout options: single or single-sidebar
 layout: single
 links:
@@ -32,13 +33,12 @@ links:
 #  name: Blog post
 #  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 
-summary: "Traducción colaborativa al castellano del libro R para Ciencia de Datos de Garrett Grolemund, Hadley Wickham."
+excerpt: "Traducción colaborativa al castellano del libro R para Ciencia de Datos de Garrett Grolemund, Hadley Wickham."
 tags:
   - Data Science
   - Ciencia de Datos
   - R
   - Español
-
 ---
 
 ## R para Ciencia de Datos

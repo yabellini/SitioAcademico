@@ -6,12 +6,11 @@ date: 2020-07-02
 author: "Yanina Bellini Saibene"
 featured: true
 draft: false
-tags:
-- hugo-site
 categories:
 - Traducciones
 - Educación
-- Comunnidad
+- Comunidad
+- Español
 # layout options: single or single-sidebar
 layout: single
 links:
@@ -32,7 +31,7 @@ links:
 #  name: Blog post
 #  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 
-summary: "Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson"
+excerpt: "Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson"
 tags:
 - Education
 - DataScience
