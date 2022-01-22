@@ -4,13 +4,14 @@ draft: false
 linktitle: Share educational material and maintain authorship.
 summary: Sharing your educational material so that others can use it is a powerful and generous idea. In this post we tell you how to do it while maintaining your authorship.
 title: Share educational material and maintain authorship.
-authors: 
-    - yabellini
-weight: 1
+authors: []
+categories:
+  - English
+  - Education
 tags: 
-  - share
-  - open education
-  - technical tips
+  - Education
+  - Technical tips
+  - MetaDocencia
 ---
 
 As detailed in [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generating educational material requires a significant effort both for its initial development and to keep it updated.

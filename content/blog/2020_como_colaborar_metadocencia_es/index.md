@@ -1,15 +1,18 @@
 ---
 date: "2020-04-13"
 draft: false
-type: page
-linktitle: Cómo colaborar con MetaDocencia
 summary: Si te gustó nuestra propuesta, si tomaste un curso o si te parece que está bueno lo que hacemos y querés ayudarnos, aquí te presentamos un listado de opciones que tenés para darnos una mano y sumar tu granito a esta iniciativa.
 title: Cómo colaborar con MetaDocencia
 authors: 
-    - yabellini
-    - lacion
-type: post
-weight: 1
+  - Yanina Bellini Saibene
+  - Laura Acion
+categories:
+  - Español
+  - Comunidad
+  - Educación
+tags: 
+  - Comunidad
+  - MetaDocencia
 ---
 
 ## ¿Qué puedo hacer para colaborar?

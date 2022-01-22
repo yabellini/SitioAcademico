@@ -5,11 +5,15 @@ summary: Una de las premisas de nuestros cursos es *“No enseñes sóla/o”*. 
 title: Un día en la vida de un ayudante de clase on-line
 authors: 
     - Patricia Loto
-    - admin
+    - Yanina Bellini Saibene
     - Nicolas Palopoli
     - Paola Corrales
-weight: 1
+categories:
+  - Español
+  - Comunidad
+  - Educación
 tags: 
+  - Comunidad
   - MetaDocencia
 ---
 

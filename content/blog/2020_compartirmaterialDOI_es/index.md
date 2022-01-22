@@ -1,17 +1,18 @@
 ---
 date: "2020-09-01"
 draft: false
-linktitle: Compartir material educativo y mantener la autoría.
 summary: compartir tu material educativo para que otras personas puedan usarlo es una idea potente y generosa. En este post te contamos como hacerlo manteniendo tu autoría.
 title: Compartir material educativo y mantener la autoría.
-authors: 
-    - admin
-weight: 1
+authors: []
+categories:
+  - Español
+  - Comunidad
+  - Educación
 tags: 
-  - compartir
-  - open education
-  - tips técnicos
+  - Comunidad
   - MetaDocencia
+  - Educación
+  - Tips técnicos
 ---
 
 Como se detalla en [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generar material esducativo requieren un esfuerzo significativo tanto para su desarrollo inicial como para mantenerlo actualizado.
