@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Yanina Bellini Saibene"
-role: "Community Builder"
+role: "Educator, Community Builder and Researcher"
 avatar_shape: circle # rounded, circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: # "How to say my name" leave blank to exclude

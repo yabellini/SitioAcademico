@@ -29,7 +29,7 @@ intro: |
   
   In 2019 I started to teach at the undergraduate and graduate level (Programming 101, Visualization 101, Big Data 101 and Data Bases 101) for two diploma courses (Data Science in Public Policy and New Technologies for Agriculture) and a Bachelor's Degree in Data Science.  I also helped to create a master's degree in Data Science.
   
-  If you want to contact me, use my [twitter](https://twitter.com/yabellini).
+  If you want to contact me, you can found me on [twitter](https://twitter.com/yabellini).
 
   
   
