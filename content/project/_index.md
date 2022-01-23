@@ -1,5 +1,5 @@
 ---
-title: Project, Courses, Books and Software
+title: Current and Recent Project
 description: "My porfolio includes researcher and community projects, books, software and openly available educational material I have created or contribute to."
 author: "Yanina Bellini Saibene"
 show_post_thumbnail: true
