@@ -1,7 +1,6 @@
 ---
 title: Radar Meteorológico de la EEA Anguil
 subtitle: "Contribuciones para su uso en el sector agropecuario"
-excerpt: ""
 date: 2020-07-02
 author: "Yanina Bellini Saibene"
 featured: true
