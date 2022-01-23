@@ -11,9 +11,12 @@ links:
   icon_pack: fas
   name: Libro en español
   url: project/radar/inta_radar_meteorologico_de_la_eea_anguil.pdf
+categories:
+  - Remote Sensing
+  - Español
 tags:
-  - RADAR Meterológico
-  - Teledetección
+  - Radar
+  - Remote Sensing
   - Español
 excerpt: "Compilación de los trabajos de investigación y desarrollo llevados adelante en la Estación Experimental Agropecuaria Anguil utilizando el radar meteorológico situado en sus instalaciones, desde el 2009 al 2017"
 ---

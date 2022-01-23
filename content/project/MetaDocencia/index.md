@@ -13,8 +13,7 @@ tags:
 categories:
   - Community
   - Education
-  - MetaDocencia
-  - R
+  - Español
 # layout options: single or single-sidebar
 layout: single
 links:

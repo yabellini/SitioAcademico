@@ -9,10 +9,11 @@ links:
   name: Libro en español
   url: http://www.unlpam.edu.ar/images/extension/edunlpam/QuedateEnCasa/las-inundaciones-en-el-noreste-de-la-pampa.pdf
 categories:
-  - Teledetección
+  - Remote Sensing
   - Español
 tags:
   - geotecnologías
+  - Teledetección
 ---
 
 <img src='featured.jpg' align="right" height="500" alt='Tapa del libro donde aparece una foto aérea del casco de un campo completamente rodeado por agua'/>

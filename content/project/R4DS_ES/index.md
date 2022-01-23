@@ -7,12 +7,15 @@ author: "Yanina Bellini Saibene"
 featured: true
 draft: false
 tags:
-- hugo-site
+  - Translation
+  - Education
+  - Community
+  - Español
 categories:
-- Traducciones
-- Educación
-- Comunidad
-- Español
+  - Translation
+  - Education
+  - Community
+  - Español
 # layout options: single or single-sidebar
 layout: single
 links:
