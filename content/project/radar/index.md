@@ -14,6 +14,7 @@ links:
 categories:
   - Remote Sensing
   - Español
+  - Book
 tags:
   - Radar
   - Remote Sensing

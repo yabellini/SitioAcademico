@@ -11,6 +11,7 @@ links:
 categories:
   - Remote Sensing
   - Español
+  - Book
 tags:
   - geotecnologías
   - Teledetección

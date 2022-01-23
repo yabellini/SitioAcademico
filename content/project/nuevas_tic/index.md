@@ -1,25 +1,29 @@
 ---
-date: "2018-10-02T00:00:00Z"
-external_link: ""
-image:
-  caption: 
-  focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/yabellini
-summary: "Rol: Autora"  
-tags:
-- geotecnologías
 title: Potencialidades de las nuevas tecnologías en el agro pampeano.
-url_code: ""
-url_pdf: libro_nuevas_tics.pdf
-url_slides: ""
-url_video: ""
+subtitle: ""
+date: 2017-05-02
+author: "Yanina Bellini Saibene"
+featured: true
+draft: false
+links:
+- icon: book
+  icon_pack: fas
+  name: Libro en español
+  url: project/nuevas_tic/libro_nuevas_tic.pdf
+categories:
+  - Remote Sensing
+  - Español
+  - Book
+tags:
+  - Remote Sensing
+  - Geographic Information Systems
+  - geotechnologies
+  - Español
+excerpt: "Compilación de los trabajos de investigación y desarrollo donde profesionales de diversas instituciones aplicaron el uso de la teledetección y los sistemas de información geográfica a la resolución de problemas relacionados con el agro"
+
 ---
 
-#  Potencialidades de las nuevas tecnologías en el agro pampeano.
+<img src='featured.jpg' align="right" height="500" alt='Tapa del libro presentando un globo recortado en diversos recuadros con fotos de diferentes tecnologías en cada recuadro.'/>
 
 El presente libro contiene los trabajos donde profesionales de diversas instituciones aplicaron el uso de la teledetección y los sistemas de información geográfica a la resolución de problemas.
 
@@ -31,7 +35,7 @@ En una primera etapa se explica de manera concisa y concreta los aspectos básic
 
 Los trabajos presentados generan aportes diversos desde su especificidad y seguramente serán de gran utilidad para aquellos que deseen profundizar en la temática, dado que permiten explorar, caracterizar y comprender los aspectos que tienen fuerte implicancia en los territorios.
 
-> Autores: Edgardo Osvaldo ADEMA,Cristian ALVAREZ,Carolina Manuela AUMASSANNE,Walter Saul AVENDAÑO,Francisco Jose BABINEC,Pablo BARGIANO,Maria Eugenia BEGET,*Yanina Noemi BELLINI SAIBENE*,María Laura BELMONTE,Lucas Ramiro BUTTI,
+> Autores: Edgardo Osvaldo ADEMA,Cristian ALVAREZ,Carolina Manuela AUMASSANNE,Walter Saul AVENDAÑO,Francisco Jose BABINEC,Pablo BARGIANO,Maria Eugenia BEGET,**Yanina Noemi BELLINI SAIBENE**,María Laura BELMONTE,Lucas Ramiro BUTTI,
 Lorena Veronica CARREÑO,Andres Ezequiel CORRO MOLAS,Walter, CRAVERO,Emiliano DIBELLA,Mauricio Aníbal FARRELL,
 Dardo Roy FONTANELLA,Ernesto Oscar FRANK,Eugenia Margarita GHIRONI,Federico KOVAC,Marie-Julie LAMBERT,Enrique LLORENS,Roberto Carlos MARIANO,María Celeste MARTINEZ,Maria Lujan MASSERONI,Mario MENDOZA,Soledad MIEZA, Jorgelina Ceferina MONTOYA,Patricio ORICCHIO,Maria Micaela PEREZ,Maria Sol POEY,Carolina PORFIRI,Zinda Edith ROBERTO,Paolo Daniel SARTOR,Ivana Noemi STEFANAZZI,Pablo Mauricio VAZQUEZ,Ernesto VIGLIZZO,Cristian WALAS,Carlos Damian ZAMORA
 

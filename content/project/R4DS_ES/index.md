@@ -11,6 +11,7 @@ tags:
   - Education
   - Community
   - Español
+  - Book
 categories:
   - Translation
   - Education

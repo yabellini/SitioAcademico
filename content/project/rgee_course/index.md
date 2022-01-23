@@ -36,3 +36,5 @@ Veremos conceptos básicos de datos espaciales, los paquetes disponibles en R pa
 Los materiales presentan un video con el taller completo, incluyendo conceptos teóricos y práctica con código.
 
 El taller fue dictado como un seminario web para [Desafíos AgTech 2020](https://desafiosagtech.com/)
+
+> Puedes citar ester recurso como: Yanina Bellini Saibene. (2022). yabellini/curso_rgee: Procesando datos espaciales con R (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5849116

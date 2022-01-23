@@ -11,6 +11,7 @@ categories:
 - Educación
 - Comunidad
 - Español
+- Book
 # layout options: single or single-sidebar
 layout: single
 links:
