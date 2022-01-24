@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
- Yanina Bellini Saibene Website.
+ Yanina Bellini Saibene's Website.
 show_header: true
 sidebar_left: true
 # Keep this! Do not edit.
