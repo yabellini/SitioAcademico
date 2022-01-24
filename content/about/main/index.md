@@ -29,7 +29,7 @@ intro: |
   
   In 2004 I met the man who became my partner in life and in 2012, 2013 and 2015 we became proud parents. In 2012 we lost Ana, our first child. Now we enjoy watching with wonder what beautiful people our other two kids are becoming.
   
-  If you want to contact me, you can found me on [twitter](https://twitter.com/yabellini).
+  If you want to contact me, you can fiund me on [Twitter](https://twitter.com/yabellini).
 
   
   
