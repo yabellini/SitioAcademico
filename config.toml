@@ -140,11 +140,11 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-#  [[menu.header]]
-#    name = "Talks"
-#    title = "Talks"
-#    url = "/talk/"
-#    weight = 4
+  [[menu.header]]
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
+    weight = 4
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"

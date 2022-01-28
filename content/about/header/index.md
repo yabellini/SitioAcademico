@@ -9,14 +9,13 @@ headline: |
 <!-- this is a subheadline -->
 __In short:__ 
 
-[INTA](https://www.argentina.gob.ar/inta)'s Researcher (since 1998). [UNAB](https://www.unab.edu.ar/) and [UDE](https://www.fca-ude.edu.uy/) professor (since 2019).
+[INTA](https://www.argentina.gob.ar/inta)'s Researcher. Coordinator of the Agroecosystem Modeling Network. [UNAB](https://www.unab.edu.ar/) and [UDE](https://www.fca-ude.edu.uy/) professor.
 
 Co-founder of [MetaDocencia](https://www.metadocencia.org/), [LatinR](https://latin-r.com/) and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
 Member, [The Carpentries](https://carpentries.org/) Executive Council, MetaDocencia Core Team, [R-Ladies](https://rladies.org/) Global Team, [RForwards](https://forwards.github.io/) Core Team, [R4DS_ES](https://github.com/cienciadedatos), useR! Working Group, [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
 
-
-Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data. The Chamber of Deputies of the Province of La Pampa declares my research on data science and carbon footprint to be of legislative and scientific interest (2018). 
+Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data.  
 
 M.S. in Data Mining and Knowledge Management.
 
