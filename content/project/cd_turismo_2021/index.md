@@ -45,7 +45,7 @@ links:
   url: https://youtu.be/jm8j4rZPkQ8
 ---
 
-<img src='featured.png' align="right" height="200" alt='Foto de una montaña  y un lago de la Patagonia Argentina. Foto por Marc Thunis en Unsplash'/>
+<img src='featured.jpg' align="right" height="200" alt='Foto de una montaña  y un lago de la Patagonia Argentina. Foto por Marc Thunis en Unsplash'/>
 
 La ciencia de datos es una disciplina que ha brindado nuevas y maravillosas posibilidades a muchas industrias por medio de la explotación de datos. Junto con estas posibilidades, también ha traído consigo cambios y desafíos constantes. La industria del turismo no es una excepción.
 
