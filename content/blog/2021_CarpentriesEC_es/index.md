@@ -1,15 +1,16 @@
 ---
 date: "2021-10-30"
 draft: false
-linktitle: Mi aplicación para las elecciones del Consejo Ejecutivo de The Capentries 2021
 summary: Esta es mi aplicación para las elecciones de la comunidad del Consejo Ejecutivo de The Capentries 2021
 title: Mi aplicación para las elecciones del Consejo Ejecutivo de The Capentries 2021
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Community
+  - Education
+  - Español
 tags: 
-  - Communities
-  - Educacion
+  - Community
+  - Education
   - The Carpentries
 ---
 

@@ -3,7 +3,13 @@ date: "2021-12-30"
 draft: false
 summary: listado de los eventos de los cuales fui parte este 2021
 title: Listado de eventos en los que participé este año
-authors: 
+authors: Yanina Bellini Saibene
+categories:
+  - Español
+  - Community
+tags: 
+  - Personal
+  - Report
 ---
 
 Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en los cuales participé como disertante u organizadora.

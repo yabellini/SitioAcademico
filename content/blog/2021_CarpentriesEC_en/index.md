@@ -3,11 +3,13 @@ date: "2021-10-30"
 draft: false
 summary: This is my application for The Capentries Executive Council 2021 elections
 title: Application for The Capentries Executive Council 2021 elections
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Community
+  - Education
+  - English
 tags: 
-  - Communities
+  - Community
   - Education
   - The Carpentries
 ---

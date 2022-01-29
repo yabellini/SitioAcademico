@@ -2,8 +2,13 @@
 date: "2021-12-30"
 title: List of events in which I participated this year
 summary: list of events in which I was part of this 2021
-authors: 
+authors: Yanina Bellini Saibene
+categories:
+  - English
+  - Community
 tags: 
+  - Personal
+  - Report
 
 ---
 

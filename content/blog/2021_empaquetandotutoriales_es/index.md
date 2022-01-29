@@ -1,16 +1,16 @@
 ---
 date: "2021-05-17"
 draft: false
-type: page
-linktitle: Empaquetando tutoriales
 summary: un paquete es una de las maneras de publicar tu tutorial de learnr, en este blog post te explicamos como generar un paquete para tu tutorial.
 title: Empaquetando tutoriales
-authors: 
-    - yabellini
-type: post
-weight: 1
+categories:
+  - Community
+  - Education
+  - Español
 tags: 
-    - Recursos
+  - Community
+  - Education
+  - Package
 ---
 {{< figure src="/media/paquete.jpg" alt="Empaquetando tutoriales interactivos">}}
 _Fuente de la imágen:_ <a href='https://www.freepik.es/vectores/negocios'>Vector de Negocios creado por vectorjuice - www.freepik.es</a>

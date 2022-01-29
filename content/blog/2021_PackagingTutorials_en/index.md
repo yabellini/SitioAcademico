@@ -1,14 +1,18 @@
 ---
 date: "2020-05-21"
 draft: false
-linktitle: Packaging interactive tutorials
 summary: Mini tutorial to generate graphics in R celebrating Florence Nightingale
 title: Packaging interactive tutorials 
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Community
+  - Education
+  - English
 tags: 
-  
+  - Community
+  - Education
+  - Package
+  - ggplot2
 ---
 
 On May 12, #30díasdegráficos (30 days of plots) with R, started. This is an initiative of the Spanish-speaking community of R to remember Florence Nightingale and learn about data visualization.
