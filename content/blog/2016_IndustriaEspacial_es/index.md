@@ -8,9 +8,9 @@ authors: []
 weight: 1
 categories:
   - Español
-  - Ciencia de Datos
+  - Data Science
   - Agro
-  - Teledetección
+  - Remote Sensing
 tags: 
   - Teledetección
   - Agro

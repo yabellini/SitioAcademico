@@ -7,10 +7,11 @@ title: Receta para un video de fin de año
 authors: []
 categories:
   - Español
-  - Comunidad
+  - Community
   - R-Ladies
 tags:
   - R-Ladies
+  - R
     
 ---
 
