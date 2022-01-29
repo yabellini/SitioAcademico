@@ -1,7 +1,7 @@
 ---
 title: "From Spreadsheets to R"
 subtitle: ""
-excerpt: ""
+excerpt: "This course is intended for people who use spreadsheets for data manipulation and have never programmed, but would like to learn how to work with R. Therefore its starts from the beginning: why use R? and where to start?"
 date: 2021-11-05
 author: "Yanina Bellini Saibene & Paola Corrales"
 featured: true
