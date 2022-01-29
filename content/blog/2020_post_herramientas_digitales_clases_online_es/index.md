@@ -4,13 +4,13 @@ draft: false
 linktitle: Recursos digitales para la enseñanza y el aprendizaje colaborativo online
 summary: Listado de herramientas para tus clases digitales.
 title: Recursos digitales para la enseñanza y el aprendizaje colaborativo online
-authors: 
-    - Patricia Loto 
-    - Elio Campiteli
-    - admin
-weight: 1
+authors: Patricia Loto, Elio Campiteli y Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
   - MetaDocencia
+  - Technical tips
 ---
 
 Queremos brindarte apoyo en este momento actual de tantos cambios e incertidumbre, sabemos que para muchos la experiencia de la enseñanza online es algo nuevo, por eso armamos este post donde te comentamos algunas herramientas que pueden hacerte mucho menos doloroso el traspaso de clases presenciales a virtuales y además pueden contribuir a dinamizar el aula y promover un ambiente más colaborativo entre tus alumnos y entre tus alumnos y vos.

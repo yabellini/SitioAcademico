@@ -6,9 +6,9 @@ title: El balance de un año loco
 authors: []
 categories:
   - Español
-  - Comunidad
+  - Community
 tags: 
-  - Comunidad
+  - Community7
   - Personal
 ---
 

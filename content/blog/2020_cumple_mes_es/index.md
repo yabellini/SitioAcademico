@@ -5,12 +5,15 @@ linktitle: Nuestro primer mes enseñando a enseñar
 summary: ¡Cumplimos un mes! Ya recorrimos un largo camino. Te lo contamos acá
 title: Nuestro primer mes enseñando a enseñar
 authors: 
-    - admin
+    - Yanina Bellini Saibene
     - Alejandra Bellini
     - Laura Acion
     - Patricia Loto
     - Elio Campiteli
 weight: 1
+categories:
+  - Education
+  - Español
 tags: 
   - MetaDocencia 
 ---

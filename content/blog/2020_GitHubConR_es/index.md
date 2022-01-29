@@ -5,13 +5,20 @@ linktitle: Version Control. Primeros pasos de Git con R
 summary: En este post introducimos los primeros pasos para usar Git con RStudio
 title: Primeros pasos de Git con R
 authors: 
-    - admin
+    - Yanina Bellini Saibene
     - Marysol Gatti
 weight: 1
+categories:
+  - Education
+  - R-Ladies
+  - Español
 tags: 
   - R-Ladies
   - Git
   - RStudio
+  - R
+  - Education
+  - Technical tips
 ---
 
 Este post corresponde al meetup realizado en conjunto por los capítulos de R-Ladies Santa Rosa, R-Ladies General Pico y R-Ladies Buenos Aires realizado el 18 de Mayo sobre realizar primeros pasos en Git utilizando R.

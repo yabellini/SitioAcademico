@@ -10,10 +10,10 @@ authors:
     - Paola Corrales
 categories:
   - Español
-  - Comunidad
-  - Educación
+  - Community
+  - Education
 tags: 
-  - Comunidad
+  - Community
   - MetaDocencia
 ---
 

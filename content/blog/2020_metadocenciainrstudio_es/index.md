@@ -1,18 +1,15 @@
 ---
 date: "2020-12-18"
 draft: false
-type: page
-linktitle: Desarrollando capacidades para enseñar ciencia de datos en América Latina
 summary: El nacimiento y crecimiento de MetaDocencia en América Latina para nutrir una comunidad de educadores de habla hispana en 2020 y más allá.
 title: Desarrollando capacidades para enseñar ciencia de datos en América Latina
-authors: 
-  - yabellini
-  - paocorrales
-  - patriloto
-type: post
-weight: 1
+authors: Yanina Bellini Saibene, Paola Corrales y Patricia Loto
+categories:
+  - Education
+  - Español
 tags: 
   - MetaDocencia
+  - RStudio
 ---
 
 ## ¿Qué?

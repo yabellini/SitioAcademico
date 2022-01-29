@@ -8,10 +8,10 @@ authors:
   - Laura Acion
 categories:
   - Español
-  - Comunidad
-  - Educación
+  - Community
+  - Education
 tags: 
-  - Comunidad
+  - Community
   - MetaDocencia
 ---
 

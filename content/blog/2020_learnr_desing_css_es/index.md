@@ -1,17 +1,17 @@
 ---
 date: "2020-11-24"
 draft: false
-type: page
 linktitle: Cambiando el diseño visual de los tutoriales
 summary: Ejemplo de una plantilla CSS explicando como cambiar fuentes y colores de los elementos de un tutorial .
 title: Cambiando el diseño visual de los tutoriales
-authors: 
-    - yabellini
-type: post
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-    - Recursos
-    - tips técnicos
+  - R
+  - Technical tips
+  - CSS
 ---
 
 {{< figure src="/media/css_post.jpg" alt="grupo de personas diseñando">}}

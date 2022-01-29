@@ -1,18 +1,18 @@
 ---
 date: "2020-10-24"
 draft: false
-type: page
 linktitle: Mapas conceptuales en un tutorial interactivo
 summary: Qué son los mapas conceptuales, como podemos utilizarlos para enseñar y como agregarlos a un tutorial de learnr.
 title: Mapas conceptuales en un tutorial interactivo
-authors: 
-    - yabellini
-type: post
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-    - Recursos
-    - Mapas Conceptuales
-    - Open Education
+  - Concept Maps
+  - Open Education
+  - R
+  - Technical tips
 ---
 {{< figure src="/media/mapa_conceptual_post.jpg" alt="esquemas de dos mapas conceptuales vacios">}}
 <a href="http://www.freepik.com">Designed by Freepik</a>

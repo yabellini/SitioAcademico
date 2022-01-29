@@ -1,11 +1,14 @@
 ---
 date: "2020-02-13"
-diagram: true
-markup: mmark
-math: true
 title: Obtaining RStudio certification. A shared path.
-authors: 
-    - admin
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - English
+tags: 
+  - R
+  - RStudio
+  - Personal
 ---
 
 In December 2019 I obtained the [RStudio certification as a Tidyverse instructor](https://education.rstudio.com/trainers/). RStudio launched this [training and certification program](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) in February 2019.

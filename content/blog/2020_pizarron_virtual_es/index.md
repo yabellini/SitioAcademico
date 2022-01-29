@@ -1,18 +1,20 @@
 ---
 date: "2020-10-13"
 draft: false
-type: page
 linktitle: El pizarrón en la virtualidad. Whiteboard.fi
 summary: El pizarrón o la pizarra es parte de las herramientas que usamos en nuestras clases presenciales, ¿cómo se hace presente en la virtualidad?, Juan nos cuenta como usa una pizarra digital para enseñar matemáticas.
 title: El pizarrón en la virtualidad. Whiteboard.fi
 authors: 
     - Juan Domingo Gonzalez
-    - yabellini
-type: post
-weight: 1
+    - Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-  - motivación
-  - tips técnicos 
+  - Motivation
+  - Technical tips
+  - MetaDocencia
+# Photo by AbsolutVision on Unsplash
 ---
 
 _El pizarrón o la pizarra es parte de las herramientas que usamos en nuestras clases presenciales, ¿cómo se hace presente en la virtualidad?. **Juan** nos cuenta como usa una pizarra digital para enseñar matemáticas._

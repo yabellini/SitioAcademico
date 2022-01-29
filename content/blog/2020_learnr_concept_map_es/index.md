@@ -1,17 +1,15 @@
 ---
 date: "2020-10-26"
 draft: false
-type: page
 linktitle: Un mapa conceptual sobre {learnr}
 summary: En este mapa conceptual intento describir los componentes de un tutorial de learnr.
 title: Un mapa conceptual sobre {learnr}
-authors: 
-    - yabellini
-type: post
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-    - Recursos
-    - Mapas Conceptuales
+    - Concept Maps
     - Open Education
 ---
 {{< figure src="/media/concept_map_learnr_post.jpg" alt="Esquema con estilo dibujado a mano de un mapa conceptual sobre tutoriales">}}

@@ -14,8 +14,11 @@ authors:
 
 type: post
 weight: 1
+categories:
+  - Education
+  - Español
 tags: 
-  - experiencias
+  - Experiences
   - MetaDocencia 
 ---
 

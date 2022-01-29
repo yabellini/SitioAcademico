@@ -6,13 +6,12 @@ title: Compartir material educativo y mantener la autoría.
 authors: []
 categories:
   - Español
-  - Comunidad
-  - Educación
+  - English
+  - Education
 tags: 
-  - Comunidad
+  - Education
+  - Technical tips
   - MetaDocencia
-  - Educación
-  - Tips técnicos
 ---
 
 Como se detalla en [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generar material esducativo requieren un esfuerzo significativo tanto para su desarrollo inicial como para mantenerlo actualizado.

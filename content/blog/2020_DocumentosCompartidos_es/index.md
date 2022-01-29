@@ -5,13 +5,17 @@ linktitle: Compartiendo trabajo en tiempo real durante tu clase
 summary: Ejercicios compartidos, notas compartidas, preguntas compartidas. Una de las herramientas que recomendamos para mantener la motiviación de tus estudiantes. En este post te contamos cómo implementarla.
 title: Compartiendo trabajo en tiempo real durante tu clase
 authors: 
-    - admin
+    - Yanina Bellini Saibene
     - Romina Pedino
     - Laura Acion
 weight: 1
+categories:
+  - Education
+  - Español
 tags: 
-  - motivación
-  - tips técnicos 
+  - Education
+  - Technical tips
+  - Motivation
 ---
 
 Una de las herramientas que enseñamos en los cursos de MetaDocencia es trabajar durante la clase compartiendo trabajo en tiempo real. ¿A qué nos referimos con trabajo en tiempo real? A:

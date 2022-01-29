@@ -6,15 +6,22 @@ authors:
   - Natalia Morandeira
   - admin
 date: "2020-12-18"
+authors: 
+  - Pamela Pairo
+  - Natalia Morandeira
+  - Yanina Bellini Saibene
 categories:
-  - blogdown
-  - hugo
-  - Netlify
+  - Education
+  - Español
 tags:
   - blogdown
-  - hugo
+  - Hugo
+  - Portfolio
   - Netlify
-  - multilingue
+  - website
+  - R
+  - Technical tips
+  - Multilingual
 ---
 
 {{< figure src="/img/spoon_web.jpg">}}

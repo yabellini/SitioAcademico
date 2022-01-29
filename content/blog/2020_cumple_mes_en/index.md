@@ -5,12 +5,15 @@ linktitle: Our first month teaching to teach
 summary: We are one month old! We came a long way and we tell you about it here
 title: Our first month teaching to teach
 authors: 
-    - admin
+    - Yanina Bellini Saibene
     - Alejandra Bellini
     - Laura Acion
     - Patricia Loto
     - Elio Campiteli
 weight: 1
+categories:
+  - Education
+  - English
 tags: 
   - MetaDocencia 
 ---

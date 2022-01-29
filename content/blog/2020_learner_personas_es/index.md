@@ -1,18 +1,19 @@
 ---
 date: "2020-10-25"
 draft: false
-type: page
 linktitle: Tutoriales interactivos y personas tipo
 summary: Qué son las personas tipo y como podemos utilizarlas en el diseño de nuestros tutoriales. 
 title: Tutoriales interactivos y personas tipo
 authors: 
-    - yabellini
-type: post
-weight: 1
+    - Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-    - Recursos
-    - Personas tipo
+    - learner personas
     - Open Education
+    - R
+    - Technical tips
 ---
 
 {{< figure src="/media/personas_post.jpg" alt="Estudiantes viendo conferencia grabada con profesor hablando desde tableta">}}

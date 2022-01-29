@@ -6,14 +6,19 @@ summary: Esta es la primera entrega de una serie de post sobre como generar un s
 authors: 
   - Pamela Pairo
   - Natalia Morandeira
-  - admin
-weight: 1
+  - Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags:
-- blogdown
-- Hugo
-- portfolio
-- Netlify
-- página web
+  - blogdown
+  - Hugo
+  - Portfolio
+  - Netlify
+  - website
+  - R
+  - Technical tips
+  - Multilingual
 ---
 
 {{< figure src="/img/adventure.jpg">}}
