@@ -17,6 +17,7 @@ categories:
   - Education
   - Community
   - Español
+  - Book
 # layout options: single or single-sidebar
 layout: single
 links:

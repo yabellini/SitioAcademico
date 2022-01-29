@@ -7,9 +7,17 @@ author: "Yanina Bellini Saibene"
 featured: true
 draft: false
 categories:
-- Traducciones
-- Educación
-- Comunidad
+- Translation
+- Education
+- Community
+- Español
+- Book
+tags:
+- MetaDocencia
+- R-Ladies
+- Translation
+- Education
+- Community
 - Español
 - Book
 # layout options: single or single-sidebar

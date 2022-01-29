@@ -8,6 +8,7 @@ featured: true
 draft: false
 tags:
   - package
+  - Español
 categories:
   - R
   - package
