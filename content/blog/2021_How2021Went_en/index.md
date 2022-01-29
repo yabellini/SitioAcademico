@@ -4,10 +4,13 @@ title: How 2021 went?
 layout: single-sidebar
 summary: Once again we come to the end of a complex year.  Reflecting on what happened is a way to improve in the future (or so I hope).  This is my summary of my highs of this 2021.
 authors: Yanina Bellini Saibene
-featured: yes
+categories:
+  - English
+  - Community
 tags: 
   - Community
   - Personal
+  - Report
 ---
 
 Once again we come to the end of a complex year.  Reflecting on what happened is a way to improve in the future (or so I hope).  This is my summary of my highs of this 2021.

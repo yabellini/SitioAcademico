@@ -1,15 +1,13 @@
 ---
 date: "2021-03-02"
 draft: false
-linktitle: Listado de directorios de oradoras
 summary: Debido a un intercambio en twitter se armó este listado de directorios de oradoras mujeres.
-title: Listado de directorios de oradoras
-authors: 
-    - admin
-    - Violeta Roizman
-weight: 1
+authors: Yanina Bellini Saibene y Violeta Roizman
+categories:
+  - Community
+  - Español
 tags: 
-  - Comunidad
+  - Community
 ---
 
 A partir de [este tweet](https://twitter.com/luucamay_/status/1366799469698834434?s=20)

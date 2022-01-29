@@ -1,16 +1,16 @@
 ---
 date: "2021-11-26"
 draft: false
-linktitle: La comunidad latinoamericana en useR! 2021
 summary: En este blog post te contamos cómo fue la participación latinoamericana en useR! 2021.
 title: La comunidad latinoamericana en useR! 2021
-authors: 
-    - admin
-    - Claudia Alejandra Huaylla
-weight: 1
+authors: Yanina Bellini Saibene y Claudia Alejandra Huaylla
+categories:
+  - Community
+  - R-Ladies
+  - Español
 tags: 
   - useR
-  - Comunidad
+  - Community
   - LatinR
   - R-Ladies
 ---

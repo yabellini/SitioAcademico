@@ -4,11 +4,13 @@ draft: false
 linktitle: Happy Father's Day
 summary: Today we celebrated Father's Day. Some things that my dad did for me.
 title: Happy Father's Day
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - English
 tags: 
-  - Familia
+  - Personal
+  - Report
+  - Family
 ---
 
 Today we celebrated Father's Day. Some things that my dad did for me:

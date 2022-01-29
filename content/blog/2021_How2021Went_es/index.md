@@ -5,10 +5,13 @@ layout: single-sidebar
 summary: Nuevamente llegamos al final de un año complejo.  Reflexionar sobre lo que pasó es una forma de poder mejorar en el futuro (o eso al menos espero).  Este es mi resumen de mis momentos seleccionados de este 2021.
 title:  ¿Cómo fue el 2021?
 authors: Yanina Bellini Saibene
-featured: yes
+categories:
+  - Español
+  - Community
 tags: 
-  - Comunidad
+  - Community
   - Personal
+  - Report
 ---
 
 Nuevamente llegamos al final de un año complejo.  Reflexionar sobre lo que pasó es una forma de poder mejorar en el futuro (o eso al menos espero).  Este es mi resumen de mis momentos seleccionados de este 2021.

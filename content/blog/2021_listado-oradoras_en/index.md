@@ -1,15 +1,14 @@
 ---
 date: "2021-03-02"
 draft: false
-linktitle: Women Speaker Directory Listing
 summary: Due to an exchange on twitter, this list of directories of female speakers was put together.
 title: Women Speaker Directory Listing
-authors: 
-    - admin
-    - Violeta Roizman
-weight: 1
+authors: Yanina Bellini Saibene y Violeta Roizman
+categories:
+  - Community
+  - English
 tags: 
-  - Comunities
+  - Community
 ---
 
 As of [this tweet](https://twitter.com/luucamay_/status/1366799469698834434?s=20)

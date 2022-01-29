@@ -4,11 +4,13 @@ draft: false
 linktitle: Feliz día del padre
 summary: Hoy domingo se festeja el día del padre, algunas cosas que mi viejo hizo por mi.
 title: Feliz día del padre
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Español
 tags: 
-  - Familia
+  - Personal
+  - Report
+  - Family
 ---
 
 Hoy domingo se festeja el día del padre, algunas cosas que mi viejo hizo por mi.
