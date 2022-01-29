@@ -1,14 +1,16 @@
 ---
 date: "2020-05-14"
 draft: false
-linktitle: Generando tutoriales interactivos con el paquete learnr
 summary: El paquete learnr nos permite generar tutoriales interactivos que podemos compartir con nuestros alumnos. En este post hago una pequeña introducción a este paquete.
 title: Generando tutoriales interactivos con el paquete learnr
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-  
+  - Education
+  - Package
+  - R
 ---
 
 Desde el año pasado (2019) empecé a utilizar el paquete `learnr` que permite utilizar documentos RMarkdown para generar tutoriales interactivos.  En este post les cuento que aprendí hasta ahora. 

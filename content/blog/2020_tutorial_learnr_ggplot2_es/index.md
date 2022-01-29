@@ -1,13 +1,17 @@
 ---
 date: "2020-05-21"
 draft: false
-linktitle: Un paquete para aprender ggplot2
 summary: Mini tutorial para generar gráficos en R festejando a Florence Nightingale
 title: Un paquete para aprender ggplot2
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
+  - Education
+  - Package
+  - R
+  - ggplot2
   
 ---
 

@@ -1,14 +1,15 @@
 ---
 date: "2020-03-27"
 draft: false
-linktitle: Configurando opciones de seguridad en Zoom
 summary: Si organizás reuniones en Zoom podés tener problemas con personas que se unan a tu reunión y se comporten inapropiadamente. En este post compilamos algunas acciones que pueden hacer tu reunión más segura.
 title: Configurando opciones de seguridad en Zoom
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
   - MetaDocencia
+  - Technical tips
 ---
 
 **Zoom** se volvió una de las herramientas más usadas para realizar reuniones y clases virtuales. Desafortunadamente, también se puede usar de formas inapropiadas. Acá resumimos una serie de recomendaciones para intentar evitar ataques a tus clases o reuniones que hagas usando Zoom.
