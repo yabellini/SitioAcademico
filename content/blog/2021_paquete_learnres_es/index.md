@@ -1,17 +1,16 @@
 ---
 date: "2021-01-15"
 draft: false
-type: page
-linktitle: Learnres. Un paquete de plantillas para tutoriales en español
 summary: Basado en learnr este paquete te presenta una serie de plantillas para tutoriales en español.
 title: Learnres. Un paquete de plantillas para tutoriales en español
-authors: 
-    - yabellini
-type: post
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
-    - Recursos
-    - Paquetes
+    - Technical Tips
+    - Packages
+    - learnr
 ---
 
 

@@ -3,12 +3,13 @@ date: "2021-12-11"
 draft: false
 title: R-Ladies. Construir, hacer crecer y mantener una comunidad - WSDS 2021
 summary: resumen de mi participación en un panel en la conferencia Women in Statistic and Data Science.
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Español
+  - Community
 tags: 
-  - RSE
-  - Comunidad
+  - R-Ladies
+  - Community
 ---
 
 El 7 de octubre participé en un panel llamado ["R-Ladies: Building, Growing, and Sustaining a Community "](https://ww2.amstat.org/meetings/wsds/2021/onlineprogram/AbstractDetails.cfm?AbstractID=310003) en la conferencia Women in Statistics and Data Science. 

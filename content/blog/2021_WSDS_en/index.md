@@ -1,12 +1,12 @@
 ---
 date: "2021-12-11"
 draft: false
-linktitle: R-Ladies. Building, Growing, and Sustaining a Community  - WSDS 2021
 summary: summary of my participation in a panel at the Women in Statistic and Data Science conference.
 title: R-Ladies. Building, Growing, and Sustaining a Community  - WSDS 2021
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - English
+  - Community
 tags: 
   - R-Ladies
   - Community

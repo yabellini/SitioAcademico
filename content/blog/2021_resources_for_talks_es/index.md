@@ -1,13 +1,14 @@
 ---
 date: "2021-01-02"
 draft: false
-linktitle: Recursos para armar charlas
 summary: Durante 2020 preparé mi charla para la RStudioConf Global 2021.¡Que viaje!. En este post comparto una serie de recursos útiles usados durante el proceso. 
 title: Recursos para armar charlas
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Español
 tags: 
+  - Resources
+  - Technical Tips
   
 ---
 

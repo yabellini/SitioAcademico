@@ -1,13 +1,14 @@
 ---
 date: "2021-01-02"
 draft: false
-linktitle: Resources to build talks
 summary: During 2020 I prepared my talk for RStudioConf Global 2021. What a trip! In this post i sahre a series of useful resources used during the process. 
 title: Resources to build talks
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - English
 tags: 
+  - Resources
+  - Technical Tips
   
 ---
 

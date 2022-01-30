@@ -1,15 +1,15 @@
 ---
 date: "2021-02-23"
 draft: false
-linktitle: Tipos de Documentación de acuerdo al nivel de conocimiento
 summary: Una versión resumida y en español de dos post de Greg Wilson y una presentación de Alison Presmanes Hill.
 title: Tipos de Documentación de acuerdo al nivel de conocimiento
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Education
+  - Español
 tags: 
   - MetaDocencia
-  - Educación
+  - Education
 ---
 
 Estamos desarrollando nuevos cursos en [MetaDocencia](www.metadocencia.org) y una de las secciones del curso de [Enseñar a Programar](https://www.metadocencia.org/curso/programar/) se refiere a enseñar como buscar, pedir e interpretar diferentes tipos de ayuda.

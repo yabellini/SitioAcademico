@@ -1,20 +1,17 @@
 ---
 date: "2021-11-15"
 draft: false
-type: page
-linktitle: Enseñando a enseñar entre comunidades en español
 summary: MetaDocencia organizó dos entrenamientos de instructores de forma on-line y en español para personas de América Latina 
 title: Enseñando a enseñar entre comunidades en español
-authors:
-  - yabellini
-  - paocorrales
-  - lacion
-  - npalopoli
-type: post
-weight: 1
+authors: Yanina Bellini Saibene, Paola Corrales, Laura Acion, Nicolás Palopoli
+categories:
+  - Community
+  - Español
+  - Education
 tags: 
   - MetaDocencia
   - The Carpentries
+  - Education
 ---
 
 Durante 2020 y 2021 enseñamos dos entrenamientos para instructores de Carpentries organizados por [MetaDocencia](https://www.metadocencia.org/).  Estos workshops tuvieron una serie de características particulares:

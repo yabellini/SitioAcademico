@@ -1,20 +1,17 @@
 ---
 date: "2021-11-15"
 draft: false
-type: page
-linktitle: Teaching to teach between communities in Spanish
 summary: MetaDocencia host two Instructor training on-line and in Spanish for Latin American 
 title: Teaching to teach between communities in Spanish
-authors:
-  - yabellini
-  - paocorrales
-  - lacion
-  - npalopoli
-type: post
-weight: 1
+authors: Yanina Bellini Saibene, Paola Corrales, Laura Acion, Nicolás Palopoli
+categories:
+  - Community
+  - English
+  - Education
 tags: 
   - MetaDocencia
   - The Carpentries
+  - Education
 ---
 
 During 2020 and 2021 we taught two trainings for Carpentries instructors organized by [MetaDocencia](https://www.metadocencia.org/).  These workshops had a number of particular characteristics:

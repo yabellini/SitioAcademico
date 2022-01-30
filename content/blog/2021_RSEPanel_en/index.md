@@ -1,12 +1,12 @@
 ---
 date: "2021-10-24"
 draft: false
-linktitle: Missing narratives in discussions around diversity and inclusion in research software engineering - SeptembRSE
 summary: summary of my participation in a panel at the SeptembRSE conference.
 title: Missing narratives in discussions around diversity and inclusion in research software engineering - SeptembRSE
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - English
+  - Community
 tags: 
   - RSE
   - Community

@@ -4,12 +4,12 @@ draft: false
 linktitle: Panel Narrativas faltantes en las discusiones sobre diversidad e inclusión en SeptembRSE
 summary: resumen de mi participción en un panel en la conferencia SeptembRSE.
 title: Panel Narrativas faltantes en las discusiones sobre diversidad e inclusión en SeptembRSE
-authors: 
-    - admin
-weight: 1
+categories:
+  - Español
+  - Community
 tags: 
   - RSE
-  - Comunidad
+  - Community
 ---
 
 El 28 de Septiembre participé en un panel llamado [“Narrativas faltantes en las discusiones sobre diversidad e inclusión”](https://septembrse.github.io/#/event/L1001) en la conferencia SeptembRSE, sobre Ingeniería de Software de Investigación (o Software Científico).  Fui nominada para el panel por medio de un formulario abierto y fue una muy grata sorpresa recibir la invitación.

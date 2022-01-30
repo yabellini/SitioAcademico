@@ -1,16 +1,19 @@
 ---
 date: "2021-07-17"
 draft: false
-linktitle: Creando tu r-universe
 summary: Durante useR! 2021 Jeroen Ooms presentó el proyecto universo R.  En este post the explico como crear el tuyo.
 title: Creando tu r-universe
-authors: 
-    - admin
-weight: 1
+authors: Yanina Bellini Saibene
+categories:
+  - Español
+  - Community
 tags: 
   - conferences
-  - tips
+  - Technical tips
   - rstats
+  - R
+  - Package
+  - ROpenSci
 ---
 
 Durante [useR! 2021](https://user2021.r-project.org/) Jeroen Ooms presentó [el proyecto universo R](https://jeroen.github.io/user2021/#1) en su _keynote_.  Comentó sobre el proyecto, los casos de uso y repasó las instrucciones para crear tu propio _universo-r_.  En este post the explico como crear el tuyo a partir de la experiencia de crear el mio.
