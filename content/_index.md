@@ -1,7 +1,8 @@
 ---
 title: "Yanina Bellini Saibene"
 subtitle: "Educator, Community Builder, Researcher"
-description: "I am a community builder, teacher and researcher. I believe in the power of an open science at the service of people. I know that education is one of the few tools we have to improve our lives because it is essential to reduce the structural inequalities of our society.  I know that the best way to build and improve the world is in community."
+description: "I am a community builder, teacher, and researcher. I believe in the power of open science at the service of people, and that education is the best
+tool we have to improve lives by reducing structural inequalities.  I also believe that the best way to improve the world is as part of a community."
 images:
   - img/hola.jpg
 image_left: true
