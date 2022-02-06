@@ -24,7 +24,7 @@ tags:
 links:
 - icon: images
   icon_pack: fas
-  name: slides (español)
+  name: slides 
   url: https://docs.google.com/presentation/d/1sSZ2IzM2OBAQZUYTZ7phEYbrUzGTzvuob88hVtF-5uk/edit?usp=sharing
 #- icon: youtube
 #  icon_pack: fab
