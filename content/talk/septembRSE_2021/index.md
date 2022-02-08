@@ -1,7 +1,7 @@
 ---
 title: "Missing narratives in discussions around diversity and inclusion in research software engineering" 
 subtitle: "Panel Talk"
-excerpt: " I participated in a the panel about Missing narratives in discussions around diversity and inclusion in research software engineering at the SeptembRSE conference, on Research Software Engineering. I was nominated for the panel through an open form and it was a very pleasant surprise to receive the invitation."
+excerpt: "I participated in a the panel about Missing narratives in discussions around diversity and inclusion in research software engineering at the SeptembRSE conference, on Research Software Engineering. I was nominated for the panel through an open form and it was a very pleasant surprise to receive the invitation."
 date: 2021-9-28
 date_end: "2021-9-28"
 author: "Yanina Bellini Saibene"
