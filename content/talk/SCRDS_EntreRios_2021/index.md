@@ -1,7 +1,7 @@
 ---
 title: "Aplicaciones agropecuarias de la Ciencia de datos "
 subtitle: "Invited talk"
-excerpt: ""
+excerpt: "Esta charla la he dado en diversos ámbitos y con diferente nivel de detalle. El objetivo es introducir conceptos relacionados con la ciencia de datos y compartir aplicaciones con ejemplos concretos en el desarrollo de soluciones para el sector agropecuario."
 date: 2021-09-29
 date_end: "2021-09-29"
 author: "Yanina Bellini Saibene"
