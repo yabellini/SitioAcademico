@@ -21,10 +21,6 @@ tags:
 - Latin America
 - R-Ladies
 links:
-#- icon: images
-#  icon_pack: fas
-#  name: slides 
-#  url: 
 - icon: book
   icon_pack: fas
   name: Blog post (Español)
