@@ -2,8 +2,8 @@
 title: "R-Ladies. Building, Growing, and Sustaining a Community"
 subtitle: "Panel Talk"
 excerpt: "On October 7 I participated in a panel called “R-Ladies: Building, Growing, and Sustaining a Community “ at the Women in Statistics and Data Science conference. I shared the live panel with Shel Kariuki, Mouna Belaid, Athanasia Mowinckel y Katherine Simeon. Mine Çetinkaya-Rundel led and moderate the panel. I present Conferences, regional development and the R-Ladies way"
-date: 2021-10-7
-date_end: "2021-10-7"
+date: 2021-10-07
+date_end: "2021-10-07"
 author: "Yanina Bellini Saibene"
 location: "Online (USA)"
 event: "Women in Statistics and Data Science conference"
