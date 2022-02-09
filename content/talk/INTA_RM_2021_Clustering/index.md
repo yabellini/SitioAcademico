@@ -1,13 +1,13 @@
 ---
-title: "Aplicaciones agropecuarias de la Ciencia de datos "
+title: " Clustering para determinar Sistemas Productivos Preponderantes"
 subtitle: "Invited talk"
-excerpt: "Esta charla la he dado en diversos ámbitos y con diferente nivel de detalle. El objetivo es introducir conceptos relacionados con la ciencia de datos y compartir aplicaciones con ejemplos concretos en el desarrollo de soluciones para el sector agropecuario."
-date: 2021-09-29
-date_end: "2021-09-29"
+excerpt: "Presetnación del uso de técnicas de clustering sobre una declaración jurada de productores agropecuarios de La Pampa para determinart sistemas productivos preponderantes"
+date: 2021-09-15
+date_end: "2021-09-15"
 author: "Yanina Bellini Saibene"
 location: "Online (Argentina)"
-event: "Segundas Jornadas Regionales de Cienca de Datos"
-event_url: https://www.frp.utn.edu.ar/info2/?page_id=20394
+event: " Encuentros de Usarios de R de INTA."
+event_url: 
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -22,7 +22,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides 
-  url: https://docs.google.com/presentation/d/1V428U1waWSZ6jWkR_FgBTA9OXhqH0pMpKulPdTjtF_0/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1FdrNF2hV2OvOuuT0YxxjRu0Fb2XZ1OWxr4_TYz3Xr3o/edit?usp=sharing
 #- icon: youtube
 #  icon_pack: fab
 #  name: video 
