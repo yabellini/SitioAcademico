@@ -2,7 +2,7 @@
 date: "2022-02-19"
 draft: false
 summary: summary of my participation in a panel at AsiaR first meetup.
-title: Building inclusive communities: the Latin American R Community
+title: Building inclusive communities. The Latin American R Community
 authors: Yanina Bellini Saibene
 categories:
   - English
