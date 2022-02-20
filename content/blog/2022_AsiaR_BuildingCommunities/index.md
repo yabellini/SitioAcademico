@@ -1,5 +1,5 @@
 ---
-date: "2022-02-13"
+date: "2022-02-19"
 draft: false
 summary: summary of my participation in a panel at AsiaR first meetup.
 title: Building inclusive communities: the Latin American R Community
