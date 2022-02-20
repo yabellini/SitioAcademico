@@ -19,7 +19,7 @@ citing the original request of [Laura Acion](https://lacion.rbind.io/) we end up
 
 > If you have more data, let us know and we will update it
 
-* [Directory of technology speakers](https://github.com/lasdesistemas/speakers-tecnologia)) from [Las de Sistemas](https://twitter.com/lasdesistemas/status/1273374539888672774?s=20): 
+* [Directory of technology speakers](https://github.com/lasdesistemas/speakers-tecnologia) from [Las de Sistemas](https://twitter.com/lasdesistemas/status/1273374539888672774?s=20): 
 
 * [R-Ladies Directory](https://rladies.org/directory/)
 
