@@ -27,48 +27,48 @@ The idea of the panel was to share the experience of the growth of the R communi
 
 {{< figure src="Diapositiva3.png" >}}
 
-This journey starts in 2017 with R-Ladies, a world-wide organization to promote gender diversity in the R community. In 2017 the first actives chapters in Latin America were founded (mine was Santa Rosa and the second chapter in Argentina). Today, Latin American R-Ladies are almost 30% of the R-Ladies Global, with 59 chapters sharing the first place with the anglophone North America. I’m one of the R-Ladies Global and Leadership Team.
+This journey starts in 2017 with [R-Ladies](https://rladies.org/), a world-wide organization to promote gender diversity in the R community. In 2017 the first actives chapters in Latin America were founded (mine was Santa Rosa, the second chapter in Argentina). Today, Latin American R-Ladies are almost 30% of the R-Ladies Global, with 59 chapters sharing the first place with the anglophone North America. I’m a member of the R-Ladies Global and Leadership Team.
 
 {{< figure src="Diapositiva4.png" >}}
 
-In late 2017, a group of R-Ladies and I started crafting LatinR, a Latin American conference about the use of R for research and development. LatinR will have its five edition this year, in hybrid format.   
+In late 2017, a group of R-Ladies and I started crafting [LatinR](https://latin-r.com/), a Latin American conference about the use of R for research and development. LatinR will have its five edition this year, in hybrid format.   
 
 {{< figure src="Diapositiva5.png" >}}
 
-Given our familiarity with The Carpentries, we have workshops in LatinR and that make the community more know and more people from Latin America want to participate in this organization. Today Carpentries have more than 30 instructor, 4 trainers and I become a member of the Executive Council this year by the vote of the community. 
+[The Carpentries](https://carpentries.org/), a community that each foundational coding and data science skills to researchers worldwide have workshops in LatinR,increasing interest in this organization. Today Carpentries have more than 30 instructor and 4 trainers that can teach in Spanish. I become a member of the Executive Council this year by the vote of the community. 
 
 {{< figure src="Diapositiva6.png" >}}
 
-The success of LatinR led one of its chairs to hold the first SatRday in Latin America in Spanish, and one year later, the first in Portuguese in Brazil. 
+The success of LatinR led one of its chairs to hold the first [SatRday](https://santiago2020.satrdays.org/) in Latin America in Spanish, and one year later, the first in [Portuguese in Brazil](https://saopaulo2019.satrdays.org/). 
 
 {{< figure src="Diapositiva7.png" >}}
 
-In 2019 was also ConectaR, another conference celebrate in Costa Rica. 
+In 2019 was also [ConectaR](https://www.conectar2019.org/), another conference celebrate in Costa Rica. 
 LatinR is a trilingual conference in Spanish, Portuguese, and English because almost all Latin America speaks Spanish and Portuguese. However, in order to be on the map we need to speak English.  
 
 {{< figure src="Diapositiva8.png" >}}
 
-On the other hand, English is a barrier to Open Source and Open Science movements in Latin America. There are too few materials in local languages. This is why in 2018 we decided to collectively translate R for Data Science book in Spanish. 
+On the other hand, English is a barrier to Open Source and Open Science movements in Latin America. There are too few materials in local languages. This is why in 2018 we decided to collectively translate [R for Data Science](https://es.r4ds.hadley.nz/) book to Spanish. 
 
 {{< figure src="Diapositiva9.png" >}}
 
-This include the translation of the package datos and a year later the translation of the same package to portuguese.  This allow us to have all the dataset used in the book in our language, becoming a great tool for teaching.
+This include the translation of the package [datos](https://github.com/cienciadedatos/datos) and a year later the translation of the same package to portuguese.  This allow us to have all the dataset used in the book in our language, becoming a great tool for teaching.
 
 {{< figure src="Diapositiva10.png" >}}
 
-From the success of the collective and volunteer translation of R for Data Science, the community also got interested in translating Greg Wilson´s book Teaching Tech Together, which we translated in 2020. 
+From the success of the collective and volunteer translation of R for Data Science, the community also got interested in translating Greg Wilson´s book [Teaching Tech Together](http://teachtogether.tech/es/index.html), which I lead the translation in 2020. 
 
 {{< figure src="Diapositiva11.png" >}}
 
-The book is based on The Carpentries instructor training and was use on the RStudio Certification Program. In 2019 the first latin american person got certified. She is an R-Lady and was part of a study group we create to got the certification. I was part of that group and today I’m one of the examiner that certified RStudio Instructors.  This group study dynamic was replicated by MiR, another community that was born in the USA to help its members become certified.
+The book is based on The Carpentries instructor training and was used on the [RStudio Certification Program](https://education.rstudio.com/trainers/). In 2019 the first Latin American person got certified. She is an R-Lady and was part of a study group we created to get the certification. I was part of that group, and today I’m one of the examiners that certified RStudio Instructors. This group study dynamic was replicated by [MiR](https://mircommunity.com/), another community that supports historically underrepresented R users worldwide, to help its members become certified.
 
 {{< figure src="Diapositiva12.png" >}}
 
-Base in all the experience from R-Ladies, LatinR, The Carpentries and RStudio Education, R user groups drive by COVID19 I cofunded MetaDocencia (means MetaTeaching in English) and we teach how to teach and technical skill for free in Spanish around the world.
+Base in all the experience from R-Ladies, LatinR, The Carpentries, RStudio Education and R User Groups, and drive by COVID-19 I cofunded [MetaDocencia](www.metadocencia.org) (means MetaTeaching in English). We nurtures a community of Spanish-speaking educators by teaching concrete, evidence-based, and student-centered educational methods. We collaboratively develop open, reusable, and accessible resources to foster effective training practices.
 
 {{< figure src="Diapositiva13.png" >}}
 
-Other similar communities related to R and to provide material and trainig in Spanish were created in the region like R espacial (R spatial) and The bioinformatic developer community.
+Other similar communities related to R and to provide material and trainig in Spanish were created in the region like [R espacial]() (R spatial) and [the bioinformatic developer community]().
 
 {{< figure src="Diapositiva14.png" >}}
 
