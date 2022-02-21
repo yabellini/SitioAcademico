@@ -6,8 +6,8 @@ date: 2021-06-04
 date_end: "2021-06-04"
 author: "Yanina Bellini Saibene"
 location: "Online (Europe)"
-event: "FOSDEM'22"
-event_url: https://fosdem.org/2022/
+event: "AgroVision"
+event_url: 
 draft: false
 # layout options: single, single-sidebar
 layout: single
