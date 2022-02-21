@@ -1,6 +1,6 @@
 ---
 title: Current and Recent Projects
-description: "My porfolio includes researcher and community projects, books, software and openly available educational material I have created or contribute to."
+description: "My porfolio includes researcher and community projects, books, software, conferences I cofunod and organize, and openly available educational material I have created or contribute to."
 author: "Yanina Bellini Saibene"
 show_post_thumbnail: true
 show_author_byline: true
