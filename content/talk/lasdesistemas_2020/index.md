@@ -19,7 +19,7 @@ tags:
 - Community
 links:
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: video 
   url: https://youtu.be/_SmnmK6DgOg
 ---
