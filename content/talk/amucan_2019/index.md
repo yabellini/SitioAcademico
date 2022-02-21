@@ -20,7 +20,7 @@ tags:
 - Remote Sensing
 links:
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: video 
   url: https://youtu.be/JUBySmXqwc4
 ---
