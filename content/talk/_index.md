@@ -1,7 +1,7 @@
 ---
 title: Talks
 description: |
-  I am always happy to talk. This is a list of my talks and webinars (with resources when available).  
+  I am always happy to talk. This is a list of my talks, interviews, and webinars (with resources when available).  
 author: "Yanina Bellini Saibene"
 show_post_thumbnail: true
 show_author_byline: true
