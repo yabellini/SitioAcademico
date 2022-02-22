@@ -1,10 +1,10 @@
-baseURL = "/"
+baseURL = "https://yabellini.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Yanina Bellini Saibene"
 author = "Yanina Bellini Saibene"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "G-YCBKGYXHCQ"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
