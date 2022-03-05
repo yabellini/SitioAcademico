@@ -23,7 +23,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: video (talk and Q&A)
-  url: https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA 
+  url: https://youtu.be/Ydogg2tQljA
 ---
 
 On 11 February 2022, 14:00 - 15:30 UTC, the next fireside chat will take place on the topic: "Gaps & Opportunities for Inclusive, Multilingual Data Science". Chaired by Anelda van der Walt and Malvika Sharan, this panel will feature insights from Batool Almarzouq, Bobby Shabangu, Camila Rangel-Smith, David Pérez-Suárez, Langa Khumalo and Yanina Bellini Saibene. These researchers represent different communities with expertise and insights from working in multilingual research and data science projects (read their bios below). We will also facilitate open discussions with attendees to learn about their perspectives on the topic via a shared document (links shared upon registration).
