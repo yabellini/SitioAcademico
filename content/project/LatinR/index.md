@@ -11,15 +11,16 @@ categories:
 - Education
 - Community
 - Español
-- Book
+- English
+- Conferences
 tags:
-- MetaDocencia
-- R-Ladies
-- Translation
 - Education
 - Community
 - Español
-- Book
+- Conferences
+- DataScience
+- R
+
 # layout options: single or single-sidebar
 layout: single
 links:
@@ -45,12 +46,6 @@ links:
 - icon: github
   icon_pack: fab
   link: https://github.com/LatinR
-tags:
-- Conferences
-- DataScience
-- Español
-- English
-- R
 ---
 
 
