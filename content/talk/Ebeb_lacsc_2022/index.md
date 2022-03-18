@@ -12,7 +12,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Panel Talk
+- Keynote
 - English
 - Education
 tags:
