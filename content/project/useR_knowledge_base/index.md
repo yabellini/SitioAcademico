@@ -20,8 +20,12 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://rconf.gitlab.io/userinfoboard/
+  name: website knowledge base
+  url: https://bit.ly/knowledgebase-yani
+- icon: door-open
+  icon_pack: fas
+  name: website info board
+  url: https://bit.ly/infoboard-yani 
 - icon: gitlab
   icon_pack: fab
   name: repo
