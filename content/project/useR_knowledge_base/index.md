@@ -32,9 +32,9 @@ links:
   url: https://gitlab.com/rconf/userknowledgebase
 ---
 
-
-
 ## Project idea: create a knowledgebase for organizing the useR! conference
+
+<img src='featured.jpg' align="right" height="200" alt='Hexsticker de LatinR. America Latina dibujadas con lineas'/>
 
 ### Problem
 
@@ -45,18 +45,18 @@ This project will gather existing pieces of documentation and use that as the ba
 
 Some of the existing documentation includes:
 
-    * The set of HOWTOs written by Forwards, on aspects that support diversity and inclusion in general:
-    * Practical implementation of the code of conduct
-    * Organizing community-focused events as part of the conference (newbie session, sessions for community groups)
-    * Outreach initiatives (diversity scholarships, conference buddies)
-    * The event best practices written by Forwards, on creating a conference that is accessible. Some work on extending this to the virtual conference setting was done in this blog post by the useR! 2021 diversity team.
-    * The useR! organization GitLab, created by the RFCC and useR! 2021 organizers. This includes information about:
-    * Captioning, background on why it is recommended, what has been used at previous useR!s and some information on providers.
-    * Logo files and a corporate identity manual.
-    * Summary of review process for contributed presentations and overview of tools used/evaluated by previous useR!s.
-    * Summary of review process for tutorials and some helper code for managing.
-    * Email templates (e.g. invite emails).
-    * Past sponsorship brochures.
+  * The set of HOWTOs written by Forwards, on aspects that support diversity and inclusion in general:
+  * Practical implementation of the code of conduct
+  * Organizing community-focused events as part of the conference (newbie session, sessions for community groups)
+   * Outreach initiatives (diversity scholarships, conference buddies)
+   * The event best practices written by Forwards, on creating a conference that is accessible. Some work on extending this to the virtual conference setting was done in this blog post by the useR! 2021 diversity team.
+   * The useR! organization GitLab, created by the RFCC and useR! 2021 organizers. This includes information about:
+   * Captioning, background on why it is recommended, what has been used at previous useR!s and some information on providers.
+   * Logo files and a corporate identity manual.
+   * Summary of review process for contributed presentations and overview of tools used/evaluated by previous useR!s.
+   * Summary of review process for tutorials and some helper code for managing.
+   * Email templates (e.g. invite emails).
+   * Past sponsorship brochures.
 
 Some of this information would be included in the web book, replacing markdown files in git repositories. In other cases, it will still make sense to store files in a git repository, but the web book would describe and link to the relevant files to make them easier to find and use.
 How to measure success
@@ -65,8 +65,8 @@ The project will be successful if the knowledgebase becomes the authoritative so
 
 Therefore, we will consider the project a success if
 
-    * At least two-thirds of the conference-related documentation files currently maintained in the useRorganization GitLab repository and the Forwards conferences and event_best_practices GitHub repositories are deprecated by incorporating and updating that information in the knowledgebase.
-    * At least one member of Forwards and at least one useR! organizer (from any year) directly contributes to the text of the knowledgebase.
+   * At least two-thirds of the conference-related documentation files currently maintained in the useRorganization GitLab repository and the Forwards conferences and event_best_practices GitHub repositories are deprecated by incorporating and updating that information in the knowledgebase.
+   * At least one member of Forwards and at least one useR! organizer (from any year) directly contributes to the text of the knowledgebase.
 
 ### Expected Impact
 
@@ -83,7 +83,7 @@ The documentation should be easy for R community members to contribute to. This 
 ### Volunteers
 
 * Heather Turner (@hturner), a member of both RFCC and Forwards, can assist with navigating the existing documentation and creating a workplan for the knowledgebase.
-* Yanina Bellini Saibene (@yabellini), a global co-ordinator of useR! 2021, can advise on the topics of tutorials, branding and community partners (the latter is a new topic to be documented).
+* __Yanina Bellini Saibene__ (@yabellini), a global co-ordinator of useR! 2021, can advise on the topics of tutorials, branding and community partners (the latter is a new topic to be documented).
 * John Nash (@nashjc), author of several books on numerical computing and past editor on publications including American Statistician, SSC Liaison (Statistical Society of Canada), can help with copy-editing.
 
 
