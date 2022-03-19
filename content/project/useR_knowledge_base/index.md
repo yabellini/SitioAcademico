@@ -2,7 +2,7 @@
 title: "useR! Knowledgebase"
 subtitle: "The R Project - 2021 Google Season of Docs"
 excerpt: "Knowledgebase for organizing the useR! conference (and others)"
-date: 2019-07-02
+date: 2021-11-20
 author: "Yanina Bellini Saibene"
 featured: true
 draft: false
