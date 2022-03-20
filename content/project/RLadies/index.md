@@ -1,6 +1,7 @@
 ---
 title: RLadies
 date: 2017-04-17
+excerpt: "I'm part of R-Ladies since 2017. Now I’m the R-Ladies Project Lead at the R Consortium Infrastructure Steering Committee."
 author: "Yanina Bellini Saibene"
 featured: true
 draft: false
