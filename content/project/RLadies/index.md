@@ -27,7 +27,7 @@ links:
   link: https://twitter.com/RLadiesGlobal
 - icon: youtube
   icon_pack: fab
-  name: canales de youtube
+  name: Youtube Channels
   link: https://www.youtube.com/rladiesglobal
 - icon: github
   icon_pack: fab
