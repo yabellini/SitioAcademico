@@ -47,7 +47,7 @@ tags:
 - Español
 
 ---
-
+# Español
 ## Enseñar Tecnología en Comunidad. 
 ### Cómo crear lecciones que funcionen y construir una comunidad docente alrededor  <a href='https://github.com/gvwilson/teachtogether.tech/tree/master/es#orientaciones-para-la-traducci%C3%B3n-'><img src='featured.png' align="right" height="200" alt='Etiqueta hexagonal ("hex sticker") para el proyecto titulado "Enseñar Tecnología en Comunidad." Las palabras parecen parte de un mapa conceptual y hay manos diferentes apuntando hacia ellas.'/></a>
 
@@ -113,6 +113,20 @@ Todos los detalles del proceso de traducción se pueden consultar
 [en la documentación del proyecto](https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md).
 
 
-
-
 > Marzo de 2020 – Marzo de 2021. Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson (2019, Taylor & Francis, ISBN 978-0-367-35328-5, https://teachtogether.tech/). Coordinación general de la traducción: Yanina Bellini Saibene; Edición general: Yanina Bellini Saibene y Natalia Morandeira. Más información y grupo de traductoras: https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md
+
+
+# English
+
+## Teaching Tech Together in Spanish
+## Collaborative and voluntary translation project of "Teaching Tech Together" to Spanish
+
+_Teaching Tech Together_ is a book about teaching programming for people with technical training but without formal training as educators. This project aims to develop a collaborative translation of the book [Teaching Tech Together](http://teachtogether.tech/en/index.html) by [Greg Wilson](https://third-bit.com/) for the Spanish-speaking community. The Spanish version can be accessed [here](http://teachtogether.tech/es/index.html).
+
+### Translations guidelines
+
+In the [project repository](https://github.com/gvwilson/teachtogether.tech) there are detailed the process and aspects to take into account when translating the text, the exercises, references to external materials, diagrams and glossary. The progress status of the project and the responsibilities of the people involved are also made explicit there.
+
+### How to contribute?
+
+This is a project open to the community in which everyone can participate as long as they __adscribe our [code of conduct](http://teachtogether.tech/en/index.html#s:conduct)__.
