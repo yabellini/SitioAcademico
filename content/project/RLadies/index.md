@@ -1,32 +1,49 @@
 ---
-authors:
-- RLadies
-bio: R-Ladies
-name: R-Ladies
-organizations:
-- name: R-Ladies
-  url: "https://rladies.org/"
-social:
+title: RLadies
+date: 2017-04-17
+author: "Yanina Bellini Saibene"
+featured: true
+draft: false
+layout: single
+tags:
+  - Community
+  - Education
+  - R-Ladies
+  - R
+categories:
+  - Community
+  - Education
+  - English
+  - R-Ladies
+  - R
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://rladies.org/
 - icon: twitter
+  name: twitter
   icon_pack: fab
-  link: https://twitter.com/metadocencia
+  link: https://twitter.com/RLadiesGlobal
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/metadocencia
+  name: canales de youtube
+  link: https://www.youtube.com/rladiesglobal
 - icon: github
   icon_pack: fab
+  name: repo
   link: https://github.com/rladies/
 - icon: slack
   icon_pack: fab
-  link: https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA
-superuser: false
-user_groups:
-- Communities
+  name: Slack Community
+  link: https://rladies-community-slack.herokuapp.com/
 ---
 
 ## My role in R-Ladies
 
-I am part of the R-Ladies Global Team. My tasks include advising the leadership team in decision-making, representing R-Ladies in the organization of major R conferences, generating content, making translations into Spanish, carrying out the campaign for International Women's Day and collaborating with the general infrastructure that supports the chapters.
+<img src='featured.jpg' align="right" height="200" alt='Hexsticker of MetaDocencia. Has an apple with a chat balloon'/>
+
+I'm the R-Ladies Project Lead at the R Consortium Infrastructure Steering Committee. I'm part of the R-Ladies Global Team. My tasks include advising the leadership team in decision-making, representing R-Ladies in the organization of major R conferences, generating content, making translations into Spanish, carrying out the campaign for International Women's Day and collaborating with the general infrastructure that supports the chapters.
 
 ## Mission
 
