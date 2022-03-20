@@ -1,7 +1,7 @@
 ---
 title: "Version Control. Primeros pasos de Git con R"
-subtitle: ""
-excerpt: "En este taller introducimos los primeros pasos para usar Git con RStudio date: 2020-05-18
+excerpt: "En este taller introducimos los primeros pasos para usar Git con RStudio"
+date: 2020-05-18
 author: "Yanina Bellini Saibene"
 featured: true
 draft: false
