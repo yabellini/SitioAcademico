@@ -21,10 +21,10 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: hhttps://docs.google.com/presentation/d/1uTqCx5DOJcajs_cmK2-2PuUCK0wBAg4fyrCUGnLdy5Y/edit?usp=sharing
-#- icon: youtube
-#  icon_pack: fab
-#  name: video (talk and Q&A)
-#  url: https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA 
+  url: https://docs.google.com/presentation/d/1uTqCx5DOJcajs_cmK2-2PuUCK0wBAg4fyrCUGnLdy5Y/edit?usp=sharing
+- icon: youtube
+  icon_pack: fab
+  name: video (talk and Q&A)
+  url: https://eventos.galoa.com.br/ebeb-lacsc-2022/calendar/activity/5189?lang=en 
 ---
 
