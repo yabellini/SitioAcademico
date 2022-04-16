@@ -21,19 +21,19 @@ _Hay que saber cómo enseñar ese tema en particular._
 
 Entonces, un par de recomendaciones sobre como enseñar programación:
 
-Sobre escribir código:
+__Sobre escribir código:__
 
 1. Primero que leean código, luego que lo modifiquen y luego que lo escriban.
 2. Presentar explicitamente patrones comunes y hacer que practiquen usandolos. 
 3. Usa estilos y herramientas para que todos los ejemplos de código tengan un estilo consistente.
 
-Sobre manejar errores:
+__Sobre manejar errores:__
 
 4. Enseñar explicitamente como depurar errores.
 5.Enseñar a rastrear los valores que toman las variables al depurar errores.
 6. Enseñar como leer e interpretar mensajes de error.
 
-Sobre conceptos generales:
+__Sobre conceptos generales:__
 
 7. El lenguaje importa: presenta programación en bloques a niñes y adolecentes antes de avanzar a prg basada en texto.
 8. Funciones primero, objetos después (enseña clases despues que comprendan estructuras básicas de control y tipos de datos).
