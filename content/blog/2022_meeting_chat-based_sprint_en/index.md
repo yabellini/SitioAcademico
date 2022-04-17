@@ -43,7 +43,7 @@ The first point of the agenda is always _"pain points."_  Example:
 _Pain points (5min)_
 _Is there anything you would like to share/discusses? Let’s fix easy things right away and more complicated things after the sprint._
 
-The meeting master writes the name of the topic, how much time we have to discuss, and specifies when it ends.  The discussion is in the thread.  If the discussion end before the time, the meeting master indicates (in the thread) that we move on to the next topic.  Outside the thread write a new message with the name of the next topic, the duration fo the discussion, and some text like _"we are going to discuss xxx for xx minutes until xx:xx"_. For example:
+The meeting master writes the name of the topic, how much time we have to discuss, and specifies when it ends.  The discussion happens in the thread.  If the discussion end before the time, the meeting master indicates (in the thread) that we move on to the next topic.  Outside the thread write a new message with the name of the next topic, the duration fo the discussion, and some text like _"we are going to discuss xxx for xx minutes until xx:xx"_. For example:
 
 _Topic 2 (10min)_
 _Current status, what has happened since last week (or last meeting, or last month or last sprint):_ 
@@ -65,7 +65,7 @@ During the meeting people can go and back to the different threads in each topic
 
 ## At the end of the meeting
 
-The meeting master makes a summary of the decision.  The central point/decision usually goes to GitLab/Github issues to track outside the chat meeting. The summary look like this:
+The person moderating the meeting summarizes the decisions.  The central points/decisions usually go to the corresponding topics in GitLab/Github, to follow up outside the meeting. The summary looks like this:
 
 _Summary of the sprint:_
 
