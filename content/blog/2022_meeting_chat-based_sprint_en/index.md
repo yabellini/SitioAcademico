@@ -79,19 +79,19 @@ I participated in this kind of meeting with groups between 6 up to 20 people.  S
 
 ### Pros:
 - The discussion is there for people than can't join and the rest of the groups working on the project.
-- It is easy to participate than a Zoom synchronous meeting (especially if you had small kids, bad internet connection or are not so good at speaking the language used in the discussion).
-- Times are respected more than in a Zoom meeting.
+- It is easy to participate than a Zoom synchronous meeting (especially if you had caregiving tasks, bad internet connection or you are not yet fluent in the language used in the discussion).
+- Times are respected more than in a videoconference.
 - The discussion is orderly.
 
 ### Cons:
 - Be on the lookout for post-meeting opinions or inquiries from people who were unable to join synchronously.
 - You need to be fast writing and reading.
-- The most difficult decisions end up being made in synchronous meetings by videoconference (like we need to face each other for those decisions)
+- The most difficult decisions end up being made in synchronous meetings by videoconference (there is a need to be face-to-face for those decisions).
 
 
 ## Where to learn more
 
-If you found this material useful there is more to learn from written by people who know much more than I do.
+If you found this material useful there is more to learn from written by people who know much more than I do on this subject.
 
 Over the years I have seen many different ways to run a meeting and Greg Wilson has given one of [my favorite talks](https://www.youtube.com/watch?v=5f3-q9SzkeE) on [effective meetings](https://docs.google.com/presentation/d/1HSdgVQjq0d3UYh-aA4uWHXxYYpySn_xXwfn_M4Ms8Ts/edit#slide=id.p).  He has also written on the subject in [this chapter of the book Teaching Tech Together](https://teachtogether.tech/en/index.html#s:meetings).  [The Discussion Book](https://www.wiley.com/en-us/The+Discussion+Book%3A+50+Great+Ways+to+Get+People+Talking-p-9781119049715) also give 50 ways to get people talking.
 
