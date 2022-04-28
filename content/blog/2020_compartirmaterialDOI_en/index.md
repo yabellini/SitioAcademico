@@ -14,9 +14,9 @@ tags:
   - MetaDocencia
 ---
 
-As detailed in [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generating educational material requires a significant effort both for its initial development and to keep it updated.
+As detailed in [Ten simple rules for collaborative lesson development [1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005963) generating educational material requires a significant effort both for its initial development and to keep it updated.
 
-Although there is the _reusability paradox_ [[2]](https://opencontent.org/blog/archives/3854) - [[3]](https://opencontent.org/blog/archives/6585) which postulates that a teaching material will be more reusable when it is as generic as possible and more effective when it is personalized for a particular audience in a particular context [[4]](https://third-bit.com/2015/04/22/the-paradox-of-learning-objects.html); sharing our material in a way that other people can _find it, **use it**, improve it, and **cite it**_ is an activity worth the effort.
+Although there is the _reusability paradox_ [[2]](https://opencontent.org/blog/archives/3854) - [[3]](https://opencontent.org/blog/archives/6585) which postulates that a teaching material will be more reusable when it is as generic as possible and more effective when it is personalized for a particular audience in a particular context [[4]](https://third-bit.com/2015/04/22/the-paradox-of-learning-objects/); sharing our material in a way that other people can _find it, **use it**, improve it, and **cite it**_ is an activity worth the effort.
 
 With the advent of forced virtuality due to COVID-19, many teachers have found it necessary to share their material in a digital format, in addition to having to adapt some part of it.
 
@@ -26,15 +26,15 @@ _So if I want to share my didactic material, how do I do it? Keep reading and we
 
 ## Three simple steps to share lessons
 
-* **Step 1: select an open license** that makes it clear how to use the material. The most used licenses are known as [Creative Commons](http://www.creativecommons.org.ar/licencias.html) licenses.  There are different types of licenses depending on what we want the user of our materials to be able to do with them. If we do not know very well which license best suits our needs, there is a [license selector](https://creativecommons.org/choose/?lang=es_AR) that can help us.
+* **Step 1: select an open license** that makes it clear how to use the material. The most used licenses are known as [Creative Commons](https://creativecommons.org/about/cclicenses/) licenses.  There are different types of licenses depending on what we want the user of our materials to be able to do with them. If we do not know very well which license best suits our needs, there is a [license selector](https://creativecommons.org/choose/) that can help us.
 
 If our material has code in a programming language, then we must also select an [open license, designed for software](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses).  I suggest the license [MIT](https://opensource.org/licenses/MIT) or, considering the impact that software and data science have on our lives, the [Hippocratic license](https://firstdonoharm.dev/), that allows the code to be freely used as long as the user is not violating basic human rights treaties.
 
-You can also add a Code of Conduct and guidelines for contrubute to your project, [Contributor Covenant](https://www.contributor-covenant.org/) is a very good place to start and the text is available in various languages.
+You should also add a Code of Conduct and guidelines for contribute to your project, [Contributor Covenant](https://www.contributor-covenant.org/) is a very good place to start and the text is available in various languages.
 
-* **Step 2: store the material in a repository that allows us to publish it.** One place that allows us to do this is [GitHub](https://github.com/) which is used to develop a variety of materials because it allows us to have different types of content such as slides, documents, source code, images, and also allows us to continuously develop them through an iterative process and with input from others, since GitHub implements a [version control system](https://es.wikipedia.org/wiki/Control_de_versiones). If you haven't used GitHub, you can use this [initial Git tutorial](https://yabellini.netlify.app/es/courses/tallerdegitconr/).
+* **Step 2: store the material in a repository that allows us to publish it.** One place that allows us to do this is [GitHub](https://github.com/) which is used to develop a variety of materials because it allows us to have different types of content such as slides, documents, source code, images, and also allows us to continuously develop them through an iterative process and with input from others, since GitHub implements a [version control system](https://es.wikipedia.org/wiki/Control_de_versiones). If you haven't used GitHub, you can use this [initial Git tutorial](https://yabellini.github.io/Intro_to_Git_with_Rstudio/).
 
-* **Step 3: add a [digital object identifier (DOI)](https://es.wikipedia.org/wiki/Identificador_de_objeto_digital) so that it is citable.** We will describe this step in great detail by following these [GitHub instructions](https://guides.github.com/activities/citable-code/).
+* **Step 3: add a [digital object identifier (DOI)](https://en.wikipedia.org/wiki/Digital_object_identifier) so that it is citable.** We will describe this step in great detail by following these [GitHub instructions](https://guides.github.com/activities/citable-code/).
 
     * Navigate to [Zenodo](https://zenodo.org/), press the Login button at the top right of the page, and select the option to log in with your GitHub account.
    {{< figure src="/img/screen1.png" >}}
