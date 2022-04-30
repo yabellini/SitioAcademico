@@ -24,7 +24,7 @@ intro: |
   These communities also gave me the opportunity to improve myself, in 2019 I became an [RStudio Certified Trainer](/blog/2020_rstudiocertification_en/), since 2020 I'm an [Software Carpentries Certified Instructor](https://carpentries.org/instructors/) and since 2021 I'm a  [Carpentries Certified Trainer](https://carpentries.org/trainers/). In 2022 the community elected me as a member of the [The Carpentries Execute Council](https://carpentries.org/blog/2021/12/announcing-2022-executive-council/). 
   I am a prolific international [bilingual speaker](https://www.youtube.com/channel/UCA7IUNba2IjQfrVVjh2Whmw/playlists) and teacher thanks to these communities.  
   
-  The community experience is so empowering that it encouraged me to co-found, in 2020, a new community called [MetaDocencia](https://metadocencia.netlify.app/), an open, free, volunteer-lead, not-for-profit, educational organization that teach how to teach and technical skill to people from undeserved countries.
+  The community experience is so empowering that it encouraged me to co-found, in 2020, a new community called [MetaDocencia](https://metadocencia.netlify.app/), an open, free, volunteer-lead, not-for-profit, educational organization that teach how to teach and technical skill to people from underserved countries.
   
   Last but not least, in 2004 I met the man who became my partner in life and in 2012, 2013 and 2015 we became proud parents. In 2012 we lost Ana, our first child. Now we enjoy watching with wonder what beautiful people our other two kids are becoming.
   
