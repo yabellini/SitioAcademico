@@ -26,10 +26,10 @@ links:
   icon_pack: fas
   name: slides 
   url: https://docs.google.com/presentation/d/1sSZ2IzM2OBAQZUYTZ7phEYbrUzGTzvuob88hVtF-5uk/edit?usp=sharing
-#- icon: youtube
-#  icon_pack: fab
-#  name: video (talk and Q&A)
-#  url: 
+- icon: youtube
+  icon_pack: fab
+  name: video (talk and Q&A)
+  url: https://ftp.osuosl.org/pub/fosdem/2022/D.research/open_research_agrometeorology.webm
 - icon: github
   icon_pack: fab
   name: code Agromet
