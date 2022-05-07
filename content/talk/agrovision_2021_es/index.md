@@ -19,7 +19,7 @@ tags:
 - AgTech
 links:
 - icon: spotify
-  icon_pack: fas
+  icon_pack: fab
   name: audio 
   url: https://open.spotify.com/episode/7cDJJo6OcAhswDyjE0noYe?si=gS-6jmW2TSGw2tjqcVIW7g
 

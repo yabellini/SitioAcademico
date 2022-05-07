@@ -21,7 +21,7 @@ tags:
 - R-Ladies
 links:
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: video 
   url: https://fb.watch/cSsCgWHStQ/
 ---

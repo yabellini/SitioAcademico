@@ -21,7 +21,7 @@ tags:
 - Data Science
 links:
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: audio 
   url: https://youtu.be/JUBySmXqwc4
 ---

@@ -19,7 +19,7 @@ tags:
 - AgTech
 links:
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: video 
   url: https://youtu.be/k3rS2vIZaLc
 - icon: images
