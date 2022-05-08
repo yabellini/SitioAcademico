@@ -23,8 +23,8 @@ links:
   icon_pack: fas
   name: slides 
   url: https://docs.google.com/presentation/d/1V428U1waWSZ6jWkR_FgBTA9OXhqH0pMpKulPdTjtF_0/edit?usp=sharing
-#- icon: youtube
-#  icon_pack: fab
-#  name: video 
-#  url: https://youtu.be/omU0uiuu1vE
+- icon: youtube
+  icon_pack: fab
+  name: video 
+  url: https://youtu.be/8-jI3iYJN1w?t=2149
 ---
