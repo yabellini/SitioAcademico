@@ -1,132 +1,181 @@
 ---
-date: "2021-07-17"
-draft: false
-summary: Durante useR! 2021 Jeroen Ooms presentó el proyecto universo R.  En este post the explico como crear el tuyo.
-title: Creando tu r-universe
+date: "2022-05-27"
+draft: true
+summary: .
+title: 10 reglas para organizar un club de lectura (on-line) exitoso
 authors: Yanina Bellini Saibene
 categories:
   - Español
   - Community
+  - Education
 tags: 
-  - conferences
+  - Education
   - Technical tips
-  - rstats
   - R
   - Package
-  - ROpenSci
 ---
 
-Durante [useR! 2021](https://user2021.r-project.org/) Jeroen Ooms presentó [el proyecto universo R](https://jeroen.github.io/user2021/#1) en su _keynote_.  Comentó sobre el proyecto, los casos de uso y repasó las instrucciones para crear tu propio _universo-r_.  En este post the explico como crear el tuyo a partir de la experiencia de crear el mio.
 
-## El proyecto universo R (_R-universe_).
+Terminada la experiencia del Club de Lectura del libro Enseñar Tecnología en Comunidad, uno de los pedidos de los asistentes fue _quizá podrían elaborar una guia de como llevar adelante un club de lectura_.  Aún no tenemos tanta experiencia para elaborar una guía pero si podemos contar como organizamos este Club.
 
-En la web de [ROpenSci](https://ropensci.org) se define a [r-universe](https://r-universe.dev/organizations/) como una plataforma que proporciona a usuarias/os y organizaciones un __repositorio personal similar a CRAN__ para publicar software, artículos _rmarkdown_ y otro contenido que un un paquete de R pueda contener.
+## Paso 1: Seleccionar un libro significativo para tu comunidad
 
-Cuando te unes a _r-universe_, el sistema rastrea automáticamente los repositorios _git_ que registraste en tu perfil y que contienen paquetes de R. Crea los binarios para instalarlos en Windows y MacOS, genera viñetas y hace que todos estos datos estén disponibles a través de paneles, feeds y API en subdominios personales.
+El objetivo de un club de lectura es leer, discutir y aprender de un libro. Cuando se seleccione el libro tener en cuenta si es sencillo de adquirir y si tiene alguna versión gratuita on-line a la que los participantes puedan acceder sin la obligación de comprar el libro.
 
-El subdominio tendrá _tu nombre de usuario_ de github, más el dominio `r-universe.dev/`, de esta manera, mi subdominio es:
+Lo primero es consultar con tu comunidad qué libro les gustaría leer o preguntarles si les gustaría leer un libro en particular.  Eso hicimos nosotros, preguntamos si nuestra comunidad quería leer Enseñar Tecnología en Comunidad, libro de cabecera de los materiales y cursos de MetaDocencia.
 
-**`https://yabellini.r-universe.dev/`**
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">A ver comunidad Metadocente, ¿les interesaría que organicemos este club de lectura? 👇 <a href="https://t.co/ajekAltZno">https://t.co/ajekAltZno</a></p>&mdash; MetaDocencia (@metadocencia) <a href="https://twitter.com/metadocencia/status/1493196324052746241?ref_src=twsrc%5Etfw">February 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Una de las características más interesantes es que puedes empezar a instalar los paquetes que están en tu _universo-r_ con la función `install.packages` aunque el paquete no esté en CRAN.  Esta funcionalidad es muy interesante para quines somos docentes y generamos paquetes para nuestras clases. 
+Como la respuesta fue claramente un si rotundo, fuimos con el segundo paso.
 
-## Cómo generar tu propio universo
+## Paso 2: definir los encuentros (cantidad y duración)
 
-Durante esta charla, el disertante, compartió [este blog post](https://ropensci.org/blog/2021/06/22/setup-runiverse/) que explica como generar tu propio universo.  Aquí mi paso a paso siguiendo estas instrucciones:
+Ahora toca charlar sobre la frecuencia y duración de los encuentros: ¿un encuentro por semana?, ¿mejor dos encuentros?, ¿de cuanto tiempo?, ¿que cantidad de encuentros?
 
-### Paso 1: crear un respositorio en tu github para tu universo R
+La cantidad y longitud de los capítulos van a influir en la decisión de la cantidad y longitud de los encuentros.
 
-La siguiente figura resume los pasos a seguir para crear el resposirio necesario para generar nuestro `universo-r`: 
+Un encuentro semanal fue la mejor opción para nosotros porque nos permitía tener tiempo para prepararnos (leer los capítulos, preparar el material para compartir, etc) de un encuentro a otro y además nos daba continuidad.  Es además un compromiso mas sencillo acomodar en nuestras agendas.  
 
-{{< figure src="/img/r_univserse_crear_repo.png" >}}
+Para decidir que día de la semana hicimos una encuesta por Slack entre las personas que colaborarían con la organización de los encuentros (preparar el zoom, los documentos compartidos, actualizar el sitio web, revisar las inscripciones, ser moderadores y presentadores).  El día mas votado se seleccionó, en nuestro caso fue un Martes.  
 
-a. Crea un nuevo repositorio llamado `universe` en tu cuenta de GitHub.  Para eso ingresas a tu cuenta de github (paso 1), 
+Con respecto de la duración, eventos de una hora son más sencillos de acomodar en las agendas y de comprometerse, aunque puede llegar a ser poco tiempo.  En todos los encuentros terminamos extendiendo la charla, hsta media hora más, cómo máximo.  
 
-b. luego haces click en el signo más (+) que se encuentra arriba a la derecha y seleccionas la opción _New repository (nuevo repositorio)_ (paso 2). 
+## Paso 3: definir el calendario de temas
 
-c. En la pantalla _Create new repository_ completamos el _repository name (nombre del repositorio)_ con **universe** (paso 3), seleccionamos el repositorio como _public (público)_ (paso 4) y lo generamos presionando el botón _Create repository (crear repositorio)_ (paso 5).
+Con el día y la duración (Martes de 18.00 a 19.00 en nuestro caso) es necesario repartir loscapítulos que se verán en cada encuentro.  ¿Un capítulo por encuentro?, ¿Más de un capítulo?, ¿Leemos también los anexos?
 
+Para este club discutimos entre dos y tres capítulos por encuentro.  No seguimos el orden de los capítulos en el libro, si no que los agrupamos por afinidad temática.  Entonces a algunos capítulos se los agrupó con anexos que alimentaban los contenidos de los capítulos.  Algunos anexos no los discutimos como el glosario, las checklist y la bibliografía. Con esta agrupación temática tuvimos el total de encuentros, ocho en este caso, a celebrar para poder cubir todo el libro.
 
-### Paso 2. Detallar los paquetes que agregaremos a nuestro universo
-
-Una vez que el repositorio se creó se nos mostrará una pantalla con opciones para iniciar ese repo (ver figura siguiente).
-
-{{< figure src="/img/r_univserse_repo_vacio.png" >}}
-
-a. Presionar en el link _create a new file (crear un nuevo archivo)_ (paso 1) para generar un archivo llamado `packages.json`. Este archivo debe enumerar los repositorios de los paquetes que queremos incluir en nuestro `universo-r`. 
-
-b. Completar este archivo con los datos de los paquetes siguiendo el siguiente formato: 
-
-  - en el campo `url` se debe completar con __una URL pública de git del repositorio del paquete__.
-  
-  - en el campo `package` va el nombre del paquete __tal cual está escrito__ en el archivo `DESCRIPTION` que se encuentra en el repo indicado por la url. 
-  
-  - Si el paquete R no se encuentra en la raíz del repositorio, también se debe establecer el campo `subdir` en la ruta del directorio raíz del paquete R. 
-  
-En la figura se ven los paquetes que yo agregué a mi universo.  
-
-{{< figure src="/img/r_univserse_packages.png" >}}
-
-d. Cuando terminamos de completar los datos, presionamos en el botón _Commit new file_.  Se mostrará una pantalla similar a la siguiente figura.
-
-{{< figure src="/img/r_univserse_repo_listo.png" >}}
+El orden final de los temas estuvo dictado por seguir un orden de los capítulos, la disponibilidad de personas para liderar los encuentros y la idea de poder contar con la presencia del autor.  Cuando confirmamos que Greg Wilson estaría en uno de los encuentros decidimos cerrar el Club de lectura con él y dejamos los capítulos mas personales para discutirlos con él.
 
 
-### Paso 3: instalar la aplicación R-universe en GitHub
-
-En este paso debes instalar la aplicación R-universe en tu cuenta de GitHub haciendo click en [este link](https://github.com/apps/r-universe/installations/new) y seleccionando tu cuenta de la primera pantalla que aparece (paso 1 en la siguiente figura). En la segunda pantalla se recomienda seleccionar _all the repositories (todos los repositorios)_ (paso 2) y luego hacer click en el botón _Next (siguiente)_ (paso 3). 
-
-{{< figure src="/img/r_univserse_instalar_app.png" >}}
-
-Se nos presentará la siguiente imágen dandonos la bienvenida al _universo-r_
-
-{{< figure src="/img/r_universe_listo.png" >}} 
-
-
-### Paso 4: R-universe listo
-
-Una vez que se haya instalado la aplicación, el sistema creará automáticamente tu repositorio personal bajo la organización _r-universe_: `https://github.com/r-universe/<tu_nombre_de_usuario>` (ver imagen siguiente). Aquí es donde el sistema mantiene el historial completo de tus paquetes .
-
-{{< figure src="/img/r_universe_repo_creado.png" >}} 
-
-Después de un par de minutos, por lo general, no más de una hora (en mi caso fueron unos 15 minutos), los paquetes y artículos de los que se hayan completado la compilación en todas las plataformas comenzarán a aparecer en tu panel personal y estarán disponibles para que los usuarios los instalen. 
-
-El panel personal se parece a la siguiente figura.
-
-{{< figure src="/img/r_universe_panel.png" >}}
-
-Allí se presentan tus datos del perfil de github y la información de los paquetes que agregaste a tu universo.
+Encuentro
+Capítulos
+1
+Modelos mentales y evaluación formativa. Tipos de Ejercicios
+2
+Pericia y memoria. Ejemplos de mapas conceptuales
+3
+Arquitectura cognitiva. Aprendizaje Individual
+4
+Conocimiento de la pedagogía del contenido. 
+Enseñar como un arte performativo
+5
+Un proceso para diseñar lecciones. Motivación y desmotivación
+6
+En el salón de clase. Enseñar en línea
+7
+Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones
+8
+Las Reglas. Introducción. ¿Por qué enseño?
 
 
-### Paso 5: Contale a tus usuarios de universo-r
+## Paso 4: Definir responsabilidades
 
-Este paso es opcional, pero una linda idea, podés agregar al _readme_ de tus paquetes que están disponibles en _r-universe_ con instrucciones para instalarlos y agregando una etiqueta que indique que están en _r-universe_.
+Una de las cosas más lindas de los club de lectura es encontrarte con otras personas que disfrutan de los mismos libros que vos, por lo que los clubes donde los roles de liderar los encuentros van rotando son los que mas ricos me han resultado.  En este club de lectura había tres roles bien definidos:
 
-Para esto podés agregar las siguientes instrucciones:
+Organizadores del club: revisar las inscripciones, enviar los mails recordando los encuentros y compartiendo los materiales, organizar el zoom, invitar a les asistentes a ser presentadores o moderadores de los encuentros, generar los documentos compartidos y escribir los resumenes.  Las personas que cumplieron con este rol en el club de lectura de T3 fueron Yanina Bellini Saibene, Paola Corrales, Elio Campitelli y Alejandra Bellini.
+Presentadores de un encuentro: es la persona que prepara el material (slides, imagenes, mapas mentales, videos, preguntas para el documento compartido, etc).  Los organizadores del club pueden tomar estos roles, especialmente para los primeros encuentros, hasta que otres participantes se animen a realizar esta tarea.  Es una muy buena idea invitar personas que sabes han leido el libro o tienen interés a tener alguno de estos roles en alguno de los encuentros.  Cuando preguntas directamente a las personas, tenés más posibilidades que contesten de forma positiva.
+Moderadores del encuentro: es la persona que estará ayudando a quien presenta: compartte los links de los materiales, organiza el trabajo en grupo, contesta en el chat, está atente a los tiempos, modera la participación para que todes pueden ser parte.
 
-```{r}
-# Habilitar este universo
-options(repos = c(
-    yabellini = 'https://yabellini.r-universe.dev',
-    CRAN = 'https://cloud.r-project.org'))
+En nuestro caso para cada encuentro se definieron cada uno de los roles y las personas tenian el acceso a los necesario para poder participar.  Algunos equipos se juntaron antes del encuentro para organizarse.  
 
-# Instalar el paquete
-install.packages('learnres')
-```
-
-y para agregar una etiqueta r-universe a tu paquete podés agregar la siguiente línea a tu rmarkdown:
-
-```{r}
-![r-universe](https://yabellini.r-universe.dev/badges/<nombre_del_paquete>)`
-```
-por ejemplo,
-
-```{r}
-![r-universe](https://yabellini.r-universe.dev/badges/learnres)
-```
-genera la etiqueta que se ve en la siguiente figura, mostrando la versión del paquete disponible en _r-universe_:
-
-{{< figure src="/img/r_universe_readme.png" >}}
+Es recomendable tener los roles repartidos de al menos los tres primeros encuentros, antes de iniciar con el Club, de esta manera se puede ir buscando al resto de los reposables en los participantes y si algo ocurre da tiempo de buscar reemplazos.
 
 
-¡Esto es todo!, espero que este paso a paso te ayude a generar tu propio _universo-r_ con tus paquetes. 
+## Paso 5: Configurar al infraestrutura
+
+Con lo anterior definido y decidido agregamos el club de lectura a [nuestro sitio web](https://www.metadocencia.org/curso/clubdelecturat3/) donde contamos como se haría, porqué, para quien, como sería la dinámica y las fechas, horarios y temas de los encuentros.  En esa misma página te podías registrar al club usando tu mail. 
+
+El canal #clubdelectura en el Slack era el lugar para seguir en contacto durante la semana entre encuentros.   Allí compartiamos material, seguiamos dicusiones y recordatorios del club.
+
+(poner algunas capturas de pantalla)
+
+Además generamos una reunión recurrente de zoom (la plataforma que usamos para los encuentros) y una carpeta de google drive donde se almacenaron los materiales utilizados: slides, documentos compartidos, videos, mapas mentales y encuentas anonimas.
+
+Finalmente generamos una encuenta anonima y no obligatoria de feedback donde preguntamos a las personas que participaron de cada encuentro que nos cuenten:
+
+Nombrá una cosa positiva sobre el encuentro (por ejemplo, algo que te haya gustado, algo que hayas aprendido, algo que no cambiarías):
+Nombrá una cosa sobre el evento que podría mejorarse (por ejemplo, algo que no te quedó claro, algo que podríamos hacer para mejorar tu experiencia, algo que le cambiarías):
+¿Recomendarías este club de lectura a otras personas? y seleccionan del 1 al 10.
+
+Esta encuenta se lee al finalizar el encuentro y se intenta mejorar lo solicitado en las próximas reuniones.
+
+## Paso 6: Difusión
+
+Para que las personas asitan al club de lectura es importante que sepan que se va a realizar, por lo que dimos a concoer el club de lectura por medio de diferentes canales: nuestras redes sociales 
+
+(poner ejemplo de twitter, de instagram, de facebook)
+
+Nuestro Slack, tanto en el canal del club, como en el canal general es otro de los lugares donde anunciar los encuentros.
+
+Por medio de nuestro newsletter 
+
+(poner captura de pantalla)
+
+Y compartiendo esto en otros Slack de otras comunidades como R-Ladies, The Carpentries, RStudio Certified Trainers entre otros.
+
+(poner captura de pantalla de algunos de estos lugares)
+
+Una manera de continuar con la difusión es contar que pasó en cada encuentro y compartidlo con la comunidad en general, esto puede alentar a nuevas personas a sumarse al club.  Nosotros generamos una nota luego de cada encuentro que publicamos en nuestra web y compartimos por medio de redes sociales.
+
+(agregar listado de notas con los links correspondientes)
+
+El anuncio del encuentro siguiente se hace el día antes y el mismo día y si quienes son reaponables del encuentro están de acuerdo se los etiqueta en las publicaciones para que ellos puedan a su ve difundir entre sus contactos.
+
+(poner ejemplos de anuncios)
+
+## Paso 7: tener una guia de participación durante el encuentro
+
+El mejor aliado para esta tarea es el documento compartido.  Usamos google doc, pero otras plataformas como HackMD pueden ser de utilidad (y tal vez son mas accesibles).
+
+El documento compartido tiene una serie de secciones:
+
+Título
+Datos generales con links importantes (slides, zoom, capítulos a leer en la web)
+Nombres de los responsables del encuentro
+Una serie de preguntas que guiarán la discusión y la charla.
+
+(poner aqui captura de pantalla de la parte de arriba de un documento de ejemplo)
+
+Pregunta inicial: esta pregunta sirve para romper el hielo y para asegurarnos que todas las personas pueden ingresar al documento y pueden editarlo.  En general se pregunta el nombre, algun contacto (opcional) y que contesten algo personal que pueda ser divertido, curioso o relacionado con el tema a tratar.  Por ejemplo, estas son las preguntas que usamos en el club de T3:
+
+(poner aqui las ocho preguntas 1)
+
+
+Preguntas específicas del encuentro:
+
+Aqui pueden ser entre una a tres consignas relacionadas con el tema de los capítulos de este encuentro y pueden tener diferentes dinámicas:
+
+Trabajo en grupo.
+Contestar entre todos
+
+(explicar la dinámica aqui)
+
+
+Preguntas generales que también sirven para discutir y charlar sobre el libro.  
+
+Nosotros generamos las siguientes preguntas que también nos permitieron reflexionar y seguir apredienod y discutiendo sobre el libro
+
+(poner esas preguntas generales de que te gustó, que le cambiarias, etc)
+
+y finalmente agregamos el link a la encuenta y compartimos lo que se viene en el encuetro siguiente
+
+Este documento es una guía y puede ser que no se siga al pie de la letra pero ayuda a tener una estructura durante los encuentros haciendolos ordenados y provechosos.
+
+## Paso 8: llevar adelante los encuentros
+
+* CoC
+* Repaso temas
+* Consignas
+* Trabajo en grupo
+* Participación
+
+## Paso 9: Darle un cierre memorable
+* Autor
+* Responsables de la traducción
+* Traductora en vivo
+* Abierto
+
+## Paso 10: Evaluar el club y sistematizar lo aprendido
+
