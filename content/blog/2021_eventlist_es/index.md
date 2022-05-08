@@ -58,7 +58,7 @@ Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en l
 
 * Hice la presentación de [Red Estratégica de Conocimiento: Modelización en Agroecosistemas](https://docs.google.com/presentation/d/1kM49AA6MTjGATEBckAsd_shBq0xW7KZvNHXeYj-1HKU/edit?usp=sharing) para investigadores y extensionistas.
 
-* Fui invitada a disertar sobre _Ciencia de datos aplicada al sector agropecuario_ en Women in Data Science La Paz - Bolivia.
+* Fui invitada a disertar sobre [Ciencia de datos aplicada al sector agropecuario](/talk/wisd_lapaz_2021/) en Women in Data Science La Paz - Bolivia.
 
 
 ## Junio: +24
