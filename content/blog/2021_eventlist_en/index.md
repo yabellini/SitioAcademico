@@ -57,7 +57,7 @@ Reviewing what I did during 2021 I put together this list with the 53 events in 
 
 * I gave a presentation on [Strategic Knowledge Network: Modeling in Agroecosystems](https://docs.google.com/presentation/d/1kM49AA6MTjGATEBckAsd_shBq0xW7KZvNHXeYj-1HKU/edit?usp=sharing) for researchers and extensionists.
 
-* I was invited to lecture on _Data Science applied to the agricultural sector_ at Women in Data Science La Paz - Bolivia.
+* I was invited to lecture on [Data Science applied to the agricultural sector](/talk/wisd_lapaz_2021/) at Women in Data Science La Paz - Bolivia.
 
 
 ## June: +24
