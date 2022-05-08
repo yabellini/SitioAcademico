@@ -1,7 +1,7 @@
 ---
 title: " Clustering para determinar Sistemas Productivos Preponderantes"
 subtitle: "Invited talk"
-excerpt: "Presetnación del uso de técnicas de clustering sobre una declaración jurada de productores agropecuarios de La Pampa para determinart sistemas productivos preponderantes"
+excerpt: "Presentación del uso de técnicas de clustering sobre una declaración jurada de productores agropecuarios de La Pampa para determinar sistemas productivos preponderantes"
 date: 2021-09-15
 date_end: "2021-09-15"
 author: "Yanina Bellini Saibene"
