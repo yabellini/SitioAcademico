@@ -3,7 +3,7 @@ title: "Club de Lectura de Enseñar Tecnología en Comunidad"
 weight: 10
 subtitle: ""
 excerpt: "Serie de 8 encuentros para leer y charlar sobre el libro Enseñar Tecnología en Comunidad de Greg Wilson."
-date: 2022-05-10
+date: 2022-05-08
 draft: false
 tag:
   - Club de Lectura
