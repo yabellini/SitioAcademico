@@ -71,3 +71,5 @@ https://teachtogether.tech/es/index.html#s:classroom
 
 * Enseñar en línea: 
 https://teachtogether.tech/es/index.html#s:online 
+
+> Publicado originalmente en la web de MetaDocencia

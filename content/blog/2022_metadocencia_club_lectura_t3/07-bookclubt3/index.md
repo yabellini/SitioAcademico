@@ -70,3 +70,5 @@ En nuestro próximo encuentro, el _martes 26 de abril_, analizaremos los capítu
 * Difusión y vinculación: https://teachtogether.tech/es/index.html#s:outreach 
 
 * Reuniones, reuniones, reuniones: https://teachtogether.tech/es/index.html#s:meetings 
+
+> Publicado originalmente en la web de MetaDocencia

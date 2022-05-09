@@ -82,3 +82,5 @@ Todos coincidimos en la necesidad de organizar las reuniones, con consignas clar
 ## Lo que viene
 
 El **gran cierre del Club de lectura, será el martes 3 de mayo**, con la presencia del autor del libro [Greg Wilson](https://teachtogether.tech/es/index.html#s:meetings) y con una traductora en vivo para que todos puedan formar parte.
+
+> Publicado originalmente en la web de MetaDocencia

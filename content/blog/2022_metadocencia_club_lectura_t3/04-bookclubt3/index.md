@@ -59,3 +59,5 @@ Nuestro próximo encuentro será el _martes 5 de abril a las 18:00 (UTC-3)_ y lo
 * Conocimiento de la pedagogía del contenido: https://teachtogether.tech/es/index.html#s:pck
 
 * Enseñar como un arte performativo: https://teachtogether.tech/es/index.html#s:performance
+
+> Publicado originalmente en la web de MetaDocencia

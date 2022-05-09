@@ -77,3 +77,5 @@ Para el próximo encuentro, el _martes 12 de abril_, analizaremos los capítulos
 https://teachtogether.tech/es/index.html#s:motivation
 
 Si queres sumarte, podés hacerlo desde este link: https://www.metadocencia.org/curso/clubdelecturat3/ 
+
+> Publicado originalmente en la web de MetaDocencia

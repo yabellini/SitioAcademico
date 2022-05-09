@@ -57,3 +57,5 @@ Algunas de las respuestas fueron:
 Nuestro próximo encuentro será el __martes 22 de marzo (18.00 UTC -3)__ donde compartiremos el capítulo sobre _pericia y memoria_ del libro Enseñar Tecnología en Comunidad. 
 
 Si querés sumarte, en esta nota tenés todos los datos para hacerlo: https://www.metadocencia.org/curso/clubdelecturat3/ 
+
+> Publicado originalmente en la web de MetaDocencia

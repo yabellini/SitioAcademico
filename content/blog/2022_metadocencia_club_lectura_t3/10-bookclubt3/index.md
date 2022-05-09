@@ -37,14 +37,14 @@ Una o varias personas presentarán los capítulos y otra persona moderadora se e
 
 |  Fecha |  Capítulos  | Presenta | Modera | Materiales |
 | ---:  | :----------- | :----------- | :----------- | :----------- |
-|15 de Marzo - 18:00 UTC-3 |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| Paola Corrales | [Blog](/blog/2022_metadocencia_club_lectura_t3/02-bookclubt3/) y [Slides](https://docs.google.com/presentation/d/12_vkEBWM57yRy86Nd3hLqqDEr_jqhYjgTuDPyuvNOM8/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia1/) |
-|22 de Marzo - 18:00 UTC-3|Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |[Slides](https://docs.google.com/presentation/d/1hQwa8SXLH1iYzY06pTvh7oit1rOUmUB_wzB__O8DhrU/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia2/)|
-|29 de Marzo - 18:00 UTC-3|Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |[Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia3/)|
-|5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |[Slides](https://docs.google.com/presentation/d/1aeTj5DcjaOIh7WF1VqD5dmiiPuucadvB3bxRQCP7zR0/edit?usp=sharing) - [Blog post](https://www.metadocencia.org/post/club_de_lectura_t3_dia4/)|
-|12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |[Blog y Slides](https://www.metadocencia.org/post/club_de_lectura_t3_dia5/)|
-|19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Yani Bellini Saibene | [Blog](https://www.metadocencia.org/post/club_de_lectura_t3_dia6/)|
-|26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Elio Campitelli |[Blog y Slides](https://www.metadocencia.org/post/club_de_lectura_t3_dia7/)|
-|3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene | [Blog](https://www.metadocencia.org/post/club_de_lectura_t3_dia8/)|
+|15 de Marzo - 18:00 UTC-3 |Modelos mentales y evaluación formativa. Tipos de Ejercicios | Yani Bellini Saibene| Paola Corrales | [Blog post](/blog/2022_metadocencia_club_lectura_t3/02-bookclubt3/) y [Slides](https://docs.google.com/presentation/d/12_vkEBWM57yRy86Nd3hLqqDEr_jqhYjgTuDPyuvNOM8/edit?usp=sharing) |
+|22 de Marzo - 18:00 UTC-3|Pericia y memoria. Ejemplos de mapas conceptuales | Yani Bellini Saibene | Paola Corrales |[Slides](https://docs.google.com/presentation/d/1hQwa8SXLH1iYzY06pTvh7oit1rOUmUB_wzB__O8DhrU/edit?usp=sharing) - [Blog post](/blog/2022_metadocencia_club_lectura_t3/03-bookclubt3/)|
+|29 de Marzo - 18:00 UTC-3|Arquitectura cognitiva. Aprendizaje Individual | Elio Campitelli | Yani Bellini Saibene |[Blog post](/blog/2022_metadocencia_club_lectura_t3/04-bookclubt3/)|
+|5 de Abril - 18:00 UTC-3|Conocimiento de la pedagogía del contenido. Enseñar como un arte performativo| Paola Corrales | Jesica Formoso |[Slides](https://docs.google.com/presentation/d/1aeTj5DcjaOIh7WF1VqD5dmiiPuucadvB3bxRQCP7zR0/edit?usp=sharing) - [Blog post](/blog/2022_metadocencia_club_lectura_t3/05-bookclubt3/)|
+|12 de Abril - 18:00 UTC-3| Un proceso para diseñar lecciones. Motivación y desmotivación | Jesica Formoso | Mónica Alonso |[Blog y Slides](/blog/2022_metadocencia_club_lectura_t3/06-bookclubt3/)|
+|19 de Abril - 18:00 UTC-3| En el salón de clase. Enseñar en línea |Ernesto Mirt Alvarado | Yani Bellini Saibene | [Blog](/blog/2022_metadocencia_club_lectura_t3/07-bookclubt3/)|
+|26 de Abril - 18:00 UTC-3| Construyendo una comunidad de práctica. Difusión y vinculación. Reuniones, reuniones, reuniones | Alejandra Bellini | Elio Campitelli |[Blog post y Slides](/blog/2022_metadocencia_club_lectura_t3/08-bookclubt3/)|
+|3 de Mayo - 18:00 UTC-3| Las Reglas. Introducción. ¿Por qué enseño? | Greg Wilson | Yani Bellini Saibene | [Blog post](/blog/2022_metadocencia_club_lectura_t3/09-bookclubt3/)|
 
 ## ¿Cómo participo?
 

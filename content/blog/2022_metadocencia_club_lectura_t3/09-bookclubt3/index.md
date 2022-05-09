@@ -88,3 +88,5 @@ El Club de lectura tuvo un cierre de lujo que cumplió con creces su objetivo pr
 ¡Gracias a todos los que se sumaron a esta experiencia de Metadocencia!
 
 Dentro de muy pocos días, pondremos a disposición la grabación de la charla completa con Greg Wilson en castellano y en inglés para que puedan disfrutarla de manera completa.
+
+> Publicado originalmente en la web de MetaDocencia

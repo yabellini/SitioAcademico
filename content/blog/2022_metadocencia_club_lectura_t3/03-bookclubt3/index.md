@@ -73,3 +73,5 @@ Nuestro próximo encuentro será el _martes 29 de marzo_ sobre los capítulos: [
 Si querés sumarte a partir del próximo encuentro podés hacerlo desde acá: https://www.metadocencia.org/curso/clubdelecturat3/ 
 
 Y también podés sumarte a nuestra comunida de Slack desde acá: https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA 
+
+> Publicado originalmente en la web de MetaDocencia
