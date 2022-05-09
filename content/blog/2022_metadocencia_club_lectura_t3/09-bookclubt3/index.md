@@ -3,7 +3,7 @@ title: "Cada vez que enseño aprendo algo nuevo - Greg Wilson"
 weight: 9
 subtitle: ""
 excerpt: "El cierre del primer club de Lectura de Metadocencia tuvo como invitado al autor del libro Teaching Tech Together. En un intercambio profundo y abierto, indagamos sobre las razones para enseñar y los desafíos de la enseñanza online después de la pandemia."
-date: 2022-05-09
+date: 2022-05-08
 draft: false
 tag:
   - Club de Lectura
