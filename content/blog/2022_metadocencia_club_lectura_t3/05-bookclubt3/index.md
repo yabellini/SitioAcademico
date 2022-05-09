@@ -14,6 +14,8 @@ tag:
   - Education
 ---
 
+_por Alejandra Bellini, Yanina Bellini Saibene, Paola Corrales, Jesica Formoso_
+
 En este nuevo encuentro, a cargo de _Pao y Jesi_ se analizaron los capítulos Conocimiento de la pedagogía del contenido y Enseñar como un arte performativo cuyo contenido puede leerse desde aquí: https://teachtogether.tech/es/index.html#s:pck y https://teachtogether.tech/es/index.html#s:performance
 
 Tal como viene sucediendo en los en los encuentros anteriores, el intercambio y las actividades en grupos fueron enriquecedores y sumaron visiones desde distintas áreas donde pueden aplicarse los principios del libro [Enseñar Tecnología en Comunidad](https://teachtogether.tech/es/index.html).

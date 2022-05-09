@@ -12,6 +12,8 @@ tags:
   - Español
 ---
 
+_por Alejandra Bellini y Yanina Bellini Saibene_
+
 Desde Metadocencia queremos invitarte a formar parte de un Club de Lectura sobre el libro [Enseñar Tecnología en Comunidad (Teaching Tech Together)](https://teachtogether.tech/es/index.html), la obra que representa las bases sobre las que esta comunidad de práctica surgió y creció hace ya dos años.
 
 Tal como plantea el autor, Greg Wilson, en la introducción

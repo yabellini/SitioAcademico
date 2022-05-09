@@ -14,6 +14,8 @@ tag:
   - Education
 ---
 
+_por Alejandra Bellini, Yanina Bellini Saibene, Elio Campitelli_
+
 El último encuentro antes del gran cierre del Club de lectura sobre el libro Enseñar Tecnología en Comunidad, tuvo mucho intercambio de experiencias y aportes sobre tres capítulos que pueden analizarse en el espacio educativo, pero también en espacios de trabajo y comunidades de prácticas.  Estuvo a cargo de _Alejandra y Elio._
 
 ## Material del encuentro

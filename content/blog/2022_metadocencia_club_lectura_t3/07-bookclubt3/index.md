@@ -14,6 +14,8 @@ tag:
   - Education
 ---
 
+_por Alejandra Bellini, Yanina Bellini Saibene, Ernesto Mirt_
+
 A medida que avanzan los encuentros de nuestro Club de Lectura, parece que el tiempo pasa más rápido y una hora es escaso para compartir todas las experiencias de la enseñanza y lo que surge del libro [Enseñar tecnología en Comunidad](https://teachtogether.tech/es/index.html) 
 
 En el sexto encuentro se analizaron los capítulos “En el salón de clase” y “Enseñar en línea” que tomaron un tono diferente después de haber vivido dos años de pandemia en el mundo. 

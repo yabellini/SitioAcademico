@@ -14,6 +14,8 @@ tag:
   - Education
 ---
 
+_por Alejandra Bellini, Yanina Bellini Saibene y Elio Campitelli_
+
 Esta vez la cita estuvo a cargo de _Elio Campitelli  y Yanina Bellini_ quienes, tomando las sugerencias de los asistentes a los encuentros previos, comenzaron con actividades para desarrollar los principales conceptos de los capítulos Arquitectura cognitiva y Aprendizaje individual.
 
 ## Carga cognitiva
