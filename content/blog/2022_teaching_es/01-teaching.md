@@ -26,7 +26,7 @@ Así que el desafío es cómo generar una clase interactiva donde se aprendan nu
 
 ## Armado de la lección
 
-Como siempre uso la estrategia de diseño reverso de una lección para generar mis clases. Inicio pensando en que quiero que mis estudiantes aprendan durante la clase y luego uso personas tipo y mapas conceptuales para decidir que enseñar en una lección.  
+Como siempre uso la estrategia de diseño reverso de una lección para generar mis clases. Inicio pensando en que quiero que mis estudiantes aprendan durante la clase y luego uso [personas tipo]((https://teachtogether.tech/es/index.html#s:process-personas)) y [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) para decidir que enseñar en una lección.  
 
 El mapa me permite elegir los temas y asegurarme que no son demasiados para el tiempo que tengo para la lección.  Para esta decidí repasar la evolución de la tecnología agropecuaria para relacionarla con el concepto de AgTech y explicarlo.  Luego enfocarme en los conceptos de Ciencia de Datos, Minería de Datos, Aprendizaje Automático e Inteligencia Artificial. Explicar como “aprende” una “maquina” relacionandolo con lo que ellos ya aprendieron de recolección de datos a campo e imágenes satelitales y finalmente introducir el concepto de BigData.
 
@@ -60,10 +60,10 @@ Este es una agenda aproximada de la clase.  Siempre tengo un guión armado sobre
 
 Hay una presentación que se reparte con anticipación la cual tiene notas del orador con gran parte de lo que voy a decir durante la charla. Las imagenes tienen texto alternativo. Estos recursos son pensando en la accesibilidad de los materiales.
 
-### Documentos compartidos
+### [Documentos compartidos](https://teachtogether.tech/es/index.html#s:classroom-notetaking)
 
-Estos documentos se usan para apoyar el trabajo en grupo.  Genero un documento por cada grupo, pensando que no haya más de 10 personas, por lo que aqui se generan 30 (si treinta) documentos.  Todos con la misma estructura pero diferente nombre.  Se nombran Sala 1 a Sala 30 para que las personas sepan que documento usar de acuerdo a la sala que les tocó.
-Para no tener que compartir los 40 links en el chat, genero otro documento que es el Mapa de Documentos compartidos que lista todos los links de acuerdo a la sala.  Este documento tiene permisos de solo lectura (para evitar que las personas borren o sobreescriban los links).
+Estos documentos se usan para apoyar el trabajo en grupo.  Genero _un documento por cada grupo_, pensando que no haya más de _diez personas_, por lo que aqui se generan 30 (si treinta) documentos.  Todos con la misma estructura pero diferente nombre.  Se _nombran Sala 1 a Sala 30_ para que las personas sepan que documento usar de acuerdo a la sala que les tocó.
+Para no tener que compartir los 30 links en el chat, genero otro documento que es el _Mapa de Documentos compartidos_ que lista todos los links de acuerdo a la sala.  Este documento tiene _permisos de solo lectura_ (para evitar que las personas borren o sobreescriban los links).
 
 {{< figure src="/img/300_ejemplo_doc_1.png"  alt="Documento con el nombre del evento como título y la leyenda Documento compartido con acceso a los documentos por sala y un listado de Sala 1 a Sala 5 con links a otros google docs." >}}
 
@@ -75,9 +75,9 @@ Para no tener que compartir los 40 links en el chat, genero otro documento que e
 > Ejemplo de documento compartido para ejercicios en grupos
 
 
-### Evaluaciones formativas cortas
+### [Evaluaciones formativas](https://teachtogether.tech/es/index.html#s:models-formative-assessment)
 
-Estas evaluaciones _no tienen como objetivo_ calificar el conocimiento si no que se utilizan para chequear entendimiento, para saber si un tema ya se conoce y si podemos o no seguir adelante. Es además una manera de mantener una clase interactiva con los estudiantes.  Por ejemplo, durante los primeros 25 minutos de presentación, antes de presentar el concepto de Ciencia de Datos les pido que escriban en el chat lo primero que piensan cuando escuchan esas palabras.  Uso sus respuestas para dar la definición.  En esos _25 minutos tengo tres_ de estas evaluaciones formativas.
+Estas evaluaciones _no tienen como objetivo_ calificar el conocimiento si no que _se utilizan para chequear entendimiento_, para saber si un tema ya se conoce y si podemos o no seguir adelante. Es además una manera de mantener una clase interactiva con los estudiantes.  Por ejemplo, durante los primeros 25 minutos de presentación, antes de presentar el concepto de Ciencia de Datos les pido que escriban en el chat lo primero que piensan cuando escuchan esas palabras.  Uso sus respuestas para dar la definición.  En esos _25 minutos tengo tres_ de estas evaluaciones formativas.
 
 ### Trabajo en grupo: 
 
@@ -85,7 +85,7 @@ Estas evaluaciones _no tienen como objetivo_ calificar el conocimiento si no que
 
 - armar salas para grupos pequeños con no mas de 10 personas en el grupo de forma aleatoria. Se generan más salas que las necesarias porque en el caso que una conexión tuviera mas personas asistiendo a la clase juntas en forma presecial, entonces ellos van a una sala solos y trabajan sobre el documento igualmente. Por lo que también habilitamos que las personas puedan moverse de sala.  Esto también permite que personas de la misma escuela trabajen juntas (debería haber dado instrucciones más claras en este caso, igualmente a los asistentes les gustó conocer a personas de otras escuelas).  
 
-- Copiar el link con la lista de documentos en el chat antes de habilitar las salas. Suelo generar link cortos usando tiny.cc.
+- Copiar el link con la lista de documentos en el chat _antes_ de habilitar las salas. Suelo generar link cortos usando _tiny.cc_.
 
 - Dejar bien claro cual te todos los ejercicios vamos a hacer ahora: por ejemplo: _“Ahora vamos a ir a trabajar en grupo, recuerden que vamos a ver el punto número dos, el que está de color verde y vamos a tener 10 minutos para hacerlo.  Cuando les queden dos minutos les aviso.  Si necesitan ayuda pueden llamarme a la sala.”_
 
@@ -125,4 +125,4 @@ Esta experiecia fue un desafío y se suma a otro de los casos donde, más que un
 
 * Compartiendo trabajo en tiempo real durante tu clase. Bellini Saibene, Yanina. 2020. https://yabellini.netlify.app/blog/2020_documentoscompartidos_es/
 
-* Tomando notas juntos. Greg Wilson. Enseñar Tecnología en Comunidad. https://teachtogether.tech/es/index.html#s:classroom-notetaking  
+* Enseñar Tecnología en Comunidad.  Greg Wilson. 2017  https://teachtogether.tech/es/index.html
