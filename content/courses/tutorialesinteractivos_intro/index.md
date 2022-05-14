@@ -231,7 +231,7 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
 
 ### Course materials
 
-* [Presentation used during the course](https://docs.google.com/presentation/d/1RejcfLcXZtkZgOTOwo5UJx9Oyg-jU_vE5ucufnUx31Y/edit?usp=sharing)
+* [Presentation used during the course](https://docs.google.com/presentation/d/14HkcCZ5t0isM9k9P0E5iNPJjO7LCE-Th02rZ0PceHeE/edit?usp=sharing)
 
 * [Recording of the course](https://youtu.be/BGmM_E6BrRI)
 
