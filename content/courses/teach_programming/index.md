@@ -20,14 +20,14 @@ categories:
 # layout options: single or single-sidebar
 layout: single
 links:
-- icon: door-open
+- icon: images
   icon_pack: fas
-  name: website
-  url: 
-- icon: github
-  icon_pack: fab
-  name: code
-  url: 
+  name: slides
+  url: https://docs.google.com/presentation/d/13-QOiaspxczBEbXuPrAn7mJUNXljmU9HJtxwdzeYYNY/edit?usp=sharing
+# - icon: github
+#   icon_pack: fab
+#   name: code
+#   url: 
 ---
 
 ## Español - Cómo enseñar a programar online
