@@ -1,8 +1,8 @@
 ---
-title: ""
+title: "Cómo enseñar a programar online"
 subtitle: ""
-excerpt: ""
-date: 2019-07-02
+excerpt: "En este curso revisamos herramientas específicas para enseñar programación"
+date: 2021-01-10
 author: "Yanina Bellini Saibene, Paola Corrales, Mariela Rajngewerc, Nicolás Palopoli, Violeta Roizman para MetaDocencia"
 featured: true
 draft: false
