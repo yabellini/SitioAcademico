@@ -30,6 +30,19 @@ links:
   url: https://github.com/yabellini/learninglearnr
 ---
 
+## English
+
+<img src='featured.jpg' align="right" height="300" alt='Figure of three women learning and teaching with a large interactive tutorial in the background'/>
+
+This project was born in 2019 when I started using the `{learnr}` package, from the R programming language, to generate interactive tutorials based on *rmarkdown* documents.
+
+This website has resources _in Spanish_ about `{learnr}` that I generate periodically with the idea of sharing my learnings, my successes, my mistakes, my own tutorials and materials that I consider interesting for those who also develop this type of teaching resources.
+
+Interactive tutorials are very useful for remote, in-person, synchronous or asynchronous classes and as help to an R package.
+
+The web was the extra material for my regular talk [On programming, teaching, and building interactive tutorials with learnr](https://resources.rstudio.com/resources/rstudioglobal-2021/on-programming-teaching-and-building- interactive-tutorials-with-learnr /) at _RStudio::global 2021_, an international conference about R organize by the company RStudio.
+
+
 ## Español
 
 <img src='featured.jpg' align="right" height="300" alt='Figura de tres mujeres aprendiendo y enseñando con un gran tutorial interactivo de fondo'/>
@@ -43,14 +56,3 @@ Los tutoriales interactivos son muy útiles para clases remotas, sincrónicas o 
 La web fue el material extra de mi charla regular [On programming, teaching, and building interactive tutorials with learnr](https://resources.rstudio.com/resources/rstudioglobal-2021/on-programming-teaching-and-building-interactive-tutorials-with-learnr/) en la RStudio::global 2021, una conferencia internacional sobre R llevada adelante por la empresa RStudio.
 
 
-## English
-
-<img src='featured.jpg' align="right" height="300" alt='Figure of three women learning and teaching with a large interactive tutorial in the background'/>
-
-This project was born in 2019 when I started using the `{learnr}` package, from the R programming language, to generate interactive tutorials based on *rmarkdown* documents.
-
-This website has resources _in Spanish_ about `{learnr}` that I generate periodically with the idea of sharing my learnings, my successes, my mistakes, my own tutorials and materials that I consider interesting for those who also develop this type of teaching resources.
-
-Interactive tutorials are very useful for remote, in-person, synchronous or asynchronous classes and as help to an R package.
-
-The web was the extra material for my regular talk [On programming, teaching, and building interactive tutorials with learnr](https://resources.rstudio.com/resources/rstudioglobal-2021/on-programming-teaching-and-building- interactive-tutorials-with-learnr /) at _RStudio::global 2021_, an international conference about R organize by the company RStudio.
