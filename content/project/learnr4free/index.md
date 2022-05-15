@@ -28,27 +28,9 @@ links:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdf0mTy4MXP_mzmwthjcyXHBF3Ruz9HygEkJcpWlQtcb-ZYcw/viewform
 ---
 
-## Español
-
-<img src='featured.jpg' align="right" height="300" alt='hex sticker con el texto learnR4free al medio. Fondo gris y borde grueso rojo.'/>
-
-En este sitio web puedes encontrar todo tipo de recursos (libros, videos, sitios web interactivos, artículos) para aprender R. Algunos de los recursos son para principiantes y comienzan desde el proceso de instalación de R. Si quieres que agreguemos un recurso completa el formulario.
-
-### ¿Qué significa "free" (gratuito) en learnR4free?
-
-
-Free (es decir, gratuito) en este caso significa que el costo monetario para quienes usen los materiales es cero. Hay algunos recursos que piden donaciones y otros que proporcionan una parte del material u oportunidades de aprendizaje de forma gratuita y para el resto cobran. En este sitio web, solo enumeramos recursos que son totalmente gratuitos. En otras palabras, cualquier persona (pague o no) tiene acceso al mismo material y a las mismas oportunidades.
-
-
-### ¿Puedo enviar cualquier recurso?
-
-¡No! El recurso tiene que ser gratuito, como se define más arriba. No debe ser sensible al tiempo, como por ejemplo: "Un taller que tendrá lugar este jueves". La razón principal es que no tenemos tiempo para actualizar el sitio web a menudo, por lo que se prefieren los recursos que son (más o menos) permanentes. Hay algunas documentaciones increíbles sobre paquetes en forma de viñetas. Sin embargo, no se enumerarán aquí principalmente porque hay muchas. 
-
-### Envié un recurso pero no está en la lista. ¿Por qué?
-
-Puede haber muchas razones. Podríamos estar ocupadas con el trabajo y no tener tiempo para actualizar el sitio web. Es posible que el recurso no sea totalmente gratuito (consulta la definición anterior). Puede no ser adecuado por una razón u otra. Haremos todo lo posible para comunicarnos contigo. 
-
 ## English
+
+<img src='featured.png' align="right" height="300" alt='hex sticker con el texto learnR4free al medio. Fondo gris y borde grueso rojo.'/>
 
 In this website you can find all sorts of resources (books, videos, interactive websites, papers) to learn R. Some of the resources are beginner-friendly and start with the installation process. 
 
@@ -68,3 +50,22 @@ If the resource meets these criteria then please submit the resource by filling 
 There may be many reasons. I might be busy with work and may not have the time to update the website. The resource may not be fully free (see definition above). It may not be suitable for one reason or the other. I will try my best to communicate with you. 
 
 
+## Español
+
+<img src='featured.png' align="right" height="300" alt='hex sticker con el texto learnR4free al medio. Fondo gris y borde grueso rojo.'/>
+
+En este sitio web puedes encontrar todo tipo de recursos (libros, videos, sitios web interactivos, artículos) para aprender R. Algunos de los recursos son para principiantes y comienzan desde el proceso de instalación de R. Si quieres que agreguemos un recurso completa el formulario.
+
+### ¿Qué significa "free" (gratuito) en learnR4free?
+
+
+Free (es decir, gratuito) en este caso significa que el costo monetario para quienes usen los materiales es cero. Hay algunos recursos que piden donaciones y otros que proporcionan una parte del material u oportunidades de aprendizaje de forma gratuita y para el resto cobran. En este sitio web, solo enumeramos recursos que son totalmente gratuitos. En otras palabras, cualquier persona (pague o no) tiene acceso al mismo material y a las mismas oportunidades.
+
+
+### ¿Puedo enviar cualquier recurso?
+
+¡No! El recurso tiene que ser gratuito, como se define más arriba. No debe ser sensible al tiempo, como por ejemplo: "Un taller que tendrá lugar este jueves". La razón principal es que no tenemos tiempo para actualizar el sitio web a menudo, por lo que se prefieren los recursos que son (más o menos) permanentes. Hay algunas documentaciones increíbles sobre paquetes en forma de viñetas. Sin embargo, no se enumerarán aquí principalmente porque hay muchas. 
+
+### Envié un recurso pero no está en la lista. ¿Por qué?
+
+Puede haber muchas razones. Podríamos estar ocupadas con el trabajo y no tener tiempo para actualizar el sitio web. Es posible que el recurso no sea totalmente gratuito (consulta la definición anterior). Puede no ser adecuado por una razón u otra. Haremos todo lo posible para comunicarnos contigo. 
