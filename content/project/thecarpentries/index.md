@@ -47,6 +47,8 @@ links:
 
 ## English
 
+<img src='featured.jpg' align="right" height="200" alt='The Carpentries blue logo'/>
+
 ### My role at The Carpentries
 
 As of 2022, I am part of the organization's Executive Council. In 2020 I was certified as a _Software Carpentries_ instructor and in 2021 as a _Trainer_. I have also been involved in translating various community lessons into Spanish and teaching self organizer workshop at my work.
