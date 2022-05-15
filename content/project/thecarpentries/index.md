@@ -45,20 +45,6 @@ links:
 
 ---
 
-## Español
-
-### Mi rol en The Carpentries
-
-A partir del 2022 soy parte del Execute Council de la organización. En el año 2020 me certifiqué como instructora de Software Carpentries y en 2021 como Trainer. También he estado involucrada en la traducción de diversas lecciones de la comunidad al español.
-
-## Visión
-
-Nuestra visión es ser la comunidad inclusiva líder en la enseñanza de datos y habilidades de codificación.
-
-## Misión
-
-The Carpentries desarrolla capacidades globales y esenciales en datos y habilidades computacionales para realizar una investigación eficiente, abierta y reproducible. Capacitamos y fomentamos una comunidad activa, inclusiva y diversa de estudiantes e instructores que promueve y modela la importancia del software y los datos en la investigación. Desarrollamos de forma colaborativa lecciones disponibles abiertamente y las impartimos utilizando prácticas de enseñanza basadas en la evidencia. Nos centramos en las personas que realizan y respaldan la investigación.
-
 ## English
 
 ### My role at The Carpentries
@@ -72,3 +58,17 @@ Our vision is to be the leading inclusive community teaching data and coding ski
 ### Mission
 
 The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of learners and instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
+
+## Español
+
+### Mi rol en The Carpentries
+
+A partir del 2022 soy parte del Execute Council de la organización. En el año 2020 me certifiqué como instructora de Software Carpentries y en 2021 como Trainer. También he estado involucrada en la traducción de diversas lecciones de la comunidad al español.
+
+## Visión
+
+Nuestra visión es ser la comunidad inclusiva líder en la enseñanza de datos y habilidades de codificación.
+
+## Misión
+
+The Carpentries desarrolla capacidades globales y esenciales en datos y habilidades computacionales para realizar una investigación eficiente, abierta y reproducible. Capacitamos y fomentamos una comunidad activa, inclusiva y diversa de estudiantes e instructores que promueve y modela la importancia del software y los datos en la investigación. Desarrollamos de forma colaborativa lecciones disponibles abiertamente y las impartimos utilizando prácticas de enseñanza basadas en la evidencia. Nos centramos en las personas que realizan y respaldan la investigación.
