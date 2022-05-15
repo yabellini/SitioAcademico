@@ -28,6 +28,10 @@ links:
   icon_pack: fas
   name: slides v1.0
   url:  https://docs.google.com/presentation/d/1w1flGDIyD7E2TZDC6iTIb9WjBYJBbNXedI-K8xC3Wb8/edit?usp=sharing
+- icon: images
+  icon_pack: fas
+  name: slides a la carta INTA
+  url:  https://docs.google.com/presentation/d/15jjA8a4WEhEbjDbMvip2K_xXK6o6ldxEgA651uxz6VY/edit?usp=sharing
 - icon: doc
   icon_pack: fas
   name: doc compartido v1.0
