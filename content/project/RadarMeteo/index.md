@@ -1,18 +1,28 @@
 ---
-authors:
-- RadarMeteo
-bio: INTA's Weather Radar Network
-name: INTA's Weather Radar Network
-organizations:
-- name: INTA's Weather Radar Network
-  url: "http://radar.inta.gob.ar/"
-social:
+title: "INTA's Weather Radar Network"
+subtitle: ""
+excerpt: ""
+date: 2008-07-02
+author: "Yanina Bellini Saibene"
+featured: true
+draft: false
+tags:
+  - RSE
+  - Español
+categories:
+  - RSE
+  - Python
+# layout options: single or single-sidebar
+layout: single
+links:
 - icon: github
   icon_pack: fab
-  link: https://github.com/INTA-Radar
-superuser: false
-user_groups:
-- Projects
+  name: code
+  url: https://github.com/INTA-Radar
+- icon: newspaper
+  icon_pack: far
+  name: Web site
+  url: http://radar.inta.gob.ar/
 ---
 
 # English
