@@ -1,8 +1,8 @@
 ---
 title: "Generando tutoriales interactivos con el paquete {learnr}"
 subtitle: ""
-excerpt: "Aprende como usar {learnr} para construir tutoriales interactivos con R.  Curso en desarrollo."
-date: 020-10-03
+excerpt: "Aprende como usar {learnr} para construir tutoriales interactivos con R."
+date: 2020-10-03
 author: "Yanina Bellini Saibene and Paola Corrales"
 featured: true
 draft: false
