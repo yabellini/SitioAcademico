@@ -54,7 +54,7 @@ links:
 ## English
 ### My role in MetaDocencia
 
-<img src='featured.jpg' align="right" height="200" alt='MetaDocencia logo. A red apple with two little blue leaves and an orange chat balloon. The word MetaDocencia below the apple.'/>
+<img src='featured.png' align="right" height="200" alt='MetaDocencia logo. A red apple with two little blue leaves and an orange chat balloon. The word MetaDocencia below the apple.'/>
 
 MetaDocencia means MetaTeaching in Spanish. I am a _co-founder_ and from 2020 until May 2022 I was part of the MetaDocencia's _Core Team_. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, and mentor people within the community.
 
@@ -108,7 +108,7 @@ These principles arise from the experience of [The Carpentries](https://carpentr
 
 ### Mi rol en MetaDocencia
 
-<img src='featured.jpg' align="right" height="200" alt='Logo de MetaDocencia. Una manzana roja con dos hojitas azules y con un globo de dialogo de chat naranja. La palabra MetaDocencia debajo de la manzana.'/>
+<img src='featured.png' align="right" height="200" alt='Logo de MetaDocencia. Una manzana roja con dos hojitas azules y con un globo de dialogo de chat naranja. La palabra MetaDocencia debajo de la manzana.'/>
 
 
 Soy co-fundadora y parte del equipo coordinador de MetaDocencia.  Además de cumplir un rol de dirección, también genero contenido, nuevos cursos, dicto clases, traduzto material de inglés al español y mentoreo personas dentro de la comunidad.
