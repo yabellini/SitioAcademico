@@ -49,6 +49,24 @@ links:
 ---
 
 
+## Organizing a regional conference of R
+
+<img src='featured.jpg' align="right" height="200" alt='Hexsticker of LatinR. Latin America draw with lines'/>
+
+In October 2017, Heather Turner announced on R User Group Organizers (RUG) Slack that the R Foundation's Conference Committee was interested in hosting R events with an academic focus in regions not currently covered by useR!.
+
+She also shared it on the _R-Ladies_ organizers Slack and sent a direct message to me and _Laura Ación_, asking if the two of us would be encouraged to organize a conference in our region. Other R-Ladies read these messages, and _in less than a week, we had already organized our first video conference to think about how to face the challenge_. _I was one of those people in that video call where we founded LatinR_.
+This quick response was not just luck but the consequence of a year in which the R community - through local RUGs and social media presence - grew significantly in South America.
+
+By _mid-November_ everything was already defined: a name, a place, a date, and a motivated international organizing committee. The first edition was held in Buenos Aires, Argentina, the second in Santiago de Chile, Chile, COVID made the third, originally scheduled in Montevideo, Uruguay, take place virtually, as will be the fourth edition during 2021.
+
+In the first edition, I was not a chair because it was held within the framework of the JAIIO, as a result of my contact and proposal to the Argentine Society of Informatics and Operations Research, and I was already fulfilling the role of chair in another symposium within the conference. So in that edition and the second, I was an active member of the organizing committee, becoming chair during the 2020 and 2021 editions.
+
+The conference brought important personalities from the R world to South America for the first time as keynotes and instructors. The conference is trilingual, so that those who speak Spanish, Portuguese, and English can participate. Last year we got talks, keynotes, and tutorials in all three languages.
+
+The entire conference is done with volunteer work.
+
+
 ## Organizando una conferencia regional de R
 
 <img src='featured.jpg' align="right" height="200" alt='Hexsticker de LatinR. America Latina dibujadas con lineas'/>
@@ -66,19 +84,3 @@ La conferencia logró que personalidades importantes del mundo R vinieran por pr
 
 Toda la conferencia se hace con trabajo voluntario.
 
-## Organizing a regional conference of R
-
-<img src='featured.jpg' align="right" height="200" alt='Hexsticker of LatinR. Latin America draw with lines'/>
-
-In October 2017, Heather Turner announced on R User Group Organizers (RUG) Slack that the R Foundation's Conference Committee was interested in hosting R events with an academic focus in regions not currently covered by useR!.
-
-She also shared it on the _R-Ladies_ organizers Slack and sent a direct message to me and _Laura Ación_, asking if the two of us would be encouraged to organize a conference in our region. Other R-Ladies read these messages, and _in less than a week, we had already organized our first video conference to think about how to face the challenge_. _I was one of those people in that video call where we founded LatinR_.
-This quick response was not just luck but the consequence of a year in which the R community - through local RUGs and social media presence - grew significantly in South America.
-
-By _mid-November_ everything was already defined: a name, a place, a date, and a motivated international organizing committee. The first edition was held in Buenos Aires, Argentina, the second in Santiago de Chile, Chile, COVID made the third, originally scheduled in Montevideo, Uruguay, take place virtually, as will be the fourth edition during 2021.
-
-In the first edition, I was not a chair because it was held within the framework of the JAIIO, as a result of my contact and proposal to the Argentine Society of Informatics and Operations Research, and I was already fulfilling the role of chair in another symposium within the conference. So in that edition and the second, I was an active member of the organizing committee, becoming chair during the 2020 and 2021 editions.
-
-The conference brought important personalities from the R world to South America for the first time as keynotes and instructors. The conference is trilingual, so that those who speak Spanish, Portuguese, and English can participate. Last year we got talks, keynotes, and tutorials in all three languages.
-
-The entire conference is done with volunteer work.
