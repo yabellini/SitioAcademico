@@ -32,14 +32,19 @@ links:
   icon_pack: fas
   name: slides a la carta INTA
   url:  https://docs.google.com/presentation/d/15jjA8a4WEhEbjDbMvip2K_xXK6o6ldxEgA651uxz6VY/edit?usp=sharing
-- icon: doc
+- icon: file-user
   icon_pack: fas
   name: doc compartido v1.0
   url: https://docs.google.com/document/d/10rUEugnL8bZpws2E9oCLeQyK6ogDLRybJ9suI6AscSQ/edit?usp=sharing
-- icon: doc
+- icon: file-user
   icon_pack: fas
   name: doc compartido v2.0
   url: https://docs.google.com/document/d/1fW0kyhyMVKOw2YyafUMW1uHKbuHOs8k6vSPqpzjkL6g/edit?usp=sharing
+- icon: file-user
+  icon_pack: fas
+  name: doc compartido a la carta INTA
+  url: https://docs.google.com/document/d/15fJDbnuIkdxStyOMcpHSS9PRVa9fAyNNPSM8wXxTyRk/edit?usp=sharing
+  
 # - icon: github
 #   icon_pack: fab
 #   name: code
