@@ -56,7 +56,7 @@ links:
 
 <img src='featured.jpg' align="right" height="200" alt='MetaDocencia logo. A red apple with two little blue leaves and an orange chat balloon. The word MetaDocencia below the apple.'/>
 
-MetaDocencia means MetaTeaching in Spanish. I am a _co-founder_ and part of the MetaDocencia's _Core Team_. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, and mentor people within the community.
+MetaDocencia means MetaTeaching in Spanish. I am a _co-founder_ and from 2020 until May 2022 I was part of the MetaDocencia's _Core Team_. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, and mentor people within the community.
 
 ### Our vision
 
