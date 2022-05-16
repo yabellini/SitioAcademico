@@ -18,7 +18,7 @@ categories:
   - Español
   - R
 # layout options: single or single-sidebar
-layout: single
+layout: single-sidebar
 links:
 - icon: images
   icon_pack: fas
