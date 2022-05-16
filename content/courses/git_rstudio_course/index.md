@@ -16,7 +16,7 @@ categories:
   - Español
   - R
 # layout options: single or single-sidebar
-layout: single
+layout: single-sidebar
 links:
 - icon: github
   icon_pack: fab
