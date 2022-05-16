@@ -6,7 +6,7 @@ date_end: "2017-12-05"
 author: "Yanina Bellini Saibene"
 location: "San Luis, Argentina"
 event: "6ta Conferencia y Exposición Dominios Latinoamérica 2017"
-event_url: https://nic.ar/es/node/396
+event_url: https://www.dominioslatinoamerica.co/eventos/edicion-2017/
 draft: false
 # layout options: single, single-sidebar
 layout: single
