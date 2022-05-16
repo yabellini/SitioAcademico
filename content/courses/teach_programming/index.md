@@ -24,6 +24,10 @@ links:
   icon_pack: fas
   name: slides
   url: https://docs.google.com/presentation/d/13-QOiaspxczBEbXuPrAn7mJUNXljmU9HJtxwdzeYYNY/edit?usp=sharing
+- icon: file
+  icon_pack: fas
+  name: doc compartido
+  url: https://docs.google.com/document/d/1rItIrMGCHwyEkBbS7dmKC69lh41uP6JHLSAwSVds8wQ/edit?usp=sharing
 # - icon: github
 #   icon_pack: fab
 #   name: code
