@@ -32,8 +32,6 @@ links:
 
 ## Español
 
->> Autoras: Yanina Bellini Saibene y Paola Corrales para MetaDocencia (2021)
-
 ### Objetivos
 
 El **objetivo** de este curso es introducir a las personas que participan al paquete {learnr} de R y como utilizarlo para generar tutoriales interactivos que permitan a los y las estudiantes escribir y ejecutar código R directamente desde el tutorial, contestar preguntas y recibir feedback inmediato.
@@ -137,8 +135,6 @@ Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike
 Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web y compartas tu material con esta misma licencia.
 
 ## English
-
->> Authors: Yanina Bellini Saibene y Paola Corrales para MetaDocencia (2021)
 
 ### Objectives 
 
