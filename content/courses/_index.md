@@ -13,13 +13,12 @@ layout: list-grid # list, list-sidebar, list-grid
 sidebar: 
   title: My courses
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
+    List of my courses in Spanish and English. See each course for 
+    details about licence.
   author: "Yanina Bellini Saibene"
   text_link_label: ""
   text_link_url: ""
-  show_sidebar_adunit: false # show ad container
+  show_sidebar_adunit: true # show ad container
 
 # set up common front matter for all individual pages inside project/
 cascade:    
@@ -29,7 +28,7 @@ cascade:
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all courses
-    text_link_url: /project/
+    text_link_url: /courses/
     show_sidebar_adunit: true # show ad container
 ---
 
