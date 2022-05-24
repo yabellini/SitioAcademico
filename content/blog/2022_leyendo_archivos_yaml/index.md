@@ -12,6 +12,9 @@ tags:
 
 # Foto de Ilya Pavlov en Unsplash
 ---
+## Update
+
+He actualizado el código al final del blog post con la solución final.
 
 ## Contexto
 
@@ -90,3 +93,19 @@ write_csv(datos, "fechas_eventos.csv")
 ## Lo que viene
 
 Tengo que ver como hago esto mismo para los blog post sin que me de error.
+
+## Update
+
+Gracias al comentario de Maëlle el problema ya está resuelto.  Este código recorre todos los archivos que necesito y obtiene los datos sin errores (a menos que el YAML esté mal formado y entonces es una buena idea hacer las correcciones necesarias)
+
+```
+file_list <- fs::dir_ls(path = "content/blog/", recurse = TRUE, type = "file", glob = "*.md")
+
+blog <- tibble(fecha = character(), titulo = character())
+
+for (documento in file_list){
+  doc <- rmarkdown::yaml_front_matter(input = file.path(documento))
+  blog <- tibble::add_row(blog, fecha = doc$date, titulo = doc$title)  
+}
+
+```
