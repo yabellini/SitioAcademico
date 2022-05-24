@@ -1,8 +1,7 @@
 ---
 date: "2016-09-16"
 draft: false
-linktitle: Sobre estrellas y semillas. La industria espacial al servicio del agro.
-summary: 
+summary: Resumen de los temas presentados en el Congreso de AgroInformática sobre satelites y sus aplicaciones en el agro.
 title: Sobre estrellas y semillas. La industria espacial al servicio del agro.
 authors: []
 weight: 1

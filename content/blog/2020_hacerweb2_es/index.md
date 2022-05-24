@@ -1,10 +1,6 @@
 ---
 title: "Creando una página web bilingüe en R"
 summary: Esta es la segunda entrega de una serie de post sobre como generar un sitio web estático con R.
-authors: 
-  - Pamela Pairo
-  - Natalia Morandeira
-  - admin
 date: "2020-12-17"
 authors: 
   - Pamela Pairo

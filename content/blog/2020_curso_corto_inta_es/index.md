@@ -1,7 +1,6 @@
 ---
 date: "2020-08-24"
 draft: false
-type: page
 linktitle: Adaptando el material de MetaDocencia para el Centro Regional La Pampa - San Luis
 summary: En esta publicación, el equipo de Comunicación e Informática del Centro Regional La Pampa - San Luis nos cuenta su experiencia adaptando el material de MetaDocencia para formar a sus investigadores y extensionistas.
 title: Adaptando el material de MetaDocencia para el Centro Regional La Pampa - San Luis
@@ -11,7 +10,6 @@ authors:
   - Lucía Cornejo
   - Pablo Lucchetti
   - Felix Garay.
-
 type: post
 weight: 1
 categories:

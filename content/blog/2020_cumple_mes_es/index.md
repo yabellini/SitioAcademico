@@ -1,7 +1,6 @@
 ---
 date: "2020-04-16"
 draft: false
-linktitle: Nuestro primer mes enseñando a enseñar
 summary: ¡Cumplimos un mes! Ya recorrimos un largo camino. Te lo contamos acá
 title: Nuestro primer mes enseñando a enseñar
 authors: 
