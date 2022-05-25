@@ -23,5 +23,5 @@ links:
 - icon: youtube
   icon_pack: fab
   name: Video charla y Q&A
-  url: https://youtu.be/ZxAN_VnX4kw?t=4880
+  url: https://youtu.be/ZxAN_VnX4kw?t=5086
 ---
