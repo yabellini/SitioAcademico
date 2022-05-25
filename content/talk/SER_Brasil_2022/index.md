@@ -1,5 +1,5 @@
 ---
-title: "Creando y usando tutoriales interactivos con learnr"
+title: "Creando y usando tutoriales interactivos con {learnr}"
 excerpt: ""
 date: 2022-05-25
 date_end: "2022-05-25"
