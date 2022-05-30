@@ -3,7 +3,7 @@ title: "Google Earth Engine desde cero"
 subtitle: ""
 excerpt: "Este curso está pensado para personas que quieren utilizar Google Earth Engine (GEE) para realizar tareas con información espacial raster y vectorial"
 date: 2019-11-20
-author: "Yanina Bellini Saibene"
+author: "Yanina Bellini Saibene y Hernan Elena"
 featured: true
 draft: false
 tags:

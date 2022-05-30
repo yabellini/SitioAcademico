@@ -3,7 +3,7 @@ title: "Introducción al ABC para enseñar (y hacer otras cosas) online"
 subtitle: ""
 excerpt: "Curso de una hora y media donde se exponen buenas prácticas basadas en evidencia para organizar buenos eventos on-line"
 date: 2020-06-01
-author: "Yanina Bellini Saibene"
+author: "Yanina Bellini Saibene, Pablo Lucchetti, María Elena Fuentes, Andrea Lagomarsino y Lucia Cornejo"
 featured: true
 draft: false
 tags:

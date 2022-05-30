@@ -3,7 +3,7 @@ title: " Introducción al ABC para enseñar online | Introduction to online teac
 subtitle: ""
 excerpt: "Taller de introducción para enseñar sobre cualquier tema en forma remota | Introductory online synchronous workshop for general online teaching."
 date: 2020-03-22
-author: "Yanina Bellini Saibene and Paola Corrales"
+author: "Laura Acion, Yanina Bellini Saibene, Paola Corrales, Elio Campitelli, Nicolas Palopoli, Romina Pendino, Mariela Rajngewerc, Irene Vazano, Patricia Loto, Iván Poggio para MetaDocencia "
 featured: true
 draft: false
 tags:
