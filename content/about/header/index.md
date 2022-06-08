@@ -9,7 +9,7 @@ headline: |
 <!-- this is a subheadline -->
 __In short:__ 
 
-[INTA](https://www.argentina.gob.ar/inta)'s Researcher. Coordinator of the Agroecosystem Modeling Network. [UNAB](https://www.unab.edu.ar/) and [UDE](https://www.fca-ude.edu.uy/) Professor.
+[UNAB](https://www.unab.edu.ar/) and [UDE](https://www.fca-ude.edu.uy/) Professor. [INTA](https://www.argentina.gob.ar/inta)'s Researcher (on leave).
 
 Co-founder of [MetaDocencia](https://www.metadocencia.org/), [LatinR](https://latin-r.com/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
