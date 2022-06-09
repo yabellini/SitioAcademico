@@ -19,15 +19,11 @@ links:
 - icon: images
   icon_pack: fas
   name: slides - parte 1
-  url:  https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE
+  url: https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE
 - icon: images
   icon_pack: fas
   name: slides - parte 2
-  url:  https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte2_CAI_2019_yani.pdf?raw=TRUE
-# - icon: file
-#   icon_pack: fas
-#   name: doc compartido
-#   url: 
+  url: https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte2_CAI_2019_yani.pdf?raw=TRUE
  - icon: door-open
    icon_pack: fas
    name: website
