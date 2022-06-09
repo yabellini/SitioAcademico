@@ -16,22 +16,22 @@ categories:
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
-- icon: images
-  icon_pack: fas
-  name: slides - parte 1
-  url: https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf?raw=TRUE
-- icon: images
-  icon_pack: fas
-  name: slides - parte 2
-  url: https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte2_CAI_2019_yani.pdf?raw=TRUE
- - icon: door-open
-   icon_pack: fas
-   name: website
-   url: https://flor14.github.io/r_cai_2019/
- - icon: github
-   icon_pack: fab
-   name: code
-   url: https://github.com/flor14/r_cai_2019
+  - icon: images
+    icon_pack: fas
+    name: slides 1
+    url: https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte1_CAI_2019.pdf
+  - icon: images
+    icon_pack: fas
+    name: slides 2
+    url:  https://github.com/flor14/r_cai_2019/blob/curso/Curso_parte2_CAI_2019_yani.pdf
+  - icon: door-open
+    icon_pack: fas
+    name: website
+    url: https://flor14.github.io/r_cai_2019/
+  - icon: github
+    icon_pack: fab
+    name: code
+    url: https://github.com/flor14/r_cai_2019
 ---
 
 ### Cronograma
