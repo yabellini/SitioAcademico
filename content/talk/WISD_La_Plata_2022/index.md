@@ -27,6 +27,6 @@ links:
 - icon: youtube
   icon_pack: fab
   name: Video charla y Q&A 
-  url: https://www.youtube.com/c/VideosUNLP
+  url: https://www.youtube.com/watch?v=2QhqtcWoNyk
 ---
 
