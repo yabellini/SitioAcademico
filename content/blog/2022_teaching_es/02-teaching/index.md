@@ -1,8 +1,8 @@
 ---
-title: "Organizando una clase práctica on-line"
+title: "Organizando una clase práctica online"
 weight: 2
 subtitle: ""
-excerpt: "Detalles de la organización y dinámica de un encuentro sincrónico online donde no hay exposición de clase si no trabajo práctico individual o en grupos"
+excerpt: "Detalles de la organización y dinámica de un encuentro sincrónico online donde no hay exposición de clase si no trabajo práctico individual o en grupos."
 date: 2022-06-19
 draft: true
 tag:

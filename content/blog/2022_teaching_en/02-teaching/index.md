@@ -14,7 +14,7 @@ tag:
 ## Practical Class
 
 A 100% hands-on class means no exposure to new material and no lecture. Instead, we use the entire class to exercise and resolve doubts synchronously and online.
-This class was part of the _Diplomatura de Ciencia de Datos Aplicadas a Políticas Públicas_ at [Universidad Guillermo Brown](https://www.unab.edu.ar/).
+This class was part of the _Diploma in Data Science Applied to Public Policy_ at [Universidad Guillermo Brown](https://www.unab.edu.ar/).
 
 ## Organization
 
