@@ -1,63 +1,56 @@
 ---
-title: "Conclusiones del primer encuentro del Club de Lectura"
+title: "Organizing a practical class online"
 weight: 2
 subtitle: ""
-excerpt: "La utilidad de las preguntas de opción múltiple, evaluaciones formativas, docentes carismáticos, el verdadero valor de las encuestas de satisfacción a los alumnos y otros aprendizajes construidos en comunidad"
-date: 2022-03-21
+excerpt: "Details of the organization and dynamics of an online synchronous class where there is no lecture but individual or practical group work."
+date: 2022-06-19
 draft: true
 tag:
-  - Club de Lectura
+  - Education
   - Community
-  - eventos
-  - Español
+  - English
 ---
 
-_por Alejandra Bellini, Yanina Bellini Saibene, Andrea Sanchez Tapia_
+## Practical Class
 
-En el primer encuentro del Club de Lectura, analizamos el capítulo Modelos mentales y evaluación formativa. Durante la presentación de _Yanina Bellini Saibene_ surgieron comentarios y experiencias de cada participante que resignificaron el contenido desarrollado en el primer capítulo del libro Enseñando Tecnología en Comunidad.
+A 100% hands-on class means no exposure to new material and no lecture. Instead, we use the entire class to exercise and resolve doubts synchronously and online.
+This class was part of the _Diplomatura de Ciencia de Datos Aplicadas a Políticas Públicas_ at [Universidad Guillermo Brown](https://www.unab.edu.ar/).
 
-## Evaluaciones formativas
+## Organization
 
-En el concepto sobre evaluaciones formativas, analizamos un ejemplo incluido en el libro que Yanina calificó como _“una de las mejores preguntas de evaluación formativa de todos los tiempos”_:
+Using Zoom as a meeting platform, we created rooms for group work with different objectives:
 
+* A series of rooms for work according to themes, for example, a room to work on _ggplot_, a room to work on _Tableu_, and a room for _software installation problems_.
 
-{{< figure src="/img/CLT3_E1_MC.png"  alt="Pregunta de opción múltiple: ¿Cuánto es 37 + 15?, a) 52, b) 42, c) 412, d) 43. La respuesta correcta es 52, pero las otras respuestas proporcionan información valiosa. 42, no entiende qué significa llevarse una unidad, 412, está tratando a cada columna de números como un problema separado. 43, entonces sabe que tiene que llevarse el 1, pero lo lleva de vuelta a la columna de la que viene." >}}
+* We also created some rooms to work in groups of two for the final work of the subject.
 
+* Finally, some rooms for those who work individually.
 
-Fue a partir de ese ejemplo que surgieron muchas otras experiencias positivas y no tanto de la utilización del multiple choice o múltiple opción como evaluación formativa. 
+The rooms lasted the total class time (three hours), and the students moved as they wanted between those rooms and called us if they needed help. We visited all occupied rooms even if they did not call us.
 
-Entre las experiencias compartidas sobre la utilización de herramientas, _Mauricio_ contó sobre el uso de Kahoot como una actividad lúdica: “Me sirvió para entusiasmarlos y que presten más atención, porque saben que luego de 15/20 minutos viene un juego con premio. Pensé que iba a ser una herramienta que la iban a rechazar por ser adultos (alumnos de grado y posgrado) pero les encantó”.
+We generated a _shared document_ so that they could write down questions and we could answer them (structured with the names of the rooms).
 
-Durante el encuentro, compartimos diferentes tipos de ejercicios para utilizar como evaluaciones formativas según se trate de una persona novata, competente o experta.
+## Results
 
-_Andrea_ contó que una vez trató de “hacer una clase con código sin pasarles nada, que tuvieran que escribir cada cosa (para que no copiaran y pegaran simplemente ) y era presencial”. Sus alumnos se pusieron de muy mal genio y tuvo que trabajar la frustración para próximos encuentros y situaciones similares. 
+1. We resolved doubts and queries.  Students were able to complete and submit several of the practical assignments.
 
-## Motivando a personas novatas
+2. We discussed the final work and selected and started to analyze the datasets—many with their data generally related to their work.
 
-Entre las recomendaciones para motivar a personas novatas para superar las malas experiencias, _Paola_ aportó que “los ejercicios sean significativos para esas personas es importante. Eso ayuda a motivarles y que sientan que lo que hacen tiene sentido”. _Elio_ sumó la idea de que los ejercicios deben ser “claros y que la(s) única posibilidad de fallo esté(n) relacionada(s) con los contenidos. Pensando en código: minimizar la posibilidad de que haya un bug no relacionado con lo que vieron”.
+3. They accompanied and helped each other to solve the exercises.  It is very satisfying to see how they explain and help each other. The best example of _we learn better together.
 
-Para _Andrea_, las experiencias personales aportan un valor extra: “Les cuento qué me pasaba y cómo con el tiempo se fue solucionando o lo fui entendiendo, sobre todo para que no quede la impresión de que alguien que ya sabe algo siempre lo supo o lo entendió inmediatamente”.
+4. We solved software installation problems, which is always a source of frustration. Having a space to prepare and install the environment with the support of teachers is very positive. It shows how teachers diagnose and solve installation problems. Allowing us to share alternatives will enable students to finish the class with all necessary software.
 
-
-## Modelos mentales, personas novatas y expertas
-
-Dentro de los conceptos fundamentales para organizar y diseñar una clase están los modelos mentales. Lo que convierte a una persona en novata es precisamente que no posee todavía un modelo mental funcional del problema. Tal como lo explicó _Yanina_ no hay que olvidarse que “vos no sos tus estudiantes y tenes que tener un modelo mental de tus estudiantes para diseñar la lección”.
- 
-En esta instancia, surgieron muchos ejemplos de situaciones en las que la diferencia en los modelos mentales genera una necesidad de readaptación. Pensemos, por ejemplo, en docentes que conocen lo que es un sistema de archivos donde se puede crear una carpeta y realizar acciones como copiar o mover archivos; y por otro lado, alumnos que desconocen todo eso porque trabajan en la nube o en la carpeta de descarga de la compu.  
-
-_Laura_ también recordó que “quería exponer sobre un tema que requiere el uso de regresión lineal, y me encontré con que los participantes no sabían graficar una función y/o no sabían usar Google Sheets (era un trabajo colaborativo). Lo resolví la siguiente vez subiendo videos de cómo hacerlo (previamente a la clase), para que llegaran a la clase con ese tema ya abordado, y dedicar el tiempo al tema que nos ocupaba, que no era aprender a graficar ni a usar Google Sheets”.
+5. We were able to share specific material for their work. As the data sets are different, specific tasks that are not seen in class in as much detail may be needed.  This instance allows us to identify those needs and guide each student to the sources and examples that are best for the assignment they want to do.
 
 
-## La charla sigue por Slack
+## Feedback
 
-Después de una hora de intercambio, la participación se trasladó al slack del Club de Lectura donde propusimos una nueva consigna (presente en el libro) para debatir: _“Las encuestas de satisfacción de los estudiantes no tienen relación con cuánto aprendieron en realidad. Recordás alguna clase que te haya gustado mucho pero que en realidad no aprendiste nada nuevo/útil? ¿Qué características tenía esa clase?"_
+As always, at the end of the class, we asked them to complete an anonymous feedback form where we asked two things: one positive and one negative aspect of the class.
 
-Algunas de las respuestas fueron:
+The feedback was very good. What students marked as most positive aspects was:
 
-{{< figure src="/img/CLT3_E1_Slack.png" alt="Respuestas de Paola, Elio y Andrea en el Slack del Club de Lectura. Pao: No logro pensar en un ejemplo. Seguro tengo contra ejemplos (clases donde le docente parecia no querer estar ahí y terminaba siendo una tortura). Posiblemente pasarla bien o que te guste mucho habla de un ambiente amigable. Seguro que no es suficiente para aprender, pero si necesario. Andrea: Yo no creo que haya logrado no aprender al menos algo de una clase que me gustara. Siempre queda algo. Y amaba las clases donde tuviéramos mucha libertad. Un profesor del colegio nos dijo que escogiéramos un/a autor/a latinoamericano/a y leyéramos lo que quisiéramos, fuéramos haciendo reportes y presentáramos lo que quisiéramos al final del año.  Caos :cara_ligeramente_sonriente:  En la universidad un profesor evaluaba inventando dos o tres exámenes levemente diferentes, nos dejaba llevar libros y hablar entre nosotres para resolver las respuestas que nos hubieran tocado al azar. Caos y colaboración :cara_ligeramente_sonriente:. Elio: Me hiciste acordar al mejor trabajo práctico de Literatura en la secundaria. Nos hicieron elegir libros con autoras mujeres y que lo leyéramos y escribiéramos una reseña o algo así. Creo que fue la única vez que leimos algo voluntariamente en vez de elegido por le docente. Todavía recuerdo con cariño el libro que leí (en cambio, no recuerdo nada de otros libros que tuve que leer como El Larazillo de Tormes, o libros que se suponía que debía leer como Don Quijote)." >}}
+* Being able to work in practice and having us there to consult doubts, problems, and alternatives.
 
-Nuestro próximo encuentro será el __martes 22 de marzo (18.00 UTC -3)__ donde compartiremos el capítulo sobre _pericia y memoria_ del libro Enseñar Tecnología en Comunidad. 
+* They enjoyed working with their classmates as a group.
 
-Si querés sumarte, en esta nota tenés todos los datos para hacerlo: https://www.metadocencia.org/curso/clubdelecturat3/ 
-
-> Publicado originalmente en la web de MetaDocencia
+* They appreciated being able to use the synchronous time of the course to solve the practical part. Everyone taking the course works, and time is a scarce resource. Furthermore, class time is something they have already set aside, so using this time to do the labs was very convenient for most of the group.
