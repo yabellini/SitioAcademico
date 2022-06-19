@@ -4,7 +4,7 @@ weight: 2
 subtitle: ""
 excerpt: "Details of the organization and dynamics of an online synchronous class where there is no lecture but individual or practical group work."
 date: 2022-06-19
-draft: true
+draft: false
 tag:
   - Education
   - Community
