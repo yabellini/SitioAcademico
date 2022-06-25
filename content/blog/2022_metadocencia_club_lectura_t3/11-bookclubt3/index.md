@@ -112,4 +112,4 @@ Es recomendable tener los roles asignados de al menos los dos primeros encuentro
   
   - ¿Recomendarías este club de lectura a otras personas? y seleccionan del 1 al 10.
 
-Esta encuenta se lee al finalizar el encuentro y se intenta mejorar lo solicitado en las próximas reuniones.
+Esta encuesta se lee al finalizar el encuentro. Se selecciona al menos un punto que se pueda mejorar en las próximas reuniones. Se mantiene en los siguientes encuentros lo que se marcó como positivo.
