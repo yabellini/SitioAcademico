@@ -91,7 +91,7 @@ En nuestro caso para cada encuentro se definieron quienes tendrían cada rol y l
 Es recomendable tener los roles asignados de al menos los dos primeros encuentros antes de iniciar con el Club. Esto da tiempo a buscar reemplazos, si se necesita. Luego se puede ir buscando al resto de los responsables entre las personas que participan.  
 
 
-## Paso 5: Configurar al infraestrutura
+## Paso 5: Configurar la infraestrutura
 
 
 * Sitio Web: con lo anterior definido y decidido agregamos el club de lectura a [nuestro sitio web](https://www.metadocencia.org/curso/clubdelecturat3/) donde contamos como se haría, porqué, para quien, como sería la dinámica y las fechas, horarios y temas de los encuentros.  En esa misma página te podías registrar al club usando tu mail. 
