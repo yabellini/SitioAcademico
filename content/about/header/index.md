@@ -10,11 +10,12 @@ headline: |
 __In short:__ 
 
 [rOpenSci](https://ropensci.org/) Community Manager.
+[R-Ladies](https://rladies.org/) Project Lead.
 [UNAB](https://www.unab.edu.ar/) and [UDE](https://www.fca-ude.edu.uy/) professor. 
 
 Co-founder of [MetaDocencia](https://www.metadocencia.org/), [LatinR](https://latin-r.com/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
-Member, [The Carpentries](https://carpentries.org/) Executive Council,  [R-Ladies](https://rladies.org/) Global and Leadership Team, [RForwards](https://forwards.github.io/) Core Team, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [R4DS_ES](https://github.com/cienciadedatos), useR! Working Group, [MiR](https://mircommunity.com), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
+Member, [The Carpentries](https://carpentries.org/) Executive Council,  [R-Ladies](https://rladies.org/) R-Ladies Global Team, [RForwards](https://forwards.github.io/) Core Team, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [R4DS_ES](https://github.com/cienciadedatos), useR! Working Group, [MiR](https://mircommunity.com), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
 
 Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data.  
 
