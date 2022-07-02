@@ -25,10 +25,10 @@ links:
   icon_pack: fas
   name: Website
   url: https://yabellini.github.io/deHojasDeCalculoAR/
-# - icon: youtube
-#   icon_pack: fab
-#   name: video
-#   url: https://youtu.be/N445pQaidu8  
+- icon: youtube
+   icon_pack: fab
+   name: video
+   url: https://www.youtube.com/watch?v=qOpXUo6epr0&ab_channel=SoftwareSaved
   
 ---
 
