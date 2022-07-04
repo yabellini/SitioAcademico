@@ -86,3 +86,5 @@ __Wiley2004__
 
 __Wilson2019__
 : Wilson G (2019) Ten quick tips for creating an effective lesson. PLoS Comput Biol 15(4): e1006915. https://doi.org/10.1371/journal.pcbi.1006915. Resume 10 consejos para sideñar lecciones basadas en investigación empírtica en pedagigía y psicología cognitiva.
+
+> Algunos de estos puntos están adaptados de [Appendix L: How to Get Started Freelancing](https://buildtogether.tech/rules-freelance/) de [Building Software Together](https://buildtogether.tech/) y del Capítulo [Difusión y Vinculación](https://teachtogether.tech/es/index.html#s:outreach) de [Enseñar Tecnología en Comunidad](https://teachtogether.tech/es/) ambos por Greg Wilson.
