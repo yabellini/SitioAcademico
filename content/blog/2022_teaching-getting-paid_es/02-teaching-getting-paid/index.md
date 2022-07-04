@@ -2,7 +2,7 @@
 title: "Como determinar cuanto cobrar"
 weight: 2
 subtitle: ""
-excerpt: "."
+excerpt: "Una de las consultas más comunes de las personas que se emepiezan a dedicar a enseñar de forma autónoma es ¿cuánto debo cobrar por mis cursos?, ¿cómo calculo el precio?.  En este post una serie de ideas"
 date: 2022-07-03
 draft: false
 tag:
