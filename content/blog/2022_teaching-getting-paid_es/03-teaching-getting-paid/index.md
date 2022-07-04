@@ -4,7 +4,7 @@ weight: 3
 subtitle: ""
 excerpt: "En esta tercera entrega de la serie presentamos una serie de puntos a tener encuenta para darte a conocer a tus potenciales clientes, incluido como compartir el material de tus cursos."
 date: 2022-07-04
-draft: true
+draft: false
 tag:
   - Education
   - Community
@@ -58,6 +58,7 @@ tipos de contenido como diapositivas, documentos, código fuente, imágenes y
 también nos permite desarrollarlo continuamente a través de un proceso 
 iterativo y con comentarios de otros, ya que GitHub implementa un sistema 
 de control de versiones. Si no has usado GitHub, podes utilizar [este tutorial inicial sobre Git](/courses/git_rstudio_course/).
+  Un punto importante aqui es tener guias de contribución que exliquen a las personas como pueden sugerirte cambios y mejoras a tus materiales y un código de conducta que explique que comportimientos son aceptados y cuales no cuando se interactúa con otras personas en tus proyectos.
 
 * __Paso 3: agregar un indentificador de objeto digital (DOI) para que sea citable.__ 
 
