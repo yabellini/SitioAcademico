@@ -24,3 +24,4 @@ links:
   url: https://docs.google.com/presentation/d/1CGwdF1oXskd2yHMHoYw7Bv6-PdYagdgm7q0Lc9Cooj4/edit?usp=sharing
 ---
 
+En esta charla presento aplicaciones prácticas de geotecnologías en la nube para realizar seguimiento de emergencias agropecuarias.  En esta se enfoca en inundaciones y que tipo de tecnología utilizamos para compartir y procesar los datos y construir los modelos.
