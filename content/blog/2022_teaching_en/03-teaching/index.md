@@ -1,5 +1,5 @@
 ---
-title: "Scenario analysis. What to do when thing no go so well in the classroom?"
+title: "Scenario analysis. What to do when thing do not go so well in the classroom?"
 weight: 3
 subtitle: ""
 excerpt: " "
