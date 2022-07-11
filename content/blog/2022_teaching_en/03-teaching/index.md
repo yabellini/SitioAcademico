@@ -19,7 +19,7 @@ The solution is education and practice. At the [RStudio Instructor Training](htt
 
 This lesson is intended to provide a friendly and safe environment to discuss situations that might occur in a real-world classroom.  
 
-I designed these scenarios based on material from the RStudio Instructor training, the Open Life Science Allies Workshop, and the books [How Learning Works](https://www.amazon.com/How-Learning-Works-Research-Based-Principles-ebook/dp/B003IEJZXS) and [Teaching Technology in Community](https://teachtogether.tech/en/index.html).  I used them twice during two Spanish-language instructors' training for [The Carpentries](https://carpentries.org/).
+I designed these scenarios based on material from the RStudio Instructor training, the Open Life Science Allies Workshop, and the books [How Learning Works](https://www.amazon.com/How-Learning-Works-Research-Based-Principles-ebook/dp/B003IEJZXS) and [Teaching Tech Together](https://teachtogether.tech/en/index.html).  I used them twice during two Spanish-language instructors' training for [The Carpentries](https://carpentries.org/).
 
 
 ## Organization of the exercise
