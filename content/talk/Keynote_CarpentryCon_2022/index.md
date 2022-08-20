@@ -27,10 +27,10 @@ links:
   icon_pack: fas
   name: slides English
   url: https://docs.google.com/presentation/d/12HoqY5gjU9QCMoWoJS40jqdcprkC1RvS_JKd1NBwOxc/edit?usp=sharing  
-#- icon: youtube
-#  icon_pack: fab
-#  name: video (talk and Q&A)
-#  url: 
+- icon: youtube
+  icon_pack: fab
+  name: video (Charla y Q&A)
+  url: https://youtu.be/BGNIqf8SysI
 
 ---
 
