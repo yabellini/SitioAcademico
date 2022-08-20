@@ -30,10 +30,11 @@ links:
   icon_pack: fab
   name: video (Talks)
   url: https://youtu.be/wBnueQ5bZWg
-- icon:file
+- icon: file
   icon_pack: fas
   name: Note doc
   url: https://docs.google.com/document/d/1QQiH4LLao9ozUteenVZ3dxbKYYbO2HcDcmgeG0cJjZQ/edit?usp=sharing
+  
 ---
 
 In 2022, there exists what sometimes feels like an overwhelming array of technologies, frameworks, and shiny new products all promising to make your event run better. But what works for some events and communities may not be ideal for yours. How do you determine which technology platforms and services align with your community’s needs and values? 
