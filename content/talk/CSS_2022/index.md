@@ -21,11 +21,11 @@ links:
 - icon: images
   icon_pack: fas
   name: slides Español
-  url: https://docs.google.com/presentation/d/1lQPRsCy5rS0fTDDPfQC4cnmWJON9vMHnihmGDM_LTzg/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1vPsvh8Jw6jkomQRKMm_agAqzKTP9t_xsyTXIsn9Zv8A/edit?usp=sharing
 - icon: images
   icon_pack: fas
   name: slides English
-  url: https://docs.google.com/presentation/d/12HoqY5gjU9QCMoWoJS40jqdcprkC1RvS_JKd1NBwOxc/edit?usp=sharing  
+  url: https://docs.google.com/presentation/d/1BEuYg64FI9l6u6kJEAK-au3u9HDKhFiJp8P8BCWz5iQ/edit?usp=sharing  
 - icon: youtube
   icon_pack: fab
   name: video (Talks)
