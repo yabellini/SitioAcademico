@@ -17,7 +17,7 @@ At the end of 2021 I started my **to-don't list**, it is a list of things that y
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting my 2022 to-don&#39;t list:<br>- I will not be chair or organizer of JAIIO &amp; CAI<br>- I will not direct/co-direct any undergraduate or graduate thesis<br>- I will not sign any new R&amp;D cooperation agreements<br>- I will not join any new community<br>- I will not eat so much wheat flour</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1471099682948530185?ref_src=twsrc%5Etfw">December 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Lest's see how thing are going: 
+Let's see how thing are going: 
 
 - *I will not be chair or organizer of JAIIO (Argentine Conference on Informatics and Operations Research) & CAI (AgroInformatics Congress)*: I was chair of the JAIIO in the last two editions and chair of the CAI in the last six editions. The CAI organizers invited me to review some papers, which I gladly accepted. So we can say that *I have fulfilled this commitment*.
 
