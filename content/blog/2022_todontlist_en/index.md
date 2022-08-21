@@ -19,7 +19,7 @@ At the end of 2021 I started my **to-don't list**, it is a list of things that y
 
 Let's see how thing are going: 
 
-- *I will not be chair or organizer of JAIIO (Argentine Conference on Informatics and Operations Research) & CAI (AgroInformatics Congress)*: I was chair of the JAIIO in the last two editions and chair of the CAI in the last six editions. The CAI organizers invited me to review some papers, which I gladly accepted. So we can say that *I have fulfilled this commitment*.
+- *I will not be chair or organizer of JAIIO (Argentine Conference on Informatics and Operations Research) & CAI (AgroInformatics Congress)*: I was chair of the 49 and 50 JAIIO (2020 and 2021) and CAI's chair from 2016 until 2021. The CAI organizers invited me to review some papers, which I gladly accepted. So we can say that *I have fulfilled this commitment*.
 
 - *I will not direct/co-direct any undergraduate or graduate thesis*: _Accomplished_. I really liked this job when I was at INTA, but was able to help people who are being trained from another role.  
 
