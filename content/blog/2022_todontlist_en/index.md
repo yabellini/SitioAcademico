@@ -21,9 +21,9 @@ Let's see how thing are going:
 
 - *I will not be chair or organizer of JAIIO (Argentine Conference on Informatics and Operations Research) & CAI (AgroInformatics Congress)*: I was chair of the 49 and 50 JAIIO (2020 and 2021) and CAI's chair from 2016 until 2021. The CAI organizers invited me to review some papers, which I gladly accepted. So we can say that *I have fulfilled this commitment*.
 
-- *I will not direct/co-direct any undergraduate or graduate thesis*: _Accomplished_. I really liked this job when I was at INTA, but was able to help people who are being trained from another role.  
+- *I will not direct/co-direct any undergraduate or graduate thesis*: _Accomplished_. I really liked this job when I was at INTA, but now I'm able to help people from another role.  
 
-- *I will not sign any new R&D cooperation agreements*: _Accomplished_. I was doing this as an INTA employee and since I am on unpaid leave, I have not signed any new cooperation agreements (but we have successfully completed the ones I had active).
+- *I will not sign any new R&D cooperation agreements*: _Accomplished_. I was doing this as an INTA employee and since I am on unpaid leave, I have not signed any new cooperation agreements and we have successfully completed the ones I had active.
 
 - *I will not join any new community*: I have _failed_ miserably.  This year in addition to becoming [rOpenSci's Community Manager](https://ropensci.org/blog/2022/06/21/introducing-yanina/) (I was already part of the community), I joined [OpenHeroines](https://openheroines.org/), [NumFocus](https://numfocus.org/) (which is the fiscal sponsor of rOpenSci), [CSVConf](https://csvconf.com/), and I'm now a [GitHub Star](https://stars.github.com/profiles/?country=Argentina). 
 
