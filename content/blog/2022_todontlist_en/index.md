@@ -25,7 +25,7 @@ Lest's see how thing are going:
 
 - *I will not sign any new R&D cooperation agreements*: _Accomplished_. I was doing this as an INTA employee and since I am on unpaid leave, I have not signed any new cooperation agreements (but we have successfully completed the ones I had active).
 
-- *I will not join any new community*: I have _failed_ miserably.  This year in addition to becoming [rOpenSci's Community Manager](https://ropensci.org/blog/2022/06/21/introducing-yanina/) (I was already part of the community), I joined [OpenHeroines](https://openheroines.org/), [NumFocus](https://numfocus.org/) (which is the fiscal sponsor of rOpenSci), [CSVConf](https://csvconf.com/) and I'm now a [GitHub Star](https://stars.github.com/profiles/?country=Argentina). 
+- *I will not join any new community*: I have _failed_ miserably.  This year in addition to becoming [rOpenSci's Community Manager](https://ropensci.org/blog/2022/06/21/introducing-yanina/) (I was already part of the community), I joined [OpenHeroines](https://openheroines.org/), [NumFocus](https://numfocus.org/) (which is the fiscal sponsor of rOpenSci), [CSVConf](https://csvconf.com/), and I'm now a [GitHub Star](https://stars.github.com/profiles/?country=Argentina). 
 
 - *I will not eat so much wheat flour*: another _failure_, although I do eat less wheat flour than before, but still.
 
