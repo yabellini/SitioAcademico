@@ -31,3 +31,6 @@ In the coming weeks and months, I'll be getting to know you all, listening in, a
 I know I have [huge shoes to fill](https://ropensci.org//blog/2022/01/14/msg-from-stefanie/), but I'm looking forward to learning from and getting to know you all.
 
 Please don’t hesitate to say hello! You can contact me by email yabellini\@ropensci.org and also reach me on [rOpenSci semi-open Slack workspace](https://contributing.ropensci.org/resources.html?q=slack#channels). 
+
+> Posted first at rOpenSci.org
+
