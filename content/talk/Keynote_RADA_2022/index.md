@@ -23,8 +23,5 @@ links:
   icon_pack: fas
   name: slides 
   url: https://docs.google.com/presentation/d/18wP5vDn1EuoHbmx-ESLcOzNupNjv8_bZPkzrp4QQnpM/edit
-#   icon_pack: fab
-#   name: video (Talk and Q&A)
-#   url: https://youtu.be/GhHkxgpDg38
-
+  
 ---
