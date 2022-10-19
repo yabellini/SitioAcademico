@@ -24,5 +24,9 @@ links:
   icon_pack: fas
   name: slides 
   url: https://docs.google.com/presentation/d/1rHyBV41Rzo_gGW0vmfv7KRyTcNQr0BhbGETtIu3rONo/edit?usp=sharing
+- icon: youtube
+  icon_pack: fab
+  name: video 
+  url: https://youtu.be/9zCrGda6p7Q?t=1680
 ---
 
