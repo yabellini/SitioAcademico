@@ -2,7 +2,7 @@
 title: "Cosas que han salido mal en las aulas virtuales y como las resolvimos - Entrega 3"
 weight: 6
 subtitle: ""
-excerpt: ""
+excerpt: "Ultima entrega donde vamos a repasar herramientas y técnicas para enseñar on-line que pueden reemplazar o _digitalizar_ herramientas y técnicas que usamos en el aula presencial."
 date: 2022-10-15
 tag:
   - Education
