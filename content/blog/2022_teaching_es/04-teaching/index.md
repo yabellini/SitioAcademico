@@ -23,7 +23,7 @@ Por ejemplo, en Argentina la población conectada con servicio de Internet no ll
 Por esto vamos a iniciar esta serie, con un artículo donde nos vamos a centrar en la __electricidad e Internet__.
 
 
-### 1. ¡Se cortó la luz!
+## 1. ¡Se cortó la luz!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Little things that happen when you organize a online conference from the middle of La Pampa in Argentina: the power goes out 20 minutes before the event, and you are the only one who can open the Zoom room.<br><br>(we already solved it, but seriously, what an awful feeling) <a href="https://t.co/Yg34VBn6Rp">pic.twitter.com/Yg34VBn6Rp</a></p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1579943230745251840?ref_src=twsrc%5Etfw">October 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
@@ -43,7 +43,7 @@ Pero otras veces es algo __inesperado__, las tormentas de verano son muy fuertes
 
 > Traducción del tweet: _No es lo peor, pero es lo que me ha pasado hoy: una de las personas que más admiro me invita a ser su ayudante, a la hora del curso, se corta la luz. Solución: móvil y computadora portátil con la batería llena. Activar el wi-fi del móvil, conectar el portátil a la red móvil._
 
-#### Solución 1 
+### Solución 1 
 
 Para el caso donde no podiamos iniciar zoom la luz volvió a tiempo, pero el plan B era __utilizar otra plataforma__ en este caso JitSi. Las nuevas coordenadas se enviaban por __mail a todas las personas registradas al evento__ y se anunciaba por redes sociales (porque era una conferencia) del cambio de plataforma. En el caso de una clase además del mail se puede dar un aviso en el campus y pedir en el mail que por favor lo compartan en el grupo de telegram o similar sobre el cambio para que todas y todos se enteren. Además, se da más tiempo para poder llegar, por lo menos cinco minutos más de lo usual para iniciar la lección. 
 
@@ -56,20 +56,20 @@ Para el exámen bastó con conectarme al zoom por medio de mi celular y usar los
 * Tu paquete de datos se consume rápido y si tenes un plan abierto, la factura del mes va a ser abultada.
 
 
-#### Solución 2
+### Solución 2
 
 Para el curso, que duraba entre dos y tres horas, utilicé mi notebook y mi celular.  Ambos con la batería completa. Active el wi-fi móvil del teléfono y conecté la computadora a la red móvil que me brinda el celular (a veces hay que conectar el celular y la computadora usando Bluetooth), con esto tenia internet desde mi máquina y pude dar clases como siempre.
 
 En este caso el celular no levanta temperatura, pero gasta tu paquete de datos de todas maneras.
 
 
-### 2. ¿Hola?...¿me ven? ¿me escuchan?...
+## 2. ¿Hola?...¿me ven? ¿me escuchan?...
 
 Los problemas de conectividad tienen un rango amplio, desde Internet que se corta a que está inestable y entonces nos perdemos parte de lo que ocurre durante la clase o no podemos participar plenamente. Es un problema que ocurre seguido, especialmente en áreas rurales como en la que yo vivo.  
 
 Desde el punto de vista del docente, el mayor problema es salir de la clase de improvisto,dejando a tus estudiantes sin saber que pasó y qué hacer.
 
-#### Soluciones:
+### Soluciones:
 
 1. Siempre es buena idea __tener la carga completa del celular y de las computadoras__ antes de iniciar las clases sincrónicas on-line. De esta manera, podemos usar las soluciones que ya mencionamos: si nuestra computadora y teléfono tienen carga en sus baterias, podemos continuar la clase usando los datos del celular. 
 
