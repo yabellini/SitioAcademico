@@ -1,10 +1,9 @@
 ---
 title: "Cosas que han salido mal en las aulas virtuales y como las resolvimos - Entrega 1"
-weight: 5
+weight: 4
 subtitle: ""
 excerpt: ""
-date: 2022-10-22
-draft: true
+date: 2022-10-13
 tag:
   - Education
   - Community
