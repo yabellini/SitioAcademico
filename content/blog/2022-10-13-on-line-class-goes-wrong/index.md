@@ -1,6 +1,7 @@
 ---
 title: Cosas que han salido mal en las aulas virtuales ...
 author: Yanina Bellini Saibene
+draft: true
 date: '2022-10-13'
 tags:
   - teaching
