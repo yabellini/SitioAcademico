@@ -2,7 +2,7 @@
 title: "Ciencia de Datos aplicada al Agro"
 excerpt: ""
 date: 2021-04-17
-date_end: "2021-07-17"
+date_end: "2021-04-17"
 author: "Yanina Bellini Saibene"
 location: "Online (Argentina)"
 event: "Seminario de Aplicación al Ambito público - Maestría en Ciencia de Datos - Univ. de San Andrés"

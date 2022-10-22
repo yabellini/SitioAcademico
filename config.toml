@@ -112,7 +112,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-4522-7466 "
+      url       = "http://orcid.org/0000-0002-4522-7466"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
