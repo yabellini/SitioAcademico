@@ -20,12 +20,12 @@ links:
   icon_pack: fab
   name: video
   url: https://youtu.be/582tMkPvloU
-
 ---
 
 Join the MiR community as we learn more about the process to become a certified RStudio instructor.
 
 Panelists:
-Greg Wilson, RStudio Certification Instructor 
+[Greg Wilson](https://twitter.com/gvwilson), RStudio Certification Instructor 
 Yanina Bellini Saibene, RStudio Certified Trainer
-Shelmith Kariuki, RStudio Certified Trainer
+[Shelmit Kariuki](https://twitter.com/Shel_Kariuki), RStudio Certified Trainer
+
