@@ -46,6 +46,21 @@ El trabajo en grupo es una de las dinámicas favoritas de mis estudiantes.  Este
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">[ES] Cuando enseñes on-line y hagas trabajo grupal, pone un timer xq el tiempo para vos pasa lento, pero para les estudiantes pasa volando<br><br>[EN] When you teach online and do group work, set a timer bc the time passes slowly for you, but for the students, passes in a heartbeat.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1516402137751826434?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
+Cuando diseñas los ejercicios y realizas el cálculo de cuanto tiempo vas a dar para que los resuelvan, siempre debes agregar más minutos:
+
+* Si este es el primer ejercicio de la clase:
+
+  * agregá entre 2 y 3 minutos para que puedan ingresar a la sala de grupos y acomodarse. Un minuto más si ellos deben seleccionar la sala (en vez del docente enviarlos de forma automática a una).
+
+  * Si además, este es un grupo nuevo, que aún no se conocen, entonces agregá 5 minutos y de forma explícita pediles que se presenten brevemente al inicio del ejercicio.
+
+  * Si esta es la primer ves que trabajan con salas de grupo, antes de iniciar el ejercicio explicá como ingresar y como pedir ayuda si lo necesitan.  
+  
+  ¨* Si vas a usar una herramienta que nunca usaron, antes de iniciar el ejercicio explicá como se usa.
+
+Es muy probable que a pesar de estos cuidados, las primeras iteraciones del trabajo en grupo con ejercicios nuevos te quedes un poco corto con el tiempo.
+
+
 #### Ver que pasa en cada grupo...sin entrar 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">[ES] Miren lo que tiene Zoom! Ahora podemos saber que está pasando en las salas para grupos pequeños. (también muestra si alguien comparte pantalla)<br><br>[EN] Look what Zoom has! Now we can know what&#39;s going on in the small group rooms (also shows if someone is sharing screen). <a href="https://t.co/FRzExrmIIo">pic.twitter.com/FRzExrmIIo</a></p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1542993489071378432?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

@@ -12,11 +12,11 @@ tag:
 
 ## La plataforma de videoconferencia se pone temperamental
 
-Para el dictado de clases sincrónicas online tuvimos que utilizar software de videoconferencias. Hay varias opciones comerciales, por ejemplo Zoom o Meet, y de software libre y sin costo, como JitSi
+Para el dictado de clases sincrónicas online tuvimos que utilizar software de videoconferencias. Hay varias opciones comerciales, por ejemplo [Zoom](https://zoom.us/) o [Meet](https://workspace.google.com/intl/es-419/products/meet/), y de software libre y sin costo, como [JitSi](https://meet.jit.si/).
 
 Para todas tuvimos que aprender como usarlas y _domarlas_. La entrega de hoy presenta situaciones ocurridas en clases y eventos on-line relacionadas con _las plataformas de videoconferencia_ y como las resolvimos.
 
-Algunas de las situaciones presentadas son generales y aplican a cualquier plataforma, pero van a ver que muchas soluciones (y problemas) son específicos de [Zoom](https://zoom.us/), que es la plataforma que más uso para dar clases y tener reuniones y conferencias.
+Algunas de las situaciones presentadas son generales y aplican a cualquier plataforma, pero van a ver que muchas soluciones (y problemas) son específicos de Zoom, que es la plataforma que más uso para dar clases y tener reuniones y conferencias.
 
 Como consejo general __siempre es una buena idea hacer una prueba con antelación__ al evento para ver qué funcionen todas las herramientas (micrófono, cámara, mouse, tableta, audio, compartir la pantalla, reproducir el audio o video, editar el documento compartido, transmición a una plataforma de video, etc)
 
@@ -27,10 +27,11 @@ La primera solución para algunos problemas de las plataformas es tener una plat
 
 * [JitSi](https://meet.jit.si/) es una buena opción porque es gratuito, no requiere _login_ y se puede crear una sala bastante rápido. 
 
-* En Argentina la mayoría de las personas se conectan usando un teléfono móvil y una de las plataformas más utilizadas es _WhatsApp_, por lo que a veces la video llamada (o mensajes de texto y audio) en esta plataforma es una de las mejores opciones. 
+* En Argentina la mayoría de las personas se conectan usando un teléfono móvil y una de las plataformas más utilizadas es _WhatsApp_. Video llamada (o mensajes de texto y audio) en esta plataforma es una opción que puede incluir a muchas personas. Además no tienen que instalar y aprender a usar el software.
 
 * [Discord](https://discord.com/) aparece como una muy buena opción porque tiene texto, audio, sonido y video todo en uno.  También es bastante sencillo de montar.
 
+* [Meet](https://workspace.google.com/intl/es-419/products/meet/) fue otra de las plataformas utilizadas para dar clases, especialmente porque no tuvo costo para su uso durante la pandemia.
 
 ## No puedo compartir lo que quiero
 
@@ -82,7 +83,7 @@ Podemos compartir un video de diferente manera:
 
 * A veces nuestros estudiantes no tendrán cámara y/o micrófono, en este caso solo chequear que ellos si puedan escucharnos y vernos y _recordarles las otras maneras de participar_ como escribir en el chat, en el documento compartido de la clase o en el foro (sea el campus, Slack o Discord). Si tienen otro dispositivo pueden conectarse con ese segundo aparato, por ejemplo con la computadora y con el celular.
 
-## Problema de Seguridad
+## Problemas de Seguridad
 
 Aunque muchos de los problemas iniciales de seguridad se fueron resolviendo durante la pandemia, si nos encontramos ante una situación donde una persona ingresa a nuestra reunión y tiene un comportamiento no adecuado podemos:
 
