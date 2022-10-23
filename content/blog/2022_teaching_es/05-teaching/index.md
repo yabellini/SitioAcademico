@@ -1,5 +1,5 @@
 ---
-title: "Cosas que han salido mal en las aulas virtuales y como las resolvimos - Entrega 2"
+title: "Cosas que pasaron en las aulas virtuales y como las resolvimos - Entrega 2"
 weight: 5
 subtitle: ""
 excerpt: "Segunda entrega donde detallaremos situaciones y soluciones relacionadas con las plataformas de videoconferencias"

@@ -1,5 +1,5 @@
 ---
-title: "Cosas que han salido mal en las aulas virtuales y como las resolvimos - Entrega 1"
+title: "Cosas que pasaron en las aulas virtuales y como las resolvimos - Entrega 1"
 weight: 4
 subtitle: ""
 excerpt: "Desde que tuvimos que iniciar a dar clases y realizar eventos online nos encontramos con todo un nuevo mundo de posibilidades de cosas que podían ir mal o al menos no como lo esperábamos. La idea de esta serie es compartir situaciones ocurridas en clases y eventos on-line y como las resolvimos."
