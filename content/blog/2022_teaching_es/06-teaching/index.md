@@ -78,7 +78,7 @@ Aqui se usan mucho el trabajo en grupo también y como yo enseño R utilizo RStu
 
 La programación en vivo consiste compartir la pantalla del docente para programar en tiempo real con sus estudiantes, la idea es que los estudiantes intenten replicar lo que el docente hace, intenten predecir que va a ocurrir con el código, cometan errores y los resuelvan juntos.  En el formato on-line esta actividad es un poco más compleja por el tamaño y disponibilidad de las pantallas y porque no podemos acercarnos a la computadora de nuestros estudiantes y "mirar por arriba del hombro". 
 
-Yo modifqué la dinámica de esta manera:
+Yo modifiqué la dinámica de esta manera:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In my experience, it is different if the students are beginners than if they are competent practitioners. Beginners are not going to code with you even if they have 3 screens.<br>What I do: live coding (15&#39;). breakout room, they code the same or very similar to what I do. Repeat.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1400051538584821769?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
