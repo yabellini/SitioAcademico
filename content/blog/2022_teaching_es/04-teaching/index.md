@@ -73,7 +73,7 @@ Desde el punto de vista del docente, el mayor problema es salir de la clase de i
 
 1. Siempre es buena idea __tener la carga completa del celular y de las computadoras__ antes de iniciar las clases sincrónicas on-line. De esta manera, podemos usar las soluciones que ya mencionamos: si nuestra computadora y teléfono tienen carga en sus baterias, podemos continuar la clase usando los datos del celular. 
 
-2. No des clase sola, así la otra docente puede continuar (nota en este caso: intenten que las personas que están dando la misma clase _no__ estén en el mismo lugar físico)
+2. No des clase sola, así la otra docente puede continuar (nota en este caso: intenten que las personas que están dando la misma clase _no_ estén en el mismo lugar físico)
 
 3. Tener reglas claras sobre que hacer si ocurre el corte (tanto para docentes como para estudiantes), por ejemplo: avisar que si nos desconectamos __siempre vamos a volver al mismo link__. 
 
@@ -83,7 +83,7 @@ Desde el punto de vista del docente, el mayor problema es salir de la clase de i
 
 6. Si enseñas sola, pedí a tus estudiantes que te avisen si no se escucha o se escucha mal. Se pueden apagar las cámaras para que se consuma menos ancho de banda.
 
-7. Ofrecer un resumen de la información brindada cada cierto tiempo para las personas que se les puede haber cortado Internet.  Volver a compartir el acceso al documento compartido de la clase y de las doapositivas u otro material que estén usando (y poner estos accesos también en el campus) para que quienes se hayan desconectado en algún momento tengan acceso a todo el material de la clase.
+7. Ofrecer un resumen de la información brindada cada cierto tiempo para las personas que se les puede haber cortado Internet.  Volver a compartir el acceso al documento compartido de la clase y de las diapositivas u otro material que estén usando (y poner estos accesos también en el campus) para que quienes se hayan desconectado en algún momento tengan acceso a todo el material de la clase.
 
 ## Planificar 
 
