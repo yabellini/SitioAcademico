@@ -83,7 +83,7 @@ Desde el punto de vista del docente, el mayor problema es salir de la clase de i
 
 6. Si enseñas sola, pedí a tus estudiantes que te avisen si no se escucha o se escucha mal. Se pueden apagar las cámaras para que se consuma menos ancho de banda.
 
-7. Ofrecer un resumen de la información brindada cada cierto tiempo para las personas que se les puede haber cortado Internet.  Volver a compartir el acceso al documento compartido de la clase y de las doapositivas u otro material que estén usando (y poner estos accesos también en el campus) para que quienes se hayan desconectado en algún momento tengan acceso a todo el material de la clase.
+7. Ofrecer un resumen de la información brindada cada cierto tiempo para las personas que se les puede haber cortado Internet.  Volver a compartir el acceso al documento compartido de la clase y de las diapositivas u otro material que estén usando (y poner estos accesos también en el campus) para que quienes se hayan desconectado en algún momento tengan acceso a todo el material de la clase.
 
 ## Planificar 
 
