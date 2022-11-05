@@ -6,7 +6,7 @@ date_end: "2022-08-09"
 author: "Yanina Bellini Saibene"
 location: "Online (Latin America)"
 event: "RenBaires Meetup"
-event_url: 
+event_url: https://renbaires.github.io/
 draft: false
 # layout options: single, single-sidebar
 layout: single
