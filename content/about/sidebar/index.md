@@ -8,9 +8,11 @@ audio_link_label: # "How to say my name" leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Teaching
-  url: https://www.metadocencia.org/
+  url: https://educarencomunidad.tech/
 - name: Research Software Engineer 
   url: https://researchsoftware.org/
+- name: Reproducible ropenOpen Science 
+  url: https://ropensci.org/
 - name: Open Science 
   url: https://chanzuckerberg.github.io/open-science/
 ---
