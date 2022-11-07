@@ -32,7 +32,7 @@ intro: |
   
   Last but not least, in 2004 I met the man who became my partner in life and in 2012, 2013 and 2015 we became proud parents. In 2012 we lost Ana, our first child. Now we enjoy watching with wonder what beautiful people our other two kids are becoming.
   
-  If you want to contact me, you can find me on [Twitter](https://twitter.com/yabellini).
+  If you want to contact me, you can find me on <a href="https://fosstodon.org/web/@yabellini" rel="me">Mastodon</a> 
   
   
 show_outro: false
