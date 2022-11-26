@@ -127,9 +127,7 @@ The outcome of the review process will be declared on _{date}_
 
 ## Next steps
 
-We wrote a _Call for Proposal_ that help to ensure that there is a good mix of tutorials, 
-covering a variety of topics and levels of expertise. This diversity helps to make the 
-event more useful, enjoyable and educational for all attendees.
+We wrote a _Call for Proposal_ that help to ensure that there is a good mix of tutorials, covering a variety of topics and levels of expertise. This diversity helps to make the event more useful, enjoyable and educational for all attendees.
 
 There are several element of the call we need to discuss in more detail, for example, the accessibility guide, the data in the application form and the code of conduct.
 
