@@ -120,6 +120,7 @@ _Example:_
 * Tutorial acceptance notification: _{date with format: Name of the day, number of the day, year with 4 digits}_
 
 #### Review Criteria
+
 Each submission will be carefully evaluated by our Program Committee regarding the submission’s overall quality, research scope, and its appeal to a reasonable fraction of the _{programming language/technology - role (ex: R)}_ community.
 The submission will also be checked for its technical content and the pedagogical proposal. Final decisions will be based on the review committee, depending on conference attendees’ interest, topic relevance, and slot availability.
 The outcome of the review process will be declared on _{date}_
