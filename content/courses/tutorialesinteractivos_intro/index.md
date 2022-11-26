@@ -22,12 +22,20 @@ layout: single-sidebar
 links:
 - icon: images
   icon_pack: fas
-  name: slides
+  name: slides v1.0
   url: https://docs.google.com/presentation/d/14HkcCZ5t0isM9k9P0E5iNPJjO7LCE-Th02rZ0PceHeE/edit?usp=sharing
+- icon: images
+  icon_pack: fas
+  name: slides v3.0
+  url: https://docs.google.com/presentation/d/1Kh8aSX_0LR3YXVPj6J7Gfr1ZWFGAS4WCAfNTIUQNkPY/edit?usp=sharing
 - icon: github
   icon_pack: fab
   name: code
   url: https://github.com/yabellini/curso_learnr
+- icon: youtube
+  icon_pack: fab
+  name: video
+  url: https://youtu.be/d7eXzRzEdC8
 ---
 
 ## Español
@@ -108,13 +116,21 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
 
 #### Episodio 4
 
+* Pregunta: ¿Cómo puedo chequear los ejercicios de codigo en mi tutorial?
+* Objetivos:
+    * Entender las diferentes formas de chequear los ejercicios de código
+    * Entender las ventajas y desventajas de las diferentes opciones
+* Practica: modificar un ejercicio de código para proporcionar más y mejor feedback.
+
+#### Episodio 5
+
 * Pregunta: ¿Cómo comparto mis tutoriales?
 * Objetivos: 
   - Entender las diferentes maneras de publicar/compartir un tutorial con learnr
   - Entender las ventajas y desventajas de cada una
 * Práctica: publicar el tutorial como una shiny app.
 
-#### Episodio 5 
+#### Episodio 6 
 
 * Pregunta: ¿Dónde aprendo más?
 * Objetivos:
@@ -125,112 +141,10 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
 
 ### Materiales
 
-* [Presentación que usamos en el curso](https://docs.google.com/presentation/d/1QLRUbERgEk85s8qK6mzmMJn7avQ_bEmTn_NzFYgqwkc/edit?usp=sharing) con notas ampliando el contenido para quienes dan la clase
-
-* [Video del curso](https://youtu.be/d7eXzRzEdC8)
 
 ### ¿Te vienen bien cualquiera de estos contenidos? ¡Servite sin culpa!
 
 Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web y compartas tu material con esta misma licencia.
 
-## English
-
-### Objectives 
-
-To introduce the {learnr} package and show how to use it to create interactive tutorials. These interactive tools allow the students to run R code directly in the tutorial, to answer to questions and to receive immediate feedback. 
-
-### Intended public of this course
-
-When we designed this workshop, we had in mind Josefina, Francisco and Alex as our learner personas. 
-
-* _Josefina_: teaches R at University. She is interested in giving automated feedback to the R exercises given to her students. 
-
-* _Francisco_: is a professional developer and wants to explore the interactive tutorials as possible part of the help and documentation of his packages. 
-
-* _Alex_: wants to develop tutorials to publish them as shiny applications so that their students could start right away with R without painful installations. 
-
-
-### _Not_ included in this workshop
-
-Since we only have 3 hours, a lot of things will be out of reach of the workshop. Among other things, we will not learn:
-
-* Programming techniques 
-* Theory of pedagogy
-* Rmarkdown 
-* Package development
-
-### Duration
-
-This is a 3-hour workshop with intervals (ideally away from any screen) of approximately 5 minutes for every 50 minutes of content.
-
-### Sample schedule 
-
-
-|  Duration (min) |  Activity  |
-| ---:  | :----------- |
- | 5  <img width="150"/>|  Time to connect and make sure your audio and video connection is good (if you don't have a camera it doesn't matter, but if you do, it helps)|
- | 10 |  Introduction to the course |
-  | 15 |  What is an interactive tutorial? |
-  | 20 |  How can I add questions to my tutorial? |
-  | 10 |  Break |
-  | 15 |  How can I include coding exercises in my tutorial? |
-   | 15 |  How can I share my tutorials? |
-  | 10 |  Where could I learn more about {learnr} tutorials? |
- |  10 | End of the workshop: summary and feedback |
-
-#### Chapter 1
-
-* Question: What is an interactive tutorial?
-* Goals:
-    - Understand the benefits of an interactive tutorial
-    - Understand the basic different parts of the {learnr} tutorials
-* Practice:
-    - Analyze a {learnr} tutorial template and recognize the different parts. Modify options in the YAML and analyze the changes.
-
-#### Chapter 2
-
-* Question: How can I add questions to my tutorial?
-* Goals:
-    - Understand the different type of questions
-    - Understand the basic components of multiple choice questions
-    - Understand the basic components of text questions
-* Practice: Modify some of the questions of the  tutorial provided for this exercise.
-
-#### Chapter 3
-
-* Question: How can I include coding exercises in my tutorial? 
-* Goals:
-    * Understand the basic components of the exercises
-    * Understand the chunk exercise
-    * Understand the chunk hint
-    * Understand the chunk solution
-    * Understand the default set up of the chunks
-* Practice: Modify an exercise chunk in order to provide a hint and a solution
-
-#### Chapter 4
-
-* Question: How can I share my tutorials?
-* Goals:
-    * Understand the different ways to publish/share a {learnr} tutorial 
-    * Understand the advantages and shortages of the different options
-* Practice: Publish the tutorial as a Shiny App
-
-#### Chapter 5
-
-* Question: Where can I learn more?
-* Goals:
-    * Details of sites to learn more about {learnr}
-    * Details of the packages that can be combined with {learnr}
-    * Details of repositories with code that generate learnr tutorials.
-
-
-### Course materials
-
-* [Presentation used during the course](https://docs.google.com/presentation/d/14HkcCZ5t0isM9k9P0E5iNPJjO7LCE-Th02rZ0PceHeE/edit?usp=sharing)
-
-* [Recording of the course](https://youtu.be/BGmM_E6BrRI)
-
-### Do you want to re-use any of our contents? Please, be our guest!
-
-Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
+> Este curso fue originalmente desarrollado para MetaDocencia (2020-2022).
