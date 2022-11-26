@@ -53,7 +53,7 @@ Other tasks include collaborating with the selection of the platform to perform 
 
 This committee will assist in communications provinding information of key dates like opening and closing the call, evaluation, communication of results, and final tutorials offer.  
 
-#### Reviwers
+#### Reviewers
 
 The reviewers will read the proposals assigned to them, evaluate them using the suggested rubric, and communicate their opinion to the program committee.
 
