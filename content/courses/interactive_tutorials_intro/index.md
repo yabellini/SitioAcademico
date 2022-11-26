@@ -137,4 +137,4 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
 
 Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
 
-> This course was developed for MetaDocencia. (2021 and 2022)
+> This course was developed for MetaDocencia. (2021 - 2022)
