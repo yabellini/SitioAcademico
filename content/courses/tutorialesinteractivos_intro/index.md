@@ -23,11 +23,19 @@ links:
 - icon: images
   icon_pack: fas
   name: slides v1.0
+  url: https://docs.google.com/presentation/d/1HI4jndRFkkgqh8JsCGcO6yAjFp7xmIELxlpahdnWL1U/edit?usp=sharing
+- icon: images
+  icon_pack: fas
+  name: slides v2.0
   url: https://docs.google.com/presentation/d/14HkcCZ5t0isM9k9P0E5iNPJjO7LCE-Th02rZ0PceHeE/edit?usp=sharing
 - icon: images
   icon_pack: fas
   name: slides v3.0
   url: https://docs.google.com/presentation/d/1Kh8aSX_0LR3YXVPj6J7Gfr1ZWFGAS4WCAfNTIUQNkPY/edit?usp=sharing
+- icon: images
+  icon_pack: fas
+  name: slides v4.0
+  url: https://docs.google.com/presentation/d/1JsN6zKY6SGlCqnFjCqQiThMQ2UrnxT9Hb-1HW_fP_Cc/edit?usp=sharing
 - icon: github
   icon_pack: fab
   name: code
@@ -38,7 +46,9 @@ links:
   url: https://youtu.be/d7eXzRzEdC8
 ---
 
-## Español
+### Versiones
+
+Se presentan las slides de las diferentes versiones del tutorial.  Lo que cambia son las secciones que se incluyen en cada una y por lo tanto la durección.  Las versiones 1 y 2 no continen las lecciones de {gradethis}.  La versión 3 si incluye {gradethis} y la version 4 dura 45 minutos.
 
 ### Objetivos
 
@@ -147,4 +157,4 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
 Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web y compartas tu material con esta misma licencia.
 
-> Este curso fue originalmente desarrollado para MetaDocencia (2020-2022).
+> Algunas partes de este curso fueron originalmente desarrolladas para MetaDocencia (2020-2022).

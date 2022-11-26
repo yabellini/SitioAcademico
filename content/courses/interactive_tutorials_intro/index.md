@@ -22,8 +22,12 @@ layout: single-sidebar
 links:
 - icon: images
   icon_pack: fas
-  name: slides
+  name: slides v3.0
   url: https://docs.google.com/presentation/d/1pE8sp9jT7KSW-YRgd_z_60V0nx4zZuZyPRZy1BKuJ_g/edit?usp=sharing
+- icon: images
+  icon_pack: fas
+  name: slides v4.0
+  url: https://docs.google.com/presentation/d/1GRpYkGrv2oXIzocwP7Q-0hEyUyzGQHBwv18_kr910c4/edit?usp=sharing
 - icon: youtube
   icon_pack: fab
   name: video
@@ -137,4 +141,4 @@ This is a 3-hour workshop with intervals (ideally away from any screen) of appro
 
 Our materials are available for free under this [license](https://creativecommons.org/licenses/by/4.0/deed.es). You can reuse or edit any material that appears here, the only thing we ask in return is that when you reuse our materials you include a reference to this website.
 
-> This course was developed for MetaDocencia. (2021 - 2022)
+> Some part of this course were developed for MetaDocencia. (2021 - 2022)
