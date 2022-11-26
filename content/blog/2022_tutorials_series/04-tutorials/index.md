@@ -3,8 +3,8 @@ title: "Call for Tutorials - The form"
 weight: 4
 subtitle: ""
 excerpt: "In this blog post, you will learn what specific information to request on the form for the call for tutorials"
-date: 2022-11-12
-draft: false
+date: 2022-11-27
+draft: true
 ---
 
 The purpose of this blog post is to help the organizers to create a a useful application form for the call for tutorials. The submissions form can be simple or includes several fields, which vary in their complexity. 
