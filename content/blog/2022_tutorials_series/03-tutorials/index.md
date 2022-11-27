@@ -9,7 +9,7 @@ draft: false
 
 We mentioned that the tutorial session can be one of the ways attendees gain value from a conference. This is only true if the conference and its tutorials are accessible and friendly to as many people as possible.  And this must be worked on from the very conception of the conference.
 
-## Accesibility
+## Accessibility
 
 The conference should have an accessibility guide or a list of accessibility standards for the event.
 
