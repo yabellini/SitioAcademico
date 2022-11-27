@@ -2,7 +2,7 @@
 title: "Call for Tutorials - More resources"
 weight: 3
 subtitle: ""
-excerpt: "In this blog post, you will learn how to create aditional resources for the call for tutorials for a conference."
+excerpt: "In this blog post, you will learn how to create aditional resources for the call for tutorials for a conference, like the accessibility guide and the code of conduct."
 date: 2022-11-26
 draft: false
 ---

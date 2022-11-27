@@ -4,20 +4,21 @@ weight: 4
 subtitle: ""
 excerpt: "In this blog post, you will learn what specific information to request on the form for the call for tutorials"
 date: 2022-11-27
-draft: true
+draft: false
 ---
 
-The purpose of this blog post is to help the organizers to create a a useful application form for the call for tutorials. The submissions form can be simple or includes several fields, which vary in their complexity. 
+The purpose of this blog post is to help the organizers to create a a useful application form for the call for _tutorials_. The submissions form can be simple or includes several fields, which vary in their complexity. 
 
-I have already suggested that the call for tutorials be separated from the general conference call because the type of information required is different. For tutorials, it is essential to request information that contemplates the pedagogical aspects of the proposal.
+I have already suggested that the call for tutorials be separated from the general conference call because the type of information required is different. For tutorials, it is essential to _request information that contemplates the pedagogical aspects of the proposal_.
 
+When deciding what type of data to request, remember that this information will feed the rubric for evaluating the proposals. Therefore, it is essential that no information is missing and that we do not request data we will not use.
 
-This article will give you a detailed insight into each field and explain the meaning of its content.
+This article will give you a detailed insight into each field and explain the meaning of its content.  
 
 
 ## Information about the tutors
 
-We always request the information about the people will be teaching.  This means general info like:
+We always request the information about the people will be teaching. We are interested in their experience in the subject and teaching. This means general info like:
 
 * _Name of instructor._
 
@@ -40,11 +41,11 @@ We always request the information about the people will be teaching.  This means
 
 * _Abstract or Description:_ a paragraph with topics to be covered.  Mention a brief detail of resources to deliver the tutorial online/in person using active teaching (e.g., break out rooms, pair programming, shared repo, sticky notes).  Allow for 1000 to 2500 characters.
 
-* _Motivation_: Why is the tutorial suitable for your conference participants? You can ask for the learner personas here. - Allow for 1000 to 2500 characters
+* _Motivation_: Why is the tutorial suitable for your conference participants? You can ask for the [learner personas](https://educarencomunidad.tech/en/index.html#s:process-personas) here. - Allow for 1000 to 2500 characters
 
 * _A brief time outline_: tutorial outline with the approximate duration of each section, for example, lecture 20 minutes, live coding 15 minutes, lab 20 minutes, 10 minutes break every 50 minutes. - Allow for 2500+ characters.
 
-* _Learning Goals and Objectives_: Provide a paragraph or list of learning goals and objectives - 2500 characters
+* _Learning Goals and Objectives_: Provide a paragraph or list of [learning goals and objectives](https://educarencomunidad.tech/en/index.html#s:process-objectives) - 2500 characters
 
 * _Topics_: The broad topic the tutorial covers. - Allow for 1000 to 2500 characters.
 
@@ -52,7 +53,7 @@ We always request the information about the people will be teaching.  This means
 
 * _Length of the tutorial_:  the duration. Indicate the time unit (minutes or hours).
 
-* _The intended audience_: you can ask for the target audience (like journalists or bioinformaticians), the level of knowledge of the intended audience (beginners, intermediate, advanced), and other Required Background Knowledge.  If you don't request learner personas in the motivation point, you can request them here.
+* _The intended audience_: you can ask for the target audience (like journalists or bioinformaticians), the [level of knowledge of the intended audience (beginners, intermediate, advanced)](https://educarencomunidad.tech/en/index.html#s:models), and other Required Background Knowledge.  If you don't request learner personas in the motivation point, you can request them here.
 
 * _Pedagogical tools_: you can request more detailed information about teaching tools the tutors will use during the tutorial.
 
