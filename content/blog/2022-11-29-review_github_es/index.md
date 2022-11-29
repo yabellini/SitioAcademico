@@ -1,6 +1,7 @@
 ---
 title: Haciendo revisiones con GitHub
 author: Yanina Bellini Saibene
+excerpt:"Paso a paso con videos para realizar una revisión usando GitHub"
 date: '2022-11-29'
 tags:
   - GitHub
