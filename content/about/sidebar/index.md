@@ -11,10 +11,8 @@ link_list:
   url: https://educarencomunidad.tech/
 - name: Research Software Engineer 
   url: https://researchsoftware.org/
-- name: Reproducible ropenOpen Science 
+- name: Reproducible Open Science 
   url: https://ropensci.org/
-- name: Open Science 
-  url: https://chanzuckerberg.github.io/open-science/
 ---
 
 ** index doesn't contain a body, just front matter above.
