@@ -21,10 +21,10 @@ tags:
 - Community
 - AgTech
 links:
-# - icon: images
-#   icon_pack: fas
-#   name: slides Español
-#   url: 
+- icon: images
+  icon_pack: fas
+  name: slides Español
+  url: GeoTecnologiasInundaciones2020.pdf
 - icon: youtube
   icon_pack: fab
   name: video
