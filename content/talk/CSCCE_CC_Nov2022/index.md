@@ -15,7 +15,7 @@ categories:
 - English
 - Community
 tags:
-- Peer Review
+- Open Science
 - Community
 links:
 - icon: images
