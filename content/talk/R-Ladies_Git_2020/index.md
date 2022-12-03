@@ -1,8 +1,8 @@
 ---
 title: "Charlar con R - Toma 4 | Primeros pasos en Git "
 excerpt: "En este 4to meetup virtual nos aliamos con R-Ladies Santa Rosa y R-Ladies General Pico para dar los primeros pasos con git y git desde RStudio."
-date: 2022-05-26
-date_end: "2022-05-26"
+date: 2020-05-26
+date_end: "2020-05-26"
 author: "Yanina Bellini Saibene"
 location: "Online (Argentina)"
 event: "R-Ladies Buenos Aires, Santa Rosa y General Pico"
