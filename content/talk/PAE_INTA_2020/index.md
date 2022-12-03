@@ -1,8 +1,8 @@
 ---
 title: " Comunidades de práctica para I+D y T+E: R y colegas."
 excerpt: ""
-date: 2022-11-12
-date_end: "2022-12-12"
+date: 2020-11-12
+date_end: "2020-12-12"
 author: "Yanina Bellini Saibene"
 location: "Online (Argentina)"
 event: "Seminarios Web de la Plataforma Estadística del INTA"
