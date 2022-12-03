@@ -22,9 +22,9 @@ links:
   icon_pack: fas
   name: slides English
   url: https://docs.google.com/presentation/d/14rWqpik8cmfunnJDxAUP3hm0p2QuFR7UZ04hvEAIfiM/edit?usp=sharing
-# - icon: youtube
-#   icon_pack: fab
-#   name: video (Talks)
-#   url: https://youtu.be/wBnueQ5bZWg
+- icon: youtube
+  icon_pack: fab
+  name: video (Talks)
+  url: https://youtu.be/oEr4kvOlEac?t=4017
 ---
 
