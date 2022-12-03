@@ -24,11 +24,11 @@ links:
 - icon: images
   icon_pack: fas
   name: slides Español
-  url: 
+  url: https://docs.google.com/presentation/d/1Jy98sjocvarSlRqcnXdTAOzkaTD5JOHQ/edit?usp=sharing&ouid=118142803109450975305&rtpof=true&sd=true
 - icon: youtube
   icon_pack: fab
   name: video
-  url: 
+  url: https://youtu.be/F5M0zX2tORc?t=1181
 - icon: file
   icon_pack: fas
   name: Nota de prensa
