@@ -21,8 +21,8 @@ links:
   icon_pack: fas
   name: slides 
   url: https://docs.google.com/presentation/d/1hKgAeD2f8mXGP3EOlrcfQBQBoezwm1WbRYpAp66qwTU/edit?usp=sharing
-# - icon: youtube
-#   icon_pack: fab
-#   name: Video charla y Q&A 
-#   url: https://youtu.be/OOT7q45rG-c
+- icon: youtube
+  icon_pack: fab
+  name: Video charla y Q&A 
+  url: https://youtu.be/BAX9APgiqQ0
 ---
