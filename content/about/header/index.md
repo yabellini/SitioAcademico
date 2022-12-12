@@ -11,7 +11,7 @@ __In short:__
 
 [rOpenSci](https://ropensci.org/) Community Manager.
 [R-Ladies](https://rladies.org/) Project Lead.
-[UNAB](https://www.unab.edu.ar/) professor. 
+[UNAB](https://www.unab.edu.ar/analisis-datos.html), [Autral](https://www.austral.edu.ar/ingenieria-posgrados/cuerpo-docente/mag-yanina-bellini-saibene/) and [UCES](https://w.uces.edu.ar/wp-content/uploads/2022/08/Agroanalytics.pdf) professor. 
 
 Co-founder of [MetaDocencia](https://www.metadocencia.org/), [LatinR](https://latin-r.com/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
