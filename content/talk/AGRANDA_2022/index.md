@@ -1,5 +1,5 @@
 ---
-title: "Panel de GitHub Stars de habla hispana"
+title: "Palenque, un arquitectura flexible para manejo de grandes volúmenes de datos para el agro"
 excerpt: ""
 date: 2022-10-25
 date_end: "2022-10-25"
