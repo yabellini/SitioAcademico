@@ -27,7 +27,7 @@ This year was full of emotions, difficult decisions, and important changes. Refl
 
 * We organized a [Book Club](/blog/2022_metadocencia_club_lectura_t3/) of [Teaching Tech Together](https://teachtogether.tech/), and I started to work on the [second edition of the book](https://github.com/yabellini/t3es2ed). I did not achieve as much progress as I wanted, but I have a [nice list of issues and new bibliography](https://github.com/gvwilson/teachtogether.tech/issues), the draft of a new chapter and several modifications to three chapters.
 
-### Mayo-June - autumn, the best time of the year in La Pampa
+### May-June - autumn, the best time of the year in La Pampa
 
 * I started to look for alternative jobs, and as always, teaching was where I focused part of my time.  I also applied for the position of Community Manager at rOpenSci, where I [started working in mid-June](https://ropensci.org/blog/2022/06/21/introducing-yanina/).
 
@@ -35,7 +35,7 @@ This year was full of emotions, difficult decisions, and important changes. Refl
 
 ### July - winter in the Portuguese summer
 
-* I traveled abroad for the first time since the beginning of the pandemic.  The reason: [The Carpentries executive council retreat](https://carpentries.org/blog/2022/08/2022-executive-council-retreat/). One of the most beautiful global community governance work experiences I have ever been a part of.
+* I traveled abroad for the first time since the beginning of the pandemic.  The reason: [The Carpentries Executive Council retreat](https://carpentries.org/blog/2022/08/2022-executive-council-retreat/). One of the most beautiful global community governance work experiences I have ever been a part of.
 
 * Due to this trip, I joined the organizing team of the [csv,conf](https://csvconf.com/) to be held in Buenos Aires next year.
 
