@@ -68,7 +68,7 @@ Este fue un año muy cargado de emociones, decisiones difíciles y cambios impor
 
 * Argentina sumó su tercera estrella como campeón del mundial de fútbol 2022.
 
-* Envié mi renuncia al INTA después de [veinticuatro años y medio de ser una de sus investigadoras](blog/2022-12-21-inta/).  
+* Envié mi renuncia al INTA después de [veinticuatro años y medio de ser una de sus investigadoras](/blog/2022-12-21-inta/).  
 
 * Anunciamos la [transición del Equipo de Liderazgo Global de R-Ladies](https://blog.rladies.org/post/2022-11-18-global-leadership-team-transition/), luego de más de un año de arduo trabajo.
 
