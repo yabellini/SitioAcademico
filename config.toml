@@ -123,6 +123,16 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "/blog/index.xml"
 
+# Search index for lunr.js
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+
+# Hugo’s output control
+[outputs]
+    page = ["HTML"]
+    home = ["HTML", "SearchIndex"]
+
 [taxonomies]
   category = "categories"
   series = "series"
@@ -155,6 +165,10 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 5
+  [[menu.header]]
+    weight = 6
+    name = "search"
+    title = "search"  
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
