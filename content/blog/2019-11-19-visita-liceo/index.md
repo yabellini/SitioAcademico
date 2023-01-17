@@ -25,3 +25,6 @@ Fueron recibidos por los responsables de sistemas Pablo Lucchetti, Carlos Ferrey
 Recorrieron además, las instalaciones informáticas como la sala de servidores y el taller de soporte técnico, donde los profesionales respondieron más preguntas de docentes y alumnos.
 
 Los alumnos de primero a tercer año también vieron cómo y con qué herramientas se desarrolla software en la institución y se interiorizaron sobre el convenio entre INTA y el Liceo, a partir del cual pueden realizar sus prácticas profesionales en la institución en algunos de estos roles mencionados, mentoreados por alguno de los profesionales de INTA que los recibieron.
+
+
+> _Publicado primero en la web de INTA Anguil._
