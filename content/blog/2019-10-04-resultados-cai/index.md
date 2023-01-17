@@ -71,6 +71,7 @@ En este informe se da acceso a todos los trabajos (haciendo click en el título 
 * Fertilización por zonas de manejo y uso de índices de vegetación en caña de azúcar. [Presentación](https://inta.gob.ar/sites/default/files/hugo_fernandez_cai_2019.pdf)
 * Adecuación a un SIG de información edáfica de la localidad Colonia Santa Rosa – Departamento Orán. Provincia de Salta. [Presentación](https://inta.gob.ar/sites/default/files/adecuacion_de_un_sig_-_santa_rosa_-_gonzalez-cai.pdf)
 
+
 ### Keynote: [Aplicaciones de geotecnología para el sector productivo.](https://inta.gob.ar/sites/default/files/rrnn_inta_cai.pdf) Fernando Ledesma. Hernan Helena. Cecilia Morales. Yanina Noe. Laura Vale. Jesus Mosciaro. INTA Salta
 
 ## Fotos del congreso
