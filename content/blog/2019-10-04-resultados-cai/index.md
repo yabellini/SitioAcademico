@@ -74,6 +74,7 @@ En este informe se da acceso a todos los trabajos (haciendo click en el título 
 
 ### Keynote: [Aplicaciones de geotecnología para el sector productivo.](https://inta.gob.ar/sites/default/files/rrnn_inta_cai.pdf) Fernando Ledesma. Hernan Helena. Cecilia Morales. Yanina Noe. Laura Vale. Jesus Mosciaro. INTA Salta
 
+
 ## Fotos del congreso
 
 * [Cursos](https://inta.gob.ar/sites/default/files/album_de_fotografias_cursos.pdf)
