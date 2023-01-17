@@ -50,26 +50,33 @@ En este informe se da acceso a todos los trabajos (haciendo click en el título 
 
 ### Día 3: 19 de Septiembre
 
-* Behavior Classification of A Grazing Goat in the Argentine Monte Desert by Using Inertial Sensors. [Presentación]()
-* Clasificador automático de la calidad de los granos de maíz. [Presentación]
+* Behavior Classification of A Grazing Goat in the Argentine Monte Desert by Using Inertial Sensors. [Presentación](https://inta.gob.ar/sites/default/files/paez_-_behavior_classification_of_a_grazing_goat_in_the_argentine_monte_desert_by_using_inertial_sensors.pdf)
+* Clasificador automático de la calidad de los granos de maíz. [Presentación](https://inta.gob.ar/sites/default/files/cai_-_2019-09-19_09.15_-_clasificador_automatico_de_la_calidad_de_los_granos_de_maiz.pdf)
+* Aplicación móvil para la identificación de variedades de Manihot esculenta Crantz cultivadas en  Misiones mediante técnicas de deep learning. [Presentación](https://inta.gob.ar/sites/default/files/tamada_alejandro-11degcai-48degjaiio_mandioca.pdf)
+* Estimación del Tamaño de Manzanas mediante Análisis de Imágenes para Pronósticos de Producción. [Presentación](https://inta.gob.ar/sites/default/files/delbrio_et_al_pdf_cai_19_9_2019_manzanas.pdf)
+* Conjunto de datos de imágenes etiquetadas para el desarrollo de aplicaciones de reconocimiento de patrones en el cultivo de girasol. [Presentación](https://inta.gob.ar/sites/default/files/hacia_el_desarrollo_de_un_conjunto_de_datos_de_imagenes_etiquetadas_para_el_desarrollo_del_reconocimiento_de_imagenes_en_el_cultivo_de_girasol.pdf)
+* Probabilidad de granizo a partir de la disminución de reflectividad por atenuación producida en un haz de radar. [Presentación](https://inta.gob.ar/sites/default/files/presentacion_cai_2019_mezher.pdf)
+* LibreSeed: una sembradora de plantines con hardware y software libre. [Presentación](https://inta.gob.ar/sites/default/files/laguia_-_libreseed.pdf)
+* Monitoreo en tiempo real de conductividad eléctrica en cultivos hidropónicos. [Presentación](https://inta.gob.ar/sites/default/files/hidroponicos_wurm_cai_2019.pdf)
+* Planificador de siembra del programa ProHuerta.  [Presentación](https://inta.gob.ar/sites/default/files/juan_caldera_-_planificador_prohuerta_.pdf)
+* Conjunto de datos de resultados de la Red Nacional de Cultivares de Girasol de INTA. [Presentación](https://inta.gob.ar/sites/default/files/juan_caldera_-_conjuntos_de_datos_girasol.pdf)
+* Implementación del sistema “Telemetría Agrícola” para el manejo y análisis de estrategias de riego deficitario controlado en el cultivo de tomate. [Presentación](https://inta.gob.ar/sites/default/files/teleagricola_rdc_tomate_cai2019.pdf)
+* Dispositivo hardware libre para medir niveles freáticos y altura hidrométrica. [Presentación](https://inta.gob.ar/sites/default/files/elopezcai2019_niveles_freaticos.pdf)
+* Consorcio General Roca de Riego y Drenaje: creación de una APP para una mejora en la comunicación laboral. [Presentación](https://inta.gob.ar/sites/default/files/app_consorcio_de_riego.pdf)
+* Glaciar: Software de Visualización de Datos de Recursos Hídricos y Atmosféricos. [Presentación](https://inta.gob.ar/sites/default/files/jaiio_cai_2019_-_inchausti_-_glaciar_software.pdf)
+* Sistema para la aplicación de los datos de la misión satelital SAOCOM en la agricultura. [Presentación](https://inta.gob.ar/sites/default/files/20190919_124500_saocom_hlozza.pdf)
+* Integración de herramientas informáticas para el diseño de marcadores moleculares ligados a un gen de interés a partir de un microarray de genotipado de trigo pan. [Presentación](https://inta.gob.ar/sites/default/files/integracion_de_herramientas_informaticas_para_el_diseno_de_marcadores_kasp_sct.pdf)
+* Software Simulador Económico-Productivo para Granjas de Engorde de Pollos Parrilleros. [Presentación](https://inta.gob.ar/sites/default/files/presentacion_cai_2019_-_simulador_economico-productivo_para_granjas_de_parrilleros.pdf)
+* Desarrollo de una herramienta para la gestión de los pastoreos en praderas y verdeos con vacunos en crecimiento y terminación. [Presentación](https://inta.gob.ar/sites/default/files/santiago_lombardo_cai_2019_enpastoreo.pdf)
+* Fertilización por zonas de manejo y uso de índices de vegetación en caña de azúcar. [Presentación](https://inta.gob.ar/sites/default/files/hugo_fernandez_cai_2019.pdf)
+* Adecuación a un SIG de información edáfica de la localidad Colonia Santa Rosa – Departamento Orán. Provincia de Salta. [Presentación](https://inta.gob.ar/sites/default/files/adecuacion_de_un_sig_-_santa_rosa_-_gonzalez-cai.pdf)
 
-* Aplicación móvil para la identificación de variedades de Manihot esculenta Crantz cultivadas en  Misiones mediante técnicas de deep learning. [Presentación]()
-* Estimación del Tamaño de Manzanas mediante Análisis de Imágenes para Pronósticos de Producción. [Presentación]()
-* Conjunto de datos de imágenes etiquetadas para el desarrollo de aplicaciones de reconocimiento de patrones en el cultivo de girasol. [Presentación]()
-* Probabilidad de granizo a partir de la disminución de reflectividad por atenuación producida en un haz de radar. [Presentación]()
-* LibreSeed: una sembradora de plantines con hardware y software libre. [Presentación]()
-* Monitoreo en tiempo real de conductividad eléctrica en cultivos hidropónicos. [Presentación]()
-* Planificador de siembra del programa ProHuerta.  [Presentación]()
-* Conjunto de datos de resultados de la Red Nacional de Cultivares de Girasol de INTA. [Presentación]()
-* Implementación del sistema “Telemetría Agrícola” para el manejo y análisis de estrategias de riego deficitario controlado en el cultivo de tomate. [Presentación]()
-* Dispositivo hardware libre para medir niveles freáticos y altura hidrométrica. [Presentación]()
-* Consorcio General Roca de Riego y Drenaje: creación de una APP para una mejora en la comunicación laboral. [Presentación]()
-* Glaciar: Software de Visualización de Datos de Recursos Hídricos y Atmosféricos. [Presentación]()
-* Sistema para la aplicación de los datos de la misión satelital SAOCOM en la agricultura. [Presentación]()
-* Integración de herramientas informáticas para el diseño de marcadores moleculares ligados a un gen de interés a partir de un microarray de genotipado de trigo pan. [Presentación]()
-* Software Simulador Económico-Productivo para Granjas de Engorde de Pollos Parrilleros. [Presentación]()
-* Desarrollo de una herramienta para la gestión de los pastoreos en praderas y verdeos con vacunos en crecimiento y terminación. [Presentación]()
-* Fertilización por zonas de manejo y uso de índices de vegetación en caña de azúcar. [Presentación]()
-* Adecuación a un SIG de información edáfica de la localidad Colonia Santa Rosa – Departamento Orán. Provincia de Salta. [Presentación]()
+### Keynote: [Aplicaciones de geotecnología para el sector productivo.](https://inta.gob.ar/sites/default/files/rrnn_inta_cai.pdf) Fernando Ledesma. Hernan Helena. Cecilia Morales. Yanina Noe. Laura Vale. Jesus Mosciaro. INTA Salta
 
-### Keynote: Aplicaciones de geotecnología para el sector productivo. Fernando Ledesma. Hernan Helena. Cecilia Morales. Yanina Noe. Laura Vale. Jesus Mosciaro. INTA Salta
+## Fotos del congreso
+
+* [Cursos](https://inta.gob.ar/sites/default/files/album_de_fotografias_cursos.pdf)
+
+* [Apertura, medios y chairs](https://inta.gob.ar/sites/default/files/album_de_fotografias_aperturaychairs.pdf)
+
+* [Exposición de trabajos y charlas plenarias](https://inta.gob.ar/sites/default/files/album_de_fotografias_exposiciones.pdf)
