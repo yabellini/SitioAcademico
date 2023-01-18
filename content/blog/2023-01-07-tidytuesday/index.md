@@ -46,8 +46,7 @@ The first step is to read the csv file and group some categories usign `mutate`.
 
 With the new categories ready I made the calculation of the quantity of each type of publication by year using the function `count`
 
-``` {r EVAL = FALSE}
-
+```r
 library(tidyverse)
 
 PublicacionesPorAnioYanina <- read_csv("datos/PublicacionesPorAnioYanina.csv")
@@ -60,21 +59,19 @@ pub_xtipoxanio <- PublicacionesPorAnioYanina %>%
     TRUE ~ Type
   )) %>% 
   count(Year, Type)
-  
 ```  
 
 ## Ploting
 
 With the data in the format I need, I create the plot, firts the base of the plot
 
-``` {r EVAL = FALSE}
+```r
 p <- ggplot(pub_xtipoxanio, aes(x = Year, y = Type, fill = n ))
-
 ```
 
 Now, using `geom_tile()` we plot the heatmap
 
-``` {r EVAL = FALSE}
+```r
 p + geom_tile() +
   theme_minimal() +
   scale_x_continuous(breaks = seq(1998, 2022, by = 2), expand = c(0, 0)) +
@@ -90,7 +87,7 @@ p + geom_tile() +
 
 Finally I use `geom_vline` and `annotate` to add some important events in my life during this 24 years of working at INTA. I also use `labs` to add other anotation likes title, subtitle and data source.
 
-``` {r EVAL = FALSE}
+```r
 p + geom_tile() +
   theme_minimal() +
   scale_x_continuous(breaks = seq(1998, 2022, by = 2), expand = c(0, 0)) +
@@ -120,8 +117,6 @@ p + geom_tile() +
   labs(title = "Number and type of publications by year",
        subtitle = "Series: 1998-2022",
        caption = paste0("Source: personal CV - Total publications: ", nrow(PublicacionesPorAnioYanina)))
-
-
 ```
 
 {{< figure src="plot_final.png" alt="heat map in green scale showing the number of publication by type and by year" >}}
