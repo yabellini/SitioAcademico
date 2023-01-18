@@ -102,32 +102,39 @@ Thank you again for your time, and please don’t hesitate to contact us if anyt
 To ensure that the process takes the stipulated time, it is advisable to communicate with the reviewers during the revisions. You can remind them of the due dates and ask them if you can help them in any way.  Here is an email example:
 
 
-### Template email for review reminder for tutorials
+### <i class="fas fa-exclamation-circle pr2"></i> Template email for review reminder for tutorials
 
-Subject: [Friendly Reminder] Tutorial {conference year} review
-
-Hi,
-Thank you for agreeing to review tutorial abstracts for {conference year}.
-
-We are writing to you since we are approaching the tutorial abstract review deadline ({date}). Meeting this date is critical for us to carry out the final selection process on time.
-
-Please let us know if you have any questions/issues with the abstract review process; we are happy to help.
-
-Thanks in advance for your time and contribution.
-Kind regards, {conference year} Program Committee {names of the chairs/head of program committee}
+> **Subject:** [Friendly Reminder] Tutorial {conference year} review
+>
+>**Text:** Hi,
+>
+>Thank you for agreeing to review tutorial abstracts for {conference year}.
+>
+>We are writing to you since we are approaching the tutorial abstract review deadline ({date}). Meeting this date is critical for us to carry out the final selection process on time.
+>
+>Please let us know if you have any questions/issues with the abstract review process; we are happy to help.
+>
+>Thanks in advance for your time and contribution.
+>
+>Kind regards, 
+>
+>{conference year} Program Committee {names of the chairs/head of program committee}
 
 Finally, you should thank the reviewers for their work when the process is finished. Here is a template for this task:
 
-### Template email to thanks to tutorial's reviewers
+### ### <i class="fas fa-exclamation-circle pr2"></i> Template email to thanks to tutorial's reviewers
 
-Subject: Tutorial {conference year} review
-
-Hi,
-Thank you so much for completing your reviews for {conference year}. Your work contributes to the organization of a quality, global, and accessible conference.
-
-We much appreciate your time and dedication. Thank you!
-
-Kind regards, {conference year} Program Committee {names of the chairs/head of the program committee}
+> **Subject:** Tutorial {conference year} review
+>
+> **Text:** Hi,
+>
+> Thank you so much for completing your reviews for {conference year}. Your work contributes to the organization of a quality, global, and accessible conference.
+>
+> We much appreciate your time and dedication. Thank you!
+>
+> Kind regards, 
+>
+>{conference year} Program Committee {names of the chairs/head of the program committee}
 
 ## Setup the review infrastructure
 
@@ -143,14 +150,3 @@ All these options have different costs in time, money, and barrier to use.  You 
 ## Next steps
 
 In the next post, we will learn about the final selection and the communication of the results to the authors, emphasizing providing constructive feedback. 
-
-
-
-
-
-
-
-
-
-.
-
