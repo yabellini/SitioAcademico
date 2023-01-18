@@ -9,9 +9,9 @@ draft: false
 
 When the call for tutorials closes, we have the proposals to review but to be ready at that stage, we will have to complete some tasks:  
 
-* Invite the reviewers
-* Create a rubric or criteria for the review
-* Setup the review infrastructure
+* [Invite the reviewers](#invite-the-reviewers)
+* [Create a rubric or criteria for the review](#create-a-rubric-or-criteria-for-the-review) 
+* [Setup the review infrastructure](#setup-the-review-infrastructure) 
 
 ## Invite the reviewers
 
@@ -53,27 +53,27 @@ You should consider these aspects when deciding how many reviewers you invite.
 
 Reviewers will fill out a form with a review rubric/criteria to help choose the final list of tutorials. Here is an example of potential criteria (We use similar measures at useR! 2021 and JAIIO):
 
-Relevance: in this point, reviewers address how relevant, and interesting the tutorial is for this conference edition. According to the proposed topic, the target audience, language, and motivation, indicate this tutorial's relevance for the conference. The values for the scoring are: Very good, Good, Acceptable, Weak, and Very weak.
+* **Relevance:** in this point, reviewers address how relevant, and interesting the tutorial is for this conference edition. According to the _proposed topic, the target audience, language, and motivation_, they indicate this tutorial's relevance for the conference. The values for the scoring are: _Very good, Good, Acceptable, Weak, and Very weak_.
 
-Pedagogy: indicate the clarity and level of the pedagogical proposal of the tutorial in all its points, with emphasis on the description, outline, learning objectives, duration, and target audience. Include your rating of material such as websites and GitHub, if they exist. The values for the scoring are: Very good, Good, Acceptable, Weak, and Very weak.
+* **Pedagogy**: indicate the clarity and level of the pedagogical proposal of the tutorial, with emphasis on the _description, outline, learning objectives, duration, and target audience_. Include your rating of material such as websites and GitHub, if they exist. The values for the scoring are: _Very good, Good, Acceptable, Weak, and Very weak_.
 
-Originality: According to the proposed topic, the target audience, the pedagogical proposal, language, and motivation, indicate this tutorial's originality for the conference. Reviewers check if tutors offered the tutorial in past editions. Values for scoring: Very good, Good, Acceptable, Weak, Very weak
+* **Originality**: According to the _proposed topic, the target audience, the pedagogical proposal, language, and motivation_, indicate this tutorial's originality for the conference. Reviewers have to check if tutors offered the tutorial in past editions. Values for scoring: _Very good, Good, Acceptable, Weak, Very weak_
 
-Accessibility: Considering our accessibility guidelines for tutorials, evaluate this tutorial's accessibility proposal and the accessibility of any linked materials. The values are Very good, Good, Acceptable, Weak, and Very weak
+* **Accessibility**: considering our accessibility guidelines for tutorials, evaluate this tutorial's accessibility proposal and the accessibility of any linked materials. The values are _Very good, Good, Acceptable, Weak, and Very weak_
 
-Instructor:  brief comments on the instructor's qualifications and the quality of their instruction. In addition, it is helpful to know details such as: 
- the tutor’s experience working with the global community or in their region. For example, for useR! We ask, Are they R-Ladies or RUG organizers?
-Scope and popularity of their courses or materials: for example, for JAIIO, are they instructors for SADIO?
-Any knowledge of their instructional ability: for LatinR, we ask, Are they The Carpentries or RStudio certified instructors or trainers? 
-Any other information that may be of interest when ranking the tutorial: for example, for useR! We tried to allow tutors new to the conference and have a geographical and language representation. 
+* **Instructor**:  brief comments on the instructor's qualifications and the quality of their instruction. In addition, it is helpful to know details such as: 
+   - the tutor’s experience working with the global community or in their region. For example, for useR! We take into account if they are R-Ladies or RUG organizers.
+   - Scope and popularity of their courses or materials: for example, for JAIIO, we gather information if they are SADIO's instructors.
+   - Any knowledge of their instructional ability: for LatinR, we take into account if they are The Carpentries or RStudio certified instructors or trainers. 
+   - Any other information that may be of interest when ranking the tutorial: for example, for useR! we tried to allow tutors new to the conference and have a geographical and language representation. 
 
-Overall Evaluation: this is an overall evaluation of the proposal. The values are: Very Good (must be accepted), Good (I recommend that it be accepted), Limit (is at the limit of what is acceptable), Weak (I recommend rejecting it), and Very weak (I strongly recommend that it be rejected)
+* **Overall Evaluation**: this is an overall evaluation of the proposal. The values are: _Very Good (must be accepted), Good (I recommend that it be accepted), Limit (is at the limit of what is acceptable), Weak (I recommend rejecting it), and Very weak (I strongly recommend that it be rejected)_
 
-Brief comments for the program and content tutorial committee: reviewers can explain their scoring or give more details for the program committee, like suggestion change the type of contribution. 
+* **Brief comments for the program and content tutorial committee**: reviewers can explain their scoring or give more details for the program committee, like suggestion change the type of contribution. It is the place to describe important details for the selection.
 
-Brief comments for the authors of the proposal: these comments provide constructive feedback to the author so they can improve the tutorial and future submissions. 
+* **Brief comments for the authors of the proposal**: these comments provide constructive feedback to the author so they can improve the tutorial and future submissions. 
 
-Level: It is a good idea to ask reviewers to categorize the proposal according to the level they think the tutorial audience should have and compare it with the authors' state.  The values can be Beginner, Intermediate, Advanced or Novice, Competent practitioner, or Expert. 
+* **Level**: It is a good idea to ask reviewers to categorize the proposal according to the level they think the tutorial audience should have and compare it with what the author state.  The values can be _Beginner, Intermediate, Advanced_ or _Novice, Competent practitioner, Expert_. 
 
 You will share these review criteria with the reviewers in the email you sent with the instructions to review.  Here you can find an example of the email:
 
@@ -122,7 +122,7 @@ To ensure that the process takes the stipulated time, it is advisable to communi
 
 Finally, you should thank the reviewers for their work when the process is finished. Here is a template for this task:
 
-### ### <i class="fas fa-exclamation-circle pr2"></i> Template email to thanks to tutorial's reviewers
+### <i class="fas fa-exclamation-circle pr2"></i> Template email to thanks to tutorial's reviewers
 
 > **Subject:** Tutorial {conference year} review
 >
