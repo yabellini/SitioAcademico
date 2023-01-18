@@ -149,4 +149,4 @@ All these options have different costs in time, money, and barrier to use.  You 
 
 ## Next steps
 
-In the next post, we will learn about the final selection and the communication of the results to the authors, emphasizing providing constructive feedback. 
+In the next post, we will learn about the final selection and the communication of the results to the authors, emphasizing providing constructive feedback and how to create the final agenda. 
