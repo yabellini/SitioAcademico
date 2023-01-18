@@ -1,38 +1,46 @@
 ---
 title: "Call for Tutorials - Review"
-weight: 4
+weight: 5
 subtitle: ""
 excerpt: "In this blog post, you will learn about the process of review the proposals and an example rubric for the review"
-date: 2022-11-27
+date: 2023-01-18
 draft: false
 ---
 
 When the call for tutorials closes, we have the proposals to review but to be ready at that stage, we will have to complete some tasks:  
 
-Invite the reviewers
-Create a rubric or criteria for the review
-Setup the review infrastructure
+* Invite the reviewers
+* Create a rubric or criteria for the review
+* Setup the review infrastructure
 
 ## Invite the reviewers
 
 You can start inviting the reviewers when you are writing the call. In the invitation. In the invitation, you should include the due date to review and how much time we estimate this can take. Here is an example of an email to invite reviewers. We use this text for useR! 2021:
 
-### Template email invite reviewer
-Subject: useR! 2021 - Invitation to program committee
-Hi,
-We are pleased to announce that useR! 2021, the next International R User Conference will take place online on {date and time}.
-Given your expertise in R, we would like to invite you to be a member of the {conference year} Program Committee. This will greatly help us to consolidate the preferences for the contributions that will be presented during {conference year}.
+### <i class="fas fa-exclamation-circle pr2"></i> Template email invite reviewer
 
-We would like you to review some one-page tutorial proposals if you accept this invitation. At this time, it is not possible to anticipate how many proposals we will assign you. However, we will do our best to keep your service as a program committee member to a maximum of eight hours.
-
-We expect that your service will take place approximately during the last three weeks of {month and year} once the tutorial submission process has been completed.
+> **Subject:** useR! 2021 - Invitation to program committee
+>
+> **Text:** Hi,
+>
+> We are pleased to announce that _{conference name}_, the next International _{conference name}_ will take place online on _{place, date and time}_.
+>
+> Given your expertise in R, we would like to invite you to be a member of the _{conference year}_ Program Committee. This will greatly help us to consolidate the preferences for the contributions that will be presented during _{conference year}_.
+>
+> We would like you to review some one-page tutorial proposals if you accept this invitation. At this time, it is not possible to anticipate how many proposals we will assign you. However, we will do our best to keep your service as a program committee member to a maximum of eight hours.
+>
+> We expect that your service will take place approximately during the last three weeks of _{month and year}_ once the tutorial submission process has been completed.
 We thank you for considering this invitation and hope that you might be able to contribute to the conference.
-
-Should you have any questions, please do not hesitate to contact us.
-Looking forward to hearing from you at your earliest convenience, before {date}.
-
-Best wishes,
-{Name of the chairs of the program committee} Chairs of the Program Committee
+>
+>Should you have any questions, please do not hesitate to contact us.
+>
+>Looking forward to hearing from you at your earliest convenience, before _{date}_.
+>
+>Best wishes,
+>
+>_{Name of the chairs of the program committee}_ 
+>
+>Chairs of the Program Committee
 
 These reviewers will be part of the  Program Committee. They will carefully evaluate each submission's overall quality, research scope, technical content, and pedagogical proposal and appeal to a reasonable fraction of the conference community.  Remember, we detailed all these aspects on the call.
 
@@ -69,23 +77,26 @@ Level: It is a good idea to ask reviewers to categorize the proposal according t
 
 You will share these review criteria with the reviewers in the email you sent with the instructions to review.  Here you can find an example of the email:
 
-### Template email to send reviewer the proposals and instructions to review
+### <i class="fas fa-exclamation-circle pr2"></i> Template email to send reviewer the proposals and instructions to review
 
-Dear {name},
-Thank you for agreeing to review tutorial proposals. We are now sending you {the total number of proposals} to review.
-
-{explanation on how to access and use the review infrastructure}
-
-The review criteria are 
-
-{review criteria}.
-
-Please complete the reviews by {date}, and please reach out early if there is any problem.
+> **Text:** Dear {name},
+>
+> Thank you for agreeing to review tutorial proposals. We are now sending you _{the total number of proposals}_ to review.
+>
+> _{explanation on how to access and use the review infrastructure}_
+>
+> The review criteria are 
+>
+> _{review criteria}_
+>
+> Please complete the reviews by _{date}_, and please reach out early if there is any problem.
 Thank you again for your time, and please don’t hesitate to contact us if anything is unclear.
-Kind regards,
-
-{conference year} Program Committee
-{commite members names}
+>
+> Kind regards,
+>
+> _{conference year}_ Program Committee
+>
+> _{commite members names}_
 
 
 To ensure that the process takes the stipulated time, it is advisable to communicate with the reviewers during the revisions. You can remind them of the due dates and ask them if you can help them in any way.  Here is an email example:
