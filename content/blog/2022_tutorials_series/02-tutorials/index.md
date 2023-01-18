@@ -45,83 +45,83 @@ Finally, you need to choose the platform through which the proposals will be rec
 The next step is to to write the call for proposals including all these details.  You also have to include the refence and a link to your _Code of Conduct_ and your _Accesibilities Guidelines_. 
 
 
-### Template Call for Tutorials
+### <i class="fas fa-exclamation-circle pr2"></i> Template Call for Tutorials
 
 To exemplify how a complete good tutorial call looks like, look at this template base on the call we did for [useR! 2021](https://user2021.r-project.org).  The text between brakets _{}_ indicate data you should change for your event.
 
-#### Call for Tutorials {name of the conference}
-
-In this announcement, we outline topics of interest, presentation guidelines, and important dates for proposal submission.
-
-The tutorials will be for _{programming language/technology - role (ex: R users)}_ in all sectors, e.g., researchers, government officers, and industry representatives who focus on the applicability of _{programming language-technology}_ in practical settings and for all levels.
-
-The duration of each tutorial can vary between _{minimun}_ to _{maximum}_ hours, we encourage shorter length but we expect at least _{minumun}_ hours. We strongly believe that similar tutorials have helped the _{programming language/technology - role (ex: R users)}_ community to be updated about the latest packages, concepts, and best practices.
-
-Since we have a _{scope, ex:global, regional, national)}_ event this year, we will accept proposals for tutorials to be taught in _{list of languages (ex: English, Spanish or French}_. If you plan to teach in _{languajes (ex:Spanish or French)}_, the proposal must still be submitted in _{language, (ex: English)}_.
-
-These tutorials will be organized in multiple time zones, so we request that you select a convenient time zone. We will later determine the timezone based on all other tutorials and attendees’ interest to combine them into a session. The recordings of the tutorials will be shared online with the consent of the organizers, instructors, and attendees. We prefer tutorials to have hands-on exercises or examples to be carried out by the participants for their best interest.
-
-The organization will offer a payment of _{currency and amount (ex:USD 500)}_ for those tutorials that are selected.
-
-#### Topics of interest
-Suggested topics for this edition, although not exclusive, are the following:
-
-_{list your topic of interest}_
-
-_Examples:_ 
-* Environmetrics
-* Epidemiology
-* Big data
-* Spatial analysis and modeling
-* Transportation
-* Usage of Rcpp
-* Introduction to artificial intelligence/machine learning, exploratory machine learning, and/or ethical artificial intelligence
-* Non linear statistical modeling
-* Reproducibility and best practices
-* Ethical web scraping
-* Imaging and signal processing
-* Database management
-* Docker and RStudio
-* Natural Language Processing
-* Shiny app development and best practices
-* Predictive modeling time series forecasting
-* R Packages: building packages, CRAN submission and package maintenance
-* Teaching R and R in teaching.
-* Visualization
-* Using git with R
-
-#### Submission guidelines
-
-Submissions must be sent using the Tutorial Submission platform following this link _{add link}_ from _{date}_ to _{date}_
-
-Please read the code of conduct _{link to COC}_ and the accessibility guidelines for tutorials _{link to guidelines}_ before submitting the tutorials.
-
-Submissions must be written in _{language (ex: English)}_ and include:
-
-_{list the data requested on the application form}_
-
-_Example:_ 
-* The title of the tutorial
-* Abstract
-* The broad topic it covers
-* The learning goals
-* Time zone preference and time slot (please mention at least three different time zones you are comfortable with)
-* Length of the tutorial
-* Language in which the tutorial can be taught.
-* The intended audience and method of online engagement with the audience
-* If there exists, a link to the Tutorial materials and/or web page.
-* Prerequisites / requirements
-* Material sharing (license), recording consent
-* A brief biography of the instructors
-
-#### Important dates
-* Tutorial submission start: _{date with format: Name of the day, number of the day, year with 4 digits}_
-* Tutorial submission deadline: _{date with format: Name of the day, number of the day, year with 4 digits}_
-* Tutorial acceptance notification: _{date with format: Name of the day, number of the day, year with 4 digits}_
-
-#### Review Criteria
-
-Each submission will be carefully evaluated by our Program Committee regarding the submission’s overall quality, research scope, and its appeal to a reasonable fraction of the _{programming language/technology - role (ex: R)}_ community.
+> #### Call for Tutorials {name of the conference}
+>
+>In this announcement, we outline topics of interest, presentation guidelines, and important dates for proposal submission.
+>
+>The tutorials will be for _{programming language/technology - role (ex: R users)}_ in all sectors, e.g., researchers, government officers, and industry representatives who focus on the applicability of _{programming language-technology}_ in practical settings and for all levels.
+>
+>The duration of each tutorial can vary between _{minimun}_ to _{maximum}_ hours, we encourage shorter length but we expect at least _{minumun}_ hours. We strongly believe that similar tutorials have helped the _{programming language/technology - role (ex: R users)}_ community to be updated about the latest packages, concepts, and best practices.
+>
+>Since we have a _{scope, ex:global, regional, national)}_ event this year, we will accept proposals for tutorials to be taught in _{list of languages (ex: English, Spanish or French}_. If you plan to teach in _{languajes (ex:Spanish or French)}_, the proposal must still be submitted in _{language, (ex: English)}_.
+>
+>These tutorials will be organized in multiple time zones, so we request that you select a convenient time zone. We will later determine the timezone based on all other tutorials and attendees’ interest to combine them into a session. The recordings of the tutorials will be shared online with the consent of the organizers, instructors, and attendees. We prefer tutorials to have hands-on exercises or examples to be carried out by the participants for their best interest.
+>
+>The organization will offer a payment of _{currency and amount (ex:USD 500)}_ for those tutorials that are selected.
+>
+>#### Topics of interest
+>Suggested topics for this edition, although not exclusive, are the following:
+>
+>_{list your topic of interest}_
+>
+>_Examples:_ 
+>* Environmetrics
+>* Epidemiology
+>* Big data
+>* Spatial analysis and modeling
+>* Transportation
+>* Usage of Rcpp
+>* Introduction to artificial intelligence/machine learning, exploratory machine learning, and/or ethical artificial intelligence
+>* Non linear statistical modeling
+>* Reproducibility and best practices
+>* Ethical web scraping
+>* Imaging and signal processing
+>* Database management
+>* Docker and RStudio
+>* Natural Language Processing
+>* Shiny app development and best practices
+>* Predictive modeling time series forecasting
+>* R Packages: building packages, CRAN submission and package maintenance
+>* Teaching R and R in teaching.
+>* Visualization
+>* Using git with R
+>
+>#### Submission guidelines
+>
+>Submissions must be sent using the Tutorial Submission platform following this link _{add link}_ from _{date}_ to _{date}_
+>
+>Please read the code of conduct _{link to COC}_ and the accessibility guidelines for tutorials _{link to guidelines}_ before submitting the tutorials.
+>
+>Submissions must be written in _{language (ex: English)}_ and include:
+>
+>_{list the data requested on the application form}_
+>
+>_Example:_ 
+>* The title of the tutorial
+>* Abstract
+>* The broad topic it covers
+>* The learning goals
+>* Time zone preference and time slot (please mention at least three different time zones you are comfortable with)
+>* Length of the tutorial
+>* Language in which the tutorial can be taught.
+>* The intended audience and method of online engagement with the audience
+>* If there exists, a link to the Tutorial materials and/or web page.
+>* Prerequisites / requirements
+>* Material sharing (license), recording consent
+>* A brief biography of the instructors
+>
+>#### Important dates
+>* Tutorial submission start: _{date with format: Name of the day, number of the day, year with 4 digits}_
+>* Tutorial submission deadline: _{date with format: Name of the day, number of the day, year with 4 digits}_
+>* Tutorial acceptance notification: _{date with format: Name of the day, number of the day, year with 4 digits}_
+>
+>#### Review Criteria
+>
+>Each submission will be carefully evaluated by our Program Committee regarding the submission’s overall quality, research scope, and its appeal to a reasonable fraction of the _{programming language/technology - role (ex: R)}_ community.
 The submission will also be checked for its technical content and the pedagogical proposal. Final decisions will be based on the review committee, depending on conference attendees’ interest, topic relevance, and slot availability.
 The outcome of the review process will be declared on _{date}_
 
