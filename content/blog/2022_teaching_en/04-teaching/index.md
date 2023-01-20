@@ -194,11 +194,16 @@ Also, as mentioned in previous points, if a student has the error, you can ask t
 
 Once you have given a lesson several times, you’re unlikely to make anything other than basic typing mistakes (which can still be informative). You can try to remember past mistakes and make them deliberately, but that often feels forced. An alternative approach is twitch coding: ask learners one by one to tell you what to type next. This is pretty much guaranteed to get you into some kind of trouble.
 
+## Conclusions
 
+Participatory live coding is used successfully by thousands of instructors all over the world teaching differents types of tools and software.  As any other teaching strategy it takes practice but is very useul for better results for you and your students.   
 
-## conclusions
-  
+Here are two example videos contrasting [online live coding done poorly (in Spanish)](https://youtu.be/9ca6FxIdM6w) and [online live coding done well (in Spanish)](https://www.youtube.com/watch?v=NmPENPBnYy4).
+
+In this [CarpentryCon 2022 Lightning Talks: Managing Real Estate: Best practices to teach live coding](https://youtu.be/cg_ysne1Q_w) Jennifer Stubbs made a nice summary of advice for live coding.
 
 ## Aknowledges
 
-Thanks to Paola Corrales and Elio Campitelli for their comments on a early draft of this blog post.  
+Thanks to Paola Corrales and Elio Campitelli for their comments on a early draft of this blog post.
+
+Thanks to Rainier Barrett, Lieke de Boer, Kristin Lee, Jonathan Wheeler, and Jannetta Steyn for discuss the logistic of live coding online during our traing for becoming The Carpentries Trainers.   
