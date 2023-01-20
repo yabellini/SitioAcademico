@@ -160,21 +160,25 @@ You can use different [types of exercises](https://educarencomunidad.tech/en/ind
 
 Doing live coding on-line can be difficult to know whether people are actually following along or they aren't able to code due to ongoing issues that haven't been fixed.
 
-One way to check with your learners is to give differents way to indicate their status to us. For online setting some of the option are:
+One way to check with your learners is to give differents way to indicate their status to us. When we teach in person we use colored sticky notes. For online setting some of the option are:
 
-* 
+*  Non-verbal feedback in videoconferencing platforms appears as the first choice to replace colored sticky notes. If we use Zoom, a person can be asked to mark with a green check mark if they are finished or with a red mark in case they are stuck. As with the sticky notes, these marks do not come off by themselves, so it is necessary to ask the person to remove them if they have already solved the problem or move on to another exercise.
 
-    Non-verbal feedback in videoconferencing platforms appears as the first choice to replace colored sticky notes. If we use Zoom, a person can be asked to mark with a green check mark if they are finished or with a red mark in case they are stuck. As with the sticky notes, these marks do not come off by themselves, so it is necessary to ask the person to remove them if they have already solved the problem or move on to another exercise.
+* Created a table in the collaborative document (using https://hackmd.io or google docs) with all the participants names, ask them to put green check or red cross to check if they are on track. If someone doesnt fill something in, you can check in on them. 
 
-    The other reactions with emojis are useful for a quick general status, because they also show us the number of each emoji in the list of participants. For the same purpose, we can also ask them to write in the chat when they finished a task. Although it can be a lot of information together in groups of more than 20 people and complicated to determine who did not answer.
+* In zoom, the other reactions with emojis are useful for a quick general status, because they also show us the number of each emoji in the list of participants. But this emojis clean after a while, so you can miss some information. For the same purpose, we can also ask them to write in the chat when they finished a task. Although it can be a lot of information together in groups of more than 20 people and complicated to determine who did not answer.
 
-    Other tools such as surveys or a Slack channel can be used, but adding more tools to the synchronous class, especially if it is a new tool, is a cognitive load that we must take into account.
+* Other tools such as surveys or a paralel Slack channel can be used, but adding more tools to the synchronous class, especially if it is a new tool, is a cognitive load that we must take into account.
 
+One more time don't teach alone is a good strategy for this tip. The main role for helpers is assuring learners do not fall behind due to, for example, technical issues. Sometimes is a good idea to create a breakout room for sovilg tech issues were the student can go with a helper an solve the problem. Helpers should keep an eye out for the shared document(s), the emojis or the Slack channel. indicating a learner signaling for help. 
 
-One other thing that worked was that we created a table in the collaborative document (https://hackmd.io) with all the participants names, we ask them to put green check or red cross to check if they are on track. If someone doesnt fill something in, you can check in on them. 
+### 9. Use illustrations—Even better, draw them
 
+Diagrams and concept maps may help learners to understand the stages of the lesson and organize the material. What can work really well is when you as instructor generate the illustrations as you progress through the material. There are several tools to do this online.  Miro, Jamboard, Whiteboard.fi, draw.io, excalidraw, among others. You can use this with your mouse or with some tablet (I use the Wacom One and it is great).
 
+This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching. Presenting complementary information using visual and verbal representations helps learning (so-called “dual coding”).  Draw the diagrams together with the students is also a good idea, I use to draw with my students a concept map for flow control code, for example a loop, to get the concepts before to do the live coding.
 
+Some tools allows you to write and draw over you share screen.  This can be helpfull to mark part of the code or to anotatte the value of a variable while you execute a piece of code.
 
 ### 10. Embrace your mistakes
 
