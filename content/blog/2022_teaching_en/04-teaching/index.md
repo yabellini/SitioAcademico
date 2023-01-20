@@ -131,6 +131,23 @@ Also remember to give instructions on how to participate, how to ask questions, 
 
 ### 6. Stick to the lesson material
 
+Stick fairly closely to the lesson plan, and practicing teaching your live coding technique  is important especially if is the first time you teach the lesson. Add notes to your printouts of the lesson material, or have them easily available on the second screen or device (tablet or laptop), if you use one.
+
+Once you are more familiar with the material, though, you can and should start improvising based on the backgrounds of your learners, their questions in class, and what you personally find most interesting. 
+
+If a question or a “what if?” comes, but ypu don't want to disrupt the flow of the lesson or you know will take more time the one you have or you need some time to sort through ask learners to add them to a shared online document or ask your helper to collect them. Then, you can think about these while learners are doing exercises and answer them afterwards.
+
+
+
+### 7. Turn learners into co-instructors
+
+During participatory live coding, learners are actively coding along with the instructor.  This can be challange in online setting, especially to know if
+
+Use the group workrooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. Zoom's group rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms, and in a class of forty there will be one or two who initially struggle, but it does a lot to keep your students well motivated and attentive. 
+
+The "magic number" is 3 or even 4 participants per room, because if more are included, subgroups start to form, or someone doesn't participate.
+
+
 My dynamic when it is with beginners.  I don't know if everyone will be able to do live coding with us then:
  live coding that lasts between 10 and 20 minutes.
  I'd like to have a breakout room for them to do something the same or very similar to what we try to do in the live coding.
@@ -151,6 +168,12 @@ Also, as mentioned in previous points, if a student has the error, you can ask t
 
 Once you have given a lesson several times, you’re unlikely to make anything other than basic typing mistakes (which can still be informative). You can try to remember past mistakes and make them deliberately, but that often feels forced. An alternative approach is twitch coding: ask learners one by one to tell you what to type next. This is pretty much guaranteed to get you into some kind of trouble.
 
+FIXME: explain why an error was thrown, because of what element in the code. It helps a lot when you make explicit what every piece of the code is doing by creating new examples that show why an error is thrown in one situation but not in another. 
+
 
 ## conclusions
   
+
+## Aknowledges
+
+Thanks to Paola Corrales and Elio Campitelli for their comments on a early draft of this blog post.  
