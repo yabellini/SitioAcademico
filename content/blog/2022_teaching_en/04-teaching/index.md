@@ -129,6 +129,8 @@ Turn off notifications on the devices you are using and in your phone. Seeing no
 It is important your assistant work to sort out the queries and problem that students may have during class, so that interruptions are orderly and serve the lesson rather than cut off it's flow. 
 Also remember to give instructions on how to participate, how to ask questions, using what tools before starting your live demonstration ([see tip number 1](#1-be-seen-and-heard)).
 
+Finally, ask your student to also reduce the number of distractions in their devices, such as  notifications, emails, and other browser tabs, they may have open while the class is taking place. You can't control what they do, but make a friendly request can help some of them to close this distractors. 
+
 ### 6. Stick to the lesson material
 
 Stick fairly closely to the lesson plan, and practicing teaching your live coding technique  is important especially if is the first time you teach the lesson. Add notes to your printouts of the lesson material, or have them easily available on the second screen or device (tablet or laptop), if you use one.
