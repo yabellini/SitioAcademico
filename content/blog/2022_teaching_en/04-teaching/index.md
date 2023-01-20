@@ -140,13 +140,13 @@ Stick fairly closely to the lesson plan, and practicing teaching your live codin
 
 Once you are more familiar with the material, you can and should start improvising based on the backgrounds of your learners, their questions in class, and what you find most interesting.
 
-If a question or a “what if?” comes, but you don't want to disrupt the flow of the lesson, or you know it will take more time than the one you have, or you need some time to sort through, ask learners to add them to a shared online document or ask your helper to collect them. Then, you can think about these while learners are doing exercises and answer them afterward.
+If a question or a “what if?” comes, but you don't want to disrupt the flow of the lesson, or you know it will take more time than the one you have, or you need some time to sort through, ask learners to add them to a shared online document or ask your helper to collect them. Then, you can think about these while learners are doing exercises and answer them afterward, or the next class.
 
 ### 7. Turn learners into co-instructors.
 
 During participatory live coding, learners are actively coding along with the instructor.  This can be a challenge in online teaching and even more with beginners.
 
-One way to address this issue is to use the breakout rooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. 
+One way to address this issue is to use the breakout rooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know. We can use it for reinforce the live coding lesson. 
 
 Zoom's breakout rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms. In a class of forty, one or two will initially struggle, but it helps  keep your students well-motivated and attentive.
 
@@ -154,9 +154,9 @@ I use this dynamic with beginners and live coding:
 
 * I lived code between 10 and 20 minutes.
 * I send them to the breakout room in groups of 3 or 4 students (bigger groups create subgroups, or someone doesn't participate) to solve an exercise.
-* The exercise is the same or very similar to what we try to do during the live coding.
+* The exercise is the same or very similar to what we try to do during my live coding.
 * Before going to the breakout room, I give the instructions: how much time they have to solve the exercise (between 10 to 20 minutes), a student shares a screen, and they program together to solve it.
-* I take the time (now the videoconference tool does that for me), and when time is up, they go back to the common room, and we talk about how it went, what problems they had, and what questions they have. We go over these details. It is a good time to let them share the screen to see their problems or solutions, especially if they solved them differently.
+* I take the time (now the videoconference tool does that for me), and when time is up, they go back to the common room, and we talk about how it went, what problems and questions they have. We go over these details. It is a good time to let them share the screen to see their problems or solutions, especially if they solved the exercise differently.
 
 This strategy allows them to reinforce the learning by doing during the live coding and then one more time in groups.
 
@@ -185,9 +185,9 @@ Diagrams and concept maps may help learners understand the lesson's stages and o
 
 You can build up diagrams, making them increasingly complex in parallel with the material you teach. Presenting complementary information using visual and verbal representations helps to learn (so-called “dual coding”).  
 
-Drawing the diagrams together with the students is also a good idea. I used to draw with my students a concept map for flow control code, for example, a loop, to talk about important concepts before doing the live coding.
+Drawing the diagrams together with the students is also a good idea. For example, I used to draw a concept map for flow control code with my students to talk about essential concepts before doing the live coding. I also draw a map of the execution order of a SQL sentence to explain the outcome of a query or why we should use one function and not another after the live coding.
 
-Some tools allow you to write and draw over your shared screen. This can be helpful to mark part of the code and annotate the value of a variable while you execute a piece of code or the steps of execution of a sentence.
+Some tools allow you to write and draw over your shared screen. This can be helpful to mark part of the code and annotate the value of a variable while you execute a piece of code or the steps and order of execution of a sentence.
 
 ### 10. Embrace your mistakes.
 
