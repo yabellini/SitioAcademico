@@ -1,5 +1,5 @@
 ---
-title: "Ten quick tips for teaching with (participatory) live coding (on-line)"
+title: "Ten quick tips for teaching with (participatory) live coding (online)"
 weight: 4
 subtitle: ""
 excerpt: " "
@@ -48,7 +48,7 @@ This table shows the tips of each text side by side, matching similar tips. The 
 
 Many tips are either repeated in all the sources or are very similar to each other (in a different order). I took ten of these tips and added considerations for teaching online.
 
-## The tips for online live coding.
+## The tips for participatory online live coding.
 
 ### 1. Be seen and heard.
 
