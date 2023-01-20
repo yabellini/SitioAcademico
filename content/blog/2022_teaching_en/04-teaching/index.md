@@ -73,7 +73,7 @@ If you are teaching a long course (more than 3 clases) you can show case this on
 
   * If you can, share your code live as you write it. Antonio Vazquez Brust [explain how to do this using `ngrok` and RStudio for teaching R](https://bitsandbricks.github.io/post/code-live-from-rstudio-and-share-it-with-the-world-in-real-time/) and Elio Campitelli explain how he [teach R with frictionless live coding in this video](https://youtu.be/idFpvvH1JyI). There are other tools for other languages, Naomi Alterman show us [how to live streaming your live coding to static webpages for audience in this talk](https://youtu.be/a3uJj7Eqwzg) for CarpentryCon. 
   
-* **After live coding**: share your code, you can copy and paste on the chat of the platform, copy and paste on the shared notes or upload to the course webpage or virtual campus. This will help your students to validate their code and to catch-up if they can't copy or write some part of the code.
+* **After live coding**: we must consider the possibility that some of your students may fall behind, not be able to solve an exercise, or do it inefficiently. That is why it is important to share after the class, the code generated live during the class.You can copy and paste on the chat of the platform, copy and paste on the shared notes or upload to the course webpage or virtual campus. You can also share a folder in a cloud storage service. This will help your students to validate their code and to catch-up if they can't copy or write some part of the code.
 
 
 ### 2. Go slowly and don’t teach alone
@@ -126,8 +126,7 @@ One of the benefits of teaching online is that when people run into problems the
 
 Turn off notifications on the devices you are using and in your phone. Seeing notifications flash by on the screen distracts you as well as the learners. Have open only the softwares, apps and webpages you will need to use during the lesson. Close any other applications, including email and social media. Consider what desktop image and screensaver you use, because you will end up sharing them to the class and on the video if you record the lesson.
 
-
-
-
+It is important your assistant work to sort out the queries and problem that students may have during class, so that interruptions are orderly and serve the lesson rather than cut off it's flow. 
+Also remember to give instructions on how to participate, how to ask questions, using what tools before starting your live demonstration ([see tip number 1](#1-be-seen-and-heard)).
 
   
