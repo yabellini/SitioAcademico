@@ -96,9 +96,9 @@ When you do participatory live coding, you need to teach and program at a pace t
 
 If learners have to work in a different environment than you, mental effort is added that does not contribute to learning. Cognitive psychological theory calls this “extraneous cognitive load”. Try to create an environment that is as similar as possible to what your learners have.  If they are begginer it is high chance they have the default cofiguration of the IDE you are going to use.
 
-Using a cloud-based solution is the best alternative to ensure you and your students have the exact same setup during the teaching. In this case also include all the software, packages and data you need also install without problems, avoiding frustration.
+Using a cloud-based solution is the best alternative to ensure you and your students have the exact same setup during the teaching. Some of this tools allow you to include all the software, packages and data you need avoiding installation problems and the consequent frustration.
 
-When I teach R, I use RStudio Cloud the first class, and then we use the final of tha class to troubleshoot installation issues on students computers.  I also have this RStudio Cloud project as a backup in case some students can't install everything in their computers.  The cost can be an issue.
+When I teach SQL I use [SQL Lite Online](https://sqliteonline.com/). When I teach R, I use [Posit Cloud](https://posit.cloud/) the first class, and then we use the final of that class to troubleshoot installation issues on students computers.  I also have a Posit Cloud project as a backup in case some students can't install everything in their computers.  The cost of the tool can be an issue.
 
 
 ### 4. Use the screen(s) wisely
