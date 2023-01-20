@@ -124,9 +124,10 @@ One of the benefits of teaching online is that when people run into problems the
 
 ### 5. Avoid distractions
 
-notifications off
-desktops image and look of the screen you will share
-open only the software/apps you need to use during the lesson
+Turn off notifications on the devices you are using and in your phone. Seeing notifications flash by on the screen distracts you as well as the learners. Have open only the softwares, apps and webpages you will need to use during the lesson. Close any other applications, including email and social media. Consider what desktop image and screensaver you use, because you will end up sharing them to the class and on the video if you record the lesson.
+
+
+
 
 
   
