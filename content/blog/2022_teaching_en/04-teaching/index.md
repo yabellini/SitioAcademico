@@ -86,11 +86,15 @@ When you do participatory live coding, you need to teach and program at a pace t
 
 * Explain every step you made. Say out loud what you are doing while you do it for every command you type, every word of code you write, and every menu item or website button you click. Then, point to the command and its output on the screen and go through it a second time.  This allow students to check what they did.
 
+* Mention the line number you are referring to.
+
 * If the output of your command or code makes what you just typed disappear from view, scroll back up so learners can see it again.
 
 * Don’t use many keyboard shortcuts, especially at the beginning. If you use a keyboard shortcut say it out loud the first times you do. Explain an alternative to the shortcut (for example using menus).
 
 * Your helper should be watching the chat, helping to troubleshooting and solving problems of students, copying links or piece of code if need it, and letting you know when something needs to be clarified or re-explain or shown one more time. If you are alone, let students know when you are going to watch the chat to help them. Be clear about how they can participate and make questions (using the chat, unmuted them, using non verbal expresión, using shared notes, etc.) and how are you going to answer.
+
+* Use the chat for copy and pasting code and or errors (the one students get on their enviroemnt when coding along with you). Be careful of treacherous chat systems that can mangle your code. Straight quotes can be transformed to typographical quotes, character limits might chop off parts of the code, etc. A share note document is also a good place to paste your code or students errors.
 
 ### 3. Mirror your learner’s environment
 
@@ -103,14 +107,14 @@ When I teach SQL I use [SQL Lite Online](https://sqliteonline.com/). When I teac
 
 ### 4. Use the screen(s) wisely
 
-We already mention you need to show you students how to accomodate their screen to best see you.  
-Some people now use two devices when teaching: a laptop plugged into the projector for learners to see and a tablet so that they can view their own notes and the notes that the learners are taking  
+We already mention you [need to show you students how to accomodate their screen to best see you](#1-be-seen-and-heard). You also need to tidy your screen(s) to teach.
 
-Enlarge the panel of the screen you need to show (script, console, environments, outputs)
-Use the chat for copy and pasting code and or errors. 
-Be careful of treacherous chat systems that can mangle your code. Straight quotes can be transformed to typographical quotes, character limits might chop off parts of the code, etc… 
-mention the line number you are referring to
-allow students to share their screen to solve problems with the whole class
+The best solution is use two devices or two screens when teaching: one screen to share with students and another screen with students notes and video, lesson notes, and chat.
 
+If you don't have two screen then only share with your students the windows or panel you want they see.  You can have your lesson notes printed in paper.
+
+Enlarge the panel of the screen you need to show, for example, if you need to show the code enlarge the script windows, if you need to show a result enlarge the console panel, and so forth.
+
+One of the benefits of teaching online is that when people run into problems they can screenshare and we can solve the problem together. If your student feel confortable, allow them to share their screen to solve problems with the whole class, it is a excellent learning experience.  They can also share their screen to demonstrate something they did.
 
   
