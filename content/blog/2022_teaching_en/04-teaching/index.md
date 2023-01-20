@@ -129,6 +129,15 @@ Turn off notifications on the devices you are using and in your phone. Seeing no
 It is important your assistant work to sort out the queries and problem that students may have during class, so that interruptions are orderly and serve the lesson rather than cut off it's flow. 
 Also remember to give instructions on how to participate, how to ask questions, using what tools before starting your live demonstration ([see tip number 1](#1-be-seen-and-heard)).
 
+### 6. Stick to the lesson material
+
+My dynamic when it is with beginners.  I don't know if everyone will be able to do live coding with us then:
+ live coding that lasts between 10 and 20 minutes.
+ I'd like to have a breakout room for them to do something the same or very similar to what we try to do in the live coding.
+ a student shares a screen and they program together.
+Then they go back to the common room and we talk about how it went, what problems they had, what part they had doubts about, we go over these details.  This is a good time to let them share the screen to see their problems or their solutions, especially if they solved it differently.
+
+
 
 ### 10. Embrace your mistakes
 
@@ -136,9 +145,12 @@ Even if you know your lesson very well and follow it, it is very likely that you
 
 When an error occurs, stop, read it out loud and explain how you determine what happened.  Mark which part of the error text gives you the clue that helps you diagnose and resolve it.  You can also involve the learners in the problem-solving by asking them what they think went wrong and how it can be fixed.
 
-You can also use that moment to do a "live searching" lesson.  In this lesson you show how to search for an error on the internet, how to refine that search, how to read the results and determine which one is the closest to your problem.  Here you can learn how to read the help function and how to read a question and the Stack Overflow answers.
+You can also use that moment to do a "live searching".  In this lesson you show how to search for an error on the internet, how to refine that search, how to read the results and determine which one is the closest to your problem.  Here you can learn how to read the help function and how to read a question and the Stack Overflow answers.
 
 Also, as mentioned in previous points, if a student has the error, you can ask they to share their screen (if they are ok with this option) and the whole class work together to solve it using these strategies. 
 
+Once you have given a lesson several times, you’re unlikely to make anything other than basic typing mistakes (which can still be informative). You can try to remember past mistakes and make them deliberately, but that often feels forced. An alternative approach is twitch coding: ask learners one by one to tell you what to type next. This is pretty much guaranteed to get you into some kind of trouble.
 
+
+## conclusions
   
