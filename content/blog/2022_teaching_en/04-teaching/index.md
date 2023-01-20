@@ -141,7 +141,7 @@ If a question or a “what if?” comes, but ypu don't want to disrupt the flow 
 
 ### 7. Turn learners into co-instructors
 
-During participatory live coding, learners are actively coding along with the instructor.  This can be challange in online setting, especially to know if
+During participatory live coding, learners are actively coding along with the instructor.  This can be challange in online setting, and even more with begginers. Especially to know whether people are actually following along or they aren't able to code due to ongoing issues that haven't been fixed.  
 
 Use the group workrooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. Zoom's group rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms, and in a class of forty there will be one or two who initially struggle, but it does a lot to keep your students well motivated and attentive. 
 
@@ -160,7 +160,7 @@ Then they go back to the common room and we talk about how it went, what problem
 
 Even if you know your lesson very well and follow it, it is very likely that you are going to make mistakes while you are demonstrating how to program live.  This is often the biggest fear of those who teach, but it's okay that it happens (since it's what happens in real life when we program) and it can be an excellent opportunity to learn how to solve mistakes. This is a way of dealing with mistakes that is called "positive error framing," and it has shown to be beneficial for learning.
 
-When an error occurs, stop, read it out loud and explain how you determine what happened.  Mark which part of the error text gives you the clue that helps you diagnose and resolve it.  You can also involve the learners in the problem-solving by asking them what they think went wrong and how it can be fixed.
+When an error occurs, stop, read it out loud and explain how you determine what happened.  Mark which part of the error text gives you the clue that helps you diagnose and resolve it. Then go back to the code and show what element(s) in the code throw the error. It helps when you make explicit what every piece of the code is doing by creating new examples that show why an error is thrown in one situation but not in another. You can also involve the learners in the problem-solving by asking them what they think went wrong and how it can be fixed.
 
 You can also use that moment to do a "live searching".  In this lesson you show how to search for an error on the internet, how to refine that search, how to read the results and determine which one is the closest to your problem.  Here you can learn how to read the help function and how to read a question and the Stack Overflow answers.
 
@@ -168,7 +168,6 @@ Also, as mentioned in previous points, if a student has the error, you can ask t
 
 Once you have given a lesson several times, you’re unlikely to make anything other than basic typing mistakes (which can still be informative). You can try to remember past mistakes and make them deliberately, but that often feels forced. An alternative approach is twitch coding: ask learners one by one to tell you what to type next. This is pretty much guaranteed to get you into some kind of trouble.
 
-FIXME: explain why an error was thrown, because of what element in the code. It helps a lot when you make explicit what every piece of the code is doing by creating new examples that show why an error is thrown in one situation but not in another. 
 
 
 ## conclusions
