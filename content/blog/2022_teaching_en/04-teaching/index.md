@@ -139,9 +139,9 @@ If a question or a “what if?” comes, but ypu don't want to disrupt the flow 
 
 ### 7. Turn learners into co-instructors
 
-During participatory live coding, learners are actively coding along with the instructor.  This can be challange in online setting, and even more with begginers. Especially to know whether people are actually following along or they aren't able to code due to ongoing issues that haven't been fixed.  
-One way to adress this issue is use the breakout rooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. Zoom's group rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms, and in a class of forty there will be one or two who initially struggle, but it does a lot to keep your students well motivated and attentive. 
+During participatory live coding, learners are actively coding along with the instructor.  This can be challange in online setting, and even more with begginers. 
 
+One way to adress this issue is use the breakout rooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. Zoom's group rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms, and in a class of forty there will be one or two who initially struggle, but it does a lot to keep your students well motivated and attentive. 
 
 This is the dynamic I use with beginners and live coding:
 
@@ -151,7 +151,25 @@ This is the dynamic I use with beginners and live coding:
 * Before go the the breakout room I give the instructions: how much time they have to solve the exercise (betwqeen 10 to 20 minutes), a student shares a screen and they program together to solve it.
 * I take the time (now the videoconference tool do that for me) and when time is up they go back to the common room and we talk about how it went, what problems they had, what part they had doubts about, we go over these details.  This is a good time to let them share the screen to see their problems or their solutions, especially if they solved it differently.
 
-### 8. Feedback
+This strategy allows them to reinforce the learning by doing durting the live codig and then one more time in groups.
+
+You can use different [types of exercises](https://educarencomunidad.tech/en/index.html#s:exercises) for the work in groups, like fill in the blank, Parson problems, interactive tutorials, that provide different type of scalfolding.
+
+
+### 8. Get real-time feedback and provide immediate help
+
+Doing live coding on-line can be difficult to know whether people are actually following along or they aren't able to code due to ongoing issues that haven't been fixed.
+
+One way to check with your learners is to give differents way to indicate their status to us. For online setting some of the option are:
+
+* 
+
+    Non-verbal feedback in videoconferencing platforms appears as the first choice to replace colored sticky notes. If we use Zoom, a person can be asked to mark with a green check mark if they are finished or with a red mark in case they are stuck. As with the sticky notes, these marks do not come off by themselves, so it is necessary to ask the person to remove them if they have already solved the problem or move on to another exercise.
+
+    The other reactions with emojis are useful for a quick general status, because they also show us the number of each emoji in the list of participants. For the same purpose, we can also ask them to write in the chat when they finished a task. Although it can be a lot of information together in groups of more than 20 people and complicated to determine who did not answer.
+
+    Other tools such as surveys or a Slack channel can be used, but adding more tools to the synchronous class, especially if it is a new tool, is a cognitive load that we must take into account.
+
 
 One other thing that worked was that we created a table in the collaborative document (https://hackmd.io) with all the participants names, we ask them to put green check or red cross to check if they are on track. If someone doesnt fill something in, you can check in on them. 
 
