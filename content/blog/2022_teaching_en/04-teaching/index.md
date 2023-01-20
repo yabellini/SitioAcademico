@@ -84,8 +84,15 @@ When you do participatory live coding, you need to teach and program at a pace t
 
 * Don’t use many keyboard shortcuts, especially at the beginning. If you use a keyboard shortcut say it out loud the first times you do. Explain an alternative to the shortcut (for example using menus).
 
-* Your helper should be watching the chat, helping to troubleshooting and solving problems of students, copying links or piece of code if need it, and letting you know when something needs to be clarified or re-explain or shown one more time. If you are alone, let students know when you are going to watch the chat to help them.
-Be clear about how they can participate and make questions (using the chat, unmuted them, using non verbal expresión, using shared notes, etc.) and how are you going to answer.
+* Your helper should be watching the chat, helping to troubleshooting and solving problems of students, copying links or piece of code if need it, and letting you know when something needs to be clarified or re-explain or shown one more time. If you are alone, let students know when you are going to watch the chat to help them. Be clear about how they can participate and make questions (using the chat, unmuted them, using non verbal expresión, using shared notes, etc.) and how are you going to answer.
+
+### 3. Mirror your learner’s environment
+
+If learners have to work in a different environment than you, mental effort is added that does not contribute to learning. Cognitive psychological theory calls this “extraneous cognitive load”. Try to create an environment that is as similar as possible to what your learners have.  If they are begginer it is high chance they have the default cofiguration of the IDE you are going to use.
+
+Using a cloud-based solution is the best alternative to ensure you and your students have the exact same setup during the teaching. In this case also include all the software, packages and data you need also install without problems, avoiding frustration.
+
+When I teach R, I use RStudio Cloud the first class, and then we use the final of tha class to troubleshoot installation issues on students computers.  I also have this RStudio Cloud project as a backup in case some students can't install everything in their computers.  The issue here is cost.
 
 
 ### 3. Use your screen ...  
