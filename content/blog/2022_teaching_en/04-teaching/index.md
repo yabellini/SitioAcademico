@@ -191,13 +191,13 @@ Some tools allow you to write and draw over your shared screen. This can be help
 
 ### 10. Embrace your mistakes.
 
-Even if you know your lesson well and follow it, it is very likely that you will make mistakes while demonstrating how to program live.  Making mistakes is often the biggest fear of teachers using this technique. It's okay that it happens (since it's what happens in real life when we program), and it can be an excellent opportunity to learn how to solve mistakes. This way of dealing with mistakes is called "positive error framing," It is beneficial for learning.
+Even if you know your lesson well and follow it, it is very likely that you will make mistakes while demonstrating how to program live.  Making mistakes is often the biggest fear of teachers using this technique. It's okay that it happens (since it's what happens in real life when we program), and it can be an excellent opportunity to learn how to debug. This way of dealing with mistakes is called "positive error framing," It is beneficial for learning.
 
 When an error occurs, stop, read it aloud, and explain how you determined what happened.  Mark which part of the error text gives you a clue that helps you diagnose and resolve it. Then go back to the code and show what element(s) in the code throw the error. It helps when you clarify what every piece of the code is doing by creating new examples showing why an error is thrown in one situation but not in another. You can also involve the learners in  problem-solving by asking them what they think went wrong and how to fix it.
 
-You can also use that moment to do a "live searching."  In this lesson, you show how to search for an error on the internet, refine that search, read the results, and determine which one is the closest to your problem.  Here you can teach how to read the help and Stack Overflow’s questions and answers.
+If you have time, use the error to do a "live searching."  In this lesson, you show how to search for an error on the internet, refine that search, read the results, and determine which one is the closest to your problem.  Here you can teach how to read the help and Stack Overflow’s questions and answers.
 
-Also, as mentioned in previous points, if a student has an error, you can ask them to share their screen (if they are ok with this option), and the whole class works together to solve it using these strategies.
+Also, as mentioned in previous points, if a student has an error, you can ask them to share their screen, and the whole class works together to solve it using these strategies.
 
 Once you have given a lesson several times, you’re unlikely to make anything other than basic typing mistakes (which can still be informative). You can try to remember past mistakes and make them deliberately, but that often feels forced. An alternative approach is twitch coding: ask learners one by one to tell you what to type next. This is pretty much guaranteed to get you into some kind of trouble.
 
