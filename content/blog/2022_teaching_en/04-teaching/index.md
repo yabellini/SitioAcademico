@@ -51,9 +51,15 @@ I took 10 of these tips and added considerations for teaching online.
 
 ### 1. Be seen and heard
 
-As learners are coding along, it is important they clearly see and hear what you are doing. In online setting accomplish this may require more resources in terms of technology and infrastructure, such as stable internet connection a wide screen or a second screen for you and your students. 
+As learners are coding along, it is important they clearly see and hear what you are doing. In online setting accomplish this may require more resources in terms of technology and infrastructure, such as estable internet connection a wide screen or a second screen for you and your students. 
 
-* **Before start:** explain to your students how to accommodate their screen. In case they have only one screen (it is the caso of most of my students) demonstrate how they can divide the screen in two vertically or horizontally.  In case they have two screens, how to split the windows, one with the teacher's screens and the other with their programming environment.  You can have some pictures or videos to show how to accomplish this.  If you are teaching a long course (more than 3 clases) you can show case this on the first classes and then only do it time to tima as a reminder.  You can also share this videos or picture so your students can check how to order they screens.
+* **Before start:** explain to your students how to accommodate their screen. In case they have only one screen (it is the case of most of my students) demonstrate how they can divide the screen in two vertically or horizontally.  In case they have two screens, how to split the windows, one with the teacher's screens and the other with their programming environment.  You can have some pictures or videos to show how to accomplish this.  
+
+[Here are beatiful example pictures from R-Ladies Chile instruction for a online workshop.](https://github.com/rladieschile/taller-introductorio-mayo/blob/master/preparacion-sesion-1.md)
+
+{{< figure src = "screen_students.jpg" alt = "Tidy your screens, one screen in the TV and the other on your computer. Half of the screen with the IDE and the other with the teacher video" >}}
+
+If you are teaching a long course (more than 3 clases) you can show case this on the first classes and then only do it time to tima as a reminder.  You can also share this videos or picture so your students can check how to order they screens.
 
 * **Live Coding:** 
 
@@ -92,9 +98,19 @@ If learners have to work in a different environment than you, mental effort is a
 
 Using a cloud-based solution is the best alternative to ensure you and your students have the exact same setup during the teaching. In this case also include all the software, packages and data you need also install without problems, avoiding frustration.
 
-When I teach R, I use RStudio Cloud the first class, and then we use the final of tha class to troubleshoot installation issues on students computers.  I also have this RStudio Cloud project as a backup in case some students can't install everything in their computers.  The issue here is cost.
+When I teach R, I use RStudio Cloud the first class, and then we use the final of tha class to troubleshoot installation issues on students computers.  I also have this RStudio Cloud project as a backup in case some students can't install everything in their computers.  The cost can be an issue.
 
 
-### 3. Use your screen ...  
- Some people now use two devices when teaching: a laptop plugged into the projector for learners to see and a tablet so that they can view their own notes and the notes that the learners are taking  
+### 4. Use the screen(s) wisely
+
+We already mention you need to show you students how to accomodate their screen to best see you.  
+Some people now use two devices when teaching: a laptop plugged into the projector for learners to see and a tablet so that they can view their own notes and the notes that the learners are taking  
+
+Enlarge the panel of the screen you need to show (script, console, environments, outputs)
+Use the chat for copy and pasting code and or errors. 
+Be careful of treacherous chat systems that can mangle your code. Straight quotes can be transformed to typographical quotes, character limits might chop off parts of the code, etc… 
+mention the line number you are referring to
+allow students to share their screen to solve problems with the whole class
+
+
   
