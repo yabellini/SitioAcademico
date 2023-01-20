@@ -137,22 +137,24 @@ Once you are more familiar with the material, though, you can and should start i
 
 If a question or a “what if?” comes, but ypu don't want to disrupt the flow of the lesson or you know will take more time the one you have or you need some time to sort through ask learners to add them to a shared online document or ask your helper to collect them. Then, you can think about these while learners are doing exercises and answer them afterwards.
 
-
-
 ### 7. Turn learners into co-instructors
 
 During participatory live coding, learners are actively coding along with the instructor.  This can be challange in online setting, and even more with begginers. Especially to know whether people are actually following along or they aren't able to code due to ongoing issues that haven't been fixed.  
-
-Use the group workrooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. Zoom's group rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms, and in a class of forty there will be one or two who initially struggle, but it does a lot to keep your students well motivated and attentive. 
-
-The "magic number" is 3 or even 4 participants per room, because if more are included, subgroups start to form, or someone doesn't participate.
+One way to adress this issue is use the breakout rooms offered by Zoom or Meet (even in their free version). Peer-to-peer instruction is the most effective scalable teaching practice we know of. It relies on students discussing their answers to a motivating question for two or three minutes. Zoom's group rooms make this relatively easy to execute online: it takes 15 to 30 seconds to get everyone into the rooms, and in a class of forty there will be one or two who initially struggle, but it does a lot to keep your students well motivated and attentive. 
 
 
-My dynamic when it is with beginners.  I don't know if everyone will be able to do live coding with us then:
- live coding that lasts between 10 and 20 minutes.
- I'd like to have a breakout room for them to do something the same or very similar to what we try to do in the live coding.
- a student shares a screen and they program together.
-Then they go back to the common room and we talk about how it went, what problems they had, what part they had doubts about, we go over these details.  This is a good time to let them share the screen to see their problems or their solutions, especially if they solved it differently.
+This is the dynamic I use with beginners and live coding:
+
+* I lived code between 10 and 20 minutes.
+* I send them to breakout room in groups of 3 or 4 students (if more are included, subgroups start to form, or someone doesn't participate) to solve an exercise.
+* The exercise is the same or very similar to what we try to do durign the live coding.
+* Before go the the breakout room I give the instructions: how much time they have to solve the exercise (betwqeen 10 to 20 minutes), a student shares a screen and they program together to solve it.
+* I take the time (now the videoconference tool do that for me) and when time is up they go back to the common room and we talk about how it went, what problems they had, what part they had doubts about, we go over these details.  This is a good time to let them share the screen to see their problems or their solutions, especially if they solved it differently.
+
+### 8. Feedback
+
+One other thing that worked was that we created a table in the collaborative document (https://hackmd.io) with all the participants names, we ask them to put green check or red cross to check if they are on track. If someone doesnt fill something in, you can check in on them. 
+
 
 
 
