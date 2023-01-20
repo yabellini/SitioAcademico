@@ -107,14 +107,26 @@ When I teach SQL I use [SQL Lite Online](https://sqliteonline.com/). When I teac
 
 ### 4. Use the screen(s) wisely
 
-We already mention you [need to show you students how to accomodate their screen to best see you](#1-be-seen-and-heard). You also need to tidy your screen(s) to teach.
+We already mention you [need to show you students how to accomodate their screen to best see you](#1-be-seen-and-heard). You also need to tidy your screen(s) to teach using live coding.
 
 The best solution is use two devices or two screens when teaching: one screen to share with students and another screen with students notes and video, lesson notes, and chat.
 
 If you don't have two screen then only share with your students the windows or panel you want they see.  You can have your lesson notes printed in paper.
 
+Here is a nice example of desktop configuration by [Paola Corrales](https://paocorrales.github.io/)
+
+{{< figure src = "screen_teacher.jpg" alt = "Tidy your screens" >}}
+
+
 Enlarge the panel of the screen you need to show, for example, if you need to show the code enlarge the script windows, if you need to show a result enlarge the console panel, and so forth.
 
 One of the benefits of teaching online is that when people run into problems they can screenshare and we can solve the problem together. If your student feel confortable, allow them to share their screen to solve problems with the whole class, it is a excellent learning experience.  They can also share their screen to demonstrate something they did.
+
+### 5. Avoid distractions
+
+notifications off
+desktops image and look of the screen you will share
+open only the software/apps you need to use during the lesson
+
 
   
