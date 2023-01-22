@@ -89,6 +89,10 @@ When you do participatory live coding, you need to teach and program at a pace t
 
 * Mention the line number of the code you are referring to.
 
+* Narrate your keystrokes (and the combinations), especially when you need to use tricky punctuation ("square brackets", "round brackets", etc) 
+
+* When an IDE auto-completes things, it's useful to point it out the first few times (and say how you use or activate that feature) since it may be the first time some students have seen it.  For example, RStudio IDE has IntelliSense. You can stop and explain what is showing and how it changes when you write, then you need to use a tab (on windows) to complete the word, which I also explain, so they don’t think I write so fast. Then the IDE shows a summary of help for the function. I also stop there and read that help and explain the different parts of the help so they can recognize parameters, default values, etc.
+
 * If the output of your command or code makes what you just typed disappear from view, scroll back up so learners can see it again.
 
 * Don’t use many keyboard shortcuts, especially at the beginning. If you use a keyboard shortcut, say it aloud the first time you do. Explain an alternative to the shortcut (for example, using menus). You can remember your students what shortcuts you are using from time to time (in case you don't use a program that shows your screen presses). 
