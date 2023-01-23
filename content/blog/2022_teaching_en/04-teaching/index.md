@@ -216,6 +216,6 @@ In this [CarpentryCon 2022 Lightning Talks: Managing Real Estate: Best practices
 
 ## Acknowledges.
 
-Thanks to Paola Corrales and Elio Campitelli for their comments on an early draft of this blog post.
+Thanks to Paola Corrales and Elio Campitelli for their comments on an early draft of this blog post, and Shern Tee for feedback on the blog post.
 
 Thanks to Rainier Barrett, Lieke de Boer, Kristin Lee, Jonathan Wheeler, and Jannetta Steyn for discussing the logistic of live coding online during our training for becoming The Carpentries Trainers.  
