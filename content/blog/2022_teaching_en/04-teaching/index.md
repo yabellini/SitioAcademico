@@ -214,7 +214,7 @@ Here are two example videos contrasting [online live coding done poorly (in Span
 
 In this [CarpentryCon 2022 Lightning Talks: Managing Real Estate: Best practices to teach live coding](https://youtu.be/cg_ysne1Q_w), Jennifer Stubbs made an excellent summary of advice for live coding.
 
-## Acknowledges.
+## Acknowledgements.
 
 Thanks to Paola Corrales and Elio Campitelli for their comments on an early draft of this blog post, and Shern Tee for feedback on the blog post.
 
