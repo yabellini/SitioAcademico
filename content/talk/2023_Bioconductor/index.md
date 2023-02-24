@@ -32,6 +32,5 @@ links:
   name: Blog post (English)
   url: https://ropensci.org/blog/2023/01/12/multilingual-publishing-en/
   
-  
 ---
 
