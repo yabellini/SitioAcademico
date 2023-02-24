@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "rOpenSci Champions Program. A mentoring & training program for Scientific Open Source Champions"
 excerpt: "Presentation about lessons learned  on the first steps on organizing rOpenSci Champions program"
 date: 2023-02-16
 date_end: "2022-02-16"
