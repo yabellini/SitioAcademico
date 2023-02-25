@@ -1,7 +1,7 @@
 ---
 title: A year in The Carpentries' Executive Council
 author: Yanina Bellini Saibene
-summary: "Reflextion on my participation as member of the EC of Carpentries"
+summary: "Reflextion on my participation as member of the Carpentries Executive Council"
 date: '2023-02-25'
 tags:
   - Community
