@@ -11,7 +11,7 @@ tags:
 
 {{< figure src="featured.jpg" alt="Executive Council picture making The Carpentries logo with their hands" >}}
 
-Last year [I applied](/blog/2021_carpentriesec_en/) to be part of The Carpentries' Executive Council and the community selected me to represent them.
+Last year [I become part of The Carpentries' Executive Council](/blog/2021_carpentriesec_en/) for the vote of the community, that elected me to represent them.
 
 _I realized that I didn't take the time to reflect on what we did._ So let's do it.
 
