@@ -11,7 +11,7 @@ tags:
 
 {{< figure src="featured.jpg" alt="Executive Council picture making The Carpentries logo with their hands" >}}
 
-Last year [I became part of The Carpentries' Executive Council (EC) ](/blog/2021_carpentriesec_en/)   after being voted in by the community. votes. 
+Last year [I became part of The Carpentries' Executive Council (EC) ](/blog/2021_carpentriesec_en/) after being voted in by the community.
 
 _I realized that I didn't take the time to reflect on what we did._ So let's do it.
 
