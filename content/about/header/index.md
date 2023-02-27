@@ -15,13 +15,19 @@ __In short:__
 
 Co-founder of [MetaDocencia](https://www.metadocencia.org/), [LatinR](https://latin-r.com/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
-Member, [The Carpentries](https://carpentries.org/) Executive Council,  [R-Ladies](https://rladies.org/) R-Ladies Global Team, [RForwards](https://forwards.github.io/) Core Team, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [R4DS_ES](https://github.com/cienciadedatos), useR! Working Group, [MiR](https://mircommunity.com), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
+Member, 
+[The Carpentries](https://carpentries.org/) Executive Council,
+[R-Ladies](https://rladies.org/) R-Ladies Leadership and Global Team, 
+[R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance),  
+[MiR](https://mircommunity.com),
+[Open Heroines](https://openheroines.org/),
+[Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/).
 
 Topic Editor at [Journal of Open Source Education](https://jose.theoj.org/) and Scientific Committe [Electronic Journal of SADIO](https://jose.theoj.org/)
 
 Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data.  
 
-[INTA](https://www.argentina.gob.ar/inta)'s Researcher (on leave). Former MetaDocencia Core Team (2020-2022). 
+Former [INTA](https://www.argentina.gob.ar/inta)'s Researcher (1998-2022), MetaDocencia Core Team (2020-2022), [RForwards](https://forwards.github.io/) Core Team (2022), useR! Working Group (2021-2022), [R4DS_ES](https://github.com/cienciadedatos) (2018-2022). 
 
 M.S. in Data Mining and Knowledge Management.
 
