@@ -11,30 +11,30 @@ tags:
 
 {{< figure src="featured.jpg" alt="Executive Council picture making The Carpentries logo with their hands" >}}
 
-Last year [I become part of The Carpentries' Executive Council](/blog/2021_carpentriesec_en/) for the vote of the community, that elected me to represent them.
+Last year [I became part of The Carpentries' Executive Council (EC) ](/blog/2021_carpentriesec_en/)   after being voted in by the community. votes. 
 
 _I realized that I didn't take the time to reflect on what we did._ So let's do it.
 
 ## A very short and incomplete summary
 
-We have two meeting for our onboarding In February, and then we decide to which commitees we will be part. I choose the _governance_ and _communication_ committees. We have commitees monthly meeting and full EC quaterly meetings.  
+We had two meetings for our onboarding in  February, and then we decided which committees we would be part of. I chose the _governance_ and _communication_ committees. We have committees’ monthly meetings and full EC quarterly meetings.  
 
-The Governance Committee developed new procedures and their documentation, such as the EC members' conflict of interest declaration and the EC's parliamentary procedures.
+The Governance Committee developed new procedures and documentation, such as the EC members' conflict of interest declaration and the EC's parliamentary procedures.
 
-We also worked hard on our [bylaws](https://github.com/carpentries/2022_Bylaw_revision). We debated and decided on the content, modified some important sections, and updated our documentation, focusing on the transition from a fiscally sponsored project to an independent 501(c)(3) nonprofit organization.
+We also worked hard on our [bylaws](https://github.com/carpentries/2022_Bylaw_revision). We debated and decided on the content, modified some important sections, and updated our documentation, focusing on transitioning from a fiscally sponsored project to an independent 501(c)(3) nonprofit organization.
 
-We also did all the communication of the call for application for become part of the Executive Council in four different languages: [English](https://carpentries.org/blog/2022/09/ec-elections/), [German](https://carpentries.org/blog/2022/09/ec-elections_de/), [Spanish](https://carpentries.org/blog/2022/09/ec-elections_es/) and [Japanese](https://carpentries.org/blog/2022/09/ec-elections_ja/).
+We also did all the communication for the call for applications to become part of the Executive Council in four different languages: [English](https://carpentries.org/blog/2022/09/ec-elections/), [German](https://carpentries.org/blog/2022/09/ec-elections_de/), [Spanish](https://carpentries.org/blog/2022/09/ec-elections_es/) and [Japanese](https://carpentries.org/blog/2022/09/ec-elections_ja/).
 
 ## Revising
 
-At the end of the year, my general feeling (with myself) was one of _dissatisfaction_ because I felt that it had taken me a long time to understand the workings of joining a machine that has already been running and I would have liked to _contribute more_.  
+At the end of the year, my general feeling (with myself) was one of _dissatisfaction_ because I felt that it had taken long for me to understand the workings of a system that had already been running, and this held me back from contributing as much as I would have loved to.  
 
-I express this feeling during our EC retreat and the Core Team with the EC create a new onboarding process. We are using it this year. We hope this will help reduce the time needed to learn to be part of the EC. The other action is training and orientation to work better in an international and intercultural team.
+I expressed this concern during our EC retreat, and the core team, together with the EC, created a new onboarding process. We are using it this year, and we hope that this will help reduce the time needed to learn the workings of the EC. Additionally, there will be training and orientation to enable us work better in an international and intercultural team.
 
-This year I will be chair of the program committee, and I will continue to be part of the governance committee. We are already using some of the tools we developed last year.
+This year I will be chair of the program committee and will continue to be part of the governance committee. We are already using some of the tools we developed last year.
 
-Reviewing the facts, the decisions made and the actions taken, _I'm more satisfied_.  
+Reviewing the facts, the decisions made, and the actions taken, _I'm more satisfied_.  
 
-I am convinced that there are things to improve, but also that we must recognize the achievements and the work done.
+Although there are a couple of things that need improvement,  we must also recognize the achievements and the work done.
 
-So my feeling at the begining of the activities this year, is _that I would have liked to do more, but what we did was not little_. 
+> Thanks Tracy Kadessa for your help editing this post. <3
