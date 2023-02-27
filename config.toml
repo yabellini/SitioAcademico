@@ -158,7 +158,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Conferences"
     title = "Conferences Portfolio"
-    url = "/courses/"
+    url = "/conferences/"
     weight = 6
 
 #  [[menu.header]]
