@@ -155,6 +155,12 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 5
+  [[menu.header]]
+    name = "Conferences"
+    title = "Conferences Portfolio"
+    url = "/courses/"
+    weight = 6
+
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"
