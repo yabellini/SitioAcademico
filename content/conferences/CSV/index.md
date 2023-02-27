@@ -23,14 +23,14 @@ tags:
 # layout options: single or single-sidebar
 layout: single
 links:
-#- icon: newspaper
-#  icon_pack: fas
-#  name: Sitio Web
-#  url: https://latin-r.com/
-- icon: twitter
-  name: Twitter
-  icon_pack: fab
-  link: https://twitter.com/cai_sadio
+- icon: newspaper
+  icon_pack: fas
+  name: Sitio Web
+  url: https://csvconf.com/
+# - icon: twitter
+#   name: Twitter
+#   icon_pack: fab
+#   link: https://twitter.com/cai_sadio
 ---
 
 
