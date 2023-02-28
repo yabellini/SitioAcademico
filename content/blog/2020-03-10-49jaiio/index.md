@@ -1,5 +1,5 @@
 ---
-date: "2020-03-10"
+date: "2020-02-10"
 draft: false
 summary: Se realizará en Buenos Aires del 10 al 14 de Agosto. Una investigadora de INTA Anguil será la chair del evento, el cual reúne diversos congresos, entre ellos el Congreso Argentino de AgroInformática
 title: Convocatoria a la Jornadas Argentinas de Informática 2020
