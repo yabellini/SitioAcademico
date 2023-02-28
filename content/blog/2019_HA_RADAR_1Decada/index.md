@@ -14,7 +14,7 @@ tags:
   
 ---
 
-{{< figure src="featured.jpg" title="Radar EEA Anguil" >}}
+{{< figure src="featured.png" title="Radar EEA Anguil" >}}
 
 
 ## Radares: qué son y cómo funcionan
@@ -51,7 +51,7 @@ Las investigaciones que se llevaron a cabo estuvieron relacionadas con diferente
 
 También se generaron informes donde se evaluaron distintos eventos extremos meteorológicos en la región, a partir del análisis de sus imágenes. Se dictaron numerosas capacitaciones y presentaciones a distintos actores del ámbito provincial con respecto al funcionamiento, archivos, imágenes, errores de medición y otros temas relacionados al desempeño de este sensor. Asimismo se trabajó en una propuesta de arquitectura de procesamiento de grandes volúmenes de datos almacenados de radar. Este trabajo recibió el premio 2015 a la Excelencia en Gobierno Electrónico en la categoría Proyecto, otorgado por la Sociedad Argentina de Informatica e Investigación Operativa. 
 
-{{< figure src="HA.jpg" title="Artículo en el periódico papel" >}}
+{{< figure src="HA.png" title="Artículo en el periódico papel" >}}
 
 
 > _Publicado primero Horizonte Agropecuario N° 117. ISSN 0327-3180_
