@@ -1,5 +1,5 @@
 ---
-date: "2020-03-10"
+date: "2019-03-10"
 draft: false
 summary: La Estación Experimental Agropecuaria de Anguil tiene una participación especial en el evento académico, debido a que es chair del Simposio una investigadora de la institución, la Mg. Yanina Bellini Saibene, además otros integrantes serán miembros del comité científico y organizador del mismo. El Congreso convoca a la presentación de trabajos de investigación y/o desarrollo relativos a las TICs aplicadas a problemáticas agropecuaria, agroindustrial y medio ambiental.
 title: Nueva Convocatoria del Congreso Argentino de Agroinformatica 2019
