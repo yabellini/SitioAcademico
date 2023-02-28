@@ -1,5 +1,5 @@
 ---
-date: "2020-03-10"
+date: "2020-02-15"
 draft: false
 summary: Será parte de las Jornadas Argentinas de Informática, que se realizarán en Buenos Aires del 10 al 14 de agosto, en las instalaciones de la Facultad de Ingeniería de la UBA. La vinculación de la informática a la productividad agropecuaria es una temática que crece cada vez más en el sector
 title: Nueva Convocatoria para el Congreso Argentino de Agroinformatica 2020
