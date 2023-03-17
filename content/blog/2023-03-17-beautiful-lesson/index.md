@@ -22,7 +22,7 @@ I usually create a website where I present all that material. Sometimes, I descr
 
 I tried to [share a lesson before](/blog/2022_teaching_en/01-teaching/), explaining the tools I use for design, what the tools and strategies I choose look like, and how I use them. I also [shared the material.](/talk/nasa_harvest_2021/) But I am not satisfied with the result.
 
-So [this is my new attempt](https://yabellini.github.io/ropensci-mentors/). In this case, I’m not explaining why I use those resources. I'm not explaining based on what pedagogical concept or researcher I base my design decision on. Should I add this information?  How and where? 
+So [this is my new attempt](https://ropensci-training.github.io/ropensci-mentors/). In this case, I’m not explaining why I use those resources. I'm not explaining based on what pedagogical concept or researcher I base my design decision on. Should I add this information?  How and where? 
 
 Please, let me know what you think. 
 
