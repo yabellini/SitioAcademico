@@ -21,11 +21,11 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Website
-  url: yabellini.github.io/ropensci-mentors/
+  url: https://ropensci-training.github.io/ropensci-mentors/instructor_notes.html
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/yabellini/ropensci-mentors
+  url: https://github.com/ropensci-training/ropensci-mentors
 ---
 
 
