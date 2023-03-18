@@ -15,14 +15,14 @@ tags:
 |7.00-8.00 |swimming |
 |8.30 | breakfast |
 |9.00-12.00 | teach |
-|12.30 |lunch with family (my kids) |
+|12.30 |lunch _with family (kids)_ |
 |13.00 |drive kids to school |
 |13.30-15.00 | reading/writing/coding |
 |15.30 | English conversation club |
 |17.30 |pick up kids from school |
 |18.00-19.30| book club |
 |20.00 | mate/school homework/play |
-|21.30 |dinner |
+|21.30 |dinner _with family (kids and better half)_|
 |22.30 |sleep|
 
 ## 2018 - Tuesday Routine
@@ -38,7 +38,7 @@ tags:
 |17.30 |pickup kids from school|
 |18.00-19.00| sports with family (swimming little one and me, soccer older one, gym hubby)
 |19.30| chores/school homework|
-|21.30| dinner |
+|21.30| dinner _with family (kids and partner)_|
 |22.30| sleep |
 
 ## 2008 - Tuesday Routine
@@ -54,7 +54,7 @@ tags:
 |17.00-18.00 |chores |
 |18.00-20.00 |teaching |
 |20.00-21.00 |tango/folclore (dance classes)|
-|21.30 |dinner|
+|21.30 |dinner _with partner_|
 |22.30 |sleep|
 
 ## 1998 - Tuesday Routine:
@@ -78,12 +78,12 @@ tags:
 |7.00 |wake up and breakfast|
 |7.30 |School | 
 |12.30 |go back home |
-|13.00 |lunch with family (parents and sis) |
+|13.00 |lunch _with family (parents and sis)_ |
 |14.00 |chores/homework |
 |16.00 |play/read/Tv/draw |
 |18.00 |sport club (cesto, voley) |
 |19.00 |chores/homework |
-|21.30 |dinner with family (parents and sis) |
+|21.30 |dinner _with family (parents and sis)_ |
 |22.00 |sleep |
 
 ## 1978 - Tuesday Routine
@@ -91,8 +91,8 @@ tags:
 |-----|-------|
 |10.00| wake up|
 |10.00| play-learn with family (mom, grandma/grandpa/aunts and uncles)|
-|13.00| lunch with mom and dad|
+|13.00| lunch _with mom and dad_|
 |14.00| nap|
 |16.00| play-learn with family (mom, grandma/grandpa/aunts and uncles)|
-|21.00| dinner with mom and dad|
+|21.00| dinner _with mom and dad_|
 |22.00| sleep |
