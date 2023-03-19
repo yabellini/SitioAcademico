@@ -45,18 +45,23 @@ links:
   icon_pack: fab
   name: follow us
   link:  https://www.instagram.com/metadocencia/
-- icon: slack
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://metadocenciaenunacaja.netlify.app/
+- icon: github
   icon_pack: fab
-  name: join us
-  link: https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA
+  name: code
+  url: https://github.com/MetaDocencia/MetaDocenciaEnUnaCajaPaquete1  
 
 ---
+
 ## English
 ### My role in MetaDocencia
 
 <img src='featured.png' align="right" height="200" alt='MetaDocencia logo. A red apple with two little blue leaves and an orange chat balloon. The word MetaDocencia below the apple.'/>
 
-MetaDocencia means MetaTeaching in Spanish. I am a _co-founder_ and from 2020 until May 2022 I was part of the MetaDocencia's _Core Team_. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, and mentor people within the community.
+MetaDocencia means MetaTeaching in Spanish. I am a _co-founder_ and from it inception in March 2020 until May 2022 I was part of the MetaDocencia's _Core Team_. In addition to fulfilling a leadership role, I also generate content, new courses, teach classes, translate material from English to Spanish, coordinate the Accesibility and Translators tema and mentor people within the community.
 
 ### Our vision
 
@@ -103,6 +108,13 @@ We are guided by these teaching principles:
 We follow this [code of conduct](https://www.metadocencia.org/cdc/).
 
 These principles arise from the experience of [The Carpentries](https://carpentries.org), which has been training teachers for two decades and are developed in the free book [Teaching Tech Together](https://teachtogether.tech/). Part of our course materials are based on [RStudio Education](https://education.rstudio.com/) materials.
+
+## MetaDocencia in a box
+
+### Package 1. How we teach our courses
+
+At MetaDocencia we collaboratively develop open, reusable and accessible resources to foster effective teaching practices. This guide aims to present the process we went through to create and develop MetaDocencia. The guide is organized in packages and this MetaDocencia in a box, package one focuses on the process of "How we teach our courses". I was the main writer of this package.
+
 
 ## Español
 
@@ -159,4 +171,8 @@ Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries
 
 Seguimos este [código de conducta](https://www.metadocencia.org/cdc/).
 
+## MetaDocencia en una caja 
 
+### Paquete 1. Como enseñamos nuestros cursos
+
+En MetaDocencia desarrollamos colaborativamente recursos abiertos, reutilizables y accesibles para fomentar prácticas de enseñanza eficaces. Esta guía tiene como objetivo presentar el proceso que llevamos adelante para crear y desarrollar MetaDocencia. La guía está organizada en paquetes y este paquete uno de MetaDocencia en una caja se focaliza en el proceso “Cómo enseñamos nuestros cursos”.  Yo fui la escritoria principal de este paquete.
