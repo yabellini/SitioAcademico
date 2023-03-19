@@ -1,6 +1,6 @@
 ---
 title: "Forwards"
-subtitle: "Software Carpentry, Data Carpentry, y Library Carpentry"
+subtitle: ""
 excerpt: "R Foundation taskforce on women and other under-represented groups."
 date: 2021-01-01
 author: "Yanina Bellini Saibene"
@@ -56,3 +56,9 @@ The members of the task force were invited to participate based on their interes
 I lead the Conferences Team and I'm part of the Forwards Core Team. The [conference Team](https://forwards.github.io/conferences/) focus on R Foundation conferences, liaising with organizers/program committee on policies and inclusion initiatives.
 
 The [useR! knowledge base project](/project/user_knowledge_base/) and the useR! working group are part of the task I have in this role.
+
+Updates on RForwards activities on the R Journal:
+
+* [News from the Forwards Taskforce - 2021](https://journal.r-project.org/news/RJ-2021-2-forwards-news/)
+* [News from the Forwards Taskforce - 2022-2](https://journal.r-project.org/news/RJ-2022-2-forwards-news/)
+* [News from the Forwards Taskforce - 2022-4](https://journal.r-project.org/news/RJ-2022-4-forwards/)
