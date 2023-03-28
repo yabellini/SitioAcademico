@@ -8,11 +8,13 @@ categories:
   - Community
   - R-Ladies
   - Español
+  - rstats
 tags: 
   - useR
   - Community
   - LatinR
   - R-Ladies
+  - rstats
 ---
 
 La edición useR! 2021 tuvo dentro de sus objetivos tener un alcance global y aumentar la participación de personas de regiones y países que en general son de participación minoritaria en la conferencia.

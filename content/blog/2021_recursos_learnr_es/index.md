@@ -9,10 +9,11 @@ weight: 1
 categories:
   - Education
   - Español
+  - rstats
 tags: 
-    - R
-    - learnr
-    - Technical tips
+  - rstats
+  - learnr
+  - Technical tips
 ---
 {{< figure src="/media/recursos.png" alt="Captura de pantallas de diferentes tutoriales learnr">}}
 En este post les comparto una lista de materiales que me ayudaron a aprender sobre `learnr`.  Este listado se va actualizando en [este repositorio](https://github.com/yabellini/curso_learnr).

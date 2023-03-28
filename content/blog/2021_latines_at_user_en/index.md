@@ -8,11 +8,13 @@ categories:
   - Community
   - R-Ladies
   - English
+  - rstats
 tags: 
   - useR
   - Community
   - LatinR
   - R-Ladies
+  - rstats
 ---
 
 One of the main goals of useR! 2021 edition was to have a global reach and increase the participation of people from regions and countries that generally have a minor participation in the conference.

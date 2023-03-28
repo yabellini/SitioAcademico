@@ -7,10 +7,12 @@ authors: Yanina Bellini Saibene
 categories:
   - Education
   - Español
+  - rstats
 tags: 
-    - Technical Tips
-    - Packages
-    - learnr
+  - Technical Tips
+  - Packages
+  - learnr
+  - rstats
 ---
 
 

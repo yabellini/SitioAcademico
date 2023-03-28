@@ -7,11 +7,12 @@ authors: Yanina Bellini Saibene
 categories:
   - Español
   - Community
+  - rstats
 tags: 
   - conferences
   - Technical tips
   - rstats
-  - R
+  - rstats
   - Package
   - ROpenSci
 ---

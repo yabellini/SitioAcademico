@@ -7,10 +7,11 @@ authors: Yanina Bellini Saibene
 categories:
   - Education
   - Español
+  - rstats
 tags: 
   - Education
   - Package
-  - R
+  - rstats
   - ggplot2
   
 ---
