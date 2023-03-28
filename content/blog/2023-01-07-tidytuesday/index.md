@@ -7,7 +7,7 @@ tags:
   - Community
   - English
   - Visualization
-  - R
+  - rstats
 ---
 
 ## 24 year of publication by type
