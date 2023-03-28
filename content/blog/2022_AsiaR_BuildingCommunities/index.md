@@ -8,9 +8,10 @@ categories:
   - English
   - Community
   - Education
+  - rstats
 tags: 
   - R-Ladies
-  - R
+  - rstats
   - Community
   - Education
 ---

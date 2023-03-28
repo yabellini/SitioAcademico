@@ -5,10 +5,11 @@ summary: Necesitaba leer mas de 200 archivos markdown todos ubicados en diferent
 title: Leyendo muchos archivos markdown de varias carpetas y extrayendo datos de su YAML
 authors: Yanina Bellini Saibene
 categories:
-  - R
+  - rstats
   - Español
 tags: 
   - Technical tips
+  - rstats
 
 # Foto de Ilya Pavlov en Unsplash
 ---

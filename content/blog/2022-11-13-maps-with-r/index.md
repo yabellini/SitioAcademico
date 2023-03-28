@@ -3,7 +3,7 @@ title: A map of my readers
 author: Yanina Bellini Saibene
 date: '2022-11-13'
 tags:
-  - Rstats
+  - rstats
   - Maps
   - English
 ---
