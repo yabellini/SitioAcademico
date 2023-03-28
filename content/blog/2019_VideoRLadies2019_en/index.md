@@ -9,9 +9,10 @@ categories:
   - Español
   - Community
   - R-Ladies
+  - rstats
 tags:
   - R-Ladies
-  - R
+  - rstats
     
 ---
 

@@ -9,11 +9,12 @@ categories:
   - Español
   - Community
   - R-Ladies
+  - rstats
 tags:
   - R-Ladies
   - IWD
   - Twitter campaign
-  - R
+  - rstats
 ---
 
 > _Como fue contado por Yanina Bellini, Patricia Loto y Divya Seernani;_

@@ -9,8 +9,10 @@ categories:
   - English
   - Community
   - R-Ladies
+  - rstats
 tags:
   - R-Ladies
+  - rstats
 ---
 
 To close the awesome R-Ladies 2019 year we made a video, if you haven't seen it yet, here it is:

@@ -10,11 +10,12 @@ categories:
   - English
   - Community
   - R-Ladies
+  - rstats
 tags:
   - R-Ladies
   - IWD
   - Twitter campaign
-  - R
+  - rstats
 ---
 
 > As told by Yanina Bellini, Patricia Loto and Divya Seernani; with notes from Roxana Noelia Villafane and Gabriela De Queiroz
