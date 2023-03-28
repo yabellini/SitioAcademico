@@ -9,13 +9,14 @@ authors:
 categories:
   - Education
   - Español
+  - rstats
 tags:
   - blogdown
   - Hugo
   - Portfolio
   - Netlify
   - website
-  - R
+  - rstats
   - Technical tips
   - Multilingual
 ---

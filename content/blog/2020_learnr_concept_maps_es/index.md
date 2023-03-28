@@ -8,10 +8,11 @@ authors: Yanina Bellini Saibene
 categories:
   - Education
   - Español
+  - rstats
 tags: 
   - Concept Maps
   - Open Education
-  - R
+  - rstats
   - Technical tips
 ---
 {{< figure src="/media/mapa_conceptual_post.jpg" alt="esquemas de dos mapas conceptuales vacios">}}

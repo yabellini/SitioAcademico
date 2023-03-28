@@ -12,11 +12,12 @@ categories:
   - Education
   - R-Ladies
   - Español
+  - rstats
 tags: 
   - R-Ladies
   - Git
   - RStudio
-  - R
+  - rstats
   - Education
   - Technical tips
 ---

@@ -9,11 +9,12 @@ authors:
 categories:
   - Education
   - Español
+  - rstats
 tags: 
-    - learner personas
-    - Open Education
-    - R
-    - Technical tips
+  - learner personas
+  - Open Education
+  - rstats
+  - Technical tips
 ---
 
 {{< figure src="/media/personas_post.jpg" alt="Estudiantes viendo conferencia grabada con profesor hablando desde tableta">}}

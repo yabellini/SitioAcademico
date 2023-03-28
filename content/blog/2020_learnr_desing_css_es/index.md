@@ -8,8 +8,9 @@ authors: Yanina Bellini Saibene
 categories:
   - Education
   - Español
+  - rstats
 tags: 
-  - R
+  - rstats
   - Technical tips
   - CSS
 ---

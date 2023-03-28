@@ -8,11 +8,13 @@ categories:
   - Community
   - Education
   - English
+  - rstats
 tags: 
   - Community
   - Education
   - Package
   - ggplot2
+  - rstats
 ---
 
 On May 12, #30díasdegráficos (30 days of plots) with R, started. This is an initiative of the Spanish-speaking community of R to remember Florence Nightingale and learn about data visualization.

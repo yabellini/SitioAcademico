@@ -5,8 +5,9 @@ authors: Yanina Bellini Saibene
 categories:
   - Education
   - English
+  - rstats
 tags: 
-  - R
+  - rstats
   - RStudio
   - Personal
 ---
