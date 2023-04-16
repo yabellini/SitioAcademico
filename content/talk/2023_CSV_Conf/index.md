@@ -14,9 +14,11 @@ categories:
 - Regular Talk
 - English
 - Community
+- rstats
 tags:
 - Multilingual
 - Community
+- rstats
 links:
 - icon: images
   icon_pack: fas
