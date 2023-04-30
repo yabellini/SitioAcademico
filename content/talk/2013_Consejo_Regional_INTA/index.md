@@ -20,8 +20,11 @@ tags:
 links:
 - icon: images
   icon_pack: fas
-  name: Slides español
+  name: Slides PDF 
   url: AgTechCR.pdf
-
+- icon: images
+  icon_pack: fas
+  name: Slides Prezi
+  url: https://prezi.com/view/8Miw4axEgwsSselZp0tX/
 ---
 
