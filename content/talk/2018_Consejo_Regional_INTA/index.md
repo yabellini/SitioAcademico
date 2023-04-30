@@ -20,7 +20,7 @@ tags:
 links:
 - icon: images
   icon_pack: fas
-  name: Slides english
+  name: Slides 
   url: AgTechAnguil2018.pdf
 
 ---
