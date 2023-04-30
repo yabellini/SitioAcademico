@@ -1,6 +1,6 @@
 ---
 title: "R-Ladies Santa Rosa"
-excerpt: "R-Ladies, ¿porqué y paraqué?"
+excerpt: "R-Ladies, ¿porqué y para qué?"
 date: 2017-06-22
 date_end: "2017-06-22"
 author: "Yanina Bellini Saibene"
