@@ -1,6 +1,6 @@
 ---
-title: "AgroMinería de Datos"
-excerpt: "Presentación para alumnos de la carrera de analistas de datos de ITES sobre Minería de Datos aplicada al sector agropecuario"
+title: "R-Ladies Santa Rosa"
+excerpt: "R-Ladies, ¿porqué y paraqué?"
 date: 2017-06-22
 date_end: "2017-06-22"
 author: "Yanina Bellini Saibene"
@@ -12,15 +12,17 @@ draft: false
 layout: single
 categories:
 - Invited Talk
-- AgTech
+- Community
+- R-Ladies
 - Español
 tags:
 - Español
-- AgTech
+- Community
+- R-Ladies
 links:
 - icon: images
   icon_pack: fas
   name: Slides PDF
-  url: AgroMineriadeDatosITES.pdf
+  url: RLadies_ITES_Junio2017.pdf
 ---
 
