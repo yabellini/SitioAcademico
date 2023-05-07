@@ -118,6 +118,8 @@ So yes, for me, obtaining a visa to the USA involves a lot of time (8 months), e
 
 It can be very tiring and frustrating.  I have to go through this process for Canada and I’m avoiding starting it because I don't want to go through the process.
 
+For other people, from other countries and other skin colors, it is even more difficult and hard than it is for me.  This year I helped with the VISAS for CSV, Conf and seeing the differences in treatment that my own country have was infuriating and outrageous. It is one of the best example of how privilege is institutionalize. 
+
 Understanding these differences is crucial for creating spaces that ensure participation.  If we make decisions, we can help in several ways. For example,
 
 * Offer an online component in your event.
