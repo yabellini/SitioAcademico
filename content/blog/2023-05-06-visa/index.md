@@ -10,6 +10,10 @@ tags:
   
 ---
 
+{{< figure src="featured.jpg" alt="Passport open with stamps. Passport close below. Little travelers above the open passport." >}}
+
+Foto de <a href="https://unsplash.com/@mana5280?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">mana5280</a> en <a href="https://unsplash.com/es/fotos/ivG8LkDrtjs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 VISA processes are very different for each person, but there is a correlation between the difficulty level and your origin, strongly penalizing people from the global south.
 
 It took me eight months, $950, and 200 hours of work to obtain a VISA from Argentina to the United States.  I missed three events in 2022, losing the opportunities they offer.
