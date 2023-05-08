@@ -114,11 +114,11 @@ Finally, after several calls to learn in which office of the transportation comp
 
 ## Summary
 
-So yes, for me, obtaining a visa to the USA involves a lot of time (8 months), effort (200 hours), and money ($950, when the minimum wage in Argentina during the period I did the process was around 183 US$). In addition, you need contacts and help for other people, becoming a very stressful process, and mine is not a complex case) with what we can call a positive outcome. 
+So yes, for me, obtaining a visa to the USA involves a lot of time (8 months), effort (200 hours), and money ($950, when the minimum wage in Argentina during the period I did the process was around 183 US$). In addition, you need contacts and help from other people, becoming a very stressful process, and mine is not a complex case, with what we can call a positive outcome. 
 
-It can be very tiring and frustrating.  I have to go through this process for Canada and I’m avoiding starting it because I don't want to go through the process.
+It can be very tiring and frustrating.  I have to go through this process for Canada and I’m avoiding starting it because I don't want to repeat the experience.
 
-For other people, from other countries and other skin colors, it is even more difficult and hard than it is for me.  This year I helped with the VISAS for CSV, Conf and seeing the differences in treatment that my own country have was infuriating and outrageous. It is one of the best example of how privilege is institutionalize. 
+For other people, from other countries and other skin colors, it is even more difficult and hard than it is for me.  This year I helped with the VISAS for CSV,Conf and seeing the differences in treatment that my own country have was infuriating and outrageous. It is one of the best example of how privilege is institutionalize. 
 
 Understanding these differences is crucial for creating spaces that ensure participation.  If we make decisions, we can help in several ways. For example,
 
