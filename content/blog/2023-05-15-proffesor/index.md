@@ -43,7 +43,7 @@ That's why I teach – __to share my power with others. To give back__, so other
 __I invite you to do the same__. 
 
 Whether you're an experienced educator, a student, or an enthusiast, your knowledge is valuable. 
-We can make a difference in the world. By teaching, we will impact lives – not just the lives of those we teach, but our own lives as well.
+We can make a difference in the world.
 
 _Happy professor day to all who choose to share your power!_
 
