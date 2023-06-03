@@ -24,6 +24,9 @@ links:
   icon_pack: fas
   name: Slides english
   url: https://bit.ly/csvconf2023
-  
+- icon: youtube
+  icon_pack: fab
+  name: video 
+  url: https://youtu.be/oXDW1oR0Fvk  
 ---
 
