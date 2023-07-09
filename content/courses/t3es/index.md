@@ -2,7 +2,7 @@
 title: "Enseñanado Tecnología en Comunidad"
 subtitle: ""
 excerpt: "Curso de 12 horas sobre hechos básicos sobre como enseñar enfocado en tecnología."
-date: 2019-07-02
+date: 2023-06-01
 author: "Yanina Bellini Saibene, Paola Corrales"
 featured: true
 draft: false
