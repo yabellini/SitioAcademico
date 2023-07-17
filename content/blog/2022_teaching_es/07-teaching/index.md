@@ -199,15 +199,15 @@ Algunas herramientas permiten escribir y dibujar sobre la pantalla compartida. E
 
 ### 10. Acepta tus errores.
 
-Aunque te sepas bien la lección y la sigas, es muy probable que cometas errores mientras demuestras cómo programar en directo.  Cometer errores suele ser el mayor temor de los profesores que utilizan esta técnica. Está bien que ocurra (ya que es lo que pasa en la vida real cuando programamos), y puede ser una excelente oportunidad para aprender a depurar. Esta forma de afrontar los errores se denomina "encuadre positivo del error", y es beneficiosa para el aprendizaje.
+Aunque te sepas bien la lección y la sigas, es muy probable que cometas errores mientras demuestras cómo programar en vivo.  Cometer errores suele ser el mayor temor de los/as docentes que utilizan esta técnica. Está bien que ocurra (ya que es lo que pasa en la vida real cuando programamos), y puede ser una excelente oportunidad para aprender a depurar. Esta forma de afrontar los errores se denomina "encuadre positivo del error", y es beneficiosa para el aprendizaje.
 
-Cuando se produzca un error, detente, léelo en voz alta y explica cómo has determinado lo que ha ocurrido.  Marca qué parte del texto del error te da una pista que te ayuda a diagnosticarlo y resolverlo. A continuación, vuelve al código y muestra qué elemento o elementos del código arrojan el error. Es útil aclarar qué hace cada parte del código creando nuevos ejemplos que muestren por qué se produce un error en una situación y no en otra. También puede implicar a los alumnos en la resolución de problemas preguntándoles qué creen que ha fallado y cómo solucionarlo.
+Cuando se produzca un error, detente, léelo en voz alta y explica cómo has determinado lo que ha ocurrido.  Marca qué parte del texto del error te da una pista que te ayuda a diagnosticarlo y resolverlo. A continuación, vuelve al código y muestra qué elemento o elementos del código arrojan el error. Es útil aclarar qué hace cada parte del código creando nuevos ejemplos que muestren por qué se produce un error en una situación y no en otra. También puedes involucrar a los estudiantes en la resolución de problemas preguntándoles qué creen que ha fallado y cómo solucionarlo.
 
 Si tiene tiempo, utilice el error para hacer una "búsqueda en vivo".  En esta lección, enseñas cómo buscar un error en Internet, afinar esa búsqueda, leer los resultados y determinar cuál es el que más se acerca a tu problema.  Aquí puedes enseñar cómo leer la ayuda y las preguntas y respuestas de Stack Overflow.
 
-También, como se mencionó en puntos anteriores, si un alumno tiene un error, puedes pedirle que comparta su pantalla, y toda la clase trabaja en conjunto para resolverlo usando estas estrategias.
+También, como se mencionó en puntos anteriores, si un/a estudiante tiene un error, puedes pedirle que comparta su pantalla, y toda la clase trabaja en conjunto para resolverlo usando estas estrategias.
 
-Una vez que hayas dado una clase varias veces, es poco probable que cometas algo más que errores básicos de mecanografía (que pueden seguir siendo informativos). Puedes intentar recordar errores pasados y cometerlos deliberadamente, pero eso suele parecer forzado. Un método alternativo es el twitch coding: pedir a los alumnos que te digan uno por uno qué tienes que escribir a continuación. Es casi seguro que te meterás en algún lío.
+Una vez que hayas dado una clase varias veces, es poco probable que cometas algo más que errores básicos de tipeo (que pueden seguir siendo informativos). Puedes intentar recordar errores pasados y cometerlos deliberadamente, pero eso puede parecer forzado. Un método alternativo es el twitch coding: pedir a los alumnos que te digan uno por uno qué tienes que escribir a continuación. Es casi seguro que te meterás en algún lío.
 
 ## Conclusiones.
 
