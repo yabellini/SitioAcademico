@@ -181,6 +181,8 @@ One way to check with your learners is to give a different way to indicate their
 
 * Other tools, such as surveys or a parallel Slack channel, can be used, but adding more tools to the synchronous class, especially if it is a new tool, is a cognitive load that we must consider.
 
+* Some topics allow you to add in the code an element of randomness that will give different results on different machines or environments and you can ask your students if their results are the same as yours. When I teach network graphs, the algorithm is nondeterministic so the graph my students get is usually different from mine, many times I don't need to ask, the chat is flooded with messages saying that their graphs are different.  That way you can know they are following you.
+
 One more time, don't teach alone is a good strategy for this tip. Helpers' main role is to ensure learners do not fall behind due to, for example, technical issues. Sometimes is a good idea to create a breakout room for solving tech issues where the student can go with a helper and solve the problem. Helpers should keep an eye out for the shared document(s), the emojis or the Slack channel. indicating a learner signaling for help.
 
 ### 9. Use illustrations—Even better, draw them.
