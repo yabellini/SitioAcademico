@@ -1,12 +1,12 @@
 ---
-title: "Programming for Science"
-excerpt: "A talk for OLS-7 cohort about coding style and testing"
-date: 2023-05-10
-date_end: "2023-05-10"
+title: "Let's Talk Community with Yanina Belline Saibene"
+excerpt: "A talk with Reshama Shaikh of Data Umbrella about my experience in communities. "
+date: 2023-08-04
+date_end: "2023-08-04"
 author: "Yanina Bellini Saibene"
 location: "online"
-event: "OLS-7" 
-event_url: https://csvconf.com/
+event: "Data Umbrella" 
+event_url: https://blog.dataumbrella.org/yanina-community
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -22,11 +22,11 @@ tags:
 links:
 - icon: images
   icon_pack: fas
-  name: Slides english
-  url: https://olscoding.netlify.app/
-# - icon: youtube
-#   icon_pack: fab
-#   name: video 
-#   url: https://youtu.be/oXDW1oR0Fvk  
+  name: Blog post
+  url: https://blog.dataumbrella.org/yanina-community
+- icon: youtube
+  icon_pack: fab
+  name: video
+  url: https://youtu.be/WOVSA9yrd0g?si=GKuZsPLAlARgi4AX
 ---
 
