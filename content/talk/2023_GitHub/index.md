@@ -21,11 +21,9 @@ tags:
 
 Evento organizado por Microsoft Argentina en la Facultad de Ciencias Económicas de la UBA en el que Thomas Dohmke CEO de GitHub habló sobre Github Copilot.
 
-<img src='featured.jpg' align="right" height="300" alt=''/>
+<img src='panel4.jpeg' align="left" height="300" alt=''/>
 
 Tambien hubo un panel de preguntas sobre IA protagonizado por Fernando Lopez Iervasi, gerente general de Microsoft Argentina, Lucia Brizuela, Sr tech director en Cloud & Platform de Mercado Libre y Yanina Bellini Saibene como Github Star, con Martin Sciarrillo, CTO de Microsoft Argentina, como host del panel.
 
-<img src='panel4.jpeg' align="right" height="300" alt=''/>
-
-<img src='panel5.jpg' align="right" height="300" alt=''/>
+<img src='panel5.jpeg' align="right" height="300" alt=''/>
 
