@@ -20,7 +20,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: yabellini.github.io/gestiondedatos/
+  url: https://yabellini.github.io/gestiondedatos/
 - icon: github
   icon_pack: fab
   name: code
