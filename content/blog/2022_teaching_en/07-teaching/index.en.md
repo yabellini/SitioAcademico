@@ -1,126 +1,123 @@
 ---
-title: "Cosas que pasaron en las aulas virtuales y como las resolvimos - Entrega 3"
+title: Things that happened in the virtual classrooms and how we solved them - Deliverable
+  3
 weight: 6
-subtitle: ""
-excerpt: "Ultima entrega donde vamos a repasar herramientas y técnicas para enseñar on-line que pueden reemplazar o _digitalizar_ herramientas y técnicas que usamos en el aula presencial."
-date: 2022-10-15
+subtitle: ''
+excerpt: Last installment where we will review tools and techniques for on-line teaching
+  that can replace or replace the *digitize* tools and techniques that we use in the
+  classroom.
+date: '2022-10-15'
 tag:
-  - Education
-  - Community
-  - Español
+- Education
+- Community
+- Español
+slug: things_that_happened_in_the_virtual_classrooms_and_how_we_solved_them_deliverable_3
 ---
 
-## Reemplazos digitales de elementos y prácticas presenciales
+## Digital replacements of elements and face-to-face practices
 
-Durante la pandemia le enseñé como enseñar online a mas de 800 docentes.
+During the pandemic I taught over 800 teachers how to teach online.
 
-En esos encuentros muchos docentes decian que era dificil para ellos poder emular el aula presencial en la virtualidad.  Y muchos reflexionaban que al no tener la experiencia de haber sido estudiante en clases online, no se imaginaban como ser un docente en ese contexto.
+In those meetings many teachers said that it was difficult for them to emulate the face-to-face classroom in virtuality.  And many reflected that not having the experience of having been a student in an online classroom, they could not imagine how to be a teacher in that context.
 
-En esta última entrega de _"Cosas que han salido mal en las aulas virtuales y como las resolvimos"_ vamos a repasar herramientas y técnicas para enseñar on-line que pueden reemplazar o _digitalizar_ herramientas y técnicas que usamos en el aula presencial.
+In this last installment of *"Things that have gone wrong in virtual classrooms and how we solved them."* we are going to review tools and techniques for teaching on-line that can replace or *digitize* tools and techniques that we use in the classroom.
 
-## Herramientas
+## Tools
 
-* El pizarrón es una herramienta importante, en este blog post con Juan Domingo te contamos [como usar el pizarrón en la virtualidad](https://yabellini.netlify.app/blog/2020_pizarron_virtual_es/), 
+- The blackboard is an important tool, in this blog post with Juan Domingo we tell you about it [how to use the blackboard in the virtual world](https://yabellini.netlify.app/blog/2020_pizarron_virtual_es/),
 
-* Las notas adhesivas son un recurso muy útil de comunicación con tus estudiantes. en este blog post algunas idea de como tener [notas adhesivas enseñando online](https://yabellini.netlify.app/blog/2022_notas_adhesivas_es/) 
+- Sticky notes are a very useful resource for communicating with your students. in this blog post some ideas on how to have a sticky note board. [sticky notes teaching online](https://yabellini.netlify.app/blog/2022_notas_adhesivas_es/)
 
-* Aqui escribimos sobre [como generar documentos para tener notas compartidas durante las clases on-line](https://yabellini.netlify.app/blog/2020_documentoscompartidos_es/)
+- Here we write about [how to generate documents to have shared notes during on-line classes](https://yabellini.netlify.app/blog/2020_documentoscompartidos_es/)
 
-* Una herramienta para generar diagramas de forma on-line y colaborativa: [Exalidraw](https://excalidraw.com/)
+- A tool to generate diagrams on-line and collaboratively: [Exalidraw](https://excalidraw.com/)
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">[ES] En la clase de hoy, usamos <a href="https://t.co/eKXDLwHo4M">https://t.co/eKXDLwHo4M</a> para dibujar modelos entidad-relación de bases de datos.<br>- Se puede editar colaborativamente.<br>- La interfaz es sencilla.<br>- Anda barbaro desde el celu<br>- La pinta de &quot;dibujo hecho a mano&quot;.<br>- Anda joya con la Wacom One 🙂🤓🍎</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1432376933363372034?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[EN] In today's class, we used <a href="https://t.co/eKXDLwHo4M">https://t.co/eKXDLwHo4M</a> to draw entity-relationship models of databases.<br>- It can be edited collaboratively.<br>- The interface is simple.<br>- It works great from the cell phone<br>- It looks like a &quot;handmade drawing&quot;.<br>- It works great with the Wacom One 🙂🤓🍎</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1432376933363372034?ref_src=twsrc%5Etfw">August 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+### Working in groups
 
-### Trabajo en grupos 
+Group work is one of my students' favorite dynamics.  Here is a list of tips on details that can make your life easier when you have your students working together:
 
-El trabajo en grupo es una de las dinámicas favoritas de mis estudiantes.  Este es un listado de consejos sobre detalles que pueden hacerte la vida más fácil cuando tenes a tus estudiantes trabajando juntos:
+#### Questions to ask if you are not a host
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[EN] If you're using zoom to teach and they're working in small group rooms they won't be able to call you for help unless you're the host. If you're not, tell them to have someone from the group come back to the common room to get you when they need help.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1516424854542721031?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-#### Preguntas si no sos Host
+#### Time flies by
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">[ES] Si estás usando zoom para enseñar y están trabajando en salas para grupos pequeños no van a poder llamarte por ayuda a menos que seas el anfitrion. Si no lo sos, deciles que alguien del grupo vuelva a la sala común a buscarte cuando necesiten ayuda.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1516424854542721031?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[ES] When you teach online and do group work, set a timer xq el tiempo pasa lento para vos, pero para les estudiantes pasa volando<br><br>[EN] When you teach online and do group work, set a timer bc the time passes slowly for you, but for the students, passes in a heartbeat.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1516402137751826434?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+When you design the exercises and make the calculation of how much time you are going to give them to solve them, you should always add more minutes:
 
-#### El tiempo pasa volando
-
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">[ES] Cuando enseñes on-line y hagas trabajo grupal, pone un timer xq el tiempo para vos pasa lento, pero para les estudiantes pasa volando<br><br>[EN] When you teach online and do group work, set a timer bc the time passes slowly for you, but for the students, passes in a heartbeat.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1516402137751826434?ref_src=twsrc%5Etfw">April 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-Cuando diseñas los ejercicios y realizas el cálculo de cuanto tiempo vas a dar para que los resuelvan, siempre debes agregar más minutos:
-
-* Si este es el primer ejercicio de la clase:
-
-  * agregá entre 2 y 3 minutos para que puedan ingresar a la sala de grupos y acomodarse. Un minuto más si ellos deben seleccionar la sala (en vez del docente enviarlos de forma automática a una).
-
-  * Si además, este es un grupo nuevo, que aún no se conocen, entonces agregá 5 minutos y de forma explícita pediles que se presenten brevemente al inicio del ejercicio.
-
-  * Si esta es la primer ves que trabajan con salas de grupo, antes de iniciar el ejercicio explicá como ingresar y como pedir ayuda si lo necesitan.  
+- If this is the first exercise of the class:
   
-  ¨* Si vas a usar una herramienta que nunca usaron, antes de iniciar el ejercicio explicá como se usa.
+  - add 2 to 3 minutes for them to enter the group room and get settled. One more minute if they have to select the room (instead of the teacher automatically sending them to one).
+  
+  - If this is also a new group, who do not know each other yet, then add 5 minutes and explicitly ask them to introduce themselves briefly at the beginning of the exercise.
+  
+  - If this is the first time they are working with group rooms, before starting the exercise explain how to enter and how to ask for help if they need it.
+  
+  If you are going to use a tool they have never used before, explain how to use it before starting the exercise.
 
-Es muy probable que a pesar de estos cuidados, las primeras iteraciones del trabajo en grupo con ejercicios nuevos te quedes un poco corto con el tiempo.
+It is very likely that in spite of these precautions, the first iterations of group work with new exercises you will run a little short of time.
 
+#### See what happens in each group...without going in.
 
-#### Ver que pasa en cada grupo...sin entrar 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[EN] Look what Zoom has got! Now we can know what's going on in small group rooms. (also shows if someone is sharing screen)<br><br>[EN] Look what Zoom has! Now we can know what&#39;s going on in the small group rooms (also shows if someone is sharing screen). <a href="https://t.co/FRzExrmIIo">pic.twitter.com/FRzExrmIIo</a></p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1542993489071378432?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">[ES] Miren lo que tiene Zoom! Ahora podemos saber que está pasando en las salas para grupos pequeños. (también muestra si alguien comparte pantalla)<br><br>[EN] Look what Zoom has! Now we can know what&#39;s going on in the small group rooms (also shows if someone is sharing screen). <a href="https://t.co/FRzExrmIIo">pic.twitter.com/FRzExrmIIo</a></p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1542993489071378432?ref_src=twsrc%5Etfw">July 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+### Teaching programming
 
+#### Pair programming
 
-### Enseñando a programar 
+Here they use a lot of group work as well and since I teach R I use RStudio Cloud, but for other languages there are solutions like Colab.
 
-#### Programación en pareja
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Synchronous classes with Zoom in small groups where you visit them and they share the project screen in RStudioCloud. Incidentally you do pair programming.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1296109594553520128?ref_src=twsrc%5Etfw">August 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Aqui se usan mucho el trabajo en grupo también y como yo enseño R utilizo RStudio Cloud, pero para otros lenguajes hay soluciones como Colab.
+#### Live participatory programming
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Clases sincronicas con Zoom en grupos pequeños donde los vas visitando y que te compartan la pantalla del proyecto en RStudioCloud. De paso haces programación por pares.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1296109594553520128?ref_src=twsrc%5Etfw">August 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+The idea is that students try to replicate what the teacher does, try to predict what is going to happen with the code, make mistakes and solve them together.  In the on-line format this activity is a bit more complex because of the size and availability of the screens and because we cannot get close to our students' computers and "look over their shoulders".
 
-#### Programación participatoria en vivo
-
-La programación en vivo consiste compartir la pantalla del docente para programar en tiempo real con sus estudiantes, la idea es que los estudiantes intenten replicar lo que el docente hace, intenten predecir que va a ocurrir con el código, cometan errores y los resuelvan juntos.  En el formato on-line esta actividad es un poco más compleja por el tamaño y disponibilidad de las pantallas y porque no podemos acercarnos a la computadora de nuestros estudiantes y "mirar por arriba del hombro". 
-
-Yo modifiqué la dinámica de esta manera:
+I modified the dynamics in this way:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In my experience, it is different if the students are beginners than if they are competent practitioners. Beginners are not going to code with you even if they have 3 screens.<br>What I do: live coding (15&#39;). breakout room, they code the same or very similar to what I do. Repeat.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1400051538584821769?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
->  Traducción del tweet: _En mi experiencia es diferente si los estudiante son principiantes o practicantes competentes. Los principiantes no van a codificar contigo aunque tengan 3 pantallas. Lo que yo hago: codificación en vivo). sala de descanso, codifican lo mismo o muy parecido a lo que yo hago. Repetir._
+> Translation of tweet: *In my experience it makes a difference whether students are beginners or competent practitioners. Beginners are not going to code with you even if they have 3 screens. What I do: live coding). break room, they code the same or very similar to what I do. Repeat.*
 
-Ademas hay maneras de poder ver la pantalla de tus estudiantes:
+Plus there are ways to be able to see your students' screen:
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Clases sincronicas con Zoom en grupos pequeños donde los vas visitando y que te compartan la pantalla del proyecto en RStudioCloud. De paso haces programación por pares.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1296109594553520128?ref_src=twsrc%5Etfw">August 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Synchronous classes with Zoom in small groups where you visit them and they share the project screen with you in RStudioCloud. Incidentally you do pair programming.</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1296109594553520128?ref_src=twsrc%5Etfw">August 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-y cuando han pasado un par de clases, ya tus estudiantes se animan a compartir su pantalla con todo el grupo, incluso te piden por esa posibilidad.
+and when a couple of classes have passed, your students are already encouraged to share their screen with the whole group, they even ask you for that possibility.
 
-Otros recursos:
+Other resources:
 
-* En este artículo _Tony_ te explica [como compartir código en vivo con el mundo, desde RStudio,](https://bitsandbricks.github.io/post/compartiendo-c%C3%B3digo-en-vivo-con-el-mundo-desde-rstudio/) con una solución que permite que la audiencia, en tiempo real, pueda ver en su propia pantalla la actividad de la/el docente, copiar y pegar el código en su propia sesión, y observar “en vivo” como el código explicado se va desplegando.
+- In this article *Tony* explains [how to share live code with the world, from RStudio,](https://bitsandbricks.github.io/post/compartiendo-c%C3%B3digo-en-vivo-con-el-mundo-desde-rstudio/) with a solution that allows the audience, in real time, to see the teacher's activity on their own screen, copy and paste the code into their own session, and watch "live" as the explained code is deployed.
 
-* Los [tutoriales interactivos](https://learning-learnr.netlify.app/) son útiles para usarlos como laboratorios y repaso de temas en las clases sincrónicas y como práctica asincrónica. 
+- The [interactive tutorials](https://learning-learnr.netlify.app/) are useful for use as labs and review of topics in synchronous classes and as asynchronous practice.
 
-#### Ejercicios
+#### Exercises
 
-Utilizar GitHub o [GitHub Classroom](https://classroom.github.com/classrooms) para la entrega y corrección de ejercicios de código es una forma de introducir Git, una herramienta complicada pero muy útil, desde temprano en la vida de nuestros estudiantes. Le enseñamos usándola al ser parte del flujo de trabajo y enseñándoles también la dinámica de las discusiones y revisiones de código.
+Using GitHub or [GitHub Classroom](https://classroom.github.com/classrooms) for the delivery and correction of code exercises is a way to introduce Git, a complicated but very useful tool, early in our students' lives. We teach them using it by being part of the workflow and also teaching them the dynamics of code discussions and reviews.
 
-## La vida interfiere en las videollamadas
+## Life interferes with video calls
 
-Todos hemos compartido nuestro hogar durante la pandemia.  Es por eso que, aunque es mejor tener algunas cámaras prendidas de los estudiantes para enseñarle a personas y no a cuadraditos negros, no debe ser un requisito obligatorio, no sabemos dónde y cómo están en ese momento y debemos respetar su privacidad.  Esto también aplica a las docentes.
+We have all shared our home during the pandemic.  That is why, although it is better to have some cameras on students to teach people and not little black squares, it should not be a mandatory requirement, we do not know where and how they are at that moment and we should respect their privacy.  This also applies to teachers.
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Dar clases desde casa:<br>- <a href="https://twitter.com/romi_nahir?ref_src=twsrc%5Etfw">@romi_nahir</a> y Laura Belmonte, entran al zoom con los nombres de sus hijas.<br>- Hija de Romi pasa a saludar a los y las estudiantes.<br>- Yo tengo ayudante de cátedra (se ve que le gusta el curso del radar porque no se perdió ninguno 😅😂) <a href="https://t.co/68mzMELlZG">pic.twitter.com/68mzMELlZG</a></p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1330914041112518657?ref_src=twsrc%5Etfw">November 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Teaching from home:<br>- <a href="https://twitter.com/romi_nahir?ref_src=twsrc%5Etfw">@romi_nahir</a> and Laura Belmonte, enter zoom with their daughters' names.<br>- Romi's daughter stops by to greet the students.<br>- I have a teaching assistant (you can tell she likes the radar course because she didn't miss any 😅😂) <a href="https://t.co/68mzMELlZG">pic.twitter.com/68mzMELlZG</a></p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1330914041112518657?ref_src=twsrc%5Etfw">November 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## The pedagogy of teaching on-line
 
-## La pedagogía de enseñar on-line 
+When we started teaching on-line, without prior preparation and without warning, we teachers found ourselves having to learn how to teach in this context. Our students had *not only had to learn the content of our subject matter, but also how to study in the on-line environment (and from a pandemic)*.
 
-Cuando empezamos a enseñar on-line, sin preparación previa y sin aviso, las docentes nos encontramos teniendo que aprender como enseñar en este contexto. Nuestros estudiantes tuvieron _no solo que aprender el contenido de nuestra materia, si no también a estudiar en el entorno on-line (y de una pandemia)_.
+We ask ourselves how to explain, how to get and keep their attention, how to evaluate, how to make sure they are doing well and learning, how to make sure we are doing well and can continue teaching.
 
-Nos preguntamos como explicar, como captar y mantener su atención, como evaluar, como asegurarnos que están bien y que están aprendiendo, como asegurarnos que nosotros estamos bien y podemos seguir enseñando.
+There is a lot of new research on the subject and I hope to have the time to summarize it, but in the meantime I will share the book with you. [Teaching Technology in Community](https://educarencomunidad.tech/) where there is a lot of practical material on how to teach.
 
-Hay mucha investigación nueva al respecto y espero poder tener el tiempo de ir resumiendola, pero mientras tanto les comparto el libro [Enseñar Tecnología en Comunidad](https://educarencomunidad.tech/), donde hay mucho material práctico sobre como enseñar.
+## Conclusion
 
-
-## Conclusión
-
-Enseñar on-line (y durante una pandemia) es un trabajo arduo y agotador, pero sigo creyendo que vale la pena.
+Teaching on-line (and during a pandemic) is hard work and exhausting, but I still believe it is worth it.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Teaching can be exhausting, but when in feedback surveys, your students tell you that your class is the joy in their difficult week, then everything, absolutely everything is worth it.<br><br>How beautiful and how powerful it is to teach.<br>(and yes, I&#39;m preparing a class right now 🍎)</p>&mdash; Yanina Bellini Saibene (@yabellini) <a href="https://twitter.com/yabellini/status/1429550400710053893?ref_src=twsrc%5Etfw">August 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-> Traducción del tweet: _Enseñar puede ser agotador, pero cuando en las encuestas de opinión tus alumnos te dicen que tu clase es la alegría en su difícil semana, entonces todo, absolutamente todo, merece la pena. Qué hermoso y qué poderoso es enseñar. (y sí, estoy preparando una clase ahora mismo)_
+> Tweet translation: *Teaching can be exhausting, but when in opinion polls your students tell you that your class is the joy in their difficult week, then everything, absolutely everything, is worth it. How beautiful and how powerful it is to teach (and yes, I'm preparing a class right now).*
+
 
