@@ -1,7 +1,7 @@
 ---
 title: Three currencies of payment for our work 
 author: Yanina Bellini Saibene
-summary: "Any activity we perform pays us in different currencies. "
+summary: "Any activity we perform pays us in different currencies. As managers and leaders we must take care of that balance in the three currencies of payments. Especially with volunteer work."
 date: '2023-10-13'
 tags:
   - English
