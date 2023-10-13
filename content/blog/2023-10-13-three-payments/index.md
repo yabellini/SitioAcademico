@@ -31,4 +31,4 @@ The __best situation is when the three payments are present__. Money is a decisi
 
 As managers and leaders, as people in charge and responsible for others, we must take care of that balance in the three currencies of payments. That way, we help each team member be their best version.
 
-I always remember these three payments when I make decisions for myself and also when I reflect on and design programs and content about our communities of practice, the nature of our work, and our volunteer members.
+I always remember these three currencies of payments when I make decisions for myself and also when I reflect on and design programs and content about our communities of practice, the nature of our work, and our volunteer members.
