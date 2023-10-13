@@ -1,7 +1,7 @@
 ---
 title: Three currencies of payment for our work 
 author: Yanina Bellini Saibene
-summary: ""
+summary: "Any activity we perform pays us in different currencies. "
 date: '2023-10-13'
 tags:
   - English
