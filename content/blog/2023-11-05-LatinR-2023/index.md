@@ -9,12 +9,12 @@ tags:
 ---
 
 
-{{< figure src="chairs-keynotes-rladies.jpg" alt="Keynotes Di & Hannah. Chairs Natalia, Riva & Yanina in the stage with LatinR poster. ">}}
-
+{{< figure src="chairs-keynotes-rladies.jpg" alt="Keynotes Di & Hannah. Chairs Natalia, Riva & Yanina in the stage with LatinR poster.">}}
+> Keynotes Di & Hannah. Chairs Natalia, Riva & Yanina
 
 In November 2017, with a group of R-Ladies, we responded to the R Foundation's call for academic-focused R events in uncovered regions by useR! and created [LatinR](https://latin-r.com/en/). The first edition took place in Buenos Aires, Argentina and the second in Santiago de Chile, Chile. After the virtual editions between 2020 and 2022, this year the latinamerican R community meet up in Montevideo, Uruguay.
 
-I've been part of the organizing team since the beginning and became one of the chair in 2020. The entire conference relies on volunteers and our [sponsors' support](https://latin-r.com/en/sobre/apoyo/sponsors.html). Thanks to this support we brought R experts to South America for the first time as keynotes and instructors, we awared 25 scolarships and and we were able to award a free ticket to one author of the accepted papers. We also offered different prices to students, academics and industry. 
+I've been part of the organizing team since the beginning and became one of the chair in 2020. The entire conference relies on volunteers' and our [sponsors' support](https://latin-r.com/en/sobre/apoyo/sponsors.html). Thanks to this support we brought R experts to South America for the first time as keynotes and instructors, we awarded 25 scholarships and a free ticket to one author of the accepted papers. We also offered different prices to students, academics and industry. 
 
 The conference is in Spanish, Portuguese, and English, with content in all three languages. We got __over 80 proposals__ for talks and posters and __more than 300 attendees__ from __14 different countries__. Of those who registered and reported their gender (82%), __48% identified themselves as female__.  
 
@@ -29,6 +29,7 @@ The in-person format has a pre-conference day with half-day, hands-on tutorials 
 * [Using and contributing to the data.table package for efficient big data analysis](https://docs.google.com/presentation/d/1ypW1LUMmcrUTMF6B9h9s8qbvW5BSbN1IW6CEgqX01Co/edit#slide=id.p1) by Toby Dylan Hocking, 
 
 {{< figure src="data-table.jpg" alt="attendees and intructor during the data.table workshop">}}
+> data.table workshop
 
 * [Creating data plots for effective decision-making using statistical inference with R](https://dicook.github.io/LatinR/) by Dra. Dianne Cook, 
 
@@ -37,6 +38,7 @@ The in-person format has a pre-conference day with half-day, hands-on tutorials 
 * [Introducción a Shiny - Buenas prácticas en un entorno de producción](https://github.com/Appsilon/latin-r-2023) by Agustin Perez Santangelo, Oriol Senan and Federico Rivadeneira, hosted by [AppSilon](https://appsilon.com/).
 
 {{< figure src="shiny.jpg" alt="attendees and intructor during the shiny workshop">}}
+> Shiny workshop by AppSilon
 
 ## Keynotes
 
@@ -111,3 +113,4 @@ __Many thanks to this year's organizing team and to all the people who chose Lat
 __It is you who make this conference such a special event for Latin America and the global R community.__ 
 
 {{< figure src="grupal.jpg" alt="LatinR attendees final picture">}}
+> Attendees group final picture
