@@ -72,7 +72,7 @@ I want to highlight the following:
 
 {{< figure src="epiverse.jpeg" alt="Slide with hexsticker of epiverse packages">}}
 
-* Paola Corrales' talk [What I learned about R and reproducibility during my Ph.](https://docs.google.com/presentation/d/1wWXDELwfYMADvGhwBTmaaGffPLO0iSVz4vpiX5CAOzE/edit?usp=sharing), showing how he used different R tools and packages for his theses, papers and analyses.
+* Paola Corrales' talk [What I learned about R and reproducibility during my Ph.](https://docs.google.com/presentation/d/1wWXDELwfYMADvGhwBTmaaGffPLO0iSVz4vpiX5CAOzE/edit?usp=sharing), showing how she used different R tools and packages for her theses, papers and analyses.
 
 {{< figure src="pao.jpeg" alt="Pao at the stage delivering her talk">}}
 
