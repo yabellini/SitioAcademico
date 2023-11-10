@@ -14,7 +14,7 @@ __In short:__
 
 Co-founder of [LatinR](https://latin-r.com/), [MetaDocencia](https://www.metadocencia.org/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
-Member, [The Carpentries](https://carpentries.org/) Executive Council and Board of Directors, [R-Ladies](https://rladies.org/) Boar of Directors, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [Open Heroines](https://openheroines.org/), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/), [Research Software Camp Steering Committee](https://www.software.ac.uk/training/research-software-camps).
+Member, [The Carpentries](https://carpentries.org/) Executive Council and Board of Directors, [R-Ladies](https://rladies.org/) Boar of Directors, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [Open Heroines](https://openheroines.org/), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/), [Research Software Camp Steering Committee](https://www.software.ac.uk/training/research-software-camps), [Notebooks Now! Steering Committee](https://data.agu.org/notebooks-now/)
 
 Topic Editor at [Journal of Open Source Education](https://jose.theoj.org/) and Scientific Committe [Electronic Journal of SADIO](https://jose.theoj.org/)
 
