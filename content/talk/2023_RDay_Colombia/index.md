@@ -4,7 +4,7 @@ excerpt: "Me sumé al R Day como disertante principal para abrir la conferencia 
 date: 2023-11-23
 date_end: "2022-11-23"
 author: "Yanina Bellini Saibene"
-location: "Buenos Aires, Argentina"
+location: "Medellín, Colombia"
 event: "R Day Colombia"
 event_url: https://rday-colombia.github.io/2023/
 draft: false
