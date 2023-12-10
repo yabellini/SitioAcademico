@@ -1,5 +1,5 @@
 ---
-title: Introducing rOpenSci new Community Manager, Yanina Bellini Saibene
+title: Ten simple rules to host an inclusive conference
 author: Yanina Bellini Saibene
 date: '2022-07-21'
 tags:
