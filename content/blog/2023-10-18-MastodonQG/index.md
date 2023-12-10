@@ -6,6 +6,9 @@ date: '2023-10-18'
 tags:
   - English
   - Social Media
+  - Community
+  - rOpenSci
+  - The Carpentries
 ---
 
 
