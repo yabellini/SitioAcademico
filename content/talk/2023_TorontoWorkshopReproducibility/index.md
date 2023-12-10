@@ -27,6 +27,11 @@ links:
   icon_pack: fas
   name: Slides english
   url: https://docs.google.com/presentation/d/1AA0k9D4BAR1sU6xHhBMMQdvAGw05LSXhg8b0K3nq88w/edit#slide=id.p
+- icon: youtube
+  icon_pack: fab
+  name: video
+  url: https://youtu.be/MK6vYjYCuOk?si=b9IXqwbd3Jw394dv
+  
   
 ---
 
