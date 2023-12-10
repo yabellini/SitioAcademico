@@ -1,11 +1,12 @@
 ---
-title: Once años
+title: DEI Tip Sheet. Virtual event accessibility guiding questions.
 author: Yanina Bellini Saibene
-summary: "Once años de la ausencia de Ana, mi hija."
-date: '2023-06-11'
+summary: "This tip sheet explores 12 guiding questions to help improve the accessibility of your next virtual event; from the very earliest planning stages, through communications and marketing, to event hosting, follow-up, and evaluation. The tip sheet was co-created by CSCCE staff and members of our community of practice"
+date: '2023-06-27'
 tags:
-  - Español
-  - Familia
+  - English
+  - Community
+  - Accesibility
 ---
 
 This month I was invited by the [CSCCE](https://www.cscce.org/) team to collaborate with the revision of a tip sheet on accessibility in online events. 
