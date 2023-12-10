@@ -22,11 +22,11 @@ Prompted by a question about how to use videos in your classes, a pot about how 
 
 3. **To practice a skill:** when we teach how to use a rubric, we make you watch a video and you should use the rubric to give feedback or evaluate what you saw.   
 
-I used this for short workshops on informal and formal settings, for log-semester university courses, for invited classes.
+I used this for short workshops on informal and formal settings, for log-semester university courses and for invited 2-4 hours classes. I used this tools also for evaluation: as formative assessment and as part of summative assessment.
 
-I used this tools also for evaluation: as formative assessment and as part of summative assessment.
+For online classess [here is an example in English](https://ropensci-training.github.io/ropensci-mentors/instructor_notes.html#mentor-tools.-grow-model) to watch a video of a person applying the GROW model in a meeting with another person that comes for help. 
 
-For online classess [here is an example in English](https://ropensci-training.github.io/ropensci-mentors/instructor_notes.html#mentor-tools.-grow-model) to watch a video of a person applying the GROW model in a meeting with another person that comes for help. This is [another example (in Spanish)](https://yabellini.github.io/gestiondedatos/clase1.html#ejercicios). The students have to watch a series of 3 videos that last 2 minutes, discuss and answer a seirries of question about Data Science. 
+This is [another example (in Spanish)](https://yabellini.github.io/gestiondedatos/clase1.html#ejercicios). The students have to watch a series of 3 videos that last 2 minutes, discuss and answer a seirries of question about Data Science. 
 
 Some resources on how to create videos for our classes:
 
