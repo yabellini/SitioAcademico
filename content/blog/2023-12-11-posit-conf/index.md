@@ -58,7 +58,7 @@ No pude asistir a todas las sesiones y aún no he tenido el tiempo de ponerme al
 
 ### Inteligencia artificial 
 
-Siendo el tema el momento, estuvo muy presente en muchas de las charlas, la keynote de Jeremey Howard se refirió a este tema, enfocada en los grandes modelos de lenguaje y como incorporarlos en el proceso de programar.  [La charla de Tom Mock nos contó que desde la versión v2023.09, RStudio tiene integración con copilot](https://colorado.posit.co/rsc/rstudio-copilot/) que es un asistente para programar, que da sugerencias de código basadas en IA a través de prompts en tus scripts de R.
+Siendo el tema el momento, estuvo muy presente en muchas de las charlas, la keynote de Jeremy Howard se refirió a este tema, enfocada en los grandes modelos de lenguaje y como incorporarlos en el proceso de programar.  [La charla de Tom Mock nos contó que desde la versión v2023.09, RStudio tiene integración con copilot](https://colorado.posit.co/rsc/rstudio-copilot/) que es un asistente para programar, que da sugerencias de código basadas en IA a través de prompts en tus scripts de R.
 
 
 ### Shiny sin servidor!
