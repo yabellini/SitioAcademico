@@ -99,4 +99,4 @@ Study nonsexist language recommendations in the language you want to translate, 
 
 9. Guía para el uso de un lenguaje no sexista e igualitario en la Honorable Cámara de Diputados de la Nación Argentina. https://www4.hcdn.gob.ar/dependencias/dprensa/guia_lenguaje_igualitario.pdf
 
-
+> Crosspost: https://www.software.ac.uk/blog/multilingual-data-science-part-1
