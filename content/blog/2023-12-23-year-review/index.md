@@ -155,7 +155,7 @@ I finished the year as I started, with the kickoff meetings the Champions Progra
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7143979862230204417" height="467" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
 
-We lunch the project [A Package a Day in Mastodon](https://hachyderm.io/@rOpenSci/111522245325102155) and _Weekly Package Digest_ on LinkedIn to highlight [rOpenSci's suite of packages](https://ropensci.org/packages/) and use cases.
+We lunch the project [A Package a Day in Mastodon](https://hachyderm.io/@rOpenSci/111522245325102155) and _Weekly Package Digest_ on LinkedIn to highlight [rOpenSci's suite of packages](https://ropensci.org/packages/) and use cases. We almost finished the onboarding of an amazing group of R-Ladies to the [Global Team](https://rladies.org/about-us/global-team/). 
 
 [The Carpentries' Core Team layoff](https://carpentries.org/blog/2023/12/saying-farewell-to-seven-carpentries-core-team-members/) was hard and painful news. We have a new president in Argentina. 
 
