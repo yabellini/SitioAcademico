@@ -8,26 +8,25 @@ date: "2001-02-21"
 
 Los incendios, en la provincia de La Pampa, queman un promedio de aproximadamente 300.000 ha por año.  Las abundantes lluvias que ocurrieron durante los primeros 10 meses del año 2000 (ver cuadro 1) contribuyeron a una gran producción de los pajonales, que representan más del 70% de la cobertura del estrato graminoso.  Los pajonales son poco utilizados por el ganado (vacuno, ovino o caprino) y junto con los pastos que utiliza el ganado conforman el material combustible fino necesario para que pueda desarrollarse un incendio o fuego prescripto.  A partir de noviembre de 2000 y hasta el presente (Febrero 2001) se entró en un período de sequía con escasas precipitaciones, fuertes vientos y numerosas tormentas eléctricas. Los incendios no se hicieron esperar y por desgracia han sido los de mayor magnitud que se hayan registrado**.  Hasta la fecha, se han quemado, entre noviembre 2000 y febrero 2001, más de 3.200.000 ha.**
 
-**Cuadro 1.  PRECIPITACIONES (mm) EN EL CENTRO-OESTE DE LA PAMPA**
+**Cuadro 1. PRECIPITACIONES (mm) EN EL CENTRO-OESTE DE LA PAMPA**
 
 |                          |               |          |          |                               |                      |                              |                            |
-|------------|---------|--------:|--------:|--------:|--------:|--------:|--------:|
-|                          | **Localidad** | **1998** | **1999** | **2000 hasta Oct. Inclusive** | **2000 Nov. - Dic.** | **Promedio (1) 1999 - 2000** | **Promedio (2) histórico** |
-| **25 de Mayo**           | 169,0         |    355,4 |    311,6 |                           0,0 |                333,5 |                        221,1 |                      112,4 |
-| **Algarrobo del Aguila** | 469,0         |   1000,5 |    659,0 |                          35,0 |                847,3 |                        359,1 |                      488,2 |
-| **Chacharramendi**       | 485,5         |    973,0 |    640,0 |                          48,0 |                830,5 |                        464,9 |                      365,6 |
-| **Cuchillo Có**          | 551,0         |    882,0 |    576,0 |                          50,0 |                754,0 |                        493,7 |                      260,3 |
-| **Gral Acha**            | 727,0         |    970,5 |    639,0 |                          33,0 |                821,3 |                        519,1 |                      302,2 |
-| **La Adela**             | 408,5         |    580,5 |    493,0 |                          31,0 |                552,3 |                        435,5 |                      116,8 |
-| **La Humada**            | 347,0         |    715,5 |    428,0 |                           7,0 |                575,3 |                        408,7 |                      166,6 |
-| **La Reforma**           | 289,0         |    602,5 |    615,0 |                          23,0 |                620,3 |                        395,5 |                      224,8 |
-| **Limay Mahuida**        | 457,5         |    634,0 |    419,0 |                          13,0 |                533,0 |                        398,4 |                      134,6 |
-| **Puelches**             | 217,0         |    736,0 |    569,0 |                          44,0 |                674,5 |                        373,4 |                      301,1 |
-| **Puelén**               | 213,0         |    556,0 |    408,0 |                           0,0 |                482,0 |                        281,8 |                      200,2 |
-| **Santa Isabel**         | 357,5         |    852,0 |    552,0 |                          18,0 |                711,0 |                        382,4 |                      328,6 |
+|---------|---------|--------:|--------:|--------:|--------:|--------:|--------:|
+|                          | **Localidad** | **1998** | **1999** | **2000 hasta Oct. Inclusive** | **2000 Nov. - Dic.** | **Promedio (1) 1999 - 2000** | **Promedio (2) histórico** | **Diferencia (1) - (2)**| **%** |
+| **25 de Mayo**           | 169,0         |    355,4 |    311,6 |                           0,0 |                333,5 |                        221,1 |                      112,4 | 112,4 | 51% |
+| **Algarrobo del Aguila** | 469,0         |   1000,5 |    659,0 |                          35,0 |                847,3 |                        359,1 |                      488,2 | 488,2|136% |
+| **Chacharramendi**       | 485,5         |    973,0 |    640,0 |                          48,0 |                830,5 |                        464,9 |                      365,6 | 365,6|79%|
+| **Cuchillo Có**          | 551,0         |    882,0 |    576,0 |                          50,0 |                754,0 |                        493,7 |                      260,3 |260,3|53%|
+| **Gral Acha**            | 727,0         |    970,5 |    639,0 |                          33,0 |                821,3 |                        519,1 |                      302,2 |302,2|58%|
+| **La Adela**             | 408,5         |    580,5 |    493,0 |                          31,0 |                552,3 |                        435,5 |                      116,8 |116,8|27%|
+| **La Humada**            | 347,0         |    715,5 |    428,0 |                           7,0 |                575,3 |                        408,7 |                      166,6 |166,6|41%|
+| **La Reforma**           | 289,0         |    602,5 |    615,0 |                          23,0 |                620,3 |                        395,5 |                      224,8 |224,8|57%|
+| **Limay Mahuida**        | 457,5         |    634,0 |    419,0 |                          13,0 |                533,0 |                        398,4 |                      134,6 |134,6|34%|
+| **Puelches**             | 217,0         |    736,0 |    569,0 |                          44,0 |                674,5 |                        373,4 |                      301,1 |301,1|81%|
+| **Puelén**               | 213,0         |    556,0 |    408,0 |                           0,0 |                482,0 |                        281,8 |                      200,2 |200,2|71%|
+| **Santa Isabel**         | 357,5         |    852,0 |    552,0 |                          18,0 |                711,0 |                        382,4 |                      328,6 |328,6|86%|
 |                          |               |          |          |                               |                      |                              |                            |
-
-**Información proporcionada por el grupo de Agroclimatología de la EEA Anguil - INTA**
+_**Nota: Información proporcionada por el grupo de Agroclimatología de la EEA Anguil - INTA**_
 
 Entre las aplicaciones utilizando imágenes satelitales, el Proyecto **RADAR**  ha realizado evaluaciones sobre emergencias ambientales como inundaciones, heladas y granizos.  El objetivo de este trabajo fue identificar, ubicar geográficamente y cuantificar la superficie afectada por incendios en una vasta región de la provincia de La Pampa.
 
@@ -68,7 +67,7 @@ La superficie afectada por incendios y aquella con focos activos se midió por d
 **Cuadro 3. Resultados del análisis de las imágenes LANDSAT**
 
 |                  |                    |                |                       |                       |                       |               |
-|----------|---------:|---------:|---------:|---------:|---------:|---------:|
+|-----------|----------:|----------:|----------:|----------:|----------:|----------:|
 | **Departamento** |     **Superficie** | **% afectado** |       **Mapa 1 (ha)** |       **Mapa 2 (ha)** |       **Mapa 3 (ha)** |     **Total** |
 |                  | **Catastral (ha)** |                | **Hasta el 10-01-01** | **Hasta el 27-01-01** | **Hasta el 08-02-01** |      **(ha)** |
 | Atreucó          |            350.000 |             \- |                    \- |                    \- |                 **-** |         **-** |
