@@ -17,7 +17,7 @@ tags:
 
 ## **Informe AgroRADAR**
 
-Los incendios, en la provincia de La Pampa, queman un promedio de aproximadamente 300.000 ha por año.  Las abundantes lluvias que ocurrieron durante los primeros 10 meses del año 2000 (ver cuadro 1) contribuyeron a una gran producción de los pajonales, que representan más del 70% de la cobertura del estrato graminoso.  Los pajonales son poco utilizados por el ganado (vacuno, ovino o caprino) y junto con los pastos que utiliza el ganado conforman el material combustible fino necesario para que pueda desarrollarse un incendio o fuego prescripto.  A partir de noviembre de 2000 y hasta el presente (Febrero 2001) se entró en un período de sequía con escasas precipitaciones, fuertes vientos y numerosas tormentas eléctricas. Los incendios no se hicieron esperar y por desgracia han sido los de mayor magnitud que se hayan registrado**.  Hasta la fecha, se han quemado, entre noviembre 2000 y febrero 2001, más de 3.200.000 ha.**
+Los incendios, en la provincia de La Pampa, queman un promedio de aproximadamente 300.000 ha por año. Las abundantes lluvias que ocurrieron durante los primeros 10 meses del año 2000 (ver cuadro 1) contribuyeron a una gran producción de los pajonales, que representan más del 70% de la cobertura del estrato graminoso. Los pajonales son poco utilizados por el ganado (vacuno, ovino o caprino) y junto con los pastos que utiliza el ganado conforman el material combustible fino necesario para que pueda desarrollarse un incendio o fuego prescripto. A partir de noviembre de 2000 y hasta el presente (Febrero 2001) se entró en un período de sequía con escasas precipitaciones, fuertes vientos y numerosas tormentas eléctricas. Los incendios no se hicieron esperar y por desgracia **han sido los de mayor magnitud que se hayan registrado**. **Hasta la fecha, se han quemado, entre noviembre 2000 y febrero 2001, más de 3.200.000 ha.**
 
 **Cuadro 1. PRECIPITACIONES (mm) EN EL CENTRO-OESTE DE LA PAMPA**
 
@@ -42,7 +42,7 @@ _**Nota: Información proporcionada por el grupo de Agroclimatología de la EEA 
 
 Entre las aplicaciones utilizando imágenes satelitales, el Proyecto **RADAR**  ha realizado evaluaciones sobre emergencias ambientales como inundaciones, heladas y granizos.  El objetivo de este trabajo fue identificar, ubicar geográficamente y cuantificar la superficie afectada por incendios en una vasta región de la provincia de La Pampa.
 
-Los incendios se fueron monitoreando con imágenes de dos tipos de satélite: NOAA y LANDSAT. Las primeras sirven para identificar focos de calor, su resolución espacial es relativamente menor (1 píxel = 1100mX1100m) a LANDSAT (1 pixel = 30mx30m), pero su ventaja radica en que se puede contar con dos imágenes diarias.  
+Los incendios se fueron monitoreando con imágenes de dos tipos de satélite: **NOAA y LANDSAT**. Las primeras sirven para identificar focos de calor, su resolución espacial es relativamente menor (1 píxel = 1100mX1100m) a LANDSAT (1 pixel = 30mx30m), pero su ventaja radica en que se puede contar con dos imágenes diarias.  
 
 Las imágenes NOAA presentadas en este informe fueron obtenidas del sitio web de la CONAE (Comisión Nacional de Actividades Espaciales) ([www.conae.gov.ar](http://www.conae.gov.ar/)) en la sección de Emergencias Ambientales.
 
@@ -73,6 +73,12 @@ Los mapas se pueden apreciar en las figuras 1, 2 y 3.
 {{< figure src="images_satelitales.png" >}}
 
 **(\*)Fuente: Comisión Nacional de Actividades Espaciales (CONAE).**
+
+{{< figure src="incendiosmapa1.jpg">}}
+
+{{< figure src="incendiosmapa2.jpg">}}
+
+{{< figure src="featured.jpg">}}
 
 La superficie afectada por incendios y aquella con focos activos se midió por departamento y los resultados se presentan en el cuadro 3.
 
