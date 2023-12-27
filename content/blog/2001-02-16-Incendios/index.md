@@ -1,9 +1,9 @@
-date: "2001-02-21"
+---
+date: "2001-02-16"
 draft: false
 summary: Resumen de los temas presentados en el Congreso de AgroInformática sobre satelites y sus aplicaciones en el agro.
 title: "Los Incendios en La Pampa"
 authors: []
-weight: 1
 categories:
   - Español
   - Data Science
