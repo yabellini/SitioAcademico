@@ -35,6 +35,8 @@ My list of plans for 2024, because dreaming does not cost anything:
 
 * Volunteer for The Carpentries. 
 
+* Continue reading books in English and Spanish. 
+
 * Try to accomplish New Year's resolutions from my swim coach to me (I think the nicest thing on the list is the level of faith my coach has in me):
 
     - Improve crawl (even though technique is very good I still need to adjust the stroke).
