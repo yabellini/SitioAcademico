@@ -1,5 +1,5 @@
 ---
-date: "2001-02-16"
+date: "2024-01-02"
 draft: false
 summary: 
 title: "Usando Apache Arrow para analizar el padron electoral argentino del 2011"
