@@ -122,15 +122,19 @@ $ sexo           <string> "M", "M", "M", "F", "F", "F", "F", "F", "M", "M", "F",
 
 #### Guardar los datos con el formato parquet
 
+Podemos leer los archivos en diferentes formatos y almacenar en formato parquet usando la funcion _write_dataset_
+
 ``` r
 padron_2011_arrow %>%
   write_dataset(path = "clase9_data/padron-2011", format = "parquet")
 ```
 
-Luego de ejecutar este codigo mostrar que se genera una carpeta que contiene el archivo
+Si revisamos como se guardan los datos en disco veremos que se genera una carpeta llamada padron-2011 dentro de la carpeta clase9_data.  En esa carpeta puede existir uno o varios archivos dependiende de la cantidad de datos.
 
 
 #### Leer los datos desde un archivo parquet a un dataframe
+
+Ahora que tenemos un archivo parquet, podemos leerlo con la funcion correspondiente.  El tiempo involucrado en la lectura es de 1.292 segundos.  Lo que son casi _19 segundos menos_ que la lectura original con read_csv.
 
 ``` r
 tic()
@@ -154,6 +158,8 @@ $ sexo           <chr> "M", "M", "M", "F", "F", "F", "F", "F", "M", "M", "F", "M
 
 #### Leer el formato parquet a una tabla Arrow
 
+Finalmente probamos con leer el archivo parquet a una tabla Arrow y vemos que el tiempo ocupado fue de 1.184 segundos, bajando aun mas el tiempo utilizado en la lectura de los datos. 
+
 ``` r
 tic()
 padron_2011_parquet <- read_parquet("clase9_data/padron-2011/part-0.parquet", as_data_frame = FALSE) %>%
@@ -176,11 +182,13 @@ $ sexo           <chr> "M", "M", "M", "F", "F", "F", "F", "F", "M", "M", "F", "M
 
 ### Analizando datos
 
-Ahora vamos a utilizar dplyr sintaxis para analizar los datos
+Ahora vamos a utilizar la sintaxis de _dplyr_ para analizar los datos del padron electoral del 2011. 
 
-#### Ver cuales son los nombres mas usados
+#### Nombres mas usados
 
-Usamos count para ver cuales son los nombres mas usados. Vemos los primeros 10.  Se puede jugar buscando el nombre de los estudiantes.
+Usamos _count()_ para ver cuales son los nombres mas usados en Argentina. Aqui tenemos el top ten, los 10 nomnbres con mas ocurrencias en el conjunto de datos.  
+
+_Cuando doy esta clase jugamos a filtrar por el nombre de los estudiantes o bien buscarlos en la lista para ver en que posicion estan y si tienen un nombre comun.  Es bastante divertido_ 
 
 ```r
 nombre <- padron_2011 %>% 
@@ -201,9 +209,13 @@ View(nombre)
 
 ```
 
-#### Analizar las ocupaciones por provincia
+#### Analisis por provincia
 
-Ademas de filtrar se puede almacenar los resultados en un dataset y analizar todos los resultados.  Es interesante que hay muchos oficios detallados pero no tantas profesiones universitarias. 
+Ademas de filtrar se puede almacenar los resultados en otro conjunto de datos y analizar los resultados.  Por ejemplo podemos filtral por provincia y analiozar la cantidad de veces que aparece cada ocupacion.  
+
+En este ejemplo para La Pampa (donde yo vivo) la mayor ocupacion de las personas es Ama de Casa, seguida por Estudiante y luego Empleado. 
+
+Al ver el listado completo es muy interesante ver que hay muchos oficios detallados pero no tantas profesiones universitarias. 
 
 ``` r
 
@@ -217,17 +229,26 @@ padron_2011 %>%
 
 ```
 
-#### Analizar otras caracteristicas
+### Analizar otras caracteristicas
 
-Aqui se pregunta a les estudiantes que les gustaria analizar y se generan consultas de acuerdo a sus propuestas.
-algunas ideas que surgen:
+En mi clase, les pregunto a mis estudiantes que les gustaria analizar y se generamos consultas de acuerdo a sus propuestas.
+Algunas ideas que surgen:
 
 * Mujeres y varones por provincia
 * El apellido mas comun
 * Cuanto dato faltante hay
-* El nombre mas comun de varon y de mujer
+* El nombre mas comun de hombre y de mujer
 * Grafico de cantidad de votantes por fecha de nacimiento
 * Tipos de documentos diferentes
 
-Discusiones sobre limpieza de datos, por ejemplo de la ocupacion para que los agrupamientos y calculos sean mas exactos.
+Ver los resultados tambien dispara discusiones sobre limpieza de datos, por ejemplo de la ocupacion para que los agrupamientos y calculos sean mas exactos.
 
+## Conclusiones
+
+El paquete arrow es una herramienta muy interesante para presentar cuando hay grandes volumnes de datos involucrados.  Poder usar la sintaxis de dplyr hace mas sencilla su incorporacion en un flujo de trabajo existente. 
+
+Utilizar datos locales resulta muy atractivo para les estudiantes.
+
+Aun necesito encontrar un conjunto de datos que sea grande pero que se pueda publicar de forma abierta.  Me encantaria saber si se les ocurre algun conjunto de datos que cumpla con estos requisitos. 
+
+Espero que esta corta explicacion les resulte interesante, clara y les ayude a ingresar en el mundo de Arrow en R.
