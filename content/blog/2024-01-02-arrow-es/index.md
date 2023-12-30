@@ -7,12 +7,11 @@ authors: []
 categories:
   - Español
   - Data Science
-  - Agro
-  - Remote Sensing
+  - Apache Arrow
+  - 100DaysToOffload
 tags: 
-  - Teledetección
-  - Agro
-  - Ciencia de Datos
+  - 100DaysToOffload
+  - rstats
 ---
 
 
