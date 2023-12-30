@@ -14,9 +14,9 @@ tags:
   - rstats
 ---
 
-En 2020 volvi a dar clases en la Universidad. Una de las materias era sobre datos masivos y no estructurados para una diplomatura en ciencia de datos aplicada a politicas publicas.  En 2021, Danielle Navarro fue una de las keynote de LatinR y nos presento Apache Arrow y como usarlo en R. Luego de esa keynote cambie mi clase sobre manejo de grandes datos e incorpore Apache Arrow como parte de la materia.
+En 2020 volvi a dar clases en la Universidad. Una de las materias era sobre [datos masivos y no estructurados para una diplomatura en ciencia de datos aplicada a politicas publicas](https://zenodo.org/records/10440059) de la UNAB.  En 2022, [Danielle Navarro](https://djnavarro.net) [fue una de las keynote de LatinR y nos presento Apache Arrow y como usarlo en R](https://github.com/LatinR/presentaciones-LatinR2022#a-tour-of-the-apache-arrow-ecosystem-for-the-r-community). Luego de esa keynote cambie mi clase sobre manejo de grandes datos e incorpore Apache Arrow como parte de la materia.
 
-En mis clases siempre incorporo programacion en vivo, y para esta clase adapte los ejemplos de la charla de Danielle a un conjunto de datos de Argentina. Todos los ejemplos de clase los hice con un conjunto de datos del padron electoral argentino del 2011 al que tuve acceso por ser parte de Open Data Cordoba. No puedo publicarlo ni compartirlo, pero espero que este blog post sea un lindo ejemplo en castellano del paquete y como se usa. 
+En mis clases siempre incorporo programacion en vivo, y para esta clase adapte los ejemplos de la charla de Danielle a un conjunto de datos de Argentina. Todos los ejemplos de clase los hice con un conjunto de datos del padron electoral argentino del 2011 al que tuve acceso por ser parte de [Open Data Cordoba](https://github.com/OpenDataCordoba). No puedo publicarlo ni compartirlo, pero espero que este blog post sea un lindo ejemplo en castellano del paquete y como se usa. 
 
 
 ## Algunos conceptos sobre Arrow
