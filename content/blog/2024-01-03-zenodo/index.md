@@ -9,8 +9,6 @@ tags:
   - Community
 ---
 
-{{< figure src="featured.png" alt="Logo de Zenodo">}}
-
 Zenodo es un repositorio de acceso abierto de propósito general que permite depositar artículos de investigación, conjuntos de datos, software de investigación, informes, lecciones y cualquier otro artefacto digital relacionado con la investigación. Para cada envío, se genera un identificador de objeto digital persistente (DOI), lo que hace que los elementos almacenados se puedan citar fácilmente.[^1]
 
 He utilizado Zenodo para publicar de forma abierta mis materiales educativos, software, cojuntos de datos ([siguiendo este paso a paso](/blog/2020_compartirmaterialdoi_es/)) y charlas. Durante 2023 tambien empece a asociar estos materiales a diferenes comunidades que contribuyeron en su creacion, por ejemplo [rOpenSci](https://zenodo.org/communities/ropensci) y [R-Ladies](https://zenodo.org/communities/rladies). 
