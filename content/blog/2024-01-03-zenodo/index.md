@@ -13,7 +13,7 @@ tags:
 
 Zenodo es un repositorio de acceso abierto de propósito general que permite depositar artículos de investigación, conjuntos de datos, software de investigación, informes, lecciones y cualquier otro artefacto digital relacionado con la investigación. Para cada envío, se genera un identificador de objeto digital persistente (DOI), lo que hace que los elementos almacenados se puedan citar fácilmente.[^1]
 
-He utilizado Zenodo para publicar de forma abierta mis materiales educativos ([siguiendo este paso a paso](/blog/2020_compartirmaterialdoi_es/)), charlas, software y cojuntos de datos. Durante 2023 tambien empece a asociar estos materiales a diferenes comunidades que contribuyeron en su creacion, por ejemplo [rOpenSci](https://zenodo.org/communities/ropensci) y [R-Ladies](https://zenodo.org/communities/rladies). 
+He utilizado Zenodo para publicar de forma abierta mis materiales educativos, software, cojuntos de datos ([siguiendo este paso a paso](/blog/2020_compartirmaterialdoi_es/)) y charlas. Durante 2023 tambien empece a asociar estos materiales a diferenes comunidades que contribuyeron en su creacion, por ejemplo [rOpenSci](https://zenodo.org/communities/ropensci) y [R-Ladies](https://zenodo.org/communities/rladies). 
 
 Zenodo no tiene costo y ademas de proveer el DOI presenta estadisticas muy interesantes sobre las visualizaciones y descargas de cada material y ademas permite tener diferentes versiones de cada artefacto digitial. 
 
@@ -91,7 +91,7 @@ _Uploaded on December 28, 2023_, Vistas: **57**, Descargas: **4**.
 
 En esos 10 materiales hay lecciones, articulos cientificos, software, conjunto de datos y guias rapidas. Totalizan **7693 vistas** y **1386 descargas**. 
 
-Si queres empezar a usarlo, [la documentacion oficial provee de una guia de inicio rapido (en ingles).](https://help.zenodo.org/docs/get-started/quickstart/)
+Si queres empezar a usarlo, [la documentacion oficial provee de una guia de inicio rapido (en ingles).](https://help.zenodo.org/docs/get-started/quickstart/).
 
 
 
