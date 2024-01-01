@@ -2,7 +2,7 @@
 date: "2024-01-02"
 draft: false
 summary: 
-title: "Usando Apache Arrow para analizar el padron electoral argentino del 2011"
+title: "Usando Apache Arrow para analizar el padron electoral argentino del 2011. Este ejercicio es parte de una de las lecciones de mi curso sobre grandes datos y datos no estructurados."
 authors: []
 categories:
   - Español
