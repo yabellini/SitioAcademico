@@ -213,7 +213,7 @@ View(nombre)
 
 Ademas de filtrar se puede almacenar los resultados en otro conjunto de datos y analizar los resultados.  Por ejemplo podemos filtral por provincia y analiozar la cantidad de veces que aparece cada ocupacion.  
 
-En este ejemplo para La Pampa (donde yo vivo) la mayor ocupacion de las personas es Ama de Casa, seguida por Estudiante y luego Empleado. 
+En este ejemplo para La Pampa (donde yo vivo) la mayor ocupacion de las personas es _Ama de Casa_, seguida por _Estudiante_ y luego _Empleado_. 
 
 Al ver el listado completo es muy interesante ver que hay muchos oficios detallados pero no tantas profesiones universitarias. 
 
