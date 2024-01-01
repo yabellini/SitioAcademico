@@ -21,7 +21,7 @@ En mis clases siempre incorporo programacion en vivo, y para esta clase adapte l
 
 ## Algunos conceptos sobre Arrow
 
-Apache Arrow es un conjunto de herramientas multilenguaje para el intercambio rapido de datos y procesamiento en memoria. Arrow provee un formato estándar para conectar diferentes lenguajes y sistemas. Hay un tipo de archivos llamado _parquet_ que se utiliza con Arrow y optimiza la lectura y escritura de los datos.
+Apache Arrow es un conjunto de herramientas multilenguaje para el intercambio rapido de datos y procesamiento en memoria. Arrow provee un formato estándar para conectar diferentes lenguajes y sistemas. [Existe un paquete de R para trabajar con Arrow.](https://arrow.apache.org/docs/r/) [Hay un tipo de archivos llamado parquet que se utiliza con Arrow](https://parquet.apache.org) y optimiza la lectura y escritura de los datos.
 
 Los datos tabulares se almacenen como columnas representando variables y conteniendo datos similares, por ejemplo, si hablamos del padron electoral tendremos una columna con el documento nacional de identidad de las personas, otra con su nombre y otra con su apellido. Cada fila de ese conjunto de datos representa un caso, una persona, pero los datos son disimiles, ya que por cada persona tendremos el DNI, el nombre, el apellido, la fecha de nacimiento, la provincia donde vive, etc.  La representacion en memoria de estos datos tabulares por fila hace que los datos adyacentes en memoria sean disímiles. Arrow cambia esa forma de representacion a un formato por columna haciendo que los datos adyacentes en memoria sean similares.
 
