@@ -31,9 +31,9 @@ There are a number of principles and values:
 
 I am part of three large cooperatives:
 
-1.  Housing cooperative: we build houses and apartments. The cost is much lower than a private company, and the quality is higher. Many of our members do not qualify for a bank loan.
+1.  [Housing cooperative:](https://www.coopvivienda.com.ar/informacion.html) we build houses and apartments. The cost is much lower than a private company, and the quality is higher. Many of our members do not qualify for a bank loan.
 
-2)Santa Rosa Public Works and Services Popular Electricity Cooperative: manage electricity, street light, internet, television, and telephony for the whole city. It also has funeral services, a nursery, a library, and a sale of household appliances.
+2. Santa Rosa Public Works and Services Popular Electricity Cooperative: manage electricity, street light, internet, television, and telephony for the whole city. It also has funeral services, a nursery, a library, and a sale of household appliances.
 
 Every town in my province has a cooperative that manages these services; some add water purification.
 
