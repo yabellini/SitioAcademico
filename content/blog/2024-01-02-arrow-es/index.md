@@ -94,7 +94,7 @@ $ sexo           <chr> "M", "M", "M", "F", "F", "F", "F", "F", "M", "M", "F", "M
 
 #### Ahora leemos el mismo CSV con Arrow y con el formato de Arrow
 
-Ahora ademas de leer con la funcion de Arrow le indicamos que utilice el formato de Arrow con el parametro _as_data_frame = FALSE_. La lectura tomo 7.263 segundos en esta oportunidad.  Ocho segundos menos que la opcion anterior y 13 segundos menos que _read_csv()_.  
+Ahora ademas de leer con la funcion de Arrow le indicamos que utilice el formato de Arrow con el parametro _as_data_frame = FALSE_. La lectura tomo **7.263** segundos en esta oportunidad.  Ocho segundos menos que la opcion anterior y 13 segundos menos que _read_csv()_.  
 
 ``` r
 
@@ -134,7 +134,7 @@ Si revisamos como se guardan los datos en disco veremos que se genera una carpet
 
 #### Leer los datos desde un archivo parquet a un dataframe
 
-Ahora que tenemos un archivo parquet, podemos leerlo con la funcion correspondiente.  El tiempo involucrado en la lectura es de 1.292 segundos.  Lo que son casi _19 segundos menos_ que la lectura original con read_csv.
+Ahora que tenemos un archivo parquet, podemos leerlo con la funcion correspondiente.  El tiempo involucrado en la lectura es de **1.292** segundos.  Lo que son casi _19 segundos menos_ que la lectura original con read_csv.
 
 ``` r
 tic()
@@ -158,7 +158,7 @@ $ sexo           <chr> "M", "M", "M", "F", "F", "F", "F", "F", "M", "M", "F", "M
 
 #### Leer el formato parquet a una tabla Arrow
 
-Finalmente probamos con leer el archivo parquet a una tabla Arrow y vemos que el tiempo ocupado fue de 1.184 segundos, bajando aun mas el tiempo utilizado en la lectura de los datos. 
+Finalmente probamos con leer el archivo parquet a una tabla Arrow y vemos que el tiempo ocupado fue de **1.184** segundos, bajando aun mas el tiempo utilizado en la lectura de los datos. 
 
 ``` r
 tic()
