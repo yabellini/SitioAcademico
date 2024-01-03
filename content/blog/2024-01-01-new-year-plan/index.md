@@ -1,8 +1,11 @@
 ---
 title: Plans for the year
 author: Yanina Bellini Saibene
-summary: "A list of plans for this 2024, because dreaming does not cost anything"
+summary: "A list of plans for 2024 because dreaming does not cost anything."
 date: '2024-01-01'
+categories:
+  - 100DaysToOffload
+  - English
 tags:
   - English
   - 100DaysToOffload
@@ -19,13 +22,13 @@ My list of plans for 2024, because dreaming does not cost anything:
 
 * Teach for my communities and universities.
 
-* Try write 100 blog post in a year. See https://100daystooffload.com for more details and #100DaysToOffload hashtag.
+* Try to write 100 blog posts in a year. See https://100daystooffload.com for more details and the #100DaysToOffload hashtag.
 
 * Lose 10 kilos.
 
-* Help my kids to accomplish their new year resolutions.
+* Help my kids to accomplish their New Year resolutions.
 
-  - I'm very excited about this one: _Read aloud every day (one tale per day)._
+  - I'm very excited about this one: _Read aloud daily (one tale per day)._
 
 * Organize LatinR 2024.
 
@@ -39,7 +42,7 @@ My list of plans for 2024, because dreaming does not cost anything:
 
 * Try to accomplish New Year's resolutions from my swim coach to me (I think the nicest thing on the list is the level of faith my coach has in me):
 
-    - Improve crawl (even though technique is very good I still need to adjust the stroke).
+    - Improve crawl (even though the technique is very good, I still need to adjust the stroke).
 
     - Increase speed in all the swimming styles.
 
