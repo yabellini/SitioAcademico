@@ -27,7 +27,7 @@ This guide was developed by rOpenSci and The Carpentries to help break down barr
 
 _Uploaded on October 18, 2023_, Vistas: **3574**,  Descargas: **611**.
 
-### [2.Gestión De Datos](https://zenodo.org/records/8242069)
+### [2.Curso de Gestión De Datos](https://zenodo.org/records/8242069)
 **Autores:** _Yanina Bellini Saibene, Paola Corrales_
 
 Materia 186 - Gestión de Datos Ante la necesidad de cualquier persona que practique la ciencia de datos de manipular distintos volúmenes de datos, la gestión de los mismos cobra gran importancia. En esta materia abordaremos el tema de la gestión de datos desde el punto de vista teórico y práctico, incluyendo estudios de casos y actividades par...
