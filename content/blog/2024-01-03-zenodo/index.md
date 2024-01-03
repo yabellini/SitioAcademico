@@ -1,7 +1,7 @@
 ---
 title: Zenodo
 author: Yanina Bellini Saibene
-summary: "Que es Zenodo, como usarlo, que materiales he publicado y el top ten de mis materiales mas vistos o descargados de esa plataforma."
+summary: "Que es Zenodo, que tipo de materiales he publicado y el top ten de mis materiales mas vistos o descargados de esa plataforma."
 date: '2024-01-03'
 categories:
   - 100DaysToOffload
