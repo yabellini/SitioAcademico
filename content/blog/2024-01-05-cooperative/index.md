@@ -43,14 +43,11 @@ We have some of the lowest costs in the country for these services.
 
 In other parts of the country, there are other types of cooperatives running bussiness like banks and factories. In fact, the first cooperative credit institution in our country was Banco Popular Argentino, created in Buenos Aires in **1887**, 136 years ago.  The oldest cooperative in La Pampa has 90 year old, was created in **1933**. 
 
-
-I can't imagine these services being handled any other way or that anyone would allow this form of government to be changed.
-
 It is a **successful and possible business model**, beneficial for the whole community because it has the people and the community as their focus.
 
-There are technology-based companies that have adopted the cooperative model.  However, when we think about working in the development of communities of practice focus on open software, open science, open education, we adopt the models inherited from the minority world (or global north or affluent countries, whatever you want to call it), we look for "fiscal sponsors"" and accept their rules and their governance models, as if they were revolutionary or were the best way to do things.  
+There are technology-based companies that have adopted the cooperative model.  However, when we think about working in the development of communities of practice focus on open software, open science, open education, we adopt the models inherited from the minority world (or global north or affluent countries, whatever you want to call it), we look for "fiscal sponsors" and accept their rules and their governance models, as if they were revolutionary or were the best way to do things.  
 
 Meanwhile, in our lands we have a model that has been working for more than 130 years, where community and cooperation are the core of its functioning, where governance is democratic, open and transparent.  
 
-I know they have the money, and the contacts; but that doesn't mean they know how to do things better than we do. Nor does it mean that their model works better for us.
+I know tech companies and fiscal sponsors have the money and the contacts, but that doesn't mean they know how to do things better than we do. Nor does it mean that their model works better for us.  
 
