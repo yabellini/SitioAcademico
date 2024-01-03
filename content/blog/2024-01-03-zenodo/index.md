@@ -69,7 +69,7 @@ Este curso está pensado para personas que ya usan Google Earth Engine (GEE) y q
 
 _Uploaded on January 14, 2022_, Vistas: **95**, Descargas: **18**.
 
-### [8.Congreso AgroInformática 2008-2018]()
+### [8.Congreso AgroInformática 2008-2018](https://zenodo.org/records/3484078)
 **Autores:** _Yanina Bellini Saibene_
 
 Este conjunto de datos del Congreso de AgroInformática contiene la información de todos los participantes desde la primera edición en 2008 hasta la 10º en 2018.
