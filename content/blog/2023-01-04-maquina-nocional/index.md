@@ -3,6 +3,10 @@ title: Máquina nocional
 author: Yanina Bellini Saibene
 summary: "Este articulo presenta el nuevo contenido sobre máquinas nocionales para el capitulo _Modelos mentales y evaluación formativa_ de Teaching Tech Together. Una _máquina nocional_ es un dispositivo pedagógico para ayudar a la comprensión de algún aspecto de los programas o la programación. Se utilizan para representar un entorno de aprendizaje simplificado y abstracto. No se refiere a una máquina real física, sino a una representación simplificada de un modelo conceptual que se utiliza con fines educativos."
 date: '2024-01-04'
+categories:
+  - Spanish
+  - Education
+  - 100DaysToOffload
 tags:
   - Spanish
   - Education
