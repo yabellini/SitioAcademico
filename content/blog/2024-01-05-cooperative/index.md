@@ -40,11 +40,7 @@ I am part of three large cooperatives:
 
 1.  [Housing cooperative:](https://www.coopvivienda.com.ar/informacion.html) we build houses and apartments. The cost is much lower than a private company, and the quality is higher. Many of our members do not qualify for a bank loan.
 
-2. [Santa Rosa Public Works and Services Popular Electricity Cooperative](https://www.cpe.com.ar): manages electricity, street lights, telecommunication (internet, phone), and television for the whole city. It also has funeral services, a nursery, a library, training, a magazine a TV channel with local content and local producers, and a sale of household appliances.
-
-Every town in my province has a cooperative that manages these services; some add water purification.
-
-We have some of the lowest costs in the country for these services.
+2. [Santa Rosa Public Works and Services Popular Electricity Cooperative](https://www.cpe.com.ar): manages electricity, street lights, telecommunication (internet, phone), and television for the whole city. It also has funeral services, a nursery, a library, training, a magazine a TV channel with local content and local producers, and a sale of household appliances. _Every town in my province has a cooperative_ that manages these services; some add water purification. _We have some of the lowest costs_ in the country for these services.
 
 3. [La Coope](https://www.cooperativaobrera.coop): a "supermarket" with reasonable prices that gives its members their share of the profits in the form of credit for our purchases every year, among other services.
 
