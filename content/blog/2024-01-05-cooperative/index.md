@@ -1,7 +1,7 @@
 ---
 title: Cooperative
 author: Yanina Bellini Saibene
-summary: ""
+summary: "My last few years being part of international non-profit organizations and communities of practice has made me reflect on the types of governance and business models that are mostly used and how successful models are ignored in these latitudes.  This article is about the cooperative model. A way of doing things that has been present in my life since I was a child. "
 date: '2024-01-05'
 tags:
   - English
@@ -10,7 +10,7 @@ tags:
 
 {{< figure src="featured.jpg" alt="Cooperative flag. The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.">}}
 > The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.
-
+My last few years being part of international non-profit organizations and communities of practice has made me reflect on the types of governance and business models that are mostly used and how successful models are ignored in these latitudes.  This article is about the cooperative model. A way of doing things that has been present in my life since I was a child.   
 A cooperative is an autonomous association of persons united voluntarily to form a democratic organization whose administration and management are carried out in the manner agreed upon by the members.[^1]. Cooperative businesses are typically more productive and economically resilient than many other and frequently have social goals, which they aim to accomplish by investing a proportion of trading profits back into their communities. 
 There are a number of principles and values:
 
@@ -24,10 +24,9 @@ There are a number of principles and values:
 
 [^1]: <https://en.wikipedia.org/wiki/Cooperative>
 
-
+My first contact with the concept of cooperativism was through my parents, who were part of the cooperative of all the public schools I attended. The goal of the co-op was (and still is - my husband and I take turns being part of the co-op at our children's public school) to help the school have more and better services for the students. 
 
 **Almost everything is run by a cooperative in my province.** The idea and concepts of cooperativism are part of the curriculum in elementary school and is a one-year course in high school.  There are complete high school orientations where the student receives a technical degree in cooperative management. In every town in La Pampa there is a cooperative that manages basic and important services. Because they are managed by a cooperative they are also accessible to all people living in that town.
-
 
 I am part of three large cooperatives:
 
