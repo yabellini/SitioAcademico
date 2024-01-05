@@ -1,7 +1,7 @@
 ---
 title: Cooperative
 author: Yanina Bellini Saibene
-summary: "My last few years being part of international non-profit organizations and communities of practice has made me reflect on the types of governance and business models that are mostly used and how successful models are ignored in these latitudes.  This article is about the cooperative model. A way of doing things that has been present in my life since I was a child. "
+summary: "My last few years being part of international non-profit organizations and communities of practice has made me reflect on the types of governance and business models that are mostly used and different successful models we have in these latitudes.  This article is about the cooperative model. A way of doing things that has been present in my life since I was a child. "
 date: '2024-01-05'
 categories:
   - English
