@@ -13,7 +13,7 @@ tags:
   - 100DaysToOffload
 ---
 
-{{< figure src="featured.jpg" alt="Cooperative flag. The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.">}}
+{{< figure src="featured.jpeg" alt="Cooperative flag. The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.">}}
 > The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.
 
 
