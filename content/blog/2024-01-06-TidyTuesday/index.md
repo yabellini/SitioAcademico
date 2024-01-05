@@ -1,53 +1,37 @@
 ---
-title: Plans for the year
+title: Bring Your Own Data week for TidyTuesday
 author: Yanina Bellini Saibene
 summary: "A list of plans for 2024 because dreaming does not cost anything."
-date: '2024-01-01'
+date: '2024-01-06'
 categories:
   - 100DaysToOffload
   - English
 tags:
   - English
   - 100DaysToOffload
+  - rstats
+  - TidyTuesday 
 ---
 
+It's Bring Your Own Data week for #TidyTuesday, and I decided to analyze my records of events.
 
-My list of plans for 2024, because dreaming does not cost anything:
+At the academy we have the habit of recording everything and I continue to write down the different events in which I participate even though I no longer work at INTA.
 
-* Finish updating Teaching Tech Together to have a second edition in Spanish and see if we can have it also in English.
+## Dataset
+In addition to recording what I did this year, I have been cleaning up the data, completing the information and removing duplicates.
 
-* Have a first version of the other books I'm working on.
+My dataset has xx variables:
 
-* Design and publish new training materials. 
+Title, institutions, type, date, year, people, link
 
-* Teach for my communities and universities.
 
-* Try to write 100 blog posts in a year. See https://100daystooffload.com for more details and the #100DaysToOffload hashtag.
+The idea of this analysis is to visualize not only the number of events over time, but also the types of events, the roles I played and the number of people I reached during this time.
 
-* Lose 10 kilos.
+## Number of events by year 
 
-* Help my kids to accomplish their New Year resolutions.
 
-  - I'm very excited about this one: _Read aloud daily (one tale per day)._
+## Types of events and roles
 
-* Organize LatinR 2024.
 
-* Get funding for new rOpenSci Community Management ideas.
+## Outreach
 
-* Get funding for new R-Ladies ideas.
-
-* Volunteer for The Carpentries. 
-
-* Continue reading books in English and Spanish. 
-
-* Try to accomplish New Year's resolutions from my swim coach to me (I think the nicest thing on the list is the level of faith my coach has in me):
-
-    - Improve crawl (even though the technique is very good, I still need to adjust the stroke).
-
-    - Increase speed in all the swimming styles.
-
-    - Reach 3000m in one hour.
-
-    - Participate in at least one competition.
-    
-Let's see how this goes. 
