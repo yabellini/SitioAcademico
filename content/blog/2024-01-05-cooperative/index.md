@@ -12,7 +12,7 @@ tags:
 > The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.
 
 
-My last few years being part of international non-profit organizations and communities of practice has made me reflect on the types of governance and business models that are mostly used and how successful models are ignored in these latitudes.  This article is about the cooperative model. A way of doing things that has been present in my life since I was a child.
+My last few years being part of international non-profit organizations and communities of practice has made me reflect on the types of governance and business models that are mostly used and different successful models we have in these latitudes.  This article is about the _cooperative model_. A way of doing things that has been present in my life since I was a child.
 
 A cooperative is an autonomous association of persons united voluntarily to form a democratic organization whose administration and management are carried out in the manner agreed upon by the members.[^1]. Cooperative businesses are typically more productive and economically resilient than many other and frequently have social goals, which they aim to accomplish by investing a proportion of trading profits back into their communities. 
 There are a number of principles and values:
