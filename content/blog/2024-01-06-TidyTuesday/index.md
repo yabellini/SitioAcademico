@@ -1,7 +1,7 @@
 ---
 title: Bring Your Own Data week for TidyTuesday
 author: Yanina Bellini Saibene
-summary: "A list of plans for 2024 because dreaming does not cost anything."
+summary: "It's _Bring Your Own Data_ week for _#TidyTuesday_, and I decided to analyze my records of events."
 date: '2024-01-06'
 categories:
   - 100DaysToOffload
