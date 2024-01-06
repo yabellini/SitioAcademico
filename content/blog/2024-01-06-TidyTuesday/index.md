@@ -15,7 +15,7 @@ tags:
 
 It's _Bring Your Own Data_ week for _#TidyTuesday_, and I decided to analyze my records of events. 
 
-I have the habit of recording everything because of my academic jobs. I continue to write down the different events in which I participate and some interesting information about them.  In addition to update the data with what I did during 2023, I have been cleaning up the data, completing the information and removing duplicates.
+I have the habit of recording everything because of my academic jobs. I continue to write down the events I participate in and some interesting information about them.  For this exercise, in addition to updating the data with what I did during 2023, I have been cleaning up the data, completing the information, and removing duplicates.
 
 My dataset is a CVS file and has 11 variables.  Today we are going to visualize four of them: when the events happened, what format they have (online, in person or hybrid), what role I have (like speaker or organizer) and whay kind of event was (like conference or course).
 
