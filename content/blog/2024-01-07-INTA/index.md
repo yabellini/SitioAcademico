@@ -1,8 +1,8 @@
 ---
-title: Cooperative
+title: Citizen science and governance models
 author: Yanina Bellini Saibene
-summary: "My last few years being part of international non-profit organizations and communities of practice have made me reflect on the types of governance and business models that are mostly used and our different successful models in these latitudes. This article is about the cooperative model. A way of doing things that has been present in my life since I was a child. "
-date: '2024-01-05'
+summary: " "
+date: '2024-01-07'
 categories:
   - English
   - Community
@@ -13,44 +13,39 @@ tags:
   - 100DaysToOffload
 ---
 
-{{< figure src="featured.jpeg" alt="Cooperative flag. The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.">}}
-> The flag consisted of the colors red, orange, green, yellow, blue, indigo and violet and symbolized the ideals and objectives of universal peace, unity that overcomes political, economic, social, racial or religious differences and the hope of humanity in a better world where freedom, personal dignity, social justice and solidarity reign.
+{{< figure src="featured.jpeg" alt="Field day at INTA. INTA's researcher showing soil trials and other related research activities and results">}}
 
+Continuing with the reflections on the governance models of organizations, communities of practice and research organizations, today I want to share with you the governance model of the National Institute of Agricultural Technology (INTA) where I worked as a researcher for 24 and a half years and how this related with Citizen Science.
 
-My last few years being part of international non-profit organizations and communities of practice have made me reflect on the types of governance and business models that are mostly used and our different successful models in these latitudes.  This article is about the _cooperative model_. A way of doing things that has been present in my life since I was a child.
+## INTA 
 
-A cooperative is an autonomous association of persons united voluntarily to form a democratic organization whose administration and management are carried out in the manner agreed upon by the members.[^1]. Cooperative businesses are typically more productive and economically resilient than many other and frequently have social goals, which they aim to accomplish by investing a proportion of trading profits back into their communities. 
-There are a number of principles and values:
+INTA is an Argentine federal research and extension agency in charge of the generation, adaptation and diffusion of technologies, knowledge and learning procedures for the agriculture, forest and agro-industrial activities within an ecologically clean environment. It was created in 1956 and have 44 experimental agricultural stations and 240 extension units around the country.  It is the research institution with the largest territorial presence in our country. 
 
-- Voluntary and open membership
-- Democratic member control, with each member having one vote.
-- Economic participation by members
-- Autonomy and independence
-- Education, training and information
-- Cooperation among cooperatives
-- Concern for community
+In 1986, with the return to democracy in 1983, the president issued Decree 287, which modified the law that created INTA. The most important modifications were the _decentralization of the institute's operations_ and the **participation in its management of the different sectors involved in the generation and adoption of technology in each unit**.
 
-[^1]: <https://en.wikipedia.org/wiki/Cooperative>
+The decree makes it clear that "In the regional operating units, the **balanced participation** of the different sectors of agricultural production, provincial governments, universities and the scientific-technical community **in their management will ensure the correspondence between the activities of the units and local problems.**" 
 
-My first contact with the concept of cooperativism was through my parents, who were part of the cooperative of all the public schools I attended. The goal of the co-op was (and still is - my husband and I take turns being part of the co-op at our children's public school) to help the school have more and better services for the students. 
+## Implementation
 
-**Almost everything is run by a cooperative in my province.** The idea and concepts of cooperativism are part of the curriculum in elementary school and is a one-year course in high school.  There are complete high school orientations where the student receives a technical degree in cooperative management. In every town in La Pampa there is a cooperative that manages basic and important services. Because they are managed by a cooperative they are also accessible to all people living in that town.
+The INTA has a directive board composed of members of both the public and the private sector and with representation for different actors in the agricultural sector; they define the politics at national level. The national direction executes the planning of the board, assisted by the organization and administration technical areas.
 
-I am part of three large cooperatives:
+Each Regional and Research Center has a Regional board of director (I was the firs female member of the Natural Resource Research Center representing researcher that work at the experimental stations) that define the strategy ar regional level aligned with the national policy. Finally, the experimental stations and extension agencies have local advisory councils with the representation of local actors of the sector. All these governance body meet every month.  The National and Regional boards participate in the definition of the budget, the long- and medium-term strategic plan and the hiring of personnel. 
 
-1.  [Housing cooperative:](https://www.coopvivienda.com.ar/informacion.html) we build houses and apartments. The cost is much lower than a private company, and the quality is higher. Many of our members do not qualify for a bank loan.
+For example, a regional board of director consists of:
 
-2. [Santa Rosa Public Works and Services Popular Electricity Cooperative](https://www.cpe.com.ar): manages electricity, street lights, telecommunication (internet, phone), and television for the whole city. It also has funeral services, a nursery, a library, training, a magazine a TV channel with local content and local producers, and a sale of household appliances. _Every town in my province has a cooperative_ that manages these services; some add water purification. _We have some of the lowest costs_ in the country for these services.
+1 member representing the national board of directors.
+1 member representing the province goverment.
+1 member representing the universities.
+1 member representing the science-academic sector.
+3 member representing the farmers.
+1 member representing the local advisory councils.
 
-3. [La Coope](https://www.cooperativaobrera.coop): a "supermarket" with reasonable prices that gives its members their share of the profits in the form of credit for our purchases every year, among other services.
+## Science by and for the people
 
-In other parts of the country, there are other types of cooperatives running bussiness like banks and factories. In fact, the first cooperative credit institution in our country was Banco Popular Argentino, created in Buenos Aires in **1887**, 136 years ago.  The oldest cooperative in La Pampa has 90 year old, was created in **1933**. 
+_Citizen Science_ definition say that it is research conducted with participation from the general public, or amateur/nonprofessional researchers or participants for science, social science and many other disciplines.[^1]
 
-It is a **successful and possible business model**, beneficial for the whole community because it has the people and the community as their focus.
+Most of INTA's work involves citizen participation, for example, many field trials and technology tests are carried out on farmers' farms developed with with them, or with agricultural machinery manufacturers, many projects involve people recording field data and conducting surveys, but in my opinion **letting citizens be part of the leadership of science organizations** is the clearest and strongest signal that you really want them to be part of it and that their voice and opinion will be taken into account. 
 
-There are technology-based companies that have adopted the cooperative model.  However, when we think about working in the development of communities of practice focus on open software, open science, open education, we adopt the models inherited from the minority world (or global north or affluent countries, whatever you want to call it), we look for "fiscal sponsors" and accept their rules and their governance models, as if they were revolutionary or were the best way to do things.  
+It is not easy, there are frictions and conflicting interests among the sectors represented, but what better than to have them at the same table, dialoguing and agreeing on what is best for all.  What is better than knowing that your research and extension efforts are serving the people they will affect. What is better than a science at the service of the people. 
 
-Meanwhile, in our lands we have a model that has been working for more than 130 years, where community and cooperation are the core of its functioning, where governance is democratic, open and transparent.  
-
-I know tech companies and fiscal sponsors have the money and the contacts, but that doesn't mean they know how to do things better than we do. Nor does it mean that their model works better for us.  
-
+[^1]: https://en.wikipedia.org/wiki/Citizen_science
