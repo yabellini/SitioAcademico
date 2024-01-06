@@ -19,7 +19,7 @@ I have the habit of recording everything because of my academic jobs. I continue
 
 My dataset is a CVS file and has 11 variables.  Today we are going to visualize four of them: when the events happened, what format they have (online, in person or hybrid), what role I have (like speaker or organizer) and whay kind of event was (like conference or course).
 
-## Plan de visualizaztion 
+## Plan the visualization 
 
 I summarize all the number that I need in differents tibbles and then decide to use create a combined plot with:
 
@@ -109,7 +109,7 @@ Finally, I want to show all of this data together, so I use the package `patchwo
 
 This is the final plot:
 
-{{< figure src="final.png" alt="Donuts plot on the first row, below the donuts the line plot and in thelast row the two bar plots." >}}
+{{< figure src="featured.png" alt="Donuts plot on the first row, below the donuts the line plot and in thelast row the two bar plots." >}}
 
 
 I can improve the annotations for the patchwork, but I kind of like the final output. :-) 
