@@ -112,4 +112,4 @@ This is the final plot:
 {{< figure src="featured.png" alt="Donuts plot on the first row, below the donuts the line plot and in thelast row the two bar plots." >}}
 
 
-I can improve the annotations for the patchwork, but I kind of like the final output. :-) 
+I can improve the annotations for the patchwork, and the disposition of the bar plots, but I kind of like the final output. :-) 
