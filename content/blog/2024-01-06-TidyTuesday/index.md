@@ -21,7 +21,7 @@ My dataset is a CVS file and has 11 variables.  Today we are going to visualize 
 
 ## Plan the visualization 
 
-I summarize all the number that I need in differents tibbles and then decide to use create a combined plot with:
+I summarize all the number that I need in differents tibbles and then decide to create a combined plot with:
 
 * the donuts plot that [David Schoch](https://www.mr.schochastics.net) use in the [GitHub Wrapped](https://github.com/schochastics/github_wrapped) project to show general numbers.
 
