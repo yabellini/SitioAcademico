@@ -18,7 +18,7 @@ tags:
 > Field day at INTA Anguil, La Pampa. INTA's researcher showing soil trials and other related research activities and results
 
 
-[Continuing with](/blog/2024-01-05-cooperative/) the reflections on the governance models of organizations, communities of practice and research organizations, today I want to share with you the governance model of the National Institute of Agricultural Technology (INTA) where I worked as a researcher for 24 and a half years and how this related with Citizen Science.
+[Continuing with](/blog/2024-01-05-cooperative/) the reflections on the governance models of organizations, communities of practice and research organizations, today I want to share with you the governance model of the [National Institute of Agricultural Technology (INTA)](https://www.argentina.gob.ar/inta) where I worked as a researcher for 24 and a half years and how this related with Citizen Science.
 
 ## INTA 
 
@@ -32,16 +32,18 @@ The decree makes it clear that "In the regional operating units, the **balanced 
 
 The INTA has a directive board composed of members of both the public and the private sector and with representation for different actors in the agricultural sector; they define the politics at national level. The national direction executes the planning of the board, assisted by the organization and administration technical areas.
 
-Each Regional and Research Center has a Regional board of director that define the strategy at the regional level aligned with the national policy. I was the first female member of the Natural Resource Research Center, representing researchers who work at the experimental stations. Finally, the experimental stations and extension agencies have local advisory councils with the representation of local actors in the sector. All these governance bodies meet every month.  The National and Regional boards participate in the definition of the budget, the long- and medium-term strategic plan, and the hiring of personnel. 
+Each Regional and Research Center has a Regional Board of Directors that defines the strategy at the regional level aligned with the national policy. I was the first female member of the Natural Resource Research Center, representing researchers who work at the experimental stations. 
+
+Finally, the Experimental Stations and Extension Agencies have Local Advisory Councils with the representation of local actors in the sector. All these governance bodies meet every month. The National and Regional boards participate in the definition of the budget, the long- and medium-term strategic plan, and the hiring of personnel. 
 
 For example, a regional board of director consists of:
 
-1 member representing the national board of directors.
-1 member representing the province goverment.
-1 member representing the universities.
-1 member representing the science-academic sector.
-3 member representing the farmers.
-1 member representing the local advisory councils.
+- One member representing the national board of directors.
+- One member representing the province government.
+- One member representing the universities.
+- One member representing the science-academic sector (different from the universities).
+- Three members representing the farmers.
+- One member representing the Local Advisory Councils.
 
 ## Science by and for the people
 
