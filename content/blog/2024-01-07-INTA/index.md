@@ -24,7 +24,7 @@ tags:
 
 INTA is an Argentine federal research and extension agency in charge of the generation, adaptation and diffusion of technologies, knowledge and learning procedures for the agriculture, forest and agro-industrial activities within an ecologically clean environment. It was created in 1956 and have 44 experimental agricultural stations and 240 extension units around the country.  It is the research institution with the largest territorial presence in our country. 
 
-In 1986, with the return to democracy in 1983, the president issued Decree 287, which modified the law that created INTA. The most important modifications were the _decentralization of the institute's operations_ and the **participation in its management of the different sectors involved in the generation and adoption of technology in each unit**.
+After the return to democracy in 1983, in 1986 the president issued Decree 287, which modified the law that created INTA. The most important modifications were the _decentralization of the institute's operations_ and the **participation in its management of the different sectors involved in the generation and adoption of technology in each unit**.
 
 The decree makes it clear that "In the regional operating units, the **balanced participation** of the different sectors of agricultural production, provincial governments, universities and the scientific-technical community **in their management will ensure the correspondence between the activities of the units and local problems.**" 
 
