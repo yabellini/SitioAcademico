@@ -18,7 +18,7 @@ tags:
 > Field day at INTA Anguil, La Pampa. INTA's researcher showing soil trials and other related research activities and results
 
 
-Continuing with the reflections on the governance models of organizations, communities of practice and research organizations, today I want to share with you the governance model of the National Institute of Agricultural Technology (INTA) where I worked as a researcher for 24 and a half years and how this related with Citizen Science.
+[Continuing with](/blog/2024-01-05-cooperative/) the reflections on the governance models of organizations, communities of practice and research organizations, today I want to share with you the governance model of the National Institute of Agricultural Technology (INTA) where I worked as a researcher for 24 and a half years and how this related with Citizen Science.
 
 ## INTA 
 
