@@ -1,7 +1,7 @@
 ---
 title: Citizen science and governance models
 author: Yanina Bellini Saibene
-summary: " "
+summary: "Continuing with the reflections on the governance models of organizations, communities of practice and research organizations, today I want to share with you the governance model of the National Institute of Agricultural Technology (INTA) where I worked as a researcher for 24 and a half years and how this related with Citizen Science."
 date: '2024-01-07'
 categories:
   - English
