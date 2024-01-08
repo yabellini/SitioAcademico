@@ -2,7 +2,7 @@
 title: SisINTAR. Un paquete para gestionar datos de perfiles de suelos de Argentina
 author: Elio Campitelli, Paola Corrales, Marcos Angelini, Dario Rodriguez, Yanina Bellini Saibene
 summary: "El Instituto Nacional de Tecnología Agropecuaria (INTA) de Argentina desarrolla y mantiene  SISINTA (Sistema de Información de Suelos del INTA), un sistema de información y de bases de datos para gestionar información de suelos. Almacena específicamente datos de perfiles de suelo con sus datos de campo y laboratorio, así como la ubicación en diferentes sistemas de coordenadas. También permite búsquedas por atributos y ubicación, así como la descarga de los datos. El paquete SISINTAR fue desarrollado para permitir el acceso, lectura y manipulación de datos de perfiles de suelo de SISINTA de forma programática, utilizando estándares en el procesamiento, visualización y representación de información de suelos y desde el entorno R, uno de los más utilizados en la institución."
-date: '2024-01-07'
+date: '2024-01-08'
 categories:
   - Spanish
   - Open Data
