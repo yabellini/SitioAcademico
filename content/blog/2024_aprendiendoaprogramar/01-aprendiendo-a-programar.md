@@ -76,7 +76,13 @@ c(make = "C:\\rtools40\\usr\\bin\\make.exe")
 
 ### Crear una cuenta en GitHub.
 
-- 
+- Ir a https://github.com/.
+
+- Hacer clik en Registrarse or Sign up.
+
+- Seguir las indicaciones para crear la cuenta personal.
+
+- Uno de los pasos implica chequear que son una persona y luego validar la direccion de email que usaste para crear la cuenta. 
 
 ## Primer ejercicio
 
@@ -84,6 +90,6 @@ Crear el perfil en github:
 
 1 - crear un repo con el mismo nombre que tu usuario de github.
 
-2 - Agregarle un readme
+2 - Agregarle un archivo README.md 
 
 3 - Pensar en que queres poner en tu perfil y modificar el readme son esa informacion. Tenerlo listo para la proxima clase.
