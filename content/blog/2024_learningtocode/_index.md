@@ -10,7 +10,8 @@ show_post_date: true
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
-# Photo by 
+# Photo by <a href="https://unsplash.com/@hishahadat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Shahadat Rahman</a> on <a href="https://unsplash.com/photos/green-blue-and-yellow-text-on-computer-screen-O2MdroNurVw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
   
 sidebar: 
   title: Learning Programming in 30 lessons
