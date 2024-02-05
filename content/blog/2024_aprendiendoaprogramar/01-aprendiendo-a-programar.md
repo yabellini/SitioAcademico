@@ -17,7 +17,7 @@ tags:
   - 100DaysToOffload
 ---
 
-Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. Esta es la primera entrada del blog de nuestro viaje juntos.
+Mi sobrino de 15 años quiere aprender a programar y yo voy a enseñarle. Esta es la primera entrada del blog de nuestro viaje juntos.
 
 La idea del primer encuentro era charlar sobre que podia ensenarle y acordar cuando nos juntariamos. Debido a su entusiasmo tambien preparamos todo el entorno para poder tener las clases.
 
