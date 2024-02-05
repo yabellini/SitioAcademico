@@ -10,7 +10,7 @@ show_post_date: true
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
-# Photo by <a href="https://unsplash.com/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Montgomery</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+# Photo by 
   
 sidebar: 
   title: Aprendiendo a Programar en 30 lecciones
@@ -36,6 +36,7 @@ cascade:
     text_contents_label: "En esta página" 
   tags:
   - Español
+  - rstats
   categories:
   - Education
   - rstats
