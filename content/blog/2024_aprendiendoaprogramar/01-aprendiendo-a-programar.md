@@ -1,7 +1,7 @@
 ---
-title: "Aprendiendo a Programar en 30 lecciones - Primer encuentro"
+title: "Aprendiendo a Programar en 30 lecciones"
 weight: 1
-subtitle: ""
+subtitle: "Primer encuentro"
 excerpt: ""
 date: 2024-02-05
 draft: false
