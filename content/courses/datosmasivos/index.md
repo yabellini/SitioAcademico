@@ -32,7 +32,7 @@ links:
 
 ## Español
 
-<img src='featured.jpg' align="right" height="300" alt=''/>
+<img src='featured.png' align="right" height="300" alt='Esquema de un grafico de con cuatro barras. La primera dice Audio y esta 1/4 completa, las segunda dice imagenes y esta completa a la mitad, la tercera esta completa 3/4 y dice Texto y la ultima dice APIs y esta completa un poco menos que un 1/4. Arriba del grafico dice Datos Masivos y No estructurados'/>
 
 ### Fundamentación
 Ante la necesidad de cualquier persona que practique la ciencia de datos de manipular distintos volúmenes de datos, la gestión de los mismos cobra gran importancia. En este curso abordaremos el tema de la gestión de datos no estructurados principalmente desde el punto de vista teórico y práctico, incluyendo estudios de casos y actividades para brindarles las herramientas necesarias para continuar con su formación.
