@@ -1,7 +1,7 @@
 ---
-title: Experiences teaching on-line
+title: Learning Programming in 30 lessons
 description: |
-  In this series of blog posts I will give details of how I taught on-line in different situations during the COVID-19 pandemic.
+  In this series of blog posts I will document the experience of teaching my 15 year old nephew to program in 30 lessons.
 author: Yanina Bellini Saibene
 show_post_thumbnail: false
 show_author_byline: true
@@ -10,13 +10,13 @@ show_post_date: true
 layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
-# Photo by <a href="https://unsplash.com/@cwmonty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Montgomery</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+# Photo by 
   
 sidebar: 
-  title: Experiences teaching on-line
+  title: Learning Programming in 30 lessons
   author: Yanina Bellini Saibene
   description: |
-    In this series of blog posts I will give details of how I taught on-line in different situations during the COVID-19 pandemic.
+    In this series of blog posts I will document the experience of teaching my 15 year old nephew to program in 30 lessons.
     
   text_link_label: ""
   text_link_url: ""
@@ -25,7 +25,7 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: Experiences teaching on-line
+  series: Learning Programming in 30 lessons
   author: Yanina Bellini Saibene
   show_author_byline: true
   show_post_date: true
@@ -37,9 +37,10 @@ cascade:
     text_contents_label: "In this page" 
   tags:
   - English
+  - rstats
   categories:
   - Education
-  - Community
+  - rstats
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
