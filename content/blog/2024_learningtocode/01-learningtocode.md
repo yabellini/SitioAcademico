@@ -37,7 +37,7 @@ These steps correspond to **Windows**
 
 - Once downloaded, double click on the file and follow the installer instructions.
 
-- Once the installation is finished, you will see an icon like this on your desktop or in the installed programs: {{< figure src="r-logo.jpeg" height="20px" >}}}
+- Once the installation is finished, you will see an icon like this on your desktop or in the installed programs: {{< figure src="r-logo.jpeg" height="20px" >}}
 
 - When you run it, you should see something like this:
 
@@ -60,7 +60,7 @@ Sys.which("make")
 ```
 
 It should come out something like this:
-````{r, echo=FALSE}
+```{r, echo=FALSE}
 c(make = "C:\rtools40\usrtmake.exe")
 ```
 
