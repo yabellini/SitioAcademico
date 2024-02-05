@@ -1,14 +1,20 @@
 ---
-title: "300 (three hundred)"
+title: "Learning to code in 30 lessons"
 weight: 1
-subtitle: ""
-excerpt: "Details of the design, organization and tools used in a predominantly theoretical online class with more than 300 connected students."
-date: 2022-05-09
+subtitle: "First class"
+excerpt: ""
+date: 2024-02-05
 draft: false
+categories:
+  - Education
+  - 100DaysToOffload
+  - English
+  - rstats
 tags: 
   - Education
-  - Community
+  - 100DaysToOffload
   - English
+  - rstats
 ---
 
 My 14 year old nephew wants to learn how to program and I'm going to teach him. This is the first blog entry of our journey together. 
