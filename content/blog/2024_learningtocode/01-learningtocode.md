@@ -2,7 +2,7 @@
 title: "Learning to code in 30 lessons"
 weight: 1
 subtitle: "First class"
-excerpt: ""
+excerpt: "My 15 year old nephew wants to learn to program and I'm going to teach him. This is the first blog post of our journey together detailing how to set up the environment we will be using for the rest of the classes."
 date: 2024-02-05
 draft: false
 categories:
@@ -17,7 +17,7 @@ tags:
   - rstats
 ---
 
-My 14 year old nephew wants to learn how to program and I'm going to teach him. This is the first blog entry of our journey together. 
+My 15 year old nephew wants to learn how to program and I'm going to teach him. This is the first blog entry of our journey together. 
 
 The idea of the first meeting was to chat about what I could teach him and to agree when we would get together. Because of his enthusiasm we also set up the whole environment to be able to have the classes.
 
