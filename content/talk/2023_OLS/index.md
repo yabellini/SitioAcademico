@@ -27,6 +27,6 @@ links:
 - icon: youtube
   icon_pack: fab
   name: video 
-  url: [https://youtu.be/oXDW1oR0Fvk](https://youtu.be/hOiDzn4Iqp4?si=s9Xo9Ub2YMOsGKKM&t=2908)https://youtu.be/hOiDzn4Iqp4?si=s9Xo9Ub2YMOsGKKM&t=2908  
+  url: https://youtu.be/hOiDzn4Iqp4?si=s9Xo9Ub2YMOsGKKM&t=2908  
 ---
 
