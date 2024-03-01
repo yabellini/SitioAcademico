@@ -1,7 +1,7 @@
 ---
 title: GitHub Stars 2024 Award
 author: Yanina Bellini Saibene
-summary: "A Mastodon post that went viral. A blog post with link on what is Sci-Hub and what is OpenAI"
+summary: "GitHub Star for third year. Thank you so much to my communities."
 date: '2024-03-01'
 categories:
   - English
