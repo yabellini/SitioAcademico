@@ -252,6 +252,8 @@ library(tidyverse)
 
 Esto se debe hacer con cualquier paquete que querramos usar.
 
+> Ejercicio: pueden identificar cuales son las funciones que utilizamos con los paquetes y que parametros tienen ?
+
 #### Como sabemos que funciones y paquetes hay disponibles?
 
 Hay libros como R para Ciencia de Datos que te ensenan a hacer ciencia de datos con R y te van presentando y explicando las diferentes funciones y paquetes para cada etapa del proceso.
