@@ -244,16 +244,19 @@ La funcion `install.packages` nos permite instalar paquetes que estan en CRAN, u
 install.packages("tidyverse")
 ```
 
-Ahora que esta instalado, hay que cargarlo para poder usarlo
+El mensaje que vemos en la consola nos cuenta que con tidyverse se instalan muchos otros paquetes. Vamos a usar diferentes funciones de los diferentes paquetes para trabajar en nuestro proyecto de clase. Ahora que esta instalado, hay que cargarlo para poder usarlo
 
 ```
 library(tidyverse)
 ```
 
+Esto se debe hacer con cualquier paquete que querramos usar.
+
+> Como sabemos que funciones y paquetes hay disponibles?
+
+Hay libros como R para Ciencia de Datos que te ensenan a hacer ciencia de datos con R y te van presentando y explicando las diferentes funciones y paquetes para cada etapa del proceso.
+
+Existen newsletter como R Weekly para estar al tanto de las novedades y personas que se pueden seguir en redes sociales que comparten cosas interesantes.
 
 Todo lo que vimos hasta ahora es útil cuando estamos probando el código para ver si funciona pero lo perderemos todo cuando cerremos RStudio. Lo que tenemos que hacer es guardar el código que genera su análisis. Para ello utilizamos R Scripts y archivos RMarkdown.  El tema de nuestra proxima clase.
-
-
-
-
 
