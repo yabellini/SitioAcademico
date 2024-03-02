@@ -234,16 +234,24 @@ Hay muchas funciones que vienen con R y estan disponibles para que las usemos cu
 
 Los paquetes son programados por otras personas que usan R, en general se refieren a un tema en particular, por ejemplo hay paquetes para hacer graficos y paquetes para entrenar modelos, paquetes para limpiar datos y paquetes para realizar informes, entre muchisimas otras cosas.
 
-Un paquete puede contener funciones, documentacion y datos. 
-
 <img src="paquete.png" alt="Una persona de palito teniendo un paquete. Del paquete salen tres flechas. Una a funciones, otra a documentación y otra a datos. Otra persona de palito está al lado de cada un de estas cosas y explica que es. Las funciones son porciones de código que hacen algo. La documentación nos explica que hace cada función y como podemos usarla. Hay paquetes que almacenan datos que pueden usarse en los ejemplos de las funciones. " />
 
+Un paquete puede contener funciones, documentacion y datos. Se debe instalar una sola vez y se llama la primera vez que lo tenemos que usar en cada sesion.  Esto significa que si salimos de RStudio, o apagamos la computadora deberemos volver a cargar el paquete.  Es como las aplicaciones del celular, la instalamos una sola vez, pero tenemos que abrirla cada vez que la queremos usar.
+
+La funcion `install.packages` nos permite instalar paquetes que estan en CRAN, un respositorio oficial de paquetes de R que tiene mas de 20.000 paquetes disponibles.
+
+```
 install.packages("tidyverse")
+```
+
+Ahora que esta instalado, hay que cargarlo para poder usarlo
+
+```
 library(tidyverse)
+```
 
 
-
-Esto es útil cuando estamos probando el código para ver si funciona pero lo perderemos todo cuando cerremos RStudio. Lo que tenemos que hacer es guardar el código que genera su análisis. Para ello utilizamos R Scripts y archivos RMarkdown.
+Todo lo que vimos hasta ahora es útil cuando estamos probando el código para ver si funciona pero lo perderemos todo cuando cerremos RStudio. Lo que tenemos que hacer es guardar el código que genera su análisis. Para ello utilizamos R Scripts y archivos RMarkdown.  El tema de nuestra proxima clase.
 
 
 
