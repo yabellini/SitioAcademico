@@ -55,7 +55,9 @@ Junto al resultado aparece un [1]. R te indicaque esta línea de resultados comi
 [37] 46 47 48 49 50
 ```
 
-Si escribimos una instruccion que R no reconoce, R le devolverá un mensaje de error. Si alguna vez ve un mensaje de error, no se asuste. R sólo le está diciendo que su ordenador no pudo entender o hacer lo que usted le pidió. Entonces puede intentar un comando diferente en el siguiente prompt:
+Si escribimos una instruccion que R no reconoce, R devuelve un mensaje de error. No hay porque preocuparse. R sólo nos vaisa que no pudo entender o hacer lo que le pedimos. Se puede intentar una instruccion diferente en el siguiente prompt.  
+
+> Vamos a aprender sobre los errores y como leerlos mas adelante
 
 Ahora probemos on otras operaciones, como la division y la multiplicacion. 
 
@@ -67,16 +69,12 @@ Ahora probemos on otras operaciones, como la division y la multiplicacion.
 El resultado siempre aparece justo debajo. También podemos guardar ese resultado en un objeto, en este caso llamado `x`.
 
 ```{r}
-x <- 2 + 2 
+resultado <- 2 + 7
 ```
 
 Esa flechita es el *operador de asignación* y funciona como un `=`. Ahora el resultado se guarda en el Entorno (Environment) como una variable con nombre `x` y no se imprime en la consola. 
 
 
-
-
-
-resultado <- 2 + 7
 resultado
 resultado <- 5 * 2
 resultado
@@ -86,6 +84,10 @@ numeros[4]
 numeros[16]
 Numeros
 numeros
+
+
+
+
 ls()
 ls
 ?ls()
