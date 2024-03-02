@@ -97,7 +97,7 @@ Que pasa si escribimos
 
 ```
 
-El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.  Si escribimos el nombre de la variable en la consola obtendremos 10 en vez de 9.  Esto significa que si queremos poder usar ambos valores en el futuro necesitamos poder guardarlos en dos objetos o variables diferentes.
+El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.  Si escribimos el nombre de la variable en la consola obtendremos 10 en vez de 9.  Esto significa que si queremos poder usar ambos valores en el futuro necesitamos poder guardarlos en diferentes objetos o variables.
 
 ```{r}
 > resultado
@@ -106,6 +106,7 @@ El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.
 
 ```
 
+El operador `:` from a couple of pages ago gives you a nice way to create a group of numbers from one to six. The : operator returns its results as a vector, a one-dimensional set of numbers:
 
 
 numeros <- 10:25, numeros
