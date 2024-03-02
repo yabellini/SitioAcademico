@@ -248,15 +248,4 @@ Esto es útil cuando estamos probando el código para ver si funciona pero lo pe
 
 
 
-## Esto es de la clase 3
-
-read_csv("Data/pinguinos.csv")
-pinguinos <- read_csv("Data/pinguinos.csv")
-pinguinos
-View(pinguinos)
-View(pinguinos)
-pin_xls <- readxl::read_excel("Data/pinguinos.xlsx")
-str(pinguinos)
-glimpse(pinguinos)
-View(pinguinos)
 
