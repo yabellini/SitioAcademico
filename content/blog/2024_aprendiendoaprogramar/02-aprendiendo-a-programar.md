@@ -126,7 +126,7 @@ Como podemos acceder al numero 13? o al numero 25?. El vector tiene un indice qu
 [1] 25
 
 ```
-Tambien recordemos que Rconsidera que dos objetos son diferentes si alguna de las letras esta en minusculas y las otras en mayuscula, por ejemplo `Numeros` y `numeros` no es el mismo objeto.
+Tambien recordemos que R considera que dos objetos son diferentes si alguna de las letras esta en minusculas y las otras en mayuscula, por ejemplo `Numeros` y `numeros` no es el mismo objeto.
 
 ```{r}
 > Numeros
@@ -135,12 +135,91 @@ Error: object 'Numeros' not found
 
 ## Funciones
 
+Los lenguajes de programacion son poderosos porque cuentan con un conjunto de comandos o instrucciones pre programadas que nos permiten realizar diferentes acciones.  Esos comandos o instrucciones son conocidos como **funciones**. 
 
-ls()
-ls
-?ls()
+Las funciones tienen una **firma** que tiene la forma
+
+```{r}
+nombre_de_la_funcion(parametros, de, la, funcion){
+
+  otras funciones que hacen cosas cuando llamamos a la funcion
+
+}
+```
+
+Veamos un ejemplo, la funcion `ls()` lista los objetos en memoria
+
+```{r}
+
+> ls()
+[1] "numeros"   "resultado"
+
+```
+Siempre se deben usar los parentesis al final del nombre para llamar a la funcion y que R la ejecute. Si solo ponemos el nombre veremos el codigo de la funcion, pero no se ejecutara.
+
+```{r}
+> ls
+function (name, pos = -1L, envir = as.environment(pos), all.names = FALSE, 
+    pattern, sorted = TRUE) 
+{
+    if (!missing(name)) {
+        pos <- tryCatch(name, error = function(e) e)
+        if (inherits(pos, "error")) {
+            name <- substitute(name)
+            if (!is.character(name)) 
+                name <- deparse(name)
+            warning(gettextf("%s converted to character string", 
+                sQuote(name)), domain = NA)
+            pos <- name
+        }
+    }
+    all.names <- .Internal(ls(envir, all.names, sorted))
+    if (!missing(pattern)) {
+        if ((ll <- length(grep("[", pattern, fixed = TRUE))) && 
+            ll != length(grep("]", pattern, fixed = TRUE))) {
+            if (pattern == "[") {
+                pattern <- "\\["
+                warning("replaced regular expression pattern '[' by  '\\\\['")
+            }
+            else if (length(grep("[^\\\\]\\[<-", pattern))) {
+                pattern <- sub("\\[<-", "\\\\\\[<-", pattern)
+                warning("replaced '[<-' by '\\\\[<-' in regular expression pattern")
+            }
+        }
+        grep(pattern, all.names, value = TRUE)
+    }
+    else all.names
+}
+<bytecode: 0x1064e50c0>
+<environment: namespace:base>
+```
+
+Tambien podemos obtener ayuda sobre que hacen las funciones utilizando el operador `?`. En RStudio ese operador abrira la documentacion de la funcion en el panel **Help**.  
+
+```
+?ls
+```
+
+<img src="help_rstudio.png" alt="Pantalla principal de RStudio. Panel Help muestra la ayuda de la funcion ls y esta remarcado.  En la consola esta escrito el comando ?ls que tambien esta remarcado." />
+
+### Parametros o argumentos
+
+Algunas funciones tienen parametros.  Vamos a realizar otra operacion con R, dividiremos 2 dividido 3
+
+```
 decimal <- 2/3
+```
+
+Esta operacion nos devuelve un numero decimal con 15 decimales.  Nosotros no queremos tantos, asi que necesitamos redondear.  Existe una funcion llamada `round()` que puede ser util.  
+
+> Ejercicio leamos la ayuda para ver que hace esa funcion.
+
+```
 ?round()
+```
+
+La ayuda nos muestra
+
 round(decimal)
 round(2/3)
 round(decimal, 3)
