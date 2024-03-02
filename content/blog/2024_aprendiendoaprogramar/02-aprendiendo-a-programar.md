@@ -137,3 +137,19 @@ library(tidyverse)
 
 
 Esto es útil cuando estamos probando el código para ver si funciona pero lo perderemos todo cuando cerremos RStudio. Lo que tenemos que hacer es guardar el código que genera su análisis. Para ello utilizamos R Scripts y archivos RMarkdown.
+
+
+
+
+## Esto es de la clase 3
+
+read_csv("Data/pinguinos.csv")
+pinguinos <- read_csv("Data/pinguinos.csv")
+pinguinos
+View(pinguinos)
+View(pinguinos)
+pin_xls <- readxl::read_excel("Data/pinguinos.xlsx")
+str(pinguinos)
+glimpse(pinguinos)
+View(pinguinos)
+
