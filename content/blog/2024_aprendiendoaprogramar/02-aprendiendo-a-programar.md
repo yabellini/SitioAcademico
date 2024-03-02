@@ -212,14 +212,15 @@ decimal <- 2/3
 
 Esta operacion nos devuelve un numero decimal con 15 decimales.  Nosotros no queremos tantos, asi que necesitamos redondear.  Existe una funcion llamada `round()` que puede ser util.  
 
-> Ejercicio leamos la ayuda para ver que hace esa funcion.
+> Ejercicio: leamos la ayuda para ver que hace esa funcion.
 
 ```
 ?round()
 ```
 
-La ayuda nos muestra
+La ayuda nos muestra que la funcion tiene dos parametros (o argumentos): `round(x, digits = 0)`. La `x` se refiere al numero que queremos redondear, `digits` se refiere a la cantidad de decimales que queremos tener.
 
+> Ejercicios: intentemos pensar que hara cada una de estas instrucciones antes de ejecutarlas.
 round(decimal)
 round(2/3)
 round(decimal, 3)
