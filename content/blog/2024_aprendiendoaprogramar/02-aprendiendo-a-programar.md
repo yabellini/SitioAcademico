@@ -114,7 +114,7 @@ numeros[16]
 Numeros
 numeros
 
-
+## Funciones
 
 
 ls()
@@ -128,17 +128,11 @@ round(decimal, 3)
 round(decimal, 2)
 round(decimal, 1)
 round(decimal)
+
+## Paquetes
+
 install.packages("tidyverse")
 library(tidyverse)
-read_csv("Data/pinguinos.csv")
-pinguinos <- read_csv("Data/pinguinos.csv")
-pinguinos
-View(pinguinos)
-View(pinguinos)
-pin_xls <- readxl::read_excel("Data/pinguinos.xlsx")
-str(pinguinos)
-glimpse(pinguinos)
-View(pinguinos)
 
 
 
