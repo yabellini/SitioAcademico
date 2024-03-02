@@ -81,6 +81,14 @@ Esa flechita es el *operador de asignación* y funciona como un `=`. Ahora el re
 [1] 9
 
 ```
+Tambien podemos empezar a usar la variable para realizar calculos
+
+```{r}
+> resultado + 5
+
+[1] 14
+
+```
 
 Que pasa si escribimos  
 
@@ -88,6 +96,16 @@ Que pasa si escribimos
 > resultado <- 5 * 2
 
 ```
+
+El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.  Si escribimos el nombre de la variable en la consola obtendremos 10 en vez de 9.  Esto significa que si queremos poder usar ambos valores en el futuro necesitamos poder guardarlos en dos objetos o variables diferentes.
+
+```{r}
+> resultado
+
+[1] 10
+
+```
+
 
 
 numeros <- 10:25, numeros
