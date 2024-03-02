@@ -115,11 +115,23 @@ El operador `:`, que usamos antes, devuelve como resultado un **vector**, un con
 [1] 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
 
 ```
- 
-numeros[4]
-numeros[16]
-Numeros
-numeros
+
+Como podemos acceder al numero 13? o al numero 25?. El vector tiene un indice que indica la posicion de cada numero en el vector.  En R los indices inician en 1 y se indican entre corteches a la derecha del nombre del vector 
+
+```{r}
+> numeros[4]
+[1] 13
+
+> numeros[16]
+[1] 25
+
+```
+Tambien recordemos que Rconsidera que dos objetos son diferentes si alguna de las letras esta en minusculas y las otras en mayuscula, por ejemplo `Numeros` y `numeros` no es el mismo objeto.
+
+```{r}
+> Numeros
+Error: object 'Numeros' not found
+```
 
 ## Funciones
 
