@@ -66,20 +66,31 @@ Ahora probemos on otras operaciones, como la division y la multiplicacion.
 2*5
 ```
 
-El resultado siempre aparece justo debajo. También podemos guardar ese resultado en un objeto, en este caso llamado `x`.
+El resultado siempre aparece justo debajo. También podemos guardar ese resultado en un objeto, en este caso llamado `resultado`.
 
 ```{r}
 resultado <- 2 + 7
 ```
 
-Esa flechita es el *operador de asignación* y funciona como un `=`. Ahora el resultado se guarda en el Entorno (Environment) como una variable con nombre `x` y no se imprime en la consola. 
+Esa flechita es el *operador de asignación* y funciona como un `=`. Ahora el resultado se guarda en el Entorno (Environment) como una variable con nombre `resultado` y no se imprime en la consola. Para ver el contenido, ademas de verla en el Entorno, podemos escribir el nombre de la variable (asi se llama este tipo de objeto) en la consola
 
 
-resultado
-resultado <- 5 * 2
-resultado
-numeros <- 10:25
-numeros
+```{r}
+> resultado
+
+[1] 9
+
+```
+
+Que pasa si escribimos  
+
+```{r}
+> resultado <- 5 * 2
+
+```
+
+
+numeros <- 10:25, numeros
 numeros[4]
 numeros[16]
 Numeros
