@@ -228,7 +228,15 @@ round(decimal, 2)
 round(decimal, 1)
 round(decimal)
 
+Hay muchas funciones que vienen con R y estan disponibles para que las usemos cuando lo instalamos.  Esta version de R se llama **R base** o **base R** (en ingles).  Es la minima funcionalidad que obtenemos con el lenguaje.  Pero R puede hacer muchisimas cosas mas extendiendo las funciones por medio de paquetes.
+
 ## Paquetes
+
+Los paquetes son programados por otras personas que usan R, en general se refieren a un tema en particular, por ejemplo hay paquetes para hacer graficos y paquetes para entrenar modelos, paquetes para limpiar datos y paquetes para realizar informes, entre muchisimas otras cosas.
+
+Un paquete puede contener funciones, documentacion y datos. 
+
+<img src="paquete.png" alt="Una persona de palito teniendo un paquete. Del paquete salen tres flechas. Una a funciones, otra a documentación y otra a datos. Otra persona de palito está al lado de cada un de estas cosas y explica que es. Las funciones son porciones de código que hacen algo. La documentación nos explica que hace cada función y como podemos usarla. Hay paquetes que almacenan datos que pueden usarse en los ejemplos de las funciones. " />
 
 install.packages("tidyverse")
 library(tidyverse)
