@@ -33,22 +33,38 @@ Observa los paneles por defecto:
 
 No es necesario que sepamos utilizar todo esto de inmediato. Nos familiarizaremos con más opciones y capacidades a lo largo del taller.
 
-Podemos escribir código, es decir, instrucciones para ser ejecutadas por R en la Consola. Por ejemplo, podemos calcular el resultado dos más dos escribiendo
+## Empezando a programar
+
+Podemos escribir código, es decir, instrucciones para ser ejecutadas por R en la Consola. Por ejemplo, podemos calcular el resultado dos más siete escribiendo
 
 ```{r}
 2 + 7
 ```
 
-en la Consola y pulsando enter. 
+en la Consola y pulsando enter. El resultado aparece en la consola
 
-10:50
-10:100
-a:z
+```{r}
+[1] 9
+```
+
+Junto al resultado aparece un [1]. R te indicaque esta línea de resultados comienza con el primer valor. Algunas instrucciones devuelven más de un valor, y sus resultados pueden llenar varias líneas. Por ejemplo, el comando `10:50` devuelve 40 valores; crea una secuencia de enteros del 10 a 50. Cuando ejecutamos esa orden en la consola aparecen números nuevos entre corchetes al principio de la segunda líneas de salida. Estos números sólo significan que la segunda línea comienza con el 37º valor del resultado. Por el momento (y en la mayoria de los casos) se pueden ignorar los números que aparecen entre corchetes.
+
+```{r}
+> 10:50 
+[1] 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
+[37] 46 47 48 49 50
+```
+
+Si escribimos una instruccion que R no reconoce, R le devolverá un mensaje de error. Si alguna vez ve un mensaje de error, no se asuste. R sólo le está diciendo que su ordenador no pudo entender o hacer lo que usted le pidió. Entonces puede intentar un comando diferente en el siguiente prompt:
+
+Ahora probemos on otras operaciones, como la division y la multiplicacion. 
+
+```{r}
 2/3
 2*5
+```
 
-
-El resultado aparece justo debajo. También podemos guardar ese resultado en un objeto, en este caso llamado `x`.
+El resultado siempre aparece justo debajo. También podemos guardar ese resultado en un objeto, en este caso llamado `x`.
 
 ```{r}
 x <- 2 + 2 
