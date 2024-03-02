@@ -106,10 +106,16 @@ El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.
 
 ```
 
-El operador `:` from a couple of pages ago gives you a nice way to create a group of numbers from one to six. The : operator returns its results as a vector, a one-dimensional set of numbers:
+El operador `:`, que usamos antes, devuelve como resultado un **vector**, un conjunto unidimensional de numeros. Vamos a crear el objeto `numeros` con la serie de numeros del 10 al 25
 
+```{r}
+> numeros <- 10:25
 
-numeros <- 10:25, numeros
+> numeros
+[1] 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+
+```
+ 
 numeros[4]
 numeros[16]
 Numeros
