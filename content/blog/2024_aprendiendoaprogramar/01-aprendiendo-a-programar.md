@@ -1,5 +1,5 @@
 ---
-title: "Aprendiendo a Programar en 30 lecciones"
+title: "Primer encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 1
 subtitle: "Primer encuentro"
 excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. Esta es la primera entrada del blog de nuestro viaje juntos que detalla como instalar el entorno que vamos a usar por el resto de las clases."
