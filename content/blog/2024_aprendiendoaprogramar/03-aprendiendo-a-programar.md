@@ -134,11 +134,11 @@ Podes ver una guia sobre rmakdown [en esta guía rápida](https://raw.githubuser
 ### Código de R
 
 ```{r include=FALSE}
-chunk_start <- "```{r label}"
+chunk_start <- ""
 chunk_end <- "```"
 ```
 
-El código R se escribe dentro de "chunks (trozos)" de código. Los trozos de código comienzan con ```r chunk_start``` (donde "label" es un nombre opcional y único) y terminan con ```r chunk_end```. En RStudio, podes crear un nuevo chunk con el atajo de teclado `Ctrl + Alt + I`.
+El código R se escribe dentro de "chunks (trozos)" de código. Los trozos de código comienzan con `{r label}` (donde _"label"_ es un nombre opcional y único) y terminan con \```. En RStudio, podes crear un nuevo chunk con el atajo de teclado `Ctrl + Alt + I`.
 
 Este informe muestra información sobre los pingüinos Papúa, pero podríamos cambiar algunas líneas de código para crear el mismo análisis para las otras dos especies, Adelia y Barbijo.
 
@@ -164,7 +164,7 @@ pinguinos <- read_csv("datos/pinguinos.csv")
 
 Ya vimos que en R, los datos se almacenan en objetos. Cuando leemos un archivo csv, los datos van directo a un data.frame llamado `pinguinos` y están listos para ser utilizados. En la solapa "Environment" podemos ver el objeto `pinguinos`, y si hacemos clic en ese objeto los datos se abrirán en una nueva pestaña para que veamos que pinta tiene.
 
-<img src="img/view_en_rstudio.png" alt="La pestaña de visualización del data.frame con los datos de pinguinos luego de llamar a la función View()" />
+<img src="view_en_rstudio.png" alt="La pestaña de visualización del data.frame con los datos de pinguinos luego de llamar a la función View()" />
 
 Esta previsualización es lo más parecida a la que tenemos en una hoja de cálculo. Podemos llegar a este panel ejecutando `View(pinguinos)` en la consola (Importante: R distingue mayúsculas de minísculas!). Hay otras funciones que nos sirven para visualizar nuestros datos. Vamos a utilizar dos de ellas:
 
@@ -196,11 +196,9 @@ Y listo, hemos leído un archivo xlsx. Por supuesto, a veces tenemos que trabaja
 
 Ahora que tenemos los datos leídos en R, es el momento de analizar esos datos.
 
-#### Ejercicio: analizando los datos que vamos a usar como ejemplo.
-
-Cada uno puede seleccionar el conjunto de datos a utilizar.  Vamos a trabajar con ejemplos del conjunto de datos sobre [las copas del mundo de futbol](https://www.kaggle.com/datasets/abecklas/fifa-world-cup) para mostrar el codigo y las salidas.
-
-> #### Ejercicio cinco: Conjunto de Datos.
+> #### Ejercicio cinco: analizando los datos que vamos a usar como ejemplo.
+>
+>Cada uno puede seleccionar el conjunto de datos a utilizar.  Vamos a trabajar con ejemplos del conjunto de datos sobre [las copas del mundo de futbol](https://www.kaggle.com/datasets/abecklas/fifa-world-cup) para mostrar el codigo y las salidas.
 > 
 > 1. Deberas generarte una cuenta en Kaggle para poder descargar el conjunto de datos. 
 > 2. Descarga todos los archivos y copialos en la carpeta datos de tu proyecto para este curso.
