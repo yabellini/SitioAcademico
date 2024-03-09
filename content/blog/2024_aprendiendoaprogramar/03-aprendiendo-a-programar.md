@@ -86,20 +86,22 @@ Por defecto además RStudio va a recordar las variables que estés usando mañan
 Y si bien suena práctico volver a R al otro día y tener el análisis tal cual lo dejamos, esto puede significar que nunca nos demos cuenta que nos faltó guardar una línea de código clave en nuestro análisis.
 
 
-#### Tercer ejercicio: Configurá RStudio
+> #### Tercer ejercicio: Configurá RStudio
+> 
+> 1.  Hacé click en el menú **Tools (Herramientas)** y luego **Global Options (Opciones globales)**.
+> 2.  Destildá la opción **Restore .RData into workspace at startup (Recuperar .RData al inicio de la sesión)**.
+> 3.  Hacé click en **Apply (Aplicar)**.
 
-1.  Hacé click en el menú **Tools (Herramientas)** y luego **Global Options (Opciones globales)**.
-2.  Destildá la opción **Restore .RData into workspace at startup (Recuperar .RData al inicio de la sesión)**.
-3.  Hacé click en **Apply (Aplicar)**.
-
-
-Para que
 
 ## Objetivo final de nuestro curso
 
 A partir de ahora vamos a empezar a trabajar con nuestro proyecto de curso.  El objetivo final es poder realizar un analisis de un conjunto de datos que ustedes elijan.  Este analisis debera contener lectura y limpieza de datos, visualizaciones, reportes y un sitio web con la publicacion de los resultados. 
 
-Para ver un ejemplo del tipo de resultado que podemos obtener vamos a chequear este reporte 
+Para ver un ejemplo del tipo de resultado que podemos obtener vamos a revisar este proyecto sobre los Pingüinos Papúa.
+
+> #### Cuarto ejercicio: Explorar el proyecto de los Pingüinos 
+> 
+> 1. Descarga el archivo [rstudio-project-pinguinos.zip](rstudio-project-pinguinos.zip) que contiene el proyecto. 
 
 ## Leyendo y observando datos
 
