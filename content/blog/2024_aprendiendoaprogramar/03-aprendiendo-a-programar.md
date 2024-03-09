@@ -117,7 +117,7 @@ Ahora veamos cómo es nuestro Informe de Pingüinos.
 -   Debajo hay secciones alternas *blancas* y *grises*. Estas son las dos secciones principales que componen un archivo RMarkdown: \* Las secciones grises son el código R \* Las secciones blancas son el texto de Markdown
 -   Hay texto negro, azul y verde.
 
-> Sigamos adelante y "tejamos (knit)" el documento haciendo clic en el ovillo de hilo azul (<img src="img/knit-boton.png">) en la parte superior del archivo RMarkdown.
+> Sigamos adelante y "tejamos (knit)" el documento haciendo clic en el ovillo de hilo azul (<img src="knit-boton.png">) en la parte superior del archivo RMarkdown.
 
 ¡Acabamos de crear un archivo html! Se trata de una única página web que estamos viendo localmente en nuestros propios ordenadores. Al generar este documento RMarkdown, R ha formateado el texto markdown y ha ejecutado el código R.
 
