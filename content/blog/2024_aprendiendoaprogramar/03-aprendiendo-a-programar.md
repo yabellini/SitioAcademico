@@ -60,14 +60,46 @@ Cada vez que salgamos de RStudio, tendremos que volver a abrir nuestro proyecto.
 
 RStudio permite tener varios proyectos abiertos, y esto es posible porque justamente cada proyecto tiene su propia carpeta. Si en algún momento trabajas con proyectos en paralelo vas a poder hacerlo sin que el código o los resultados de un análisis interfieran con otro.
 
-#### Segundo ejercicio: Abrí tu nuevo proyecto desde el explorador de archivos
+> #### Segundo ejercicio: Abrí tu nuevo proyecto desde el explorador de archivos
+> 
+> 1.  Cerrá RStudio
+> 2.  Desde el explorador de archivos, buscá la carpeta donde creaste tu proyecto.
+> 3.  Hacé doble click en el archivo que tiene el nombre de tu proyecto (y que termina con *.Rproj*) que encontrarás en esa carpeta. 
 
-1.  Cerrá RStudio
-2.  Desde el explorador de archivos, buscá la carpeta donde creaste tu proyecto.
-3.  Hacé doble click en el archivo que tiene el nombre de tu proyecto (y que termina con *.Rproj*) que encontrarás en esa carpeta. 
 
+### Borrón y cuenta nueva... todos los días!
+
+Vamos a configurar RStudio para que nos ayude a seguir ordenandonos con la idea de poder replicar el analisis que vamos a hacer. Nos vamos a ocupar en que al menos en tu computadora puedas repetir los cálculos o el análisis desde cero.
+
+Y además de organizar proyectos y no modificar los datos originales, ¿cómo podés asegurarte de que guardaste todo el código que estuviste escribiendo y usaste?
+
+La manera más directa es reiniciar la sesión de R y correr el código de nuevo, si da error o no devuelve lo que esperabas significa que te faltó guardar algún paso.
+
+
+> Tip: Podés reiniciar la sesión de R con el atajo `Ctrl+Shif+F10`
+
+Esto puede pasar si por ejemplo leés una base de datos en memoria pero no guardás el código que lo hace.
+Mientras estemos trabajando, R tendrá esa base de datos en memoria y podremos hacer cálculos y gráficos.
+
+Por defecto además RStudio va a recordar las variables que estés usando mañana o pasado en un archivo oculto (.RData) a menos que le indiques lo contrario.
+
+Y si bien suena práctico volver a R al otro día y tener el análisis tal cual lo dejamos, esto puede significar que nunca nos demos cuenta que nos faltó guardar una línea de código clave en nuestro análisis.
+
+
+#### Tercer ejercicio: Configurá RStudio
+
+1.  Hacé click en el menú **Tools (Herramientas)** y luego **Global Options (Opciones globales)**.
+2.  Destildá la opción **Restore .RData into workspace at startup (Recuperar .RData al inicio de la sesión)**.
+3.  Hacé click en **Apply (Aplicar)**.
+
+
+Para que
 
 ## Objetivo final de nuestro curso
+
+A partir de ahora vamos a empezar a trabajar con nuestro proyecto de curso.  El objetivo final es poder realizar un analisis de un conjunto de datos que ustedes elijan.  Este analisis debera contener lectura y limpieza de datos, visualizaciones, reportes y un sitio web con la publicacion de los resultados. 
+
+Para ver un ejemplo del tipo de resultado que podemos obtener vamos a chequear este reporte 
 
 ## Leyendo y observando datos
 
