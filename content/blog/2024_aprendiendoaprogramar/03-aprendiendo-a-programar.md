@@ -19,18 +19,19 @@ tags:
 
 ## Ordenando nuestro trabajo
 
+### Proyectos
 Cuando empezamos a trabajar en un proyecto de programacion vamos a ir generarndo diferentes resultados y productos intermedios hasta que terminemos, ademas de nuestros datos y nuestro codigo, tendremos, por ejemplo graficos y diferentes reportes.
 
 Es una buena practica mantener todos los archivos asociados a un proyecto en un mismo lugar. RStudio cuenta con soporte integrado para esto por medio de los proyectos.
 
-### ¿Qué ventajas tiene?
+#### ¿Qué ventajas tiene?
 
 -   Te permite "cuidar" los datos que usas al ordenarnos en carpetas que diferencien entre la versión originaly los datos que transformaste y limpiaste o los resultados finales.
 -   Te permite compartir tu trabajo de forma mas sencilla con otras personas. Solo tendrías que compartir la carpeta del proyecto sabiendo que incluye todo lo necesario para que cualquiera reproduzca tu análisis.
 -   Te permite publicar de manera ordenada tu código si vas a presentar o publicar tu trabajo.
 -   Te permite continuar con lo que estabas haciendo hace una semana o hace un mes como si el tiempo no hubiera pasado. De alguna manera es un regalo para tu yo futuro.
 
-### Creando un proyecto
+#### Creando un proyecto
 
 Vamos a crear un proyecto de RStudio para usarlo durante el resto de este curso.
 
@@ -54,7 +55,7 @@ Podemos ver que el nombre del proyecto aparece arriba a la derecha de la IDE y t
 
 Podemos crear tantas carpetas y archivos como necesitemos. Nuestro proyecto va a evolucionar a medida que avanzamos.
 
-### Abrir un proyecto
+#### Abrir un proyecto
 
 Cada vez que salgamos de RStudio, tendremos que volver a abrir nuestro proyecto. La manera más simple de abrirloes entrando en la carpeta que lo contiene y haciendo doble click sobre el archivo *ProgramacionConR.Rproj*. Al hacer esto se abrirá RStudio y la sesión de R en la misma carpeta y, por defecto, cualquier archivo que quieras abrir o guardar lo hará en esa misma ubicación. Esto ayuda a mantener tu trabajo ordenado y que luego sea simple retomar o compartir lo que hiciste.
 
@@ -74,7 +75,6 @@ Vamos a configurar RStudio para que nos ayude a seguir ordenandonos con la idea 
 Y además de organizar proyectos y no modificar los datos originales, ¿cómo podés asegurarte de que guardaste todo el código que estuviste escribiendo y usaste?
 
 La manera más directa es reiniciar la sesión de R y correr el código de nuevo, si da error o no devuelve lo que esperabas significa que te faltó guardar algún paso.
-
 
 > Tip: Podés reiniciar la sesión de R con el atajo `Ctrl+Shif+F10`
 
@@ -101,7 +101,60 @@ Para ver un ejemplo del tipo de resultado que podemos obtener vamos a revisar es
 
 > #### Cuarto ejercicio: Explorar el proyecto de los Pingüinos 
 > 
-> 1. Descarga el archivo [rstudio-project-pinguinos.zip](rstudio-project-pinguinos.zip) que contiene el proyecto. 
+> 1. Descarga el archivo [rstudio-project-pinguinos.zip](rstudio-project-pinguinos.zip) que contiene el proyecto y descomprimirlo.
+> 2. Abrir el proyecto project.Rproj.
+> 3. Analizar su estructura (que carpetas y archivos tiene el proyecto?)
+
+
+Hasta la clase pasada todo el codigo que escribimos lo hicimos en la consola, por lo que lo perdimos todo cuando cerremos RStudio. Para poder volver a utilizarlo tenemos que guardarlo. Para ello utilizamos R Scripts y archivos RMarkdown o archivos Quarto.
+
+Vamos a tener nuestra primera experiencia con archivos RMarkdown, así que vamos a ver qué es un documento RMarkdown. En el proyecto de los pinguinos que recien abriste te preparamos un reporte de ejemplo, por favor abri el archivo [reporte_pinguinos.Rmd](rstudio-project-pinguinos/reporte_pinguinos.Rmd). El archivo aparecerá en un nuevo panel arriba en el lado izquierdo de la pantalla, y el panel de la consola se moverá hacia abajo.
+
+
+## RMarkdown
+
+Un archivo RMarkdown es un archivo de texto plano, con algunas reglas y una sintaxis especial que nos permite escribir código y texto juntos. Cuando se "teje" (knit), el código se evaluará y ejecutará y el texto se formateará de manera que se cree un informe o documento reproducible que sea agradable de leer y que contenga todo tu trabajo.
+
+Esto es realmente crítico para la reproducibilidad. También nos ahorra tiempo y puede ayudar en las tareas de automatización. Este documento recreará tus figuras por ti en el mismo documento donde estás escribiendo el texto que las explica. Esto le ahorrará el esfuerzo de hacer un análisis, guardar un gráfico en un archivo, copiar y pegar ese gráfico en Word o Power Point o Google Slides, y tener que hacerlo todo de nuevo después de descubrir un error tipográfico.
+
+Ahora veamos cómo es nuestro Informe de Pingüinos.
+
+* La parte superior tiene el Título y el tipo de salida (que en este caso es un documento HTML).
+* Debajo hay secciones alternas _blancas_ y _grises_. Estas son las dos secciones principales que componen un archivo RMarkdown:
+      * Las secciones grises son el código R
+      * Las secciones blancas son el texto de Markdown
+* Hay texto negro, azul y verde.
+
+> Sigamos adelante y "tejamos (knit)" el documento haciendo clic en el ovillo de hilo azul (<img src="img/knit-boton.png">) en la parte superior del archivo RMarkdown. 
+
+¡Acabamos de crear un archivo html! Se trata de una única página web que estamos viendo localmente en nuestros propios ordenadores. Al generar este documento RMarkdown, R ha formateado el texto markdown y ha ejecutado el código R.
+
+<img src="img/markdown-knit.png" alt="Rmarkdown a la izquierda. Documento generado a la derecha"/>
+
+### Texto markdown
+
+Podes ver una guia sobre rmakdown [en esta guía rápida](https://raw.githubusercontent.com/rstudio/cheatsheets/main/translations/spanish/rmarkdown_es.pdf), pero aquí hay una sintaxis mínima para empezar:
+
+* encabezados empiezan con `# ` o `## `y asi siguiendo (es importante poner un espacio después del último `#`).
+* las palabras en negrita están rodeadas de `**`
+* y las cursiva, con `_`
+
+### Código de R
+
+```{r include=FALSE}
+chunk_start <- "```{r label}"
+chunk_end <- "```"
+```
+
+El código R se escribe dentro de "chunks (trozos)" de código. Los trozos de código comienzan con `` `r chunk_start` `` (donde "label" es un nombre opcional y único) y terminan con `` `r chunk_end` ``. En RStudio, podes crear un nuevo chunk con el atajo de teclado `Ctrl + Alt + I`.
+
+Este informe muestra información sobre los pingüinos Papúa, pero podríamos cambiar algunas líneas de código para crear el mismo análisis para las otras dos especies, Adelia y Barbijo.
+
+> Ahora es tu turno. Sigue buscando en el código, si encuentras alguna mención a "Papúa", cámbiala por cualquiera de las otras especies. 
+
+Esta tarea es un poco engorrosa si hay que cambiar muchas cosas cada vez que queremos volver a ejecutar el análisis para diferentes especies. Pero no te preocupes, aprenderemos a hacer todo más automático al final del taller. 
+
+
 
 ## Leyendo y observando datos
 
