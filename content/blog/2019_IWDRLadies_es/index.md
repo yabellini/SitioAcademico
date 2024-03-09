@@ -21,43 +21,70 @@ tags:
 >_con notas de Roxana Noelia Villafañe y Gabriela De Queiroz._
 
 
-Como cada 8 de marzo, una vez más se celebra el _Día Internacional de la Mujer (IWD/8M)_.  Aunque dicha fecha tiene distintas formas de celebración, mantiene un punto en común: la lucha por la igualdad de género. El año pasado, en 2018, un grupo de entusiastas R-Ladies tuvo la idea de visibilizar a las grandes mujeres que  forman parte del directorio de R-Ladies, mediante tweets posteados durante todo el 8 de marzo. Por lo que, en Febrero de este año, 2019, Yanina propuso continuar esta gran iniciativa, pero en esta oportunidad twittear sobre cada uno de los capítulos de R-Ladies. 
+Como cada 8 de marzo, una vez más se celebra el _Día Internacional de la Mujer (IWD/8M)_.  Aunque dicha fecha tiene distintas formas de celebración, mantiene un punto en común: _la lucha por la igualdad de género._ 
+
+El año pasado, en 2018, un grupo de entusiastas R-Ladies tuvo la idea de visibilizar a las grandes mujeres que  forman parte del directorio de R-Ladies, mediante tweets posteados durante todo el 8 de marzo. Por lo que, en Febrero de este año, 2019, Yanina propuso continuar esta gran iniciativa, pero en esta oportunidad **twittear sobre cada uno de los capítulos de R-Ladies.** 
 
 La respuesta al llamado por voluntarias, hecho por Yanina, para el 8M fue inmediata. Y en cuestión de días, tuvimos un equipo de grandiosas/brillantes y expertas R-Ladies, compuesto por [Yanina](https://twitter.com/yabellini), [Gabriela](https://twitter.com/gdequeiroz), [Patricia](https://twitter.com/patriloto), [Roxana](https://twitter.com/data_datum), and [Divya](https://twitter.com/DSeernani).
 
-Yanina tomó el timón de este hermoso proyecto, haciendo una lista de tareas pendientes y cada miembro se ofreció para colaborar en lo que podía. Yanina propuso usar la cuenta de twitter del IWD del año anterior, aprovechando el camino recorrido pero concentrándose este año, en incrementar la visibilidad de los capítulos porque son la base de R-Ladies; gracias a ellos la comunidad se reúne, enseña y aprende; y es dónde se intercambian experiencias en cada lugar del mundo. Los capítulos son los que sustentan y potencian la  comunidad. Por lo que, era lógico invitarlos para celebrar el IWD2019,  y obviamente cada uno apoyó inmediatamente la iniciativa.
+Yanina tomó el timón de este hermoso proyecto, haciendo una lista de tareas pendientes y cada miembro se ofreció para colaborar en lo que podía. 
 
-Durante el mes siguiente, particularmente los días previos al evento fueron una experiencia de profundo aprendizaje para cada una de nosotras, ya que trabajamos  y nos ayudamos de diferentes maneras en todo lo que pudimos. El presente blog trata sobre lo hecho detrás de escena para lograr que el  ‘Día Internacional de la Mujer’ de este año  sea un éxito total para la comunidad de R-Ladies.
+Yanina propuso usar la cuenta de twitter del IWD del año anterior, aprovechando el camino recorrido pero concentrándose este año, en incrementar la visibilidad de los capítulos porque son la base de R-Ladies; gracias a ellos la comunidad se reúne, enseña y aprende; y es dónde se intercambian experiencias en cada lugar del mundo. **Los capítulos son los que sustentan y potencian la  comunidad.** Por lo que, era lógico invitarlos para celebrar el IWD2019,  y obviamente cada uno apoyó inmediatamente la iniciativa.
+
+Durante el mes siguiente, particularmente los días previos al evento fueron una experiencia de profundo aprendizaje para cada una de nosotras, ya que trabajamos  y nos ayudamos de diferentes maneras en todo lo que pudimos. El presente blog trata sobre lo hecho detrás de escena para lograr que el **‘Día Internacional de la Mujer’** de este año  sea un éxito total para la comunidad de R-Ladies.
 
 ## Camino al Día Internacional de la Mujer/8M…
+
 En primer lugar, invitamos a las fundadoras y organizadoras de todos los capítulos de R-Ladies para que actualicen la información de sus respectivos capítulos en Github. ¡Las organizadoras, de los diferentes  capítulos de todas partes del mundo, estuvieron a la altura de la ocasión y Gabriela recibió los pull requests casi a diario!
 
-Luego, un paso importante fue organizar la cuenta de Twitter mediante la actualización de su identidad visual e invitando a las R-Ladies de todo el mundo a seguir dicha cuenta. [Esta cuenta](https://twitter.com/rladies_iwd), a su vez, comenzó a seguir a los capítulos de R-Ladies existentes. Las cuentas de twitter de los capítulos de todo el mundo, la cuenta de R-Ladies Global, incluso la de otras organizaciones de mujeres que se enteraron acerca de la iniciativa, se sumaron y comenzaron a seguir la cuenta @rladies_iwd, difundiendo activamente la noticia de lo que se estaba preparando para celebrar el Día Internacional de la Mujer 2019.
+Luego, un paso importante fue organizar la cuenta de Twitter mediante la actualización de su identidad visual e invitando a las R-Ladies de todo el mundo a seguir dicha cuenta. [Esta cuenta](https://twitter.com/rladies_iwd), a su vez, comenzó a seguir a los capítulos de R-Ladies existentes. 
 
-Finalmente, los días previos al Día Internacional de la Mujer (IWD), se realizó una pre-campaña con imágenes diseñados por Patricia y Yanina con la herramienta canva.com. El primer flyer fue twitteado el 17 de Febrero, y fueron enviados casi 25 tweets  desde ese día hasta el 7 de Marzo. Los flyers informaban acerca de lo programado para el Día Internacional de la Mujer e invitaban a seguir la cuenta. La propiedad de etiquetados de imágenes ofrecida por twitter, fue utilizada  para llegar a los lectores con visión disminuida, lo cual permite  que dichas personas tengan acceso a lo que la imágen asociada al twitter quiere transmitir. Todos estos esfuerzos incrementaron los seguidores de la cuenta de R-Ladies IWD en un 53 %. Para este entonces, ¡Estábamos listas para comenzar con la campaña por el Día Internacional  de la Mujer!
+Las cuentas de twitter de los capítulos de todo el mundo, la cuenta de R-Ladies Global, incluso la de otras organizaciones de mujeres que se enteraron acerca de la iniciativa, se sumaron y comenzaron a seguir la cuenta @rladies_iwd, difundiendo activamente la noticia de lo que se estaba preparando para celebrar el Día Internacional de la Mujer 2019.
+
+Finalmente, los días previos al Día Internacional de la Mujer (IWD), se realizó una pre-campaña con imágenes diseñados por Patricia y Yanina con la herramienta Canva. El primer flyer fue twitteado el 17 de Febrero, y fueron enviados casi 25 tweets  desde ese día hasta el 7 de Marzo. Los flyers informaban acerca de lo programado para el Día Internacional de la Mujer e invitaban a seguir la cuenta. La propiedad de etiquetados de imágenes ofrecida por twitter, fue utilizada para llegar a los lectores con visión disminuida, lo cual permite  que dichas personas tengan acceso a lo que la imágen asociada al twitter quiere transmitir. Todos estos esfuerzos _incrementaron los seguidores de la cuenta de R-Ladies IWD en un 53 %. Para este entonces_, ¡Estábamos listas para comenzar con la campaña por el Día Internacional  de la Mujer!
 
 ## ¡La campaña por el Día Internacional de la Mujer!
-La campaña por el Día Internacional de la mujer  consistió en 256 tweets programados que fueron publicados cada 12 minutos desde la primer hora del 8M en la parte más al este del mundo, hasta la última hora del 8M en la parte más oeste del mundo. La campaña comenzó destacando al Equipo Global de R-Ladies. A esto le siguieron los tweets en 4 amplias categorías: información sobre los capítulos existentes, capítulos nuevos que comenzarán pronto con sus meetups, cómo comenzar un nuevo capítulo en tu ciudad e información sobre R-Ladies Remote para que aquellas  personas que están limitadas  por restricciones  geográficas puedan unirse. Dado que una imágen vale más que mil palabras, toda esta información se presentó gráficamente con textos para resaltar el mensaje que se deseaba transmitir. 
+
+La campaña por el Día Internacional de la mujer  consistió en **256 tweets programados** que fueron **publicados cada 12 minutos** desde la primer hora del 8M en la parte más al este del mundo, hasta la última hora del 8M en la parte más oeste del mundo. 
+
+La campaña comenzó destacando al Equipo Global de R-Ladies. A esto le siguieron los tweets en 4 amplias categorías: información sobre los capítulos existentes, capítulos nuevos que comenzarán pronto con sus meetups, cómo comenzar un nuevo capítulo en tu ciudad e información sobre R-Ladies Remote para que aquellas  personas que están limitadas por restricciones  geográficas puedan unirse. Dado que una imágen vale más que mil palabras, toda esta información se presentó gráficamente con textos para resaltar el mensaje que se deseaba transmitir. 
  
 Una vez más, la mayor parte de este trabajo preliminar fue realizado por Yanina, Patricia y Roxana, y el texto que acompañaba a las imágenes fue escrito por Divya. Las dos primeras categorías de imágenes difundidas incluían un mapa mundial identificando la ubicación geográfica de cada capítulo y un enlace a su cuenta de Meetup así las personas podían unirse al instante. Las imágenes para R-Ladies Remote, Leadership y el Equipo Global se crearon con Canvas, y Yanina fue un paso más allá creando un video, con la herramienta Doodly, donde se explicaba cómo comenzar un nuevo capítulo. 
  
-El juego ‘etiquetala si la conoces’ iniciado por la cuenta de Twitter del IWD rápidamente contagió a los capítulos que se etiquetaron entre sí, a las R-Ladies detrás de cada Capítulo y a la cuenta de Twitter de IWD, los cuales alimentaron la emoción. Debido a lo anterior, se lograron muchas consultas y actualizaciones de información de capítulos antiguos y nuevos, la mayoría de los cuales fueron resueltos por Gabriela. ¡Si te estás preguntando quién ganó este juego, te contamos que la cuenta *R_Forwards* tuvo la mayor cantidad de RT y nuestra R-Lady *Laura Ación* fue la más etiquetada!
+El juego **‘etiquetala si la conoces’** iniciado por la cuenta de Twitter del IWD rápidamente contagió a los capítulos que se etiquetaron entre sí, a las R-Ladies detrás de cada Capítulo y a la cuenta de Twitter de IWD, los cuales alimentaron la emoción. Debido a lo anterior, se lograron muchas consultas y actualizaciones de información de capítulos antiguos y nuevos, la mayoría de los cuales fueron resueltos por Gabriela. ¡Si te estás preguntando quién ganó este juego, te contamos que la cuenta *R_Forwards* tuvo la mayor cantidad de RT y*Laura Ación* fue la más etiquetada!
 
 ## Lo que logramos…
-En el Día Internacional de la Mujer Edición 2019, la cuenta de Twitter IWD envió 417 tweets y retweets en 48 horas, publicando 231 tweets con info sobre capítulos nuevos y existentes, Leadership, el Equipo Global, el capítulo Remoto de R-Ladies e información acerca de cómo iniciar un capítulo nuevo. A través de imágenes, tweets, compartiendo enlaces de reuniones, etiquetando y felicitando a las R-Ladies, las experiencias compartidas de #rladies y #IWD2019 acercaron la Red Global de R-Ladies en un sólo IWD en la plataforma Twitter. 
 
-Logramos tres objetivos principales al hacer esto. En primer lugar, presentamos los capítulos de todo el mundo para que aquellos interesados en participar o ayudar conozcan el capítulo más cercano y puedan unirse. En segundo lugar, destacamos R-Ladies Remote como la opción para aquellos que no pueden asistir a reuniones locales. En tercer lugar, explicamos cómo crear un nuevo capítulo. En el proceso, aprendimos mucho más de lo que pretendíamos, y ey, ¡R-Ladies ahora tiene una lista actualizada de capítulos para que todos puedan explorar!
+**En el Día Internacional de la Mujer Edición 2019, la cuenta de Twitter IWD envió 417 tweets y retweets en 48 horas, publicando 231 tweets** con info sobre capítulos nuevos y existentes, Leadership, el Equipo Global, el capítulo Remoto de R-Ladies e información acerca de cómo iniciar un capítulo nuevo. A través de imágenes, tweets, compartiendo enlaces de reuniones, etiquetando y felicitando a las R-Ladies, las experiencias compartidas de #rladies y #IWD2019 acercaron la Red Global de R-Ladies en un sólo IWD en la plataforma Twitter. 
 
-##¿Qué aprendimos como voluntarias en este proyecto?
-En primer lugar, que un equipo animado con un objetivo compartido puede trabajar de manera eficiente y armoniosa para lograr grandes objetivos. En segundo lugar, los equipos no tienen que ser homogéneos. Ya que los voluntarios para este proyecto eran de distintos lugares geográficos, trabajando en diferentes zonas horarias y hablando diferentes idiomas. Esto sumado a la atmósfera de comprensión existente, nos brindó la oportunidad de aprender mucho más. Tercero, cada miembro puede contribuir y cada contribución, por más grande o pequeña que sea, es valiosa. Y una tarea gigantesca se puede realizar trabajando de manera incremental. Finalmente, tuvimos la alegría de aprender de y sobre otras R-ladies de diferentes partes del mundo; y la satisfacción de contribuir a una comunidad que se esfuerza por dar a cada miembro el reconocimiento y el apoyo requerido para crecer.
+Logramos tres objetivos principales al hacer esto:
+
+1. En primer lugar, presentamos los capítulos de todo el mundo para que aquellos interesados en participar o ayudar conozcan el capítulo más cercano y puedan unirse. 
+
+2. En segundo lugar, destacamos R-Ladies Remote como la opción para aquellos que no pueden asistir a reuniones locales. 
+
+3. En tercer lugar, explicamos cómo crear un nuevo capítulo. En el proceso, aprendimos mucho más de lo que pretendíamos, y ey, ¡R-Ladies ahora tiene una lista actualizada de capítulos para que todos puedan explorar!
+
+## ¿Qué aprendimos como voluntarias en este proyecto?
+
+En primer lugar, que un equipo animado con un objetivo compartido puede trabajar de manera eficiente y armoniosa para lograr grandes objetivos. 
+
+En segundo lugar, los equipos no tienen que ser homogéneos. Ya que los voluntarios para este proyecto eran de distintos lugares geográficos, trabajando en diferentes zonas horarias y hablando diferentes idiomas. Esto sumado a la atmósfera de comprensión existente, nos brindó la oportunidad de aprender mucho más. 
+
+Tercero, cada miembro puede contribuir y cada contribución, por más grande o pequeña que sea, es valiosa. Y una tarea gigantesca se puede realizar trabajando de manera incremental. 
+
+Finalmente, tuvimos la alegría de aprender de y sobre otras R-ladies de diferentes partes del mundo; y la satisfacción de contribuir a una comunidad que se esfuerza por dar a cada miembro el reconocimiento y el apoyo requerido para crecer.
 
 ## ¡La acción R!
+
 Somos R-Ladies, por esta razón el uso de R fue obviamente una parte integral de todo el proyecto. Los scripts usados son provistos a continuación, junto con algunos enlaces útiles que ayudaron a guiarnos en el detrás de escena de Twitter.
 
 El enlace más importante fue el [Blog de R-Ladies que explica la Acción de Twitter de IWD 2018](http://blog.rladies.org/post/ideation_and_creation/). Aprende a usar Magick [aquí](https://ropensci.org/blog/2016/08/23/z-magick-release/) y [aquí](https://ropensci.org/tutorials/magick_tutorial/). Un [blog](https://d4tagirl.com/2017/05/how-to-fetch-twitter-users-with-r) que explica cómo hacer mapas. El procesamiento de texto (incluidos caracteres de otros idiomas diferentes al Inglés) se explica [aquí](https://www.gastonsanchez.com/r4strings/stringr-basics.html) y [aquí](https://appsilon.com/writing-excel-formatted-csv-using-readrwrite_excel_csv2/).
 
-##¿Cómo fueron creadas las imágenes?
+## ¿Cómo fueron creadas las imágenes?
+
 La lista de los capítulos actuales contenía la información del país, ciudad, nombre, organizadores, estado (activo o no) y las formas de contacto (correo, sitio web, meetup y redes sociales) de todos los capítulos de R-ladies. 
+
 Esta lista se convirtió en nuestra fuente de datos primarios. También usamos una conjunto de datos de ciudades geolocalizadas para hacer los mapas. Nuestro objetivo era lograr una imágen con los siguientes componentes:
 
 {{< figure src="/img/Chapter_SantaRosa.png" >}}
@@ -298,18 +325,18 @@ for (i in 1:nrow(CCRL)) { #Para todos los capítulos
 }
 ```
 
-For the chapters in the process of creation, we do not have contact information, so we replace that information with some nice images about R-Ladies and its network. The objective was to produce this image:
+Para los capítulos en proceso de creación, no disponemos de información de contacto, así que sustituimos esa información por unas bonitas imágenes sobre R-Ladies y su red. El objetivo era producir esta imagen:
 
 {{< figure src="/img/Chapter_Concepción.png" >}}
 
 
 ```
-#Capítulos sin datos
+# Capítulos sin datos
 
 
-#No tenemos información sobre este capítulo, entonces reemplazamos la información en la imágen
+# No tenemos información sobre este capítulo, entonces reemplazamos la información en la imágen
 
-#Vector de Imágenes
+# Vector de Imágenes
 pics <- c('meme', 'walk', 'group3','group4','future3')
 
 set.seed(42)
@@ -330,7 +357,7 @@ for (i in 1:nrow(SinData)) { #Line for all the chapters
  
   template <- image_composite(template, image_scale(pic, 'x250'), offset = paste("+75+", as.character(place)))  
  
-  #Agrega el mapa del capítulo
+  # Agrega el mapa del capítulo
  
   world <- ggplot() +
     borders("world", colour = "gray85", fill = "gray80") +
@@ -365,7 +392,7 @@ for (i in 1:nrow(SinData)) { #Line for all the chapters
   template <- image_composite(template, image_scale(map, 'x250'), offset = paste("+550+", as.character(place)))  
  
  
- #Agrega el resto de la información
+ # Agrega el resto de la información
   place=190  
  
   template <- image_annotate(template, paste("Chapter R-Ladies",SinData$City[i],'in',SinData$Country[i]), font = 'helvetica', size = 32, location = "+50+20") %>%
@@ -375,7 +402,7 @@ for (i in 1:nrow(SinData)) { #Line for all the chapters
  
   template <- image_annotate(template, org, font = 'helvetica', size = 25, location = "+50+90", color = "black")
  
- #Agrega el código QR
+ # Agrega el código QR
   place=440
  
   template <- image_annotate(template, "+Info:", font = 'helvetica', size = 22, location = paste("+50+", as.character(place)), color = "black")
@@ -384,7 +411,7 @@ for (i in 1:nrow(SinData)) { #Line for all the chapters
  
   template <- image_composite(template, image_scale(qr, "x70"), offset = paste("+125+", as.character(place)))
  
- #Guarda la imágen final
+ # Guarda la imágen final
   image_write(template, paste("Chapter",str_replace_all(SinData$City[i], fixed(" "), ""),".png"), format= "png")
 }
 
@@ -394,6 +421,8 @@ for (i in 1:nrow(SinData)) { #Line for all the chapters
 ## Cómo fueron creados los tweets
 
 Este código para generar el texto de los tweets se basa en el código de Maëlle Salmon utilizado durante la primeta campaña realizada durante el 2018 presente en el  blog de R-Ladies que mencionamos al inicio de este post.
+
+
 ```
 
 # Plantillas
@@ -480,3 +509,7 @@ tweets <- dplyr::select(CCRLTw, City, tweet, picture) %>%
 readr::write_excel_csv2(tweets, path = "ready_tweets_nodata.csv")
 
 ```
+
+## Conclusion
+
+Esperamos que este blog post te de detalles de como se realizan estas iniciativas en redes sociales, no solo desde la organziacion del equipo, si no tambien desde el punto de vista tecnico. 
