@@ -178,19 +178,18 @@ copas %>%
 
 La forma de “leer” esto es “Tomá el conjunto de datos de `copas`, **despues** aplicale `select(Year, Country, Winner)` y **después** aplicale `filter(Winner == "Brazil")`”.
 
-Cómo vimos, el primer argumento de todas las funciones de dplyr es el data frame sobre el cual van a operar, pero notá que en las líneas con select() y filter() no escribís la tabla explícitamente.
+Cómo vimos, el primer argumento de todas las funciones de dplyr es el data frame sobre el cual van a operar, pero notá que en las líneas con `select()` y `filter()` no escribís la tabla explícitamente.
 Esto es porque la pipe implícitamente pasa el resultado de las líneas anteriores como el primer argumento de la función siguiente.
 
-Toma el data frame turistas_edad y se lo pasa al primer argumento de select(). Luego el data frame resultante de esa operación pasa como el primer argumento de la función filter() gracias al %>%.
+Toma el data frame `copas` y se lo pasa al primer argumento de `select()`. Luego el data frame resultante de esa operación pasa como el primer argumento de la función `filter()` gracias al `%>%`.
 
-Tip:
+> Tip: En RStudio podés escribir %>% usando el atajo de teclado Ctr + Shift + M. ¡Probalo!
 
-En RStudio podés escribir %>% usando el atajo de teclado Ctr + Shift + M. ¡Probalo!
+> #### Ejercicio 3
+>
+> Escribir una combinacion de verbos usando el pipe que nos liste todas las copas en la que Brasil fue el campeon e Italia el subcampeon.
 
-## Agrupar casos, generar nuevas columnas y calcular resumenes.
-
-
-Pipe o tuberia %>% 
+**Una posible solucion ejercicio 3**
 
 ```{r}
 copas %>% 
@@ -199,6 +198,17 @@ copas %>%
   filter(`Runners-Up` == "Italy") 
 
 ```
+
+## Agrupar casos, generar nuevas columnas y calcular resumenes.
+
+El pipe o _tuberia_ nos va a permitir realizar operaciones interesantes como agrupar casos, generar nuevas columnas y calcular resumenes. 
+
+
+A primera vista parecería que la función no hizo nada, pero fijate que el resultado ahora dice que tiene grupos (“Groups:”), y nos dice qué columna es la que agrupa los datos (“edad”) y cuántos grupos hay (“5”). Las operaciones subsiguientes que le hagamos a esta tabla van a hacerse para cada grupo.
+
+Para ver esto en acción, usá summarise() para computar el promedio de turistas
+
+
 
 ### Saber cuantas veces salio campeon cada pais.
 
@@ -222,7 +232,7 @@ copas %>%
   filter(Winner == "Brazil", GoalsScored != 161) 
 ```
 
-
+#### Ejercicio 3: Pensar preguntas para los datos.
 
 
 
