@@ -203,14 +203,46 @@ copas %>%
 
 El pipe o _tuberia_ nos va a permitir realizar operaciones interesantes como agrupar casos, generar nuevas columnas y calcular resumenes. 
 
-
-A primera vista parecería que la función no hizo nada, pero fijate que el resultado ahora dice que tiene grupos (“Groups:”), y nos dice qué columna es la que agrupa los datos (“edad”) y cuántos grupos hay (“5”). Las operaciones subsiguientes que le hagamos a esta tabla van a hacerse para cada grupo.
-
-Para ver esto en acción, usá summarise() para computar el promedio de turistas
-
-
-
 ### Saber cuantas veces salio campeon cada pais.
+
+Para poder contestar esa pregunta, primero hay que agrupar por pais para luego poder contar cuantas veces salio campeon.  Hay que usar el combo `group_by() %>% summarise()`.
+
+```{r}
+copas %>% 
+  group_by(Winner) 
+  
+# A tibble: 20 × 10
+# Groups:   Winner [9]
+   Year       Country      Winner     `Runners-Up` Third Fourth GoalsScored QualifiedTeams MatchesPlayed
+   <date>     <chr>        <chr>      <chr>        <chr> <chr>        <int>          <int>         <int>
+ 1 1930-01-01 Uruguay      Uruguay    Argentina    USA   Yugos…          70             13            18
+ 2 1934-01-01 Italy        Italy      Czechoslova… Germ… Austr…          70             16            17
+ 3 1938-01-01 France       Italy      Hungary      Braz… Sweden          84             15            18
+ 4 1950-01-01 Brazil       Uruguay    Brazil       Swed… Spain           88             13            22
+ 5 1954-01-01 Switzerland  Germany FR Hungary      Aust… Urugu…         140             16            26
+ 6 1958-01-01 Sweden       Brazil     Sweden       Fran… Germa…         126             16            35
+ 7 1962-01-01 Chile        Brazil     Czechoslova… Chile Yugos…          89             16            32  
+```
+
+
+A primera vista parecería que la función no hizo nada, pero fijate que el resultado ahora dice que tiene grupos (“Groups:”), y nos dice qué columna es la que agrupa los datos (“Winner”) y cuántos grupos hay (“9”). Las operaciones subsiguientes que le hagamos a esta tabla van a hacerse para cada uno de esos nueve grupos.
+
+Para ver esto en acción, usá `summarise()` para computar la cantidad de veces que aparece cada pais.
+
+```{r}
+copas %>% 
+  group_by(Winner) %>% 
+  summarise(cantidad = n()) %>% 
+  arrange(desc(cantidad))
+
+```
+
+> #### Ejercicio 4 
+> 
+> Usa la ayuda para ver que hace la funcion `n()` 
+
+
+`group_by()` permite agrupar en base a múltiples columnas y `summarise()` permite generar múltiples columnas de resumen. Por ejemplo podriamos querer saber cual fue el maximo de goles anotados cuando cada pais salio campeon.
 
 ```{r}
 copas %>% 
@@ -219,20 +251,22 @@ copas %>%
             max_goles = max(GoalsScored)) %>% 
   arrange(desc(cantidad))
 
+# A tibble: 9 × 3
+  Winner     cantidad max_goles
+  <chr>         <int>     <int>
+1 Brazil            5       161
+2 Italy             4       147
+3 Germany FR        3       140
+4 Argentina         2       132
+5 Uruguay           2        88
+6 England           1        89
+7 France            1       171
+8 Germany           1       171
+9 Spain             1       145
+
 ```
 
-```{r}
-copas %>% 
-  filter(Winner == "Brazil") %>% 
-  filter(GoalsScored != 161)
-```
-
-```{r}
-copas %>% 
-  filter(Winner == "Brazil", GoalsScored != 161) 
-```
-
-#### Ejercicio 3: Pensar preguntas para los datos.
+> #### Ejercicio 5: Pensar preguntas para cada uno de los conjuntos de datos usando los verbos que aprendimos hoy.  Las vamos a resolver la clase que viene.
 
 
 
