@@ -3,7 +3,7 @@ title: "Cuarto Encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 4
 subtitle: "Cuarto encuentro"
 excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos que son los paquetes, repasamos el proceso de analizar datos y descargamos los datos que vamos a usar para el resto de las clases"
-date: 2024-03-24
+date: 2024-03-23
 draft: false
 categories:
   - Español
