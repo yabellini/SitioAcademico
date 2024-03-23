@@ -232,9 +232,42 @@ Para ver esto en acción, usá `summarise()` para computar la cantidad de veces 
 ```{r}
 copas %>% 
   group_by(Winner) %>% 
+  summarise(cantidad = n()) 
+
+# A tibble: 9 × 2
+  Winner     cantidad
+  <chr>         <int>
+1 Argentina         2
+2 Brazil            5
+3 England           1
+4 France            1
+5 Germany           1
+6 Germany FR        3
+7 Italy             4
+8 Spain             1
+9 Uruguay           2
+```
+
+El resultado se veria mejor si pudieramos ordenar el listado por el pais que mas veces gano la copa del mundo, para eso usamos la funcion `arrange()` y para indicarle que ordene de mayor a menor usamos la funcion `desc()` por dencendente.
+
+```{r}
+copas %>% 
+  group_by(Winner) %>% 
   summarise(cantidad = n()) %>% 
   arrange(desc(cantidad))
 
+# A tibble: 9 × 2
+  Winner     cantidad
+  <chr>         <int>
+1 Brazil            5
+2 Italy             4
+3 Germany FR        3
+4 Argentina         2
+5 Uruguay           2
+6 England           1
+7 France            1
+8 Germany           1
+9 Spain             1
 ```
 
 > #### Ejercicio 4 
@@ -265,6 +298,10 @@ copas %>%
 9 Spain             1       145
 
 ```
+
+El resultado va a siempre ser una tabla con la misma cantidad de filas que grupos y una cantidad de columnas igual a la cantidad de columnas usadas para agrupar y los estadísticos calculados.
+
+
 
 > #### Ejercicio 5: Pensar preguntas para cada uno de los conjuntos de datos usando los verbos que aprendimos hoy.  Las vamos a resolver la clase que viene.
 
