@@ -2,7 +2,7 @@
 title: "Cuarto Encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 4
 subtitle: "Cuarto encuentro"
-excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos que son los paquetes, repasamos el proceso de analizar datos y descargamos los datos que vamos a usar para el resto de las clases"
+excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos como cambiar el tipo de dato cuando leemos los archivos, que son los verbos de dplyr y el pipe. Los usamos para filtrar columnas filas ya agrupar casos."
 date: 2024-03-23
 draft: false
 categories:
@@ -300,7 +300,6 @@ copas %>%
 ```
 
 El resultado va a siempre ser una tabla con la misma cantidad de filas que grupos y una cantidad de columnas igual a la cantidad de columnas usadas para agrupar y los estadísticos calculados.
-
 
 
 > #### Ejercicio 5: Pensar preguntas para cada uno de los conjuntos de datos usando los verbos que aprendimos hoy.  Las vamos a resolver la clase que viene.
