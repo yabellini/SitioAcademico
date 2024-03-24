@@ -271,9 +271,10 @@ goles %>%
   geom_line()
 ```
 
-<img src="grafico_lienas.png" alt="Grafico con una linea negra indicando la cantidad de goles totales en cada copa del mundo. La tendencia en la cantidad de goles va en aumento a medida que pasa el tiempo. La ultima copa del mundo en el conjunto de datos es la que mas goles tuvo." />
+<img src="grafico_lineas.png" alt="Grafico con una linea negra indicando la cantidad de goles totales en cada copa del mundo. La tendencia en la cantidad de goles va en aumento a medida que pasa el tiempo. La ultima copa del mundo en el conjunto de datos es la que mas goles tuvo." />
 
-> Ejercicio 1: Intentemos hacer un grafico
+
+> #### Ejercicio 1: Intentemos hacer un grafico
 >
 > Que cambios le tendrias que hacer al grafico anterior para mostrar la cantidad de goles de los equipos visitantes?
 >
@@ -296,8 +297,11 @@ goles %>%
   geom_line(aes(x=Year, y = goles_v)) +
   geom_line(aes(x=Year, y = goles_l))
 ```
+<img src="grafico_2lineas.png" alt="Grafico con dos lineas negras que presentan la evolucion de la cantidad de goles realizados por los equipos locales y visitantes a traves del tiempo en cada copa del mundo." />
 
+Tenemos ambos valores graficados y las lineas son diferentes, pero como las lineas tienen el mismo color no podemos distingir cual pertenece a los visitantes y cual a los locales.
 
+Ya vamos a ver en las proximas clases que cada parte del grafico se puede asociar a una variable del conjunto de datos.  Tambien veremos que podemos dar valores constantes a diferentes partes del grafico.  En este caso vamos a pintar de colores verde y azul las lineas para poder diferenciarlas.
 
 ```{r}
 goles %>% 
@@ -306,6 +310,9 @@ goles %>%
   geom_line(aes(x=Year, y = goles_l), color = "green")
 ```
 
+<img src="grafico_2lineas_color.png" alt="Grafico con una linea azul con los goles de los equipos visitantes y una linea verde con losgoles realizados por los equipos locales. Es claro que los equipos locales siempre hacen mas goles que los equipos visitantes." />
+
+Ahora podemos distinguir entre cada serie de datos y ademas notar que con exepcion de la copa del mundo del 2014, los equipos que son locales siempre hacen mas goles que los equipos visitantes. Mostrando en el grafico la siempre mencionada "ventaja" del local. 
 
 
 
