@@ -1,6 +1,6 @@
 ---
 title: "Crossing the Language Barrier"
-excerpt: "I joined my chat with Peter Schmidt podcast Code for Thought to discuss teaching, localization, barriers to be part of the OSS being a non-native English speaker"
+excerpt: "I joined Peter Schmidt podcast Code for Thought to discuss teaching, localization, barriers to be part of the OSS being a non-native English speaker"
 date: 2024-03-12
 date_end: "2024-03-12"
 author: "Yanina Bellini Saibene"
