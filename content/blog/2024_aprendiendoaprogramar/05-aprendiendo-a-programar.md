@@ -19,13 +19,48 @@ tags:
 
 ## Preguntas sobre los datos
 
+El ultimo ejercicio de la clase anterior era pensar en preguntas a contestar usando los datos de nuestros conjuntos de datos.  Juan Cruz trajo muchas preguntas, contestamos algunas y dejamos otras para mas adelante porque aun no habiamos visto los conceptos necesarios para poder resolverlas.
+
+Veamos las preguntas que si pudimos contestar:
+
 ### Para copas
 
-- todas las veces que argentina quedo entre los 3 mejores
+- *Todas las veces que Argentina quedo entre los 3 mejores*:podemos usar filter(), pero como indicamos que deje las filas en caso que Argentina haya sido campeon, subcampeon o tercero? 
+
+Primero, filter puede tener mas de una condicion. 
+
+> #### Ejercicio 1
+>
+> 
+
+
+* Solucion propuesta
+```{r}
+copas %>% 
+  filter(Winner == "Brazil") %>% 
+  filter(GoalsScored != 161)
+```
+
+* Otra solucion:
+```{r}
+copas %>% 
+  filter(Winner == "Brazil", GoalsScored != 161) 
+```
+Las condiciones se generan con operadores logicos:
+
+
+operator	definition		operator	definition
+<	less than		x | y	x OR y
+<=	less than or equal to		is.na(x)	test if x is NA
+>	greater than		!is.na(x)	test if x is not NA
+>=	greater than or equal to		x %in% y	test if x is in y
+==	exactly equal to		!(x %in% y)	test if x is not in y
+!=	not equal to		!x	not x
+x & y	x AND y
 
 ```{r}
 copas %>% 
-  filter(Winner == "Argentina" | `Runners-Up` == "Argentina" | Third == "Argentina" | Fourth == "Argentina")
+  filter(Winner == "Argentina" | `Runners-Up` == "Argentina" | Third == "Argentina")
 ```
 
 Al ver los resultados, nos dimos cuenta que si Argentina llego a la semifinal, siempre paso a la final.  Nunca perdimos una semifinal.  Armamos esta consulta para chequear ese datos
