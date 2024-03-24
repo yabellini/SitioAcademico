@@ -30,5 +30,5 @@ links:
 
 Yanina Bellini Saibene Saibene is well known in the R (rOpenSci, R Ladies, Latin R) and The Carpentries (where she is the Vice President). She is passionate about making computing resources and teaching materials accessible to people, whose first language isn't English.
 I had the pleasure of meeting Yanina for an interview where she explains how localising materials and software is essential if we want to break down barriers.
-Listen to it on your podcast app or YouTube podcast https://lnkd.in/dS9nUBRc or directly at 
+
 #rse #code4thought #podcast #rOpenSci #rLadies #LatinR #localisation
