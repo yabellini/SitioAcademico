@@ -233,17 +233,71 @@ goles <- partidos %>%
             goles_t = goles_v + goles_l)
 ```
 
-El paquete para hacer graficos se llama `ggplot2` y la funcion principal es `ggplot()`. El primer argumento de ggplot es el conjunto de datos (igual que las otras funciones del tidyverse), en nuestro caso sera `goles`.
+El paquete para hacer graficos se llama `ggplot2` y la funcion principal es `ggplot()`. El primer argumento de ggplot es el conjunto de datos (igual que las otras funciones del tidyverse), en nuestro caso sera `goles`.  
+
+```{r}
+goles %>% 
+  ggplot() 
+
+```
+
+<img src="grafico_vacio.png" alt="Recuadro gris marcando un area para realizar un grafico" />
 
 
+El resultado de pasarle los datos a la funcion `ggplot()` es este recuadro gris, que nos indica que el grafico se inicializo, pero no hay ningun tipo de grafico porque aun no le indicamos que variables queremos graficar, ni que tipo de grafico queremos hacer.
+
+### Segunda capa: las coordenadas
+
+El segundo argumento se llama “mapping” (_mapeo_ en inglés). Este argumento define la relación entre cada columna del data frame y los distintos parámetros gráficos. Por ejemplo, qué columna va a representar el eje x, cuál va a ser el eje y, etc.. Este mapeo se hace **siempre** con la función `aes()` (que viene de "aesthetics", _estética_ en inglés).
+
+Por ejemplo, si querés hacer un gráfico que muestre la evolucion de la cantidad de goles totales en las copas del mundo, usarias algo asi: 
+
+```{r}
+goles %>% 
+  ggplot(mapping = aes(x= Year, y = goles_t)) 
+```
+
+<img src="grafico_ejes.png" alt="Recuadro gris sin un grafico pero ahora marcando en el eje x los anos, inicia en 1930 y termina en 2014 y el eje y con la cantidad de goles, inicia en cero y termina en 250." />
+
+Este código le indica a `ggplot` que genere un gráfico donde el eje x se mapea a la columna `Year` y el eje y, a la columna `goles_t`. Pero, como se ve, esto sólo genera el área del gráfico y los ejes. Lo que falta es indicar con qué geometrías representar los datos.
+
+### Tercera capa: geometrias.
+
+Para agregar geometrías que representen los datos lo que hay que hacer es _sumar_ (+) el resultado de una función que devuelva una capa de geometrías. Estas suelen ser funciones que empiezan con “geom_” y luego el nombre de la geometría (en inglés). Para representar los datos usando lineas, hay que uasr geom_line()
 
 ```{r}
 goles %>% 
   ggplot(mapping = aes(x= Year, y = goles_t)) +
   geom_line()
-
-
 ```
+
+<img src="grafico_lienas.png" alt="Grafico con una linea negra indicando la cantidad de goles totales en cada copa del mundo. La tendencia en la cantidad de goles va en aumento a medida que pasa el tiempo. La ultima copa del mundo en el conjunto de datos es la que mas goles tuvo." />
+
+> Ejercicio 1: Intentemos hacer un grafico
+>
+> Que cambios le tendrias que hacer al grafico anterior para mostrar la cantidad de goles de los equipos visitantes?
+>
+
+* Solucion propuesta:
+
+```{r}
+goles %>% 
+  ggplot(aes(x=Year, y = goles_v)) +
+  geom_line()
+```
+
+### Agregando mas capas
+
+Supongamos que quisieramos comparar la cantidad de goles de los equipos locales con los visitantes.  ggplot() es muy poderoso porque usando el mas podemos agregar mas capas y podriamos tener un geom_line por cada variable.  Vamos a hacerlo.
+
+```{r}
+goles %>% 
+  ggplot() +
+  geom_line(aes(x=Year, y = goles_v)) +
+  geom_line(aes(x=Year, y = goles_l))
+```
+
+
 
 ```{r}
 goles %>% 
@@ -251,8 +305,6 @@ goles %>%
   geom_line(aes(x=Year, y = goles_v), color = "blue") +
   geom_line(aes(x=Year, y = goles_l), color = "green")
 ```
-
-
 
 
 
