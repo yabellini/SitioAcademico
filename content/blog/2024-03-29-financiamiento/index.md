@@ -17,8 +17,6 @@ tags:
   - 100DaysToOffload
 ---
 
-  
-
 ### Breve descripción del proyecto
 
 _Describir de qué se trata el proyecto (1 a 3 líneas)._: **Evaluación de herramientas digitales e información remota en rotaciones de cultivos extensivos en la región semiárida**
@@ -87,21 +85,19 @@ _Tener en cuenta que los objetivos específicos deben estar insertos en los gene
 
   2.3. Generación de una primer versión de una guía de uso de índices espectrales para cultivos de cosecha gruesa en zonas semiáridas
 
-  
-
 ### Descripción de las etapas y plan de trabajo del proyecto
-
-3.  
 
 Para cada etapa: a) describirla técnicamente; b) hacer referencia a los objetivos específicos que la originan; c) enumerar las principales actividades que la componen; d) indicar cuál es la participación de la empresa y del grupo de investigación en cada una de las actividades; e) mencionar cuáles son los recursos ya disponibles que se utilizarán; f) describir cuáles son los respectivos hitos o entregables. Incluir también un diagrama de Gantt de las etapas del proyecto, indicando las posibles interdependencias.
 
-El pro yecto contempla siete etapas que se detallan en la tabla 1 y el diagrama de gantt correspondiente.  La **Etapa 1.a** permite realizar la implnatación de los ensayos en la EEA Anguil sobre los cuales se realizarán los vuelos y toma de datos correspondientes.  Corresponden a dos ambientes semiáridos.  
+El proyecto contempla siete etapas que se detallan en la tabla 1 y el diagrama de gantt correspondiente.  
 
-La **Etapa 1.b.** permite generar el entorno de procesamiento de las imágenes con los indices de interés para el estudio.
+* La **Etapa 1.a** permite realizar la implnatación de los ensayos en la EEA Anguil sobre los cuales se realizarán los vuelos y toma de datos correspondientes.  Corresponden a dos ambientes semiáridos.
 
-Las **etapas 2 a 6** corresponden al registro de datos a campo y vuelos correspondientes a estados fenológicos claves en el desarrollo del cultivo: vegetativo, prefloración, floración, posfloración y madurez.  Estas 5 fechas de registro de datos con drone y a campo proveerá las herramientas para analizar cada índice en cada fecha, para analizar su utilidad y posibilidad de uso para decisciones de manejo posteriores.
+* La **Etapa 1.b.** permite generar el entorno de procesamiento de las imágenes con los indices de interés para el estudio.
 
-La **etapa 7** permite analizar todas las fechas e indices para poder generar una guia de recomendación y el informe de resultados final. 
+* Las **etapas 2 a 6** corresponden al registro de datos a campo y vuelos correspondientes a estados fenológicos claves en el desarrollo del cultivo: vegetativo, prefloración, floración, posfloración y madurez.  Estas 5 fechas de registro de datos con drone y a campo proveerá las herramientas para analizar cada índice en cada fecha, para analizar su utilidad y posibilidad de uso para decisciones de manejo posteriores.
+
+* La **etapa 7** permite analizar todas las fechas e indices para poder generar una guia de recomendación y el informe de resultados final. 
 
 Tabla 1. Etapas y actividades principales
 
@@ -286,59 +282,20 @@ Tabla 1. Etapas y actividades principales
                                                                                                                               30-jun-20      |     |
 |     |                                                                                       |     |                  |     |               |     |
 
-1.  
 
-2.  Presupuesto
+### Presupuesto
 
-3.  
 
-Describir y justificar el presupuesto solicitado por rubro. Para gastos en los rubros "Maquinarias y equipos", "Materiales e insumos" y "Otros", cuando un ítem a comprar o contratar iguale o supere el monto de \$40.000, y para gastos en el rubro "Servicios de terceros" que superen el monto de \$20.000, deberá adjuntarse un presupuesto de dicho ítem.
+_Describir y justificar el presupuesto solicitado por rubro. Para gastos en los rubros "Maquinarias y equipos", "Materiales e insumos" y "Otros", cuando un ítem a comprar o contratar iguale o supere el monto de \$40.000, y para gastos en el rubro "Servicios de terceros" que superen el monto de \$20.000, deberá adjuntarse un presupuesto de dicho ítem._
 
-Nota: este presupuesto establecerá los montos máximos solicitados por rubro, los que podrán ser modificados en el proceso de evaluación. 
+_Nota: este presupuesto establecerá los montos máximos solicitados por rubro, los que podrán ser modificados en el proceso de evaluación. _
 
-|     |                          |     |                 |     |
-|-----|--------------------------|-----|-----------------|-----|
-|     |                          |     |                 |     |
-|     |                          
-       **Rubro**                 |     |                 
-                                        **Monto en \$**  |     |
-|     |                          |     |                 |     |
-|     |                          
-       Materiales e insumos      |     |                 
-                                        40.000           |     |
-|     |                          |     |                 |     |
-|     |                          
-       Servicios de terceros     |     |                 
-                                        20.000           |     |
-|     |                          |     |                 |     |
-|     |                          
-       Maquinarias y equipos     |     |                 
-                                        40.000           |     |
-|     |                          |     |                 |     |
-|     |                          
-       Viajes y viáticos         |     |                 
-                                        60.000           |     |
-|     |                          |     |                 |     |
-|     |                          
-       Gastos de administración  |     |                 
-                                        32.000           |     |
-|     |                          |     |                 |     |
-|     |                          
-       Otros                     |     |                 
-                                        20.000           |     |
-|     |                          |     |                 |     |
-|     |                          
-       **TOTAL**                 |     |                 
-                                        212.000          |     |
-|     |                          |     |                 |     |
+> Removi el prespuesto porque los montos son viejos.
 
-1.  
 
-2.  Cronograma de desembolsos
+### Cronograma de desembolsos
 
-3.  
-
-Describir y justificar el cronograma de los desembolsos previstos. Nota: el financiamiento se efectivizará bajo la modalidad de reembolso de pago hecho, salvo en casos excepcionales --debidamente justificados- en los que se apruebe el pago de anticipos.
+_Describir y justificar el cronograma de los desembolsos previstos. Nota: el financiamiento se efectivizará bajo la modalidad de reembolso de pago hecho, salvo en casos excepcionales -debidamente justificados- en los que se apruebe el pago de anticipos._
 
 |     |            |     |                 |     |                                                            |     |
 |-----|------------|-----|-----------------|-----|------------------------------------------------------------|-----|
@@ -350,76 +307,71 @@ Describir y justificar el cronograma de los desembolsos previstos. Nota: el fina
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 1.a   |     |                 
-                          72.000           |     |                                                            
+                                     |     |                                                            
                                                   Ensayos implantados.  Informe fotográfico correspondiente.  |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 1.b.  |     |                 
-                          20.000           |     |                                                            
+                                    |     |                                                            
                                                   Código fuente en respositorio Git                           |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 2     |     |                 
-                          20.000           |     |                                                            
+                                     |     |                                                            
                                                   Repositorio con planillas con datos de campo                
                                                   Imágenes de vuelos                                          
                                                   Informe de imágenes procesadas                              |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 3     |     |                 
-                          20.000           |     |                                                            
+                                     |     |                                                            
                                                   Repositorio con planillas con datos de campo                
                                                   Imágenes de vuelos                                          
                                                   Informe de imágenes procesadas                              |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 4     |     |                 
-                          20.000           |     |                                                            
+                                     |     |                                                            
                                                   Repositorio con planillas con datos de campo                
                                                   Imágenes de vuelos                                          
                                                   Informe de imágenes procesadas                              |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 5     |     |                 
-                          20.000           |     |                                                            
+                                     |     |                                                            
                                                   Repositorio con planillas con datos de campo                
                                                   Imágenes de vuelos                                          
                                                   Informe de imágenes procesadas                              |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 6     |     |                 
-                          20.000           |     |                                                            
+                                     |     |                                                            
                                                   Repositorio con planillas con datos de campo                
                                                   Imágenes de vuelos                                          
                                                   Informe de imágenes procesadas                              |     |
 |     |            |     |                 |     |                                                            |     |
 |     |            
        Etapa 7     |     |                 
-                          20.000           |     |                                                            
+                                     |     |                                                            
                                                   Repositorio con planillas con datos de campo                
                                                   Imágenes de vuelos                                          
                                                   Informe de imágenes procesadas                              |     |
 |     |            |     |                 |     |                                                            |     |
 
-1.  
 
-2.  Beneficios de las partes
 
-3.  
+### Beneficios de las partes
 
-Describir el grado de desafío tecnológico que el proyecto representa para la empresa, así como el grado en que los resultados del proyecto beneficiarán al grupo de investigación participante.
+_Describir el grado de desafío tecnológico que el proyecto representa para la empresa, así como el grado en que los resultados del proyecto beneficiarán al grupo de investigación participante._
 
 Tecro tiene experiencia en la elaboración de aplicaciones que condensan información georeferenciada sumada a la experiencia en la adquisición de dicha información mediante el uso de dispositivos UAV.  Dentro de su servicio de Drones se ofrece: AGRICULTURA DE PRECISIÓN (NVDI), EVALUACIÓN DE DAÑOS (INCENDIOS, GRANIZO, INUNDACIONES), SEGURIDAD Y MONITOREO, MAPEO Y RELEVAMIENTO, IMÁGEN Y VIDEOS AÉREOS, BÚSQUEDA Y RESCATE además del desarrollo de sistemas de información geográfica para aplicaciones de escritorio o web según las necesidades de los clientes.  Las pruebas a campo y la validación de diferentes índices orientados a la agricultura permitirá a la empresa ampliar el abanico de servicios en la temática de AGRICULTURA DE PRECISIÓN, agregándole valor con la mirada agropecuaria de cada índice ajustado a la zona de estudio.  También será de utilidad el intercambio con el INTA sobre posibles herramientas para el procesamiento de las imágenes.
 
 Para el equipo de investigación permitirá avanzar en una temática de alta demanda del medio, conocer las posibilidades reales de un monitoreo con drone sobre cultivos de gruesa extensivos en la región, ganar capacidad en herramientas (equipamiento y software) para el procesamiento de este tipo de información y contar con una transferencia de los resultados de la investigación.
 
-1.  
+### Planes de adopción de los resultados del proyecto por parte de la empresa participante
 
-2.  Planes de adopción de los resultados del proyecto por parte de la empresa participante
 
-3.  
-
-Describir cuáles serán las fases subsiguientes de este desarrollo hasta la obtención del nuevo o mejorado producto o servicio y su puesta en el mercado. Indicar brevemente cómo se integra este proyecto a la estrategia comercial de la empresa.
+_Describir cuáles serán las fases subsiguientes de este desarrollo hasta la obtención del nuevo o mejorado producto o servicio y su puesta en el mercado. Indicar brevemente cómo se integra este proyecto a la estrategia comercial de la empresa._
 
 El objetivo de la participación de la empresa en el proyecto es la posibilidad de analizar diferentes técnicas de trabajo optimizando el proceso de captura de imágenes y pos proceso orientado a la actividad y fin específico.
 
@@ -427,13 +379,7 @@ Se analizarán distintas resoluciones de imágenes y alturas de vuelo con el fin
 
 También nos ayudara a determinar los distintos periodos de captura de imágenes según los tiempos del cultivo.
 
-En el proceso de captura de imágenes se utilizará:
-
-Drone tipo multicoptero modelo DJI INSPIRE 2.
-
-Camara Multiespectral Parrot Sequoia.
-
-Camara RGB Zenmuse X4S.
+En el proceso de captura de imágenes se utilizará: Drone tipo multicoptero modelo DJI INSPIRE 2, Camara Multiespectral Parrot Sequoia, Camara RGB Zenmuse X4S.
 
 En cuanto al pos proceso el proyecto nos ayudara a definir los distintos formatos de entregas del producto final según las necesidades del análisis a realizar en cada etapa.
 
