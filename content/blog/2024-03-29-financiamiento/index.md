@@ -17,7 +17,8 @@ tags:
   - 100DaysToOffload
 ---
 
-Esta fue una propuesta de vinculacion universidad/centro de investigacion industria a la cual aplicamos INTA Anguil y TECRO. El proyecto fue gano el subsidio, pero finalmente no fue implementado en gran parte por la pandemia. Me parece que compartir el texto de una propuesta exitosa puede ser de utilidad a otros equipos academia-industria que quieran trabajar juntos.
+Esta fue una propuesta de vinculacion universidad/centro de investigacion industria a la cual aplicamos INTA Anguil y TECRO. El proyecto gano el subsidio, pero finalmente no fue implementado en gran parte por la pandemia. Me parece que compartir el texto de una propuesta exitosa puede ser de utilidad a otros equipos academia-industria que quieran trabajar juntos.  El proyecto se presento a fines del 2021.  
+
 
 ### Breve descripción del proyecto
 
