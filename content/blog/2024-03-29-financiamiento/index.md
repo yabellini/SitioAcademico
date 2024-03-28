@@ -112,6 +112,39 @@ Tabla 1. Etapas y actividades principales
 |Relevar paquetes de R y librerías de Python que calculan los índices	|28-nov	|05-dic|
 |Desarrollar el cálculo de aquellos índices que no se encuentren disponibles	|06-dic	|10-dic|
 |Generar un pipeline automatizado de trabajo para el cálculo de los índices de interés	|05-dic|	22-dic-19|
+|**Registro de datos a campo - Primera fecha**|	**Etapa 2**	||
+|Primer corte biomasa: estado vegetativo |	15-ene	| 20-ene |
+|Toma de imagen por Drone	| 15-ene |	20-ene |
+|Interpretación y análisis de imágenes	| 20-ene-20 |	20-feb-20 |
+|Control de malezas	| 18-ene-20 |	20-ene-20 |
+|**Registro de datos a campo - Primera fecha**|	**Etapa 2**	||
+|Primer corte biomasa: estado vegetativo |	15-ene|	20-ene|
+|Toma de imagen por Drone|	15-ene|	20-ene|
+|Interpretación y análisis de imágenes|	20-ene-20	|20-feb-20|
+|Control de malezas	|18-ene-20|	20-ene-20|
+|**Registro de datos a campo - Segunda fecha**	|**Etapa 3**	||
+|Segundo corte biomasa: pre floración	|10-feb-20|	15-feb-20|
+|Toma de imagen por Drone	|10-feb-20	|15-feb-20|
+|Interpretación y análisis de imágenes	|15-feb-20|	15-mar-20|
+|**Registro de datos a campo - Tercera fecha** |	**Etapa 4**	|
+|Tercer corte biomasa: floración	|15-mar-20	|20-mar-20|
+|Toma de imagen por Drone	|15-mar-20	|20-mar-20|
+|Interpretación y análisis de imágenes|	20-mar-20|	02-abr-20|
+|Medición de Radiación|	16-mar-20|	18-mar-20|
+|Spad	|16-mar-20	|18-mar-20|
+|**Registro de datos a campo - Cuarta fecha**|**Etapa 5**	||
+|Cuarto Corte de Biomasa: posfloración	01-abr-20	05-abr-20
+|Toma de imagen por Drone	01-abr-20	05-abr-20
+|Interpretación y análisis de imágenes	05-abr-20	05-may-20
+|Registro de datos a campo - Quinta fecha	Etapa 6	
+|Quinto Corte de biomasa: Madurez	25-abr-20	30-abr-20
+|Toma de imagen por Drone	25-abr-20	30-abr-20
+|Interpretación y análisis de imágenes	30-abr-20	30-may-20
+|Estimación de componentes de rendimiento	30-abr-20	15-may-20
+|Elaboración final	Etapa 7	
+|Correlación entre imágenes y datos de campo	15-may-20	30-jun-20
+|Elavoración de Indice y resultados	15-may-20	30-jun-20
+
 
 ### Presupuesto
 
