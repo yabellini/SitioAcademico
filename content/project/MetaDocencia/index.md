@@ -1,6 +1,6 @@
 ---
 title: "MetaDocencia"
-subtitle: "Comunidad tech docente hispanohablante"
+subtitle: "Technical Spanishspeaking Teachers Community"
 excerpt: "We are an inclusive and collaborative community that improves education by empowering instructors from underserved countries."
 date: 2019-07-02
 author: "Yanina Bellini Saibene"
@@ -20,7 +20,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: www.metadocencia.org
+  url: https://www.metadocencia.org
 - icon: github
   icon_pack: fab
   name: code
@@ -29,10 +29,6 @@ links:
   icon_pack: fab
   name: Follow us
   link: https://facebook.com/metadocencia
-- icon: twitter
-  icon_pack: fab
-  name: Follow us
-  link: https://twitter.com/metadocencia  
 - icon: youtube
   icon_pack: fab
   name: Watch our videos
@@ -45,10 +41,6 @@ links:
   icon_pack: fab
   name: follow us
   link:  https://www.instagram.com/metadocencia/
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://metadocenciaenunacaja.netlify.app/
 - icon: github
   icon_pack: fab
   name: code
