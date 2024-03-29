@@ -24,6 +24,9 @@ links:
   icon_pack: fas
   name: slides 
   url: https://hermosas-quarto-slides.netlify.app/#/title-slide
-
+- icon: youtube
+  icon_pack: fab
+  name: video (Charla y Q&A)
+  url: https://youtu.be/q7Yg5Ooto7M
 ---
 
