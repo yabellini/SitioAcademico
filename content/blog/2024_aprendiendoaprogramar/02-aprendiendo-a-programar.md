@@ -258,7 +258,7 @@ Esto se debe hacer con cualquier paquete que querramos usar.
 
 Hay libros como [R para Ciencia de Datos](https://es.r4ds.hadley.nz) que te ensenan a hacer ciencia de datos con R y te van presentando y explicando las diferentes funciones y paquetes para cada etapa del proceso.
 
-Existen newsletter como [R Weekly](ttps://rweekly.org) para estar al tanto de las novedades y personas que se pueden seguir en redes sociales que comparten cosas interesantes.
+Existen newsletter como [R Weekly](https://rweekly.org) para estar al tanto de las novedades y personas que se pueden seguir en redes sociales que comparten cosas interesantes.
 
 Todo lo que vimos hasta ahora es útil cuando estamos probando el código para ver si funciona pero lo perderemos todo cuando cerremos RStudio. Lo que tenemos que hacer es guardar el código que genera su análisis. Para ello utilizamos R Scripts y archivos RMarkdown.  El tema de nuestra proxima clase.
 
