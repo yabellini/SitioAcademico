@@ -97,7 +97,7 @@ We are guided by these teaching principles:
 * ...that every lesson is too short for the teacher and too long for the learner...
 * ...and that nobody will be excited about the lesson than you are.
 
-We follow this [code of conduct](https://www.metadocencia.org/cdc/).
+We follow this [code of conduct](https://www.metadocencia.org/pdc/).
 
 These principles arise from the experience of [The Carpentries](https://carpentries.org), which has been training teachers for two decades and are developed in the free book [Teaching Tech Together](https://teachtogether.tech/). Part of our course materials are based on [RStudio Education](https://education.rstudio.com/) materials.
 
@@ -161,7 +161,7 @@ Nos guían estos principios docentes:
 
 Estas máximas surgen de la experiencia de [The Carpentries](https://carpentries.org), que lleva dos décadas formando docentes y están desarrolladas en el libro gratuito [Enseñar Tecnología en Comunidad (Teaching Tech Together)](https://teachtogether.tech/es/index.html).
 
-Seguimos este [código de conducta](https://www.metadocencia.org/cdc/).
+Seguimos estas [pautas de convivencia](https://www.metadocencia.org/pdc/).
 
 ## MetaDocencia en una caja 
 
