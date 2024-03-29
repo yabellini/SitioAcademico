@@ -72,7 +72,7 @@ El trabajo se organizó de manera que cada capítulo tuvo una persona asignada a
 Se buscó que el idioma de las traductoras y revisoras tuviera origen en diferentes países para poder considerar las diferentes y hermosas formas en que hablamos español en todo el mundo.
 Al finalizar todo el proceso se realizó una edición final del libro en su conjunto.
 
-Las decisiones que tomamos durante el proceso de traducción se basaron en experiencias previas del equipo y en otras guías de traducciones colaborativas al español como [R para Ciencia de Datos](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) y [The Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones\_Traduccion.md).
+Las decisiones que tomamos durante el proceso de traducción se basaron en experiencias previas del equipo y en otras guías de traducciones colaborativas al español como [R para Ciencia de Datos](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) y [The Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md).
 
 La variedad dialéctica del español (castellano) utilizada en la traducción corresponde  a Latinoamérica y se utilizó una voz conversacional en lugar de una voz formal o académica.
 
