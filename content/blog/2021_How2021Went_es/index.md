@@ -78,7 +78,7 @@ Un trabajo hermoso, con un equipo maravilloso.  Una conferencia que amplió lo q
 
 - El equipo de [R-Ladies Global](rladies.org/) se está expandiendo y reanudando sus actividades de a poquito, cuidando a sus voluntarias. Hemos estado trabajando duro entre bastidores, esperemos que para 2022 podamos mostrar algunos resultados. Como siempre las organizadoras de los capítulos son el corazón de la comunidad.
 
-- La comunidad de R en América Latina sigue creciendo, ya he hablado de LatinR, de las certificaciones de RStudio, de la [participación de Latines en useR!](https://yabellini.netlify.app/es/post/latines_at_user/) y de [R-Ladies](https://yabellini.netlify.app/post/wsds_2021/).
+- La comunidad de R en América Latina sigue creciendo, ya he hablado de LatinR, de las certificaciones de RStudio, de la [participación de Latines en useR!](https://yabellini.netlify.app/es/post/latines_at_user/) y de [R-Ladies](/blog/2021_WSDS_es/).
 
 - Fui entrevistada por María Nanton para [The Turing Way](https://the-turing-way.netlify.app) para añadir una historia personal al [Capítulo de Comunicación](https://the-turing-way.netlify.app/communication/presentations/presentations-personal-stories.html?highlight=yanina) del libro.
 
