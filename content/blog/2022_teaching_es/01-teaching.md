@@ -26,7 +26,7 @@ Así que el desafío es cómo generar una clase interactiva donde se aprendan nu
 
 ## Armado de la lección
 
-Como siempre uso la estrategia de diseño reverso de una lección para generar mis clases. Inicio pensando en que quiero que mis estudiantes aprendan durante la clase y luego uso [personas tipo]((https://teachtogether.tech/es/index.html#s:process-personas)) y [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) para decidir que enseñar en una lección.  
+Como siempre uso la estrategia de diseño reverso de una lección para generar mis clases. Inicio pensando en que quiero que mis estudiantes aprendan durante la clase y luego uso [personas tipo](https://teachtogether.tech/es/index.html#s:process-personas) y [mapas conceptuales](https://teachtogether.tech/es/index.html#s:memory-concept-maps) para decidir que enseñar en una lección.  
 
 El mapa me permite elegir los temas y asegurarme que no son demasiados para el tiempo que tengo para la lección.  Para esta decidí repasar la evolución de la tecnología agropecuaria para relacionarla con el concepto de AgTech y explicarlo.  Luego enfocarme en los conceptos de Ciencia de Datos, Minería de Datos, Aprendizaje Automático e Inteligencia Artificial. Explicar como “aprende” una “maquina” relacionandolo con lo que ellos ya aprendieron de recolección de datos a campo e imágenes satelitales y finalmente introducir el concepto de BigData.
 
@@ -123,6 +123,6 @@ Esta experiecia fue un desafío y se suma a otro de los casos donde, más que un
 
 ## Referencias
 
-* Compartiendo trabajo en tiempo real durante tu clase. Bellini Saibene, Yanina. 2020. https://yabellini.netlify.app/blog/2020_documentoscompartidos_es/
+* [Compartiendo trabajo en tiempo real durante tu clase](/blog/2020_documentoscompartidos_es/). Bellini Saibene, Yanina. 2020. 
 
-* Enseñar Tecnología en Comunidad.  Greg Wilson. 2017  https://teachtogether.tech/es/index.html
+* [Enseñar Tecnología en Comunidad](https://teachtogether.tech/es/index.html).  Greg Wilson. 2017  
