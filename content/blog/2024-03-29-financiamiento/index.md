@@ -1,7 +1,7 @@
 ---
 title: Evaluación de herramientas digitales e información remota en rotaciones de cultivos extensivos en la región semiárida
 author: Yanina Bellini Saibene
-summary: "Esta fue una propuesta de vinculacion universidad/centro de investigacion industria a la cual aplicamos INTA Anguil y TECRO.  El proyecto fue gano el subsidio, pero finalmente no fue implementado en gran parte por la pandemia. Me parece que compartir el texto de una propuesta exitosa puede ser de utilidad a otros equipos academia-industria que quieran trabajar juntos."
+summary: "Esta fue una propuesta de vinculacion universidad/centro de investigacion industria a la cual aplicamos INTA Anguil y TECRO.  El proyecto fue gano el subsidio, pero finalmente no lo recibimos en gran parte por la pandemia. Me parece que compartir el texto de una propuesta exitosa puede ser de utilidad a otros equipos academia-industria que quieran trabajar juntos."
 date: '2024-03-29'
 categories:
   - English
@@ -17,7 +17,9 @@ tags:
   - 100DaysToOffload
 ---
 
-Esta fue una propuesta de vinculacion universidad/centro de investigacion industria a la cual aplicamos INTA Anguil y TECRO. El proyecto gano el subsidio, pero finalmente no fue implementado en gran parte por la pandemia. Me parece que compartir el texto de una propuesta exitosa puede ser de utilidad a otros equipos academia-industria que quieran trabajar juntos.  El proyecto se presento a _fines del 2021. La notificacion de aceptacion se hizo en 2022._  
+Esta fue una propuesta de vinculacion universidad/centro de investigacion industria a la cual aplicamos INTA Anguil y TECRO. El proyecto gano el subsidio, pero finalmente no lo recibimos en gran parte por la pandemia. Igualmente realizamos varias de las tareas planteadas en el cronograma de trabajo como parte de un doctorado, de un proyecto nacional y otro local de investigacion. 
+
+Me parece que compartir el texto de una propuesta exitosa puede ser de utilidad a otros equipos academia-industria que quieran trabajar juntos.  El proyecto se presento a _fines del 2021. La notificacion de aceptacion se hizo en 2022._  
 
 
 ### Breve descripción del proyecto
