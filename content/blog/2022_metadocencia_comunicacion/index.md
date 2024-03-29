@@ -32,8 +32,8 @@ https://www.canva.com/design/DAE3CxrWIpQ/Wfdu3BH6krGlxMVa1gbtgQ/edit?utm_content
 
 {{< figure src="/img/IVN_Manzanota.png"  alt="Manzana real con una sola hoja verde, emulando el logo de metadocencia sobre los tres colores de la identidad visual: azul, rojo y naranja con el logo y el nombre en blanco sobre el color azul abajo a la izquierda" >}}
 
-En esta nota ya publicada en nuestra web, contamos el proceso a través del cual se trabajó en un nuevo logo y se modificaron los perfiles de todas las redes sociales.
-https://www.metadocencia.org/post/identidad_visual/ 
+[En esta nota ya publicada en nuestra web](https://www.metadocencia.org/post/identidad_visual/), contamos el proceso a través del cual se trabajó en un nuevo logo y se modificaron los perfiles de todas las redes sociales.
+
 
 ## Redes Sociales
 
@@ -98,7 +98,7 @@ Y se hicieron conocer los eventos y actividades de MetaDocencia en Slacks de com
 
 Hicimos el cambio de identidad visual el 16 de Marzo, fecha precisa de nuestro cumpleaños y comunicamos todos los eventos organizados durante Marzo antes que sucedieran y generamos notas sobre estas actividades después que las realizamos.
 
-Como parte de las acciones para comunicar en el mes aniversario de Metadocencia, diseñamos [un mailing](https://mailchi.mp/12c1e292d8f4/metadocencia-est-de-aniversario ) para compartir con toda la comunidad las novedades para este año 2022 y un resumen de todo lo que hicimos en estos dos años, desde los inicios en 2020.  Y lo tradujimos al inglés para compartirlo con nuestros sponsors. Este mailing será destinatario de nuestro newsletter mensual que tiene más de 2000 suscriptores.  
+Como parte de las acciones para comunicar en el mes aniversario de Metadocencia, diseñamos [un mailing](https://mailchi.mp/12c1e292d8f4/metadocencia-est-de-aniversario) para compartir con toda la comunidad las novedades para este año 2022 y un resumen de todo lo que hicimos en estos dos años, desde los inicios en 2020.  Y lo tradujimos al inglés para compartirlo con nuestros sponsors. Este mailing será destinatario de nuestro newsletter mensual que tiene más de 2000 suscriptores.  
 
 
 {{< figure src="/img/comunicacion_metadocencia_2022_YAL_newsletter.png" alt="Encabezado con la manzana realista y MetaDocencia como nombre.  Titulo en inglés: MetaDocencia celebrates its second birthday" >}}
@@ -110,7 +110,7 @@ En este tiempo buscamos aumentar la cantidad de contenido en la web.  Además de
 
 También buscamos volver a entusiasmar a las personas que hacen nuestra comunidad a escribir sus experiencias para nuestra web.  De esta manera logramos generar __15 notas__ (la cantidad que soliamos escribir en un año) , dos bilingüe y una en inglés. 
 
-Nueve de las notas están relacionadas con contenido pedagógico extraido de los encuentros del club de lectura. Dos son notas sobre eventos realizados en conjunto con otras comunidades: [R-Ladies](https://www.metadocencia.org/post/taller_learnr_2022/) y el [Software Sustenaibility Institute](https://www.metadocencia.org/en/post/ssi_2022/). Las otras cuatro corresponden a trabajos realizados por nuestro equipo, [resumimos lo hecho en dos años](https://www.metadocencia.org/post/cumple_mes_dos_anios/), [presentamos la nueva identidad visual](https://www.metadocencia.org/post/identidad_visual/), los [perfiles de accesibilidad]((https://www.metadocencia.org/post/perfiles_accesibilidad/)) y resaltamos el trabajo del equipo que hizo la [primera traducción al portugués](https://www.metadocencia.org/post/traducciones_portugues/) de nuestros materiales. Además ayudamos en el proceso de escribir un [blog post a Leniolabs](https://www.metadocencia.org/post/experiencias_bootcamp/) que reutilizó nuestros materiales y cuenta su experiencia. 
+Nueve de las notas están relacionadas con contenido pedagógico extraido de los encuentros del club de lectura. Dos son notas sobre eventos realizados en conjunto con otras comunidades: [R-Ladies](https://www.metadocencia.org/post/taller_learnr_2022/) y el [Software Sustenaibility Institute](https://www.metadocencia.org/en/post/ssi_2022/). Las otras cuatro corresponden a trabajos realizados por nuestro equipo, [resumimos lo hecho en dos años](https://www.metadocencia.org/post/cumple_mes_dos_anios/), [presentamos la nueva identidad visual](https://www.metadocencia.org/post/identidad_visual/), los [perfiles de accesibilidad](https://www.metadocencia.org/post/perfiles_accesibilidad/) y resaltamos el trabajo del equipo que hizo la [primera traducción al portugués](https://www.metadocencia.org/post/traducciones_portugues/) de nuestros materiales. Además ayudamos en el proceso de escribir un [blog post a Leniolabs](https://www.metadocencia.org/post/experiencias_bootcamp/) que reutilizó nuestros materiales y cuenta su experiencia. 
 
 ### Listado completo de notas
 

@@ -35,11 +35,6 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/gvwilson/teachtogether.tech/tree/master/es
-#- icon: newspaper
-#  icon_pack: far
-#  name: Blog post
-#  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
-
 excerpt: "Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson"
 tags:
 - Education
@@ -50,7 +45,7 @@ tags:
 # English
 
 ## Teaching Tech Together in Spanish
-## Collaborative and voluntary translation project of "Teaching Tech Together" to Spanish
+### Collaborative and voluntary translation project of "Teaching Tech Together" to Spanish
 
 _Teaching Tech Together_ is a book about teaching programming for people with technical training but without formal training as educators. This project aims to develop a collaborative translation of the book [Teaching Tech Together](http://teachtogether.tech/en/index.html) by [Greg Wilson](https://third-bit.com/) for the Spanish-speaking community. The Spanish version can be accessed [here](http://teachtogether.tech/es/index.html).
 
@@ -63,10 +58,12 @@ In the [project repository](https://github.com/gvwilson/teachtogether.tech) ther
 This is a project open to the community in which everyone can participate as long as they __adscribe our [code of conduct](http://teachtogether.tech/en/index.html#s:conduct)__.
 
 # Español
+
 ## Enseñar Tecnología en Comunidad. 
+
 ### Cómo crear lecciones que funcionen y construir una comunidad docente alrededor  <a href='https://github.com/gvwilson/teachtogether.tech/tree/master/es#orientaciones-para-la-traducci%C3%B3n-'><img src='featured.png' align="right" height="200" alt='Etiqueta hexagonal ("hex sticker") para el proyecto titulado "Enseñar Tecnología en Comunidad." Las palabras parecen parte de un mapa conceptual y hay manos diferentes apuntando hacia ellas.'/></a>
 
-Este proyecto llevó acabo la traducción al castellano del libro [Teaching Tech Together](https://teachtogether.tech/) escrito por [Greg Wilson](https://www.twitter.com/gvwilson). Este proyecto voluntario y colaborativo tiene tiene por objetivo traducir al español material actualizado 
+Este proyecto llevó acabo la traducción al castellano del libro [Teaching Tech Together](http://teachtogether.tech) escrito por [Greg Wilson](https://third-bit.com). Este proyecto voluntario y colaborativo tiene tiene por objetivo traducir al español material actualizado 
 y de calidad para hacerlo accesible a hispanohablantes.
 
 Iniciamos el proceso de traducción en _marzo del año 2020_ y lo completamos en _marzo del 2021_.
@@ -75,7 +72,7 @@ El trabajo se organizó de manera que cada capítulo tuvo una persona asignada a
 Se buscó que el idioma de las traductoras y revisoras tuviera origen en diferentes países para poder considerar las diferentes y hermosas formas en que hablamos español en todo el mundo.
 Al finalizar todo el proceso se realizó una edición final del libro en su conjunto.
 
-Las decisiones que tomamos durante el proceso de traducción se basaron en experiencias previas del equipo y en otras guías de traducciones colaborativas al español como [R para Ciencia de Datos](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) y [The Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones\_Traduccion.md).
+Las decisiones que tomamos durante el proceso de traducción se basaron en experiencias previas del equipo y en otras guías de traducciones colaborativas al español como [R para Ciencia de Datos](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) y [The Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md).
 
 La variedad dialéctica del español (castellano) utilizada en la traducción corresponde  a Latinoamérica y se utilizó una voz conversacional en lugar de una voz formal o académica.
 
@@ -128,4 +125,4 @@ Todos los detalles del proceso de traducción se pueden consultar
 [en la documentación del proyecto](https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md).
 
 
-> Marzo de 2020 – Marzo de 2021. Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson (2019, Taylor & Francis, ISBN 978-0-367-35328-5, https://teachtogether.tech/). Coordinación general de la traducción: Yanina Bellini Saibene; Edición general: Yanina Bellini Saibene y Natalia Morandeira. Más información y grupo de traductoras: https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md
+> Marzo de 2020 – Marzo de 2021. Traducción colaborativa al castellano del libro “Teaching Tech Together. How to create and deliver lessons that work and build a teaching community around them” de Greg Wilson (2019, Taylor & Francis, ISBN 978-0-367-35328-5, <https://teachtogether.tech/>). Coordinación general de la traducción: Yanina Bellini Saibene; Edición general: Yanina Bellini Saibene y Natalia Morandeira. Más información y grupo de traductoras: https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md
