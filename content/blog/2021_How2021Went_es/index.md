@@ -60,7 +60,7 @@ Un trabajo hermoso, con un equipo maravilloso.  Una conferencia que amplió lo q
 
 - Di __13 charlas__, de las cuales tres han sido keynotes:
 
-  * [Aplicaciones de la Ciencia de Datos en el Sector Agrícola]((https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing)) en el [X seminario internacional de estadística aplicada](https://congreso.see-ec.org/), 
+  * [Aplicaciones de la Ciencia de Datos en el Sector Agrícola](https://docs.google.com/presentation/d/1ZKBddp3uoYXcAofMzBAmfgfWBTtYJCrXMzMd2BZrwA8/edit?usp=sharing) en el [X seminario internacional de estadística aplicada](https://congreso.see-ec.org/), 
   
   * [Enseñando a enseñar sin perder a nadie en el camino](https://docs.google.com/presentation/d/1CSp-YjyoxMgQYU_cXJx-JVTvY0SOFfMblkJ4RBLfrCQ/edit?usp=sharing) en las [50 JAIIO](https://50jaiio.sadio.org.ar/) y 
   
