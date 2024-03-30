@@ -7,7 +7,7 @@ date_end: "2021-11-11"
 author: "Yanina Bellini Saibene"
 location: "Online (Argentina)"
 event: "XI Congreso Argentino de Bioinformática y Biología Computacional 2021 "
-event_url: http://3.13.151.78/XICA2B2C/
+event_url: 
 draft: false
 # layout options: single, single-sidebar
 layout: single
