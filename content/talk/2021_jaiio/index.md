@@ -22,7 +22,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides 
-  url: http://tiny.cc/metadocencia_jaiio_2021
+  url: https://docs.google.com/presentation/d/1CSp-YjyoxMgQYU_cXJx-JVTvY0SOFfMblkJ4RBLfrCQ/edit?usp=sharing
 - icon: youtube
   icon_pack: fab
   name: video 
