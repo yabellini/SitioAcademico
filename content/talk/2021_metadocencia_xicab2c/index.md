@@ -19,7 +19,7 @@ links:
 - icon: images
   icon_pack: fas
   name: slides
-  url: https://docs.google.com/presentation/d/1XdYQInFoJ05R8Ufixf7_icQTQJECDdhULItcQODnKXE/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1OSfTnCjxgrvNy2kM60XQBCbcuyGGCLpxZQGp2sFEwTk
 - icon: youtube
   icon_pack: fab
   name: video
