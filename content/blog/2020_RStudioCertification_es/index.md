@@ -1,7 +1,7 @@
 ---
 date: "2020-02-13"
 title: Obteniendo la certificación de RStudio. Un camino compartido.
-expert: "En Diciembre de 2019 obtuve la [certificación de RStudio como instructora de Tidyverse](https://education.rstudio.com/trainers/).  RStudio lanzó este [programa de entrenamiento y certificación](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) en Febrero de 2019. Este post, describe mi camino hacia esa certificación y tal vez sirva para que te animes a recorrer el tuyo."
+expert: "En Diciembre de 2019 obtuve la [certificación de RStudio como instructora de Tidyverse](https://education.rstudio.com/trainers/).  RStudio lanzó este programa de entrenamiento y certificación en Febrero de 2019. Este post, describe mi camino hacia esa certificación y tal vez sirva para que te animes a recorrer el tuyo."
 authors: Yanina Bellini Saibene
 categories:
   - Education

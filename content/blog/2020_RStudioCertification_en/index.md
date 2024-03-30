@@ -12,7 +12,7 @@ tags:
   - Personal
 ---
 
-In December 2019 I obtained the [RStudio certification as a Tidyverse instructor](https://education.rstudio.com/trainers/). RStudio launched this [training and certification program](https://blog.rstudio.com/2019/02/28/rstudio-instructor-training/) in February 2019.
+In December 2019 I obtained the [RStudio certification as a Tidyverse instructor](https://education.rstudio.com/trainers/). RStudio launched this training and certification program in February 2019.
 
 This post describes my path to that certification, and I hope it will serve to encourage you to take your journey.
 
