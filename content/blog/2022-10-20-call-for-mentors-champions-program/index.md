@@ -17,7 +17,7 @@ description: "rOpenSci is seeking mentors to support our inaugural cohort of rOp
 ## rOpenSci is seeking mentors to support our inaugural cohort of rOpenSci Champions!
 
 
-The [rOpenSci Champions Program](/champions/) is for _people from historically and systematically excluded groups_ who are interested in contributing to rOpenSci and the broader ecosystem of open source and open science communities. After receiving training, mentors will work with Champions to develop their project, which can be one of the following options:
+The [rOpenSci Champions Program](https://ropensci.org/champions/) is for _people from historically and systematically excluded groups_ who are interested in contributing to rOpenSci and the broader ecosystem of open source and open science communities. After receiving training, mentors will work with Champions to develop their project, which can be one of the following options:
 
 * Create a new package;
 
@@ -80,11 +80,11 @@ Mentors will participate in a training about mentoring and program logistics as 
 
 
 ### How to apply
-Please, fill out the [application form](https://airtable.com/shrlrLdQbb4wphosK) ([this template shows the information we will require](/champions/files/mentors_champions_template)) by __Monday November 7, 2022__. The application forms have to be completed _in English_.
+Please, fill out the [application form](https://airtable.com/shrlrLdQbb4wphosK) ([this template shows the information we will require](https://ropensci.org/champions/files/mentors_champions_template)) by __Monday November 7, 2022__. The application forms have to be completed _in English_.
 
 
 ## Do you have any questions? 
 
 Please, contact our Community Manager by [email](mailto:yabellini@ropensci.org) or [book a 15 minutes meeting with her](https://calendly.com/yabellini-ropensci/15min).
 
-We will have a [Community Call on October 24th](/commcalls/oct2022-champions/)to explain and explore the benefits of Champions Programs and a [Coworking slot on November 1st](/events/coworking-2022-11/) to answer any questions you might have about mentoring in this program.
+We will have a [Community Call on October 24th](https://ropensci.org/commcalls/oct2022-champions/)to explain and explore the benefits of Champions Programs and a [Coworking slot on November 1st](https://ropensci.org/events/coworking-2022-11/) to answer any questions you might have about mentoring in this program.
