@@ -28,7 +28,7 @@ The instructios for the panelists was that we think and share a story with a pos
 * When did someone redefine merit and how did that make a positive impact?
 
 
-So I chose to comment on my experience with communities of practice and especially with [R-Ladies](www.rladies.org) because I think it answers both questions. This is my full script:
+So I chose to comment on my experience with communities of practice and especially with [R-Ladies](https://rladies.org) because I think it answers both questions. This is my full script:
 
 > My name is Yanina and I live with my husband and my two beautiful children in a small town in Argentina. I am a scientist.  And early this year I learned that what I was doing for the last 23 years at my job is called Research Software Engineer. I’m the first generation with a high school diploma, so I’m still learning how the academic world works, especially the international one.
 

@@ -78,7 +78,7 @@ tags:
 
 ## July
 
-* I was invited to be part of the [Panel _Supporting diversity in the R_ community of useR! 2020](https://www.youtube.com/watch?v=gDO1OphmF5Q&t=18s). It was my first participation in one of R.'s big international conferences. I speak again in English, but [also in Spanish](https://yabellini.netlify.app/es/talk/user2020breakoutsessiondiversity/).
+* I was invited to be part of the [Panel _Supporting diversity in the R_ community of useR! 2020](https://www.youtube.com/watch?v=gDO1OphmF5Q&t=18s). It was my first participation in one of R.'s big international conferences. I speak again in English, but [also in Spanish](/talk/2020_user2020breakoutsessiondiversity_en/).
 
 * I helped build a proposal for a new master's degree in Data Science in Argentina.
 
@@ -96,13 +96,13 @@ tags:
 
 * I presented another proposal to RStudioConf::global about interactive tutorials in Spanish.
 
-* I am no longer part of the [R-Ladies Community Slack](https://rladies-community-slack.herokuapp.com/) management team. I also asked to stop being R-Ladies' email master. I want to focus on organizing the immense amount of educational material that the community generates because I want more people will find it and take advantage of it. We will see, maybe by 2021.
+* I am no longer part of the [R-Ladies Community Slack](https://guide.rladies.org/comm/slack/) management team. I also asked to stop being R-Ladies' email master. I want to focus on organizing the immense amount of educational material that the community generates because I want more people will find it and take advantage of it. We will see, maybe by 2021.
 
 * I was invited to be part of the team that organizes [useR! 2021](https://user2021.r-project.org/). I say yes.
 
 ## September
 
-* I started to share [all my courses freely and openly](https://yabellini.netlify.app/es/courses/). I received beautiful and grateful comments and several improvements to my material.
+* I started to share [all my courses freely and openly](/courses/). I received beautiful and grateful comments and several improvements to my material.
 
 * I started teaching again at graduate level. I use everything I learned from Teaching Teach Together and everything we teach in MetaDocencia.
 
@@ -114,11 +114,11 @@ tags:
 
 * My conference season begins: I was co-chair of LatinR 2020, of the 49 Argentine Conference of Informatic (JAIIO) and the 12th Congress of AgroInformatic.
 
- - [LatinR] (https://latin-r.com/) was a success. Completely virtual. Two weeks. [Nine tutorials (in Spanish and Portuguese)] (https://github.com/LatinR/talleres-2020). [Two luxury guest talks (In Spanish and English)] (https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones) and a awesome diversity, accessibility and inclusion panel. A reproducibility hackathon and [Prerecorded talks and live question sections] (https://www.youtube.com/latinr). Beautiful.
+ - [LatinR](https://latin-r.com/) was a success. Completely virtual. Two weeks. [Nine tutorials (in Spanish and Portuguese)](https://github.com/LatinR/talleres-2020). [Two luxury guest talks (In Spanish and English)](https://github.com/LatinR/presentaciones-LatinR2020#Presentaciones) and a awesome diversity, accessibility and inclusion panel. A reproducibility hackathon and [Prerecorded talks and live question sections](https://www.youtube.com/latinr). Beautiful.
 
- - The [49 JAIIO] (http://49jaiio.sadio.org.ar/) were also virtual with 13 symposia and a student contest. +500 presentations were made on 3 YouTube channels ([Room 1] (http://tiny.cc/sala1_jaiio), [Room 2] (http://tiny.cc/sala2_jaiio), [Room 3] (http: //tiny.cc/sala3_jaiio)). They were a success of participation with more than 13,000 views during 10 days.
+ - The [49 JAIIO](http://49jaiio.sadio.org.ar/) were also virtual with 13 symposia and a student contest. +500 presentations were made on 3 YouTube channels ([Room 1](https://www.youtube.com/@SADIOSala1), [Room 2](https://www.youtube.com/@SADIOSala2), [Room 3](https://www.youtube.com/@SADIOSala3)). They were a success of participation with more than 13,000 views during 10 days.
 
- - The Agroinformatics Congress was held during 3 synchronous virtual days using Zoom + [YouTube] (http://tiny.cc/sala1_jaiio) with +50 trilingual presentations (Spanish, Portuguese and English) and 2 women scientific (one Argentina and the other Brazilian) as keynotes.
+ - The Agroinformatics Congress was held during 3 synchronous virtual days using Zoom + [YouTube](https://www.youtube.com/@SADIOSala1) with +50 trilingual presentations (Spanish, Portuguese and English) and 2 women scientific (one Argentina and the other Brazilian) as keynotes.
 
 * I became part of the INTA's statistical assistance platform team as an expert in R.
 

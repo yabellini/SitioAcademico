@@ -29,7 +29,7 @@ La consigna para los panelistas fue que pensaramos y compartieramos una historia
 * ¿Cómo alguien se centró y abogó por las voces marginadas interseccionalmente, y cómo tuvo eso un impacto positivo?
 * ¿Cuándo alguien redefinió el mérito y cómo tuvo eso un impacto positivo?
 
-Asi que yo elegí comentar mi experiencia con las comunidades de práctica y en especial con R-Ladies porque considero que contesta a ambas preguntas.  Este es mi guión completo:
+Asi que yo elegí comentar mi experiencia con las comunidades de práctica y en especial con [R-Ladies](https://rladies.org) porque considero que contesta a ambas preguntas.  Este es mi guión completo:
 
 > Mi nombre es Yanina y vivo con mi esposo y mis dos hermosos hijos en una ciudad pequeña de Argentina. Soy cientifica. A principios de este año supe que lo que estube haciendo durante los últimos 23 años en mi trabajo se llama Ingeniería de software de investigación. Soy la primera generación en mi familia con título secundario, por lo que todavía estoy aprendiendo cómo funciona el mundo académico, especialmente el internacional.
 
