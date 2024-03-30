@@ -43,7 +43,7 @@ This year was full of emotions, difficult decisions, and important changes. Refl
 
 ### August to October
 
-* I stepped down from my position as [Forwards](https://forwards.github.io/about/) conference team leader but continue to participate in the update of the [useR! Knowledge base](/project/user_knowledge_base/).
+* I stepped down from my position as [Forwards](https://forwards.github.io/about/) conference team leader but continue to participate in the update of the [useR! Knowledge base](https://rconf.gitlab.io/userknowledgebase/main/index.html).
 
 * I focused on my new role at rOpenSci, did work on our [Code of Conduct](https://ropensci.org/blog/2022/07/12/coc-update/), and launched three new projects:
 

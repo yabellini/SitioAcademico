@@ -129,7 +129,7 @@ Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en l
 
 * Presenté la charla [Tutoriales interactivos para enseñar R](https://youtu.be/omU0uiuu1vE) en la sesión de Educación de LatinR 2021. 
 
-* Presenté la charla [MetaDocencia: teaching how to teach technology together](https://docs.google.com/presentation/d/1XdYQInFoJ05R8Ufixf7_icQTQJECDdhULItcQODnKXE/edit?usp=sharing) en el [XI Argentine Congress of Bioinformatics and Computational Biology (XI CAB2C)](http://3.13.151.78/XICA2B2C/) 
+* Presenté la charla [MetaDocencia: teaching how to teach technology together](https://docs.google.com/presentation/d/1OSfTnCjxgrvNy2kM60XQBCbcuyGGCLpxZQGp2sFEwTk/) en el XI Argentine Congress of Bioinformatics and Computational Biology (XI CAB2C) 
 
 * Fui una de las docentes del curso [Ciencia de Datos para Turismo](https://dnme-minturdep.github.io/DT6_ciencia_de_datos_turismo/) para la región Patagonia.
 

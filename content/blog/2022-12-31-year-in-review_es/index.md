@@ -43,7 +43,7 @@ Este fue un año muy cargado de emociones, decisiones difíciles y cambios impor
 
 ### De Agosto a Octubre
 
-* Dejé mi lugar como líder del equipo de la conferencias de [Forwards](https://forwards.github.io/about/) pero continúo participando en la actualización de la [useR! Knowledge base](/project/user_knowledge_base/).
+* Dejé mi lugar como líder del equipo de la conferencias de [Forwards](https://forwards.github.io/about/) pero continúo participando en la actualización de la [useR! Knowledge base](https://rconf.gitlab.io/userknowledgebase/main/index.html).
 
 * Me centré en mi nuevo papel en rOpenSci, realizamos trabajos sobre nuestro [Código de Conducta](https://ropensci.org/blog/2022/07/12/coc-update/), y lanzamos tres nuevos proyectos:
 

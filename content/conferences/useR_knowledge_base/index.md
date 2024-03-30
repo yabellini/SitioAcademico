@@ -21,20 +21,20 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website knowledge base
-  url: https://bit.ly/knowledgebase-yani
+  url: https://rconf.gitlab.io/userknowledgebase/main/index.html
 - icon: door-open
   icon_pack: fas
   name: website info board
-  url: https://bit.ly/infoboard-yani 
+  url: https://rconf.gitlab.io/userinfoboard/#welcome
 - icon: gitlab
   icon_pack: fab
   name: repo
-  url: https://gitlab.com/rconf/userknowledgebase
+  url: https://gitlab.com/rconf/userorganization
 ---
 
 ## Project idea: create a knowledgebase for organizing the useR! conference
 
-<img src='featured.jpg' align="right" height="200" alt='Hexsticker de LatinR. America Latina dibujadas con lineas'/>
+<img src='featured.png' align="right" height="200" alt='Hexsticker de LatinR. America Latina dibujadas con lineas'/>
 
 ### Problem
 
@@ -86,4 +86,12 @@ The documentation should be easy for R community members to contribute to. This 
 * __Yanina Bellini Saibene__ (@yabellini), a global co-ordinator of useR! 2021, can advise on the topics of tutorials, branding and community partners (the latter is a new topic to be documented).
 * John Nash (@nashjc), author of several books on numerical computing and past editor on publications including American Statistician, SSC Liaison (Statistical Society of Canada), can help with copy-editing.
 
+### Citation
 
+To cite the useR! knowledgebase please use:
+
+Sánchez-Tapia, A., Tamir, N., Moy Das, S., Bellini Saibene, Y., Joo, R., Morandeira, N., Hug Peter, D., Vialaneix, N., Bannert, M., Turner, H., 2021. useR! Knowledgebase [WWW Document]. URL https://rconf.gitlab.io/userknowledgebase/ (date of access).
+
+### License
+
+The useR! knowledgebase is under the CC BY-SA 4.0 license

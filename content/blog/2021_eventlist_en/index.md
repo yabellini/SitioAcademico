@@ -128,7 +128,7 @@ Reviewing what I did during 2021 I put together this list with the 53 events in 
 
 * I presented the talk [Interactive tutorials for teaching R](https://youtu.be/omU0uiuu1vE) at the LatinR 2021 Education session. 
 
-* I presented the talk [MetaDocencia: teaching how to teach technology together](https://docs.google.com/presentation/d/1XdYQInFoJ05R8Ufixf7_icQTQJECDdhULItcQODnKXE/edit?usp=sharing) at the [XI Argentine Congress of Bioinformatics and Computational Biology (XI CAB2C)](http://3.13.151.78/XICA2B2C/). 
+* I presented the talk [MetaDocencia: teaching how to teach technology together](https://docs.google.com/presentation/d/1OSfTnCjxgrvNy2kM60XQBCbcuyGGCLpxZQGp2sFEwTk/) at the XI Argentine Congress of Bioinformatics and Computational Biology (XI CAB2C). 
 
 * I was one of the teachers of the course [Data Science for Tourism](https://dnme-minturdep.github.io/DT6_ciencia_de_datos_turismo/) for the Patagonia region.
 

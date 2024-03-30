@@ -24,7 +24,7 @@ At rOpenSci, we recognize that there is a dismaying lack of diversity in the eco
 
 We also know that communities of practice can drive meaningful change. We understand the importance of supporting a diverse cohort of community leaders and contributors to all aspects of research software creation as they strive to transform our ecosystem for the better.
 
-The rOpenSci Champion Program [is part of a series of activities and projects we are carrying out to ensure our research software serves everyone in our communities](/blog/2021/12/20/inclusive-leadership-program/), which means that it needs to be sustainable and open, and built __by and for all groups.__
+The rOpenSci Champion Program [is part of a series of activities and projects we are carrying out to ensure our research software serves everyone in our communities](https://ropensci.org/blog/2021/12/20/inclusive-leadership-program/), which means that it needs to be sustainable and open, and built __by and for all groups.__
 
 That is why this program focuses on __people who belong to groups that are historically and systematically excluded__ from the open software and research software communities and who are interested in contributing to rOpenSci and the broader open source and research software communities.
 We are looking for people that work in STEAM fields, from anywhere in the world, who already have development knowledge with the R language. 
@@ -48,12 +48,12 @@ We will provide a $1000 (USD) stipend to the selected community champions.
 We are looking for six to nine Champions for this first pilot. We expect to co-create the rOpenSci Champions Program with the selected applicants and influence future editions with their experience and feedback.
 
 We look forward to receiving many applications and are committed to directing non-selected applicants towards other ways in which they can contribute to rOpenSci.
-You can see all details on our [Champions Program webpage](/champions/).
+You can see all details on our [Champions Program webpage](https://ropensci.org/champions/).
 
 
 ## How to apply?
 
-Please, fill out the [application form](https://airtable.com/shrAsYlSXU0coJ5Ld) (this [template](/champions/files/champions_template) shows the information we require) before __Friday, Nov 7, 2022__.
+Please, fill out the [application form](https://airtable.com/shrAsYlSXU0coJ5Ld) (this [template](https://ropensci.org/champions/files/champions_template) shows the information we require) before __Friday, Nov 7, 2022__.
 
 The application forms have to be filled in _English_.
 
@@ -62,8 +62,8 @@ The application forms have to be filled in _English_.
 |Date|Event|
 |----|-----|
 |Sep 23, 2022|Call for Applications opens|
-|Oct 24, 2022| [OPTIONAL] [Community Call](/commcalls/oct2022-champions/) -  Tips for submitting your Champions Program application |
-|Nov 1, 2022| [OPTIONAL] [Co-working hours](/events/coworking-2022-11/): receive help with your application to the Champions Program |
+|Oct 24, 2022| [OPTIONAL] [Community Call](https://ropensci.org/commcalls/oct2022-champions/) -  Tips for submitting your Champions Program application |
+|Nov 1, 2022| [OPTIONAL] [Co-working hours](https://ropensci.org/events/coworking-2022-11/): receive help with your application to the Champions Program |
 |Nov 7, 2022|Call for applications closed|
 |Nov 25, 2022|Communication with selected Champions |
 
@@ -72,7 +72,7 @@ The application forms have to be filled in _English_.
 
 Please, contact our Community Manager [by email](mailto:yabellini@ropensci.org). 
 
-We will have a [Community Call on October 24](/commcalls/oct2022-champions/) and a [Coworking space on November 1](/events/coworking-2022-11/) to help you with your application.
+We will have a [Community Call on October 24](https://ropensci.org/commcalls/oct2022-champions/) and a [Coworking space on November 1](https://ropensci.org/events/coworking-2022-11/) to help you with your application.
 
 
 **We look forward to meeting all of you passionate Champions out there :-D**
