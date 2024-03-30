@@ -24,22 +24,6 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/forwards
-- icon: twitter
-  icon_pack: fab
-  name: Follow us
-  link: https://twitter.com/R_Forwards
-# - icon: youtube
-#   icon_pack: fab
-#   name: Watch our videos
-#   link: http://www.youtube.com/c/TheCarpentries
-# - icon: linkedin
-#   icon_pack: fab
-#   name: conect with us
-#   link: https://www.linkedin.com/company/the-carpentries/
-# - icon: slack
-#   icon_pack: fab
-#   name: join us
-#   link: https://swc-slack-invite.herokuapp.com/
 
 ---
 
@@ -55,7 +39,7 @@ The members of the task force were invited to participate based on their interes
 
 I lead the Conferences Team and I'm part of the Forwards Core Team. The [conference Team](https://forwards.github.io/conferences/) focus on R Foundation conferences, liaising with organizers/program committee on policies and inclusion initiatives.
 
-The [useR! knowledge base project](/project/user_knowledge_base/) and the useR! working group are part of the task I have in this role.
+The [useR! knowledge base project](https://rconf.gitlab.io/userknowledgebase/main/index.html) and the useR! working group are part of the task I have in this role.
 
 Updates on RForwards activities on the R Journal:
 
