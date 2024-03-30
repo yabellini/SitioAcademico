@@ -16,6 +16,8 @@ tags:
   - Ciencia de Datos
 ---
 
+{{< figure src="featured.jpeg" alt="Pantalla de ejemplo de un proyecto con precipitaciones de La Pampa">}}
+
 La EEA Anguil es uno de los nodos de GeoINTA, una Infraestructura de Datos Espaciales creada por INTA con el propósito de publicar, compartir y permitir el uso y consulta de mapas, sus bases de datos asociadas, imágenes y fotomosaicos generados por la institución, de manera simple, desde Internet.
 Se puede ingresar en http://geointa.inta.gov.ar; a través de diferentes proyectos se accede rápidamente a la información existente, en tiempo real, desde cualquier sitio y en cualquier momento. Además de visualizar mapas, permite la consulta por coordenadas geográficas y la combinación de diferentes capas temáticas, generando análisis espaciales y presenta la posibilidad de descargar todos los mapas en diferentes formatos, como imágenes, capas raster o vectoriales. 
 
