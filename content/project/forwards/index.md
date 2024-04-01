@@ -44,5 +44,5 @@ The [useR! knowledge base project](https://rconf.gitlab.io/userknowledgebase/mai
 Updates on RForwards activities on the R Journal:
 
 * [News from the Forwards Taskforce - 2021](https://journal.r-project.org/news/RJ-2021-2-forwards-news/)
-* [News from the Forwards Taskforce - 2022-2](https://journal.r-project.org/news/RJ-2022-2-forwards-news/)
+* [News from the Forwards Taskforce - 2022-2](https://journal.r-project.org/news/RJ-2022-2-forwards/)
 * [News from the Forwards Taskforce - 2022-4](https://journal.r-project.org/news/RJ-2022-4-forwards/)
