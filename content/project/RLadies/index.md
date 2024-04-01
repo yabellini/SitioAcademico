@@ -1,7 +1,7 @@
 ---
 title: RLadies
 date: 2017-04-17
-excerpt: "I'm part of R-Ladies since 2017. Now I’m the R-Ladies Project Lead at the R Consortium Infrastructure Steering Committee."
+excerpt: "I'm part of R-Ladies since 2017. Since 2021 I’m the R-Ladies Project Lead at the R Consortium Infrastructure Steering Committee. Since 2022 I'm part of the Board of Directors"
 author: "Yanina Bellini Saibene"
 featured: true
 draft: false
@@ -10,22 +10,18 @@ tags:
   - Community
   - Education
   - R-Ladies
-  - R
+  - Rstats
 categories:
   - Community
   - Education
   - English
   - R-Ladies
-  - R
+  - Rstats
 links:
 - icon: door-open
   icon_pack: fas
   name: website
   url: https://rladies.org/
-- icon: twitter
-  name: twitter
-  icon_pack: fab
-  link: https://twitter.com/RLadiesGlobal
 - icon: youtube
   icon_pack: fab
   name: Youtube Channels
@@ -37,7 +33,7 @@ links:
 - icon: slack
   icon_pack: fab
   name: Slack Community
-  link: https://rladies-community-slack.herokuapp.com/
+  link: https://rladies.org/form/community-slack/
 ---
 
 # English
@@ -46,13 +42,13 @@ links:
 
 <img src='featured.jpg' align="right" height="200" alt='R-Ladies logo. An R in purple and the halo and the word Ladies in gray.'/>
 
-I'm the R-Ladies Project Lead at the R Consortium Infrastructure Steering Committee. I'm part of the R-Ladies Global Team. My tasks include advising the leadership team in decision-making, representing R-Ladies in the organization of major R conferences, generating content, making translations into Spanish, carrying out the campaign for International Women's Day and collaborating with the general infrastructure that supports the chapters.
+I'm the R-Ladies Project Lead at the R Consortium Infrastructure Steering Committee. I'm part of the R-Ladies Leadership and Global Team. I'm a member of the Board of Directors. My tasks include advising the leadership team in decision-making, representing R-Ladies in the organization of major R conferences, generating content, making translations into Spanish, carrying out the campaign for International Women's Day and collaborating with the general infrastructure that supports the chapters.
 
 ## Mission
 
 ### _R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community._
 
-The R community suffers from an underrepresentation of Women\* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users ([see recent stats](http://forwards.github.io/data/)).
+The R community suffers from an underrepresentation of Women\* in every role and area of participation, whether as leaders, package developers, conference speakers, conference participants, educations, or users ([see recent stats](https://forwards.github.io/data.html)).
 
 As a diversity initiative, R-Ladies’ mission is to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. R-Ladies’ primary focus, therefore, is on supporting the R enthusiasts who identify as an underrepresented minority to achieve their programming potential, by building a collaborative global network of R leaders, mentors, learners, and developers to facilitate individual and collective progress worldwide.
 
@@ -97,7 +93,7 @@ Soy la responsable del proyecto R-Ladies en el Comité Directivo de la Infraestr
 
 ## _R-Ladies es una organización mundial cuya misión es promover la diversidad de género en la comunidad R._
 
-La comunidad R sufre de una baja representación de Mujeres\* en todos los roles y áreas de participación, sea como líderes, desarrolladoras de paquetes, disertantes, participantes de conferencias, educadoras o usuarias ([ver las estadísticas recientes](http://forwards.github.io/data/)).
+La comunidad R sufre de una baja representación de Mujeres\* en todos los roles y áreas de participación, sea como líderes, desarrolladoras de paquetes, disertantes, participantes de conferencias, educadoras o usuarias ([ver las estadísticas recientes](https://forwards.github.io/data.html)).
 
 Como una iniciativa de diversidad, la misión de R-Ladies es inspirar, entusiasmar y empoderar a las minorías actualmente subrepresentadas en la comunidad R para lograr una representación proporcionada. Por lo tanto, el foco primario de R-Ladies está en dar apoyo a las entusiastas de R que se identifiquen como una minoría subrepresentada, para alcanzar su potencial de programación, por medio de la construcción de una red colaborativa mundial de líderes, mentoras, estudiantes y desarrolladoras de R que faciliten el progreso colectivo e individual en todo el mundo.
 
