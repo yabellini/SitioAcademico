@@ -15,7 +15,7 @@ tags:
   - rstats
   - Technical tips
 ---
-{{< figure src="/media/mapa_conceptual_post.jpg" alt="esquemas de dos mapas conceptuales vacios">}}
+{{< figure src="featured.jpg" alt="esquemas de dos mapas conceptuales vacios">}}
 <a href="http://www.freepik.com">Designed by Freepik</a>
 
 ## ¿Qué es un mapa conceptual?
@@ -26,7 +26,7 @@ Un mapa conceptual está compuesto por dos componentes principales: los concepto
 
 El siguiente ejemplo es un mapa conceptual sobre **RMarkdown** realizado por _Yanina Bellini Saibene, Gabriela Sandoval, Florencia D'Andrea y Mónica Alonso_:
 
-{{< figure src="/media/rmarkdown_concept_map.svg" alt="Mapa conceptual de RMarkdown">}}
+{{< figure src="/img/rmarkdown_concept_map.svg" alt="Mapa conceptual de RMarkdown">}}
 
 ## Usos de un mapa conceptual
 
@@ -59,7 +59,7 @@ knitr::include_graphics("images/mapa_conpceptual.png")
 ```
 ````
 Este código agrega el mapa conceptual al tutorial de esta manera:
-{{< figure src="/media/learnr_conceptmap_ggplot.png" alt="Captura de pantalla del tutorial con el mapa conceptual">}}
+{{< figure src="/img/learnr_conceptmap_ggplot.png" alt="Captura de pantalla del tutorial con el mapa conceptual">}}
 
 Antes de ponerte a generar tus mapas conceptuales desde cero, te recomiendo que revises el [listado de mapas conceptuales generados](https://github.com/rstudio/concept-maps) por el equipo de RStudio Education y sus instructores certificados. Su licencia de uso es [CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode.es) y en la carpeta 'es' están las versiones traducidas al español.
 
