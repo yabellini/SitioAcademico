@@ -48,7 +48,7 @@ Una ventaja que tiene, es que los códigos de acceso son muy cortos, combinacion
 * los que usan la compu pueden escribir:
     *  con el mouse
     * o introducir texto 
-    * y también pueden poner una foto de su hoja manuscrita. 
+    * y también pueden poner una foto de su hoja manuscrita.  
 
 ### Operaciones
 
