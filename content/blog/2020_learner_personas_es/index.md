@@ -17,7 +17,7 @@ tags:
   - Technical tips
 ---
 
-{{< figure src="/media/personas_post.jpg" alt="Estudiantes viendo conferencia grabada con profesor hablando desde tableta">}}
+{{< figure src="featured.jpg" alt="Estudiantes viendo conferencia grabada con profesor hablando desde tableta">}}
 <a href="http://www.freepik.com">Designed by vectorjuice / Freepik</a>
 
 ## ¿Qué es una persona tipo?
@@ -59,9 +59,9 @@ La más popular de todas esas personas es _Romina_ a quien definí para un curso
 * **_Romina:_** trabaja ordenando y analizando datos utilizando R para una variedad de clientes. Utiliza proyectos en RStudio para ordenar su trabajo. Comparte sus avances y resultados utilizando herramientas en la nube (como dropbox y google drive). Compartir de esta manera le ha traído varios dolores de cabeza Sabe que Git puede ayudarla con estos problemas pero no le queda claro como. Tiene usuario en GitHub pero nunca usó. Quiere entender como funciona y como usarlo con R y RStudio para poder incorporarlo a sus proyectos.
 
 
-### Personas tipo de [MetaDocencia](https://www.metadocencia.org)
+### Personas tipo de MetaDocencia
 
-**MetaDocencia** es una organización sin fines de lucro que enseña a enseñar a docentes de habla hispana (y de la cual soy co-fundadora).  [Las personas tipo](https://www.metadocencia.org/post/personas-tipo/) de estos cursos describen **diferentes perfiles de docentes**.  La licencia de estas personas tipo también es CC-BY.
+**MetaDocencia** es una organización sin fines de lucro que enseña a enseñar a docentes de habla hispana (y de la cual soy co-fundadora).  [Las personas tipo](/blog/2020_learner_personas_es/) de estos cursos describen **diferentes perfiles de docentes**.  La licencia de estas personas tipo también es CC-BY.
 
 ### Personas tipo de [RStudio Education](https://education.rstudio.com)
 
@@ -70,10 +70,10 @@ En este [blog post](https://education.rstudio.com/blog/2020/10/learner-personas/
 
 ## ¿Cómo las integro en mis tutoriales interactivos?
 
-En todos mis tutoriales y cursos agrego una sección llamada presentación que tiene como primer punto un [Mapa Conceptual](/post/concept_maps/), luego las _personas tipo_ y finalmente la licencia del material.
+En todos mis tutoriales y cursos agrego una sección llamada presentación que tiene como primer punto un [Mapa Conceptual](/blog/2020_learnr_concept_maps_es/), luego las _personas tipo_ y finalmente la licencia del material.
 
 De esta manera toda la información relacionada al alcance del tutorial, para quien fue pensado, que contenidos se van a desarrollar y como puede ser utilizado por estudiantes y docentes está concentrado en un solo lugar.  En la imagen se ve un ejemplo de una persona tipo en un tutorial:
 
-{{< figure src="/media/personas_tipo.png" alt="Captura de pantalla de la definición de una persona tipo en un tutorial de learnr">}}
+{{< figure src="/img/personas_tipo.png" alt="Captura de pantalla de la definición de una persona tipo en un tutorial de learnr">}}
 
 Espero que este concepto de _persona tipo_ te sea de utilidad, como también los ejemplos mencionados y los lugares donde buscar más personas definidas. Me encantaría saber si utilizas algunas de mis personas o conocer cuales son las tuyas.
