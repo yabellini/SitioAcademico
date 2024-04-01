@@ -42,6 +42,6 @@ Whenever we can, we will mention how what we propose to solve with R can also be
 
 In each section we include activities along with examples. We want these exercises to be realistic so that anyone can find similarities in their own data and can apply what they have learned to other situations.
 
-This workshop was part of the [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/RSCamp-beyond-spreadsheet) and [MetaDocencia](https://www.metadocencia.org/en/). 
+This workshop was part of the [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/programme-research-software-camp-beyond-spreadsheet) and [MetaDocencia](https://www.metadocencia.org/en/). 
 
 
