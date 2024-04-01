@@ -148,13 +148,11 @@ El taller tiene una duración de 2 horas con intervalos (idealmente lejos de cua
   - Detalle de paquetes que se pueden usar con learnr
   - Detalle de repositorios con código fuente de diferentes tipos de tutoriales.
 
-
 ### Materiales
-
 
 ### ¿Te vienen bien cualquiera de estos contenidos? ¡Servite sin culpa!
 
 Este curso se comparte bajo la licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
-Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá incluyas una referencia a esta página web y compartas tu material con esta misma licencia.
+Es decir, podés reusar o editar cualquier material que aparece acá, lo único que pedimos a cambio es que cuando tomes material de acá **incluyas una referencia a esta página web** y **compartas tu material con esta misma licencia**.
 
 > Algunas partes de este curso fueron originalmente desarrolladas para MetaDocencia (2020-2022).
