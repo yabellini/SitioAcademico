@@ -44,11 +44,7 @@ links:
   icon_pack: fas
   name: doc compartido a la carta INTA
   url: https://docs.google.com/document/d/15fJDbnuIkdxStyOMcpHSS9PRVa9fAyNNPSM8wXxTyRk/edit?usp=sharing
-  
-# - icon: github
-#   icon_pack: fab
-#   name: code
-#   url: 
+
 ---
 
 ## English
@@ -172,11 +168,11 @@ Durante este taller remoto:
 
 No hay requisitos previos específicos para esta capacitación. 
 
-Pensamos en María y Juan como [personas tipo](/personas/) al diseñar los contenidos de este taller.
+Pensamos en María y Juan como personas tipo al diseñar los contenidos de este taller.
 
-* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp. Más detalles sobre María [aquí](/persona/maria).
+* María es docente universitaria desde hace más de 30 años. Es una oradora muy buscada para charlas y seminarios. Se maneja muy bien con el correo electrónico y por Whatsapp.
 
-* Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años. Más detalles sobre Juan [aquí](/persona/juan).
+* Juan divide su tiempo docente entre enseñar talleres en empresas y clases en los niveles secundario y terciario. Con mucha experiencia en herramientas tecnológicas, da clases desde su casa. Cuida a sus hijas de 2 y 4 años.
 
 ### ¿Qué _no_ incluye este taller?
 
