@@ -13,5 +13,5 @@ Este post es un acceso a mi [columna de opinión en la Revista de Investigacione
 
 Fui invitada a disertar sobre el uso de esta disciplina en el sector agropecuario debido a mis actividades de Investigación y Desarrollo como investigadora de INTA, el artículo resume los aprendizajes y reflexiones sobre esta disciplina, la ciencia de datos y su uso actual y potencial en el sector agropecuario a partir de la participación en el WiDS2019.  
 
-{{< figure src="WiDS2019.jpg" title="Presentando en WiDS 2019" >}}
+{{< figure src="featured.jpg" title="Presentando en WiDS 2019" >}}
 
