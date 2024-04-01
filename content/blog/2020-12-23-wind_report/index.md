@@ -70,7 +70,7 @@ Por lo tanto, se debió al avance de una línea de tormenta con la característi
 mantener vientos muy intensos en toda su trayectoria provocando importantes daños y
 consecuencias en la región.
 
-{{< figure src="feature.jpg" alt="Imagenes de viento del radar" >}}
+{{< figure src="feature.png" alt="Imagenes de viento del radar" >}}
 
 Figura 2. Velocidad de viento en m/s del radar de Anguil para las 16:54hs (arriba, izq.), 17:04hs
 (arriba,der.), 17:14hs (abajo, izq.) y 17:24hs (abajo, der.). El radar está ubicado en el centro de la
