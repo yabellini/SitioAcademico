@@ -70,7 +70,7 @@ This year was full of emotions, difficult decisions, and important changes. Refl
 
 * I sent my resignation to INTA after [twenty-four and a half years of being a researcher](blog/2022-12-21-inta/).  
 
-* We announce the [R-Ladies Global Leadership Team Transition](https://blog.rladies.org/post/2022-11-18-global-leadership-team-transition/), after more than one year of hard work.
+* We announce the [R-Ladies Global Leadership Team Transition](https://rladies.org/news/2022-11-18-global-leadership-team-transition/), after more than one year of hard work.
 
 ### Final numbers
 
