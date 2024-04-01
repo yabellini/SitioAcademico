@@ -9,7 +9,7 @@ tags:
 ---
 
 
-{{< figure src="featured.jpg.webp" alt="A pixeled hand with a black pencil that is the finger on another pixeled white hand">}}
+{{< figure src="featured.jpg" alt="A pixeled hand with a black pencil that is the finger on another pixeled white hand">}}
 
 
 I was interviewed by Alla Katsnelson for Nature about being a scientist with English as a second language. Machine-learning tools can correct grammar and advise on the style and tone of presentations — but they must be used with caution.
