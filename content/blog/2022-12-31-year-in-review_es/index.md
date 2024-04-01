@@ -43,7 +43,7 @@ Este fue un año muy cargado de emociones, decisiones difíciles y cambios impor
 
 ### De Agosto a Octubre
 
-* Dejé mi lugar como líder del equipo de la conferencias de [Forwards](https://forwards.github.io/about/) pero continúo participando en la actualización de la [useR! Knowledge base](https://rconf.gitlab.io/userknowledgebase/main/index.html).
+* Dejé mi lugar como líder del equipo de la conferencias de [Forwards](https://forwards.github.io) pero continúo participando en la actualización de la [useR! Knowledge base](https://rconf.gitlab.io/userknowledgebase/main/index.html).
 
 * Me centré en mi nuevo papel en rOpenSci, realizamos trabajos sobre nuestro [Código de Conducta](https://ropensci.org/blog/2022/07/12/coc-update/), y lanzamos tres nuevos proyectos:
 
@@ -79,7 +79,7 @@ Este fue un año muy cargado de emociones, decisiones difíciles y cambios impor
 
 * Escribí **54** [artículos de blog](/blog/), **3** traducciones (22 [charlas en NWIT](https://neverworkintheory.org/), 1 [libro](/project/rml_es/), 1 [Código de Conducta](https://ropensci.org/codigo-de-conducta/)), **7** artículos de conferencias y **1** artículo de revista científica.
 
-* Formé parte de **2** Comités Directivos ([Notebooks Now!](https://data.agu.org/notebooks-now/) y [Research Software Camps](https://www.software.ac.uk/research-software-camps)), **2** Equipos de Coordinación ([MetaDocencia](https://www.metadocencia.org/) y [Forwards](https://forwards.github.io/about/)), **1** Consejo Ejecutivo ([The Carpentries](https://carpentries.org/)) y **1** Junta Directiva ([R-Ladies](https://rladies.org/)).
+* Formé parte de **2** Comités Directivos ([Notebooks Now!](https://data.agu.org/notebooks-now/) y [Research Software Camps](https://www.software.ac.uk/research-software-camps)), **2** Equipos de Coordinación ([MetaDocencia](https://www.metadocencia.org/) y [Forwards](https://forwards.github.io)), **1** Consejo Ejecutivo ([The Carpentries](https://carpentries.org/)) y **1** Junta Directiva ([R-Ladies](https://rladies.org/)).
 
 Según GitHub Wrapped, hice **2351** commits, **2622** contribuciones totales en **46** repositorios. También he abierto **180** issues, **94** pull requests, y he hecho **66** pull reviews. Mis lenguajes favoritos son _HTML, TeX, SCSS y R_. Mi día top fue el _21_ de marzo con **176** commits, y mi día más productivo fue el _sábado_.  
 

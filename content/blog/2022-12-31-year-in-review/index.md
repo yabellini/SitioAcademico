@@ -43,7 +43,7 @@ This year was full of emotions, difficult decisions, and important changes. Refl
 
 ### August to October
 
-* I stepped down from my position as [Forwards](https://forwards.github.io/about/) conference team leader but continue to participate in the update of the [useR! Knowledge base](https://rconf.gitlab.io/userknowledgebase/main/index.html).
+* I stepped down from my position as [Forwards](https://forwards.github.io) conference team leader but continue to participate in the update of the [useR! Knowledge base](https://rconf.gitlab.io/userknowledgebase/main/index.html).
 
 * I focused on my new role at rOpenSci, did work on our [Code of Conduct](https://ropensci.org/blog/2022/07/12/coc-update/), and launched three new projects:
 
@@ -78,7 +78,7 @@ I delivery **30** [talks](/talk/) (**7** keynotes) that reach **6500+** attendee
 
 I wrote **54** [blog post](/blog/), **3** translations (22 [talks at NWIT](https://neverworkintheory.org/), 1 [book](/project/rml_es/), 1 [Code of Conduct](https://ropensci.org/codigo-de-conducta/)), **7** conference papers, and **1** journal paper.
 
-I was part of **2** Steering Commitee ([Notebooks Now!](https://data.agu.org/notebooks-now/) and [Research Software Camps](https://www.software.ac.uk/research-software-camps)), **2** Core Teams ([MetaDocencia](https://www.metadocencia.org/) and [Forwards](https://forwards.github.io/about/)), **1** Executive Council ([The Carpentries](https://carpentries.org/)) and **1** Board of Directors ([R-Ladies](https://rladies.org/)).
+I was part of **2** Steering Commitee ([Notebooks Now!](https://data.agu.org/notebooks-now/) and [Research Software Camps](https://www.software.ac.uk/research-software-camps)), **2** Core Teams ([MetaDocencia](https://www.metadocencia.org/) and [Forwards](https://forwards.github.io)), **1** Executive Council ([The Carpentries](https://carpentries.org/)) and **1** Board of Directors ([R-Ladies](https://rladies.org/)).
 
 According to GitHub Wrapped, I did **2351** commits, **2622** total contributions in **46** repositories. I also opened **180** issues, **94** pull requests, and I did **66** pull reviews. My top languages are _HTML, TeX, SCSS, and R_. My Top day was _Mar 21_ with **176** commits, and my more productive day was _Saturday_.  
 

@@ -19,7 +19,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://forwards.github.io/about/
+  url: https://forwards.github.io
 - icon: github
   icon_pack: fab
   name: code
@@ -37,7 +37,7 @@ The members of the task force were invited to participate based on their interes
 
 ### My role at Forwards
 
-I lead the Conferences Team and I'm part of the Forwards Core Team. The [conference Team](https://forwards.github.io/conferences/) focus on R Foundation conferences, liaising with organizers/program committee on policies and inclusion initiatives.
+I lead the Conferences Team and I'm part of the Forwards Core Team. The [conference Team](https://forwards.github.io/conferences.html) focus on R Foundation conferences, liaising with organizers/program committee on policies and inclusion initiatives.
 
 The [useR! knowledge base project](https://rconf.gitlab.io/userknowledgebase/main/index.html) and the useR! working group are part of the task I have in this role.
 
