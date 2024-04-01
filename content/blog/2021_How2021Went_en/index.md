@@ -34,7 +34,7 @@ Once again we come to the end of a complex year.  Reflecting on what happened is
 
 * I was teaching assistant in Mine Çetinkaya-Rundel's course [What they forgot to teach you about teaching R](https://wtf-teach.netlify.app/) for the RStudio::global conference.
 
-- I taught R in English for the first time with the course [From spreadsheets to R](https://yabellini.github.io/fromSpreadSheetToR/) as part of the [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/RSCamp-beyond-spreadsheet) and MetaDocencia.
+- I taught R in English for the first time with the course [From spreadsheets to R](https://yabellini.github.io/fromSpreadSheetToR/) as part of the [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/programme-research-software-camp-beyond-spreadsheet) and MetaDocencia.
 
 ## Events
 
