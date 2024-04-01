@@ -17,7 +17,7 @@ tags:
 ---
 
 
-Last Year [Paola Corrales](paocorrales.github.io/) and [Yanina Bellini Saibene](https://yabellini.netlify.app/) members from the MetaDocencia community offered the workshop [From Spreadsheet to R](https://yabellini.github.io/fromSpreadSheetToR/) at the [Research Software Camp: Beyond the Spreadsheet](https://www.software.ac.uk/RSCamp-beyond-spreadsheet). Later today (17 May 2022, they're teaching the same workshop but in Spanish (Desde las Hojas de Cálculo a R) at the [Research Software Camp: Next Steps in Coding](https://www.software.ac.uk/RSCamp-next-steps-coding), for the benefit of Spanish-speaking research communities. In this blog post, they tell us more about MetaDocencia.
+Last Year [Paola Corrales](paocorrales.github.io/) and [Yanina Bellini Saibene](https://yabellini.netlify.app/) members from the MetaDocencia community offered the workshop [From Spreadsheet to R](https://yabellini.github.io/fromSpreadSheetToR/) at the [Research Software Camp: Beyond the Spreadsheet](https://www.software.ac.uk/programme-research-software-camp-beyond-spreadsheet). Later today (17 May 2022, they're teaching the same workshop but in Spanish (Desde las Hojas de Cálculo a R) at the [Research Software Camp: Next Steps in Coding](https://www.software.ac.uk/Events/research-software-camp-next-steps-coding), for the benefit of Spanish-speaking research communities. In this blog post, they tell us more about MetaDocencia.
 
 ## What is MetaDocencia? 
 
@@ -29,7 +29,7 @@ In the last two years, we reached more than 2000+ teachers in 30 countries aroun
 
 ## What do we offer?
 
-MetaDocencia has [five workshops](https://www.metadocencia.org/en/cursos/) on how to teach technical skills essentials (online and in-person) and to use technical tools. All the workshops are free and all the material is shared with CC-BY or CC_BY-SA licensed so it can be reused.  We also organize book clubs and work with other communities to deliver these workshops like the one we delivered for the Software Sustainability Institute’s Research Software Camp last year. 
+MetaDocencia has five workshops on how to teach technical skills essentials (online and in-person) and to use technical tools. All the workshops are free and all the material is shared with CC-BY or CC_BY-SA licensed so it can be reused.  We also organize book clubs and work with other communities to deliver these workshops like the one we delivered for the Software Sustainability Institute’s Research Software Camp last year. 
 
 MetaDocencia believes in the need for culturally and geographically diverse communities of practice. The languages spoken in underserved regions and local challenges related to the implementation of new skills for Open Science need better representation in the global Open Science community. This is why we are also working on translating our material to Portuguese.
 
@@ -37,6 +37,6 @@ Metadocencia has renewed its presence in the Research Software Camp: Next Steps 
 
 Stay tuned for MetaDocencia’s events in Spanish and the release of two new hands-on workshops to build Open Science capacity in 2022.  
 
-If you believe that you or your community would benefit from MetaDocencia’s work, please [reach out to the MetaDocencia’s team]( mailto:info@metadocencia.org), or join our [Slack](https://join.slack.com/t/metadocencia/shared_invite/zt-ek8a0rup-MQB_5qUKhr9zIGKQAUImXA) channel. 
+If you believe that you or your community would benefit from MetaDocencia’s work, please reach out to the MetaDocencia’s team, or join our Slack channel. 
 
 > Cross post with [Software Sustainability Institute](https://www.software.ac.uk/blog/2022-05-17-metadocencia-nurturing-educators-spanish-speaking-research-communities)
