@@ -56,7 +56,7 @@ El **objetivo** de este curso es introducir a las personas que participan al paq
 
 ### ¿Para quién está pensado este taller?
 
-Cada lección debe ser pensada, organizada y generada para una audiencia en particular, estas son las [personas tipo](/personas/) en la que pensamos cuando preparamos este taller:
+Cada lección debe ser pensada, organizada y generada para una audiencia en particular, estas son las personas tipo en la que pensamos cuando preparamos este taller:
 
 * _Josefina_: conoce y enseña R en su cátedra en la universidad.  Está interesada en proporcionar feedback automatizados a la respuesta de los ejercicios de programación con R que dan en su materia. 
 
