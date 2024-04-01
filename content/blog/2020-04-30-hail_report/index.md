@@ -27,7 +27,7 @@ característica de importante severidad por lo que poseía una alta probabilidad
 además de un muy lento avance en la región.
 
 
-{{< figure src="feature.jpg" alt="Imagenes de reflectividad del radar" >}}
+{{< figure src="featured.jpg" alt="Imagenes de reflectividad del radar" >}}
 
 Fig. 1. Imagen de Reflectividad [dBZ]  del radar de Anguil entre las 22:00 y 23:00hs del día 27 de abril de 2020.
 
@@ -37,12 +37,12 @@ observados no son muy altos, pero como está lloviendo sobre o en las cercanías
 afectadas y mostrar una disminución de la misma.
 
 
-{{< figure src="figura_2a.jpg" alt="Imagen de reflectividad" >}}
-{{< figure src="figura_2b.jpg" alt="Imagen de reflectividad" >}}
+{{< figure src="figura_2a.png" alt="Imagen de reflectividad" >}}
+{{< figure src="figura_2b.png" alt="Imagen de reflectividad" >}}
 
 Fig. 2. Imagen de Reflectividad [dBZ]  del radar de Anguil entre las 22:10 del día 27 de abril hasta las 00:50hs del dia 28 de abril de 2020.
 
-{{< figure src="figura_3.jpg" alt="Imagen de reflectividad" >}}
+{{< figure src="figura_3.png" alt="Imagen de reflectividad" >}}
 
 Fig. 3. Imagen de Reflectividad [dBZ]  del radar de Anguil entre las 01:00 hasta las 01:50 del día 28 de abril.
 
@@ -55,7 +55,7 @@ En la Figura 4, se muestran 3 momentos, a las 22:40hs del 27 de abril, 00:10hs y
 los topes que las nubes que se observaban en cada momento. Se destacan con círculos aquéllas más intensas que registran 
 topes de más de 10km que están asociadas con los fenómenos meteorológicos más intensos.
 
-{{< figure src="figura_4.jpg" alt="Imagen de altura de topes nubosos" >}}
+{{< figure src="figura_4.png" alt="Imagen de altura de topes nubosos" >}}
 
 Fig. 4. Imagen de altura de topes nubosos [m]  del radar de Anguil a las 22:40 del día 27 de abril y  00:10 y 01:30 del día 28 de abril.
 
