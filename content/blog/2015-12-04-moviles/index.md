@@ -11,7 +11,7 @@ tags:
   - AgTech
 ---
 
-{{< figure src="featured.jpg" alt="Tapas de los manuales de trigo y cosecha gruesa">}}
+{{< figure src="featured.jpeg" alt="Tapas de los manuales de trigo y cosecha gruesa">}}
 
 La tecnología informática nos permite, hoy, contar con equipos que hacen más eficiente las tareas de relevamiento a campo.  La RIAN incorpora esas facilidades desarrollando los sistemas informáticos que permiten a nuestros agentes georreferenciar, registrar, fotografiar y transmitir, en tiempo real desde el campo, la información mensual del estado de los cultivos, disminuyendo los costos de los tiempos operativos. A partir de esta actividad se publicaron manuales de campo para de los principales cultivos agrícolas de las regiones Pampeana, NEA y NOA. Estos manuales se pueden encontrar en papel y también en su forma digital en archivos PDF (descarga en http://rian.inta.gob.ar).
 
