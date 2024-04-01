@@ -29,7 +29,7 @@ links:
 
 ## English
 
-<img src='featured.jpg' align="right" height="200" alt='Forwards blue logo'/>
+<img src='featured.png' align="right" height="200" alt='Forwards blue logo'/>
 
 The task force was set up by the R Foundation in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.
 
