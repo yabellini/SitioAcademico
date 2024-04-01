@@ -14,7 +14,7 @@ tags:
   - Open Education
   - rstats
 ---
-{{< figure src="/media/concept_map_learnr_post.jpg" alt="Esquema con estilo dibujado a mano de un mapa conceptual sobre tutoriales">}}
+{{< figure src="featured.jpg" alt="Esquema con estilo dibujado a mano de un mapa conceptual sobre tutoriales">}}
 <a href="http://www.freepik.com">Designed by Freepik</a>
 
 ## Mapas conceptuales
@@ -24,7 +24,7 @@ En un [post anterior](https://learning-learnr.netlify.app/post/concept_maps/) ha
 Como parte de las actividades de [LatinR](https://latin-r.com/) y en el marco de [MetaDocencia](https://www.metadocencia.org) desarrollamos un curso sobre {learnr} y generamos el mapa conceptual correspondiente (el cual agregamos a la [colección de mapas conceptuales](https://github.com/rstudio/concept-maps) de RStudio Education):
 
 
-{{< figure src="/media/learnr-tutorial_concept_map.svg" alt="Mapa conceptual de un tutorial {learnr}">}}
+{{< figure src="/img/learnr-tutorial_concept_map.svg" alt="Mapa conceptual de un tutorial {learnr}">}}
 
 ## Descripción del mapa conceptual
 
