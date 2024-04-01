@@ -133,9 +133,9 @@ Repasando lo que hice durante el 2021 armé este listado con los 53 eventos en l
 
 * Fui una de las docentes del curso [Ciencia de Datos para Turismo](https://dnme-minturdep.github.io/DT6_ciencia_de_datos_turismo/) para la región Patagonia.
 
-* Fui parte del panel [Do we have the right tools for research?](https://www.software.ac.uk/panel-discussion-do-we-have-right-tools-research) del [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/RSCamp-beyond-spreadsheet).
+* Fui parte del panel [Do we have the right tools for research?](https://www.software.ac.uk/panel-discussion-do-we-have-right-tools-research) del [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/programme-research-software-camp-beyond-spreadsheet).
 
-* Enseñé, junto a [Paola Corrales](https://paocorrales.github.io/) el curso [From spreadsheets to R](https://yabellini.github.io/fromSpreadSheetToR/) como parte del [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/RSCamp-beyond-spreadsheet) y MetaDocencia.  Fue la primera vez que enseñé R en Inglés.
+* Enseñé, junto a [Paola Corrales](https://paocorrales.github.io/) el curso [From spreadsheets to R](https://yabellini.github.io/fromSpreadSheetToR/) como parte del [RS Camp: Beyond the Spreadsheet](https://www.software.ac.uk/programme-research-software-camp-beyond-spreadsheet) y MetaDocencia.  Fue la primera vez que enseñé R en Inglés.
 
 * Fui panelista invitada en _"Building RSE Communities Worldwide"_ con [esta charla](https://docs.google.com/presentation/d/1mAdLdZHZQa4KNpHOe1tjqE9J_QrVnXYvvZJjiWNK_O8/edit?usp=sharing) durante el [Research Software Engineers in HPC (RSE-HPC-2021)]( https://us-rse.org/rse-hpc-2021/).
 
