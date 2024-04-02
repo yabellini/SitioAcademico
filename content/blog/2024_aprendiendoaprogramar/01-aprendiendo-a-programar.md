@@ -49,7 +49,7 @@ Si ves una ventana así significa que ya tenés instalado R, pero seguí leyendo
 
 Para instalar algunos paquetes de R en Windows, vas a necesitar instalar un programa adicional llamado rtools. 
 
-1. Entrá a https://cran.r-project.org/bin/windows/Rtools/ y descargate el instalador de version mas nueva, en este momento es Rtools43. Para eso hacer click en Rtools43 y en es nueva pagina hacer clik en [Rtools43 installer](https://cran.r-project.org/bin/windows/Rtools/rtools43/files/rtools43-5948-5818.exe).  
+1. Entrá a https://cran.r-project.org/bin/windows/Rtools/ y descargate el instalador de version mas nueva, en este momento es Rtools43. Para eso hacer click en Rtools43 y en es nueva pagina hacer clik en [Rtools43 installer](https://cran.r-project.org/bin/windows/Rtools/rtools43/rtools.html).  
 
 2. Ejecuta el instalador y segui las instrucciones.
 
