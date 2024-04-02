@@ -19,7 +19,7 @@ Nuevamente llegamos al final de un año complejo.  Reflexionar sobre lo que pas�
 
 ## Docencia
 
-* Enseñé en dos programas de posgrado - [Ciencia de datos aplicada a las políticas públicas](https://www.unab.edu.ar/diplomatura-analisis-datos.html) en la Universidad Nacional Guillermo Brown y [Nuevas tecnologías para el agro](https://www.fca-ude.edu.uy/diploma-en-nuevas-tecnologias-para-la-agricultura.php) en la Universidad de la Empresa (Uruguay) - y un diploma de [Ciencia de datos](https://www.edn.org.ar/curso.php?center=cit&idcurso=NTYw). Las materias que doy son Big Data, [Visualización](https://diplodatosunab.github.io/visualizacion/) e Introducción a la programación.
+* Enseñé en dos programas de posgrado - [Ciencia de datos aplicada a las políticas públicas](https://www.unab.edu.ar/analisis-datos/) en la Universidad Nacional Guillermo Brown y [Nuevas tecnologías para el agro](https://www.fca-ude.edu.uy/diploma-en-nuevas-tecnologias-para-la-agricultura.php) en la Universidad de la Empresa (Uruguay) - y un diploma de [Ciencia de datos](https://www.edn.org.ar/curso.php?center=cit&idcurso=NTYw). Las materias que doy son Big Data, [Visualización](https://diplodatosunab.github.io/visualizacion/) e Introducción a la programación.
 
 * Comencé a dar clases a nivel de grado nuevamente.  Es [una licenciatura en Ciencia de Datos](https://www.unab.edu.ar/lic-ciencia-datos.html) en la Universidad Nacional Guillermo Brown.  La materia es de Gestión de Datos.
 
