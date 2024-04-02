@@ -11,7 +11,7 @@ tags:
   - Education
 ---
 
-{{< figure src="featured.jpg" alt="Book Cover with illustration of rich tapestry of plants and animals. Fish, Lemur, colorful birds are all intertwined.  Bordering the image is an x and y axis as often seen in a graphs, with the body of a snake through the center reminiscent of a line in a line graph. Interspersed within the animals and plants are other other symbols commonly used in data visualizations and a women off center typing.">}}
+{{< figure src="featured.png" alt="Book Cover with illustration of rich tapestry of plants and animals. Fish, Lemur, colorful birds are all intertwined.  Bordering the image is an x and y axis as often seen in a graphs, with the body of a snake through the center reminiscent of a line in a line graph. Interspersed within the animals and plants are other other symbols commonly used in data visualizations and a women off center typing.">}}
 
 Natalia Morandeira and I wrote a chapter for the new Data Science by Design book. Our section is called Multilingual Data Science. Ten Tips to Translate Science and Tech Content, and we share lessons learned in translating and localizing material to Spanish.
 
