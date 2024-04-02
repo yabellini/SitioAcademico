@@ -57,7 +57,7 @@ El 2020 va a quedar en nuestras memorias por mucho tiempo. Fue un año muy compl
 
 ## Mayo
 
-* Hicimos un [encuentro virtual entre R-Ladies Santa Rosa, R-Ladies Buenos Aires y R-Ladies General Pico](https://yabellini.netlify.app/es/courses/tallerdegitconr/). Fue la reunión inaugural de General Pico, el segundo capítulo de R-Ladies en mi provincia. _Qué linda que es esta comunidad_.
+* Hicimos un [encuentro virtual entre R-Ladies Santa Rosa, R-Ladies Buenos Aires y R-Ladies General Pico](/courses/git_rstudio_course/). Fue la reunión inaugural de General Pico, el segundo capítulo de R-Ladies en mi provincia. _Qué linda que es esta comunidad_.
 
 * Ayudé a construir una propuesta de posgrado en Agricultura Digital.
 

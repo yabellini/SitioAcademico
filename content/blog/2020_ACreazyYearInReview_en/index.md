@@ -57,7 +57,7 @@ tags:
 
 ## May
 
-* We did a [joint virtual meeting with R-Ladies Santa Rosa, R-Ladies Buenos Aires, and R-Ladies General Pico](https://yabellini.netlify.app/es/courses/tallerdegitconr/). It was the inaugural meeting of General Pico, the second chapter of R-Ladies in my province. _How beautiful this community is_.
+* We did a [joint virtual meeting with R-Ladies Santa Rosa, R-Ladies Buenos Aires, and R-Ladies General Pico](/courses/git_rstudio_course/). It was the inaugural meeting of General Pico, the second chapter of R-Ladies in my province. _How beautiful this community is_.
 
 * I helped build a postgraduate proposal in Digital Agriculture.
 
