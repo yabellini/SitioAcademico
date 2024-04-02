@@ -39,7 +39,7 @@ Tenes que tener instalados y cargados lo siguientes paquetes: `devtools, usethis
 
 Este paso a paso nos permitirá generar el repositorio de GitHub y el proyecto de RStudio para generar nuestro paquete.
 
-_Nota: Para quienes quieran aprender más sobre Git y proyectos de RStudio pueden leer [este post](https://yabellini.netlify.app/es/post/githubconr/) o mirar y seguir [este curso](https://yabellini.netlify.app/es/courses/tallerdegitconr/)._
+_Nota: Para quienes quieran aprender más sobre Git y proyectos de RStudio pueden leer [este post](https://yabellini.netlify.app/es/post/githubconr/) o mirar y seguir [este curso](/courses/git_rstudio_course/)._
 
 **1. Crear un nuevo repositorio en GitHub.** El nombre del repositorio que elijas terminará siendo el nombre de tu paquete, asi que seleccionemos con cuidado.
 
