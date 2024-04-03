@@ -16,7 +16,7 @@ tags:
   - Ciencia de Datos
 ---
 
-{{< figure src="featured.jpg" alt="">}}
+{{< figure src="featured.jpg" alt="Mapa de santa rosa con las producciones en el periurbano marcadas">}}
 
 La caracterización de los distintos modos de producir del hombre y su relación con el ambiente se torna una información fundamental para la planificación de la acción institucional sobre los territorios. Este proyecto se lleva adelante con el grupo de la Agencia Anguil (Héctor Lorda, Pablo Ermini), el grupo de Recursos Naturales (Zinda Roberto), la Municipalidad de Santa Rosa, la carrera de Geografía de la UNLPam y los técnicos Juan Caldera y Yanina Bellini Saibene del equipo de información Agropecuaria y AgroTICs. 
 
