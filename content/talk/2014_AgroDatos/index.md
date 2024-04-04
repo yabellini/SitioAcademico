@@ -1,5 +1,5 @@
 ---
-title: "Hackaton Agro Fatos. Hacer realidad las ideas"
+title: "Hackaton Agro Datos. Hacer realidad las ideas"
 excerpt: "Presentación sobre mi participacion en el Hackaton de Agro Datos de la Fundacion Sadosky que resulto en un premio por el proyecto desarrollado durante el evento."
 date: 2014-11-05
 date_end: "2014-11-05"
