@@ -5,8 +5,8 @@ date: 2008-09-08
 date_end: "2008-09-08"
 author: "Bellini Saibene, Yanina; Ramos, Lucas; Montoya, Jorgelina; Zinda, Roberto; Berhongaray, Gonzalo; Perez, Adrián."
 location: "Buenos Aires"
-event: "Congreso de AgroInformatica 2014 - JAIIO"
-event_url: https://43jaiio.sadio.org.ar/proceedings/CAI/search.html
+event: "Congreso de AgroInformatica 2008 - JAIIO"
+event_url: 
 draft: false
 # layout options: single, single-sidebar
 layout: single
