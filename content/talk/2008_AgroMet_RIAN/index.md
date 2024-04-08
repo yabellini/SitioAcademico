@@ -1,3 +1,4 @@
+---
 title: "Red Termopluviométrica de la Red de Información Agropecuaria Nacional (RIAN) "
 excerpt: "Presentacion del sistema de informacion y base de datos desarrollado para gestionar y procesar los datos de la red de informacion de temperaturas y precipitaciones en la Red de Informacion Agropecuaria Nacional"
 date: 2008-09-10
