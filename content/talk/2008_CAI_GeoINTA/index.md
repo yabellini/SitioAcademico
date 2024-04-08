@@ -4,7 +4,7 @@ excerpt: "Presenta el catalogo de datos geoespaciales del INTA"
 date: 2008-09-08
 date_end: "2008-09-08"
 author: "Ramos, Lucas; Pablo Mercuri; Bellini Saibene, Yanina; Maria Jose Pizarro"
-location: "Buenos Aires"
+location: "Santa Fe"
 event: "Congreso de AgroInformatica 2008 - JAIIO"
 event_url: 
 draft: false

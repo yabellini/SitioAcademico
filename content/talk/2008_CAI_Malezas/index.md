@@ -4,7 +4,7 @@ excerpt: "Presenta el sistema de informacion y la base de datos desarrollada par
 date: 2008-09-08
 date_end: "2008-09-08"
 author: "Bellini Saibene, Yanina; Ramos, Lucas; Montoya, Jorgelina; Zinda, Roberto; Berhongaray, Gonzalo; Perez, Adrián."
-location: "Buenos Aires"
+location: "Santa Fe"
 event: "Congreso de AgroInformatica 2008 - JAIIO"
 event_url: 
 draft: false
