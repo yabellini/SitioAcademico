@@ -1,8 +1,8 @@
 ---
 title: "Equipos interdisciplinarios en Agroinformática"
 excerpt: "Repaso por la conformacion y evolucion del equipo interdiciplinario de AgroInformatica de la EEA Anguil"
-date: 2011-09-10
-date_end: "2011-09-10"
+date: 2011-08-10
+date_end: "2011-08-10"
 author: "Bellini Saibene, Yanina"
 location: "Cordoba"
 event: "Congreso Argentino de AgroInformatica - JAIIO 2011"
