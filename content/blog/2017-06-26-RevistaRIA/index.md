@@ -1,8 +1,7 @@
 ---
 date: "2017-06-26"
 draft: false
-summary: "
-Esta disciplina que aporta soluciones informáticas para el sector agropecuario y agroindustrial, _es un área sobre la cual nos gustaría que más mujeres puedan desarrollar su carrera_, afirma Yanina Bellini."
+summary: "Esta disciplina que aporta soluciones informáticas para el sector agropecuario y agroindustrial, _es un área sobre la cual nos gustaría que más mujeres puedan desarrollar su carrera_, afirma Yanina Bellini."
 title: El aporte silencioso a la agroinformática
 authors: Yanina Bellini Saibene
 weight: 1
@@ -16,6 +15,8 @@ tags:
   - Agro
   - Ciencia de Datos
 ---
+
+Esta disciplina que aporta soluciones informáticas para el sector agropecuario y agroindustrial, _es un área sobre la cual nos gustaría que más mujeres puedan desarrollar su carrera_, afirma Yanina Bellini.
 
 {{< figure src="featured.jpeg" alt="Yanina apunta a una imagen de radar meteorologico en una pantalla de computadora">}}
 
