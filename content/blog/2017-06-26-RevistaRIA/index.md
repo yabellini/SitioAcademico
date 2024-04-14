@@ -18,7 +18,7 @@ tags:
 
 Esta disciplina que aporta soluciones informáticas para el sector agropecuario y agroindustrial, _es un área sobre la cual nos gustaría que más mujeres puedan desarrollar su carrera_, afirma Yanina Bellini.
 
-{{< figure src="featured.jpeg" alt="Yanina apunta a una imagen de radar meteorologico en una pantalla de computadora">}}
+{{< figure src="featured.gif" alt="Yanina apunta a una imagen de radar meteorologico en una pantalla de computadora">}}
 
 En el sector agroindustrial argentino los aportes y soluciones tecnológicas *“a problemas propios y derivados de los cambios económicos y climáticos, dependen del trabajo de investigadores, empresarios y estudiantes cuyas ideas y desarrollos se complementan”*, dice Yanina Bellini.
 
@@ -39,7 +39,7 @@ Este desafío *“puede abordarse desde dos ópticas dentro de las AgroTIC: por 
 
 ## El mundo de la agroinformática
 
-{{< figure src="bellini1.jpeg" alt="Yanina mirando a la camara sonriendo y sentada en un escritorio que tiene una notebook con una imagen de un sensor remoto">}}
+{{< figure src="bellini1.jpg" alt="Yanina mirando a la camara sonriendo y sentada en un escritorio que tiene una notebook con una imagen de un sensor remoto">}}
 
 Al igual que el sector agropecuario y en las carreras relacionadas al mismo, el sector de la tecnología, programación, ingeniería son ámbitos predominantemente masculinos. 
 
