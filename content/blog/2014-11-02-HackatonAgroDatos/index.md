@@ -1,5 +1,5 @@
 ---
-date: "2016-10-02"
+date: "2014-11-02"
 draft: false
 summary: "La investigadora pampeana Yanina Bellini Saibene recibió un diploma en Tecnópolis como una de las ganadoras del Primer Hackaton de Agro Datos organizado por el Programa de Ciencias de Datos de la Fundación Manuel Sadosky, dependiente del Ministerio de Ciencia y Tecnología de la Nación por el trabajo Yvytu, identificación de eventos climáticos con impacto agropecuario en noticias locales."
 title: Mención para la EEA Anguil en el Hackatón de AgroDatos
