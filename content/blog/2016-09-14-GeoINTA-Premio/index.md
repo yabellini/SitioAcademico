@@ -26,4 +26,9 @@ Este año Santiago Banchero del instituto de Clima y Agua y Yanina Bellini de la
 
 El equipo de trabajo de GeoINTA en a EEA Anguil está compuesto por Yanina Bellini, Pablo Lucchetti, María Elena Fuentes, Juan Caldera y Lucas Ramos.
 
+En las noticias:
+
+* [La plataforma GeoINTA fue premiada en un Simposio de Informática](https://agrolink.com.ar/la-plataforma-geointa-fue-premiada-simposio-informatica/actualidad/)
+* [GeoINTA: una iniciativa de éxito, galardonada](http://www.acopiadores.com/noticia/21193/geointa-una-iniciativa-de-exito-galardonada)
+* [Radio Mitre y el campo. GeoINTA: una iniciativa de exito galardonada](https://radiomitre.cienradios.com/mitre-y-el-campo/geointa-una-iniciativa-de-exito-galardonada/)
 > Publicado originalmente en la web de la EEA INTA Anguil.
