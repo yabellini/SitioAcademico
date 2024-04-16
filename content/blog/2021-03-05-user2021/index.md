@@ -15,6 +15,7 @@ tags:
   - RStats
 ---
 
+R se utiliza en todas las áreas de análisis de datos, estadísticas y visualización, y en nuestra institución es uno de los lenguajes más utilizados por las/los investigadores/as
 
 La institución participa como ente organizador del Congreso useR 2021, que es organizado por 
 [R Foundation](https://www.r-project.org/foundation/) y [ETH Zürich KOF - Swiss Economic Institute](https://kof.ethz.ch/en/). 
