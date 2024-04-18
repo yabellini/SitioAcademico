@@ -168,14 +168,14 @@ partidos %>%
   filter(`Home Team Name` == "Argentina")
 ```
   
-* Ordenar los partidos por audiencia de mayor a menor. Cual fue el partido menos visto?
+* Ordenar los partidos por audiencia de menor a mayor. Cual fue el partido menos visto?
   
 ```{r}
 partidos %>% 
-  arrange(desc(Attendance))
+  arrange(Attendance)
 ```
 
-* ya ahora ordenarlo de menor a mayor.  Cual fue el partido mas visto?
+* ya ahora ordenarlo de mayor a menor.  Cual fue el partido mas visto?
   
 ```{r}
 partidos %>% 
