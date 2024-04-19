@@ -1,5 +1,5 @@
 ---
-title: "Quinto Encuentro. Aprendiendo a Programar en 30 lecciones"
+title: "Sexto Encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 6
 subtitle: "Sexto encuentro"
 excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase Juan Cruz tuvo el desafio de generar el conjunto de datos necesario para hacer el grafico que le pedi.  La idea fue integrar en un ejercicio mas complejo diferentes conceptos que vimos en las clases 1 a 5."
@@ -96,7 +96,7 @@ partidos %>%
 
 Hay varias opciones para resolver este problema.  Juan Cruz decidio tomar los primeros cinco nombres y colocarlos en un `filter` con el operador `%in%`.  Por lo que al codigo de la solucion 1 le agrego el filtro: 
 
-```{r}
+``` r
 partidos %>%
   group_by(Year, `Home Team Name`) %>%
   summarise(golestotales = sum(`Home Team Goals`+ `Away Team Goals`)) %>%
@@ -120,8 +120,6 @@ partidos %>%
 10 1990-01-01 Germany FR                 20
 # ℹ 59 more rows
 # ℹ Use `print(n = ...)` to see more rows
-> 
-
 ```
 
 Ahora la cantidad de casos (o sea participaciones en mundiales de los cinco paises mas goleadores) se redujo a **59**, versus las **357** filas de la solucion 1 donde estaban todos los paises que alguna vez jugaron en las copas del mundo presentes en el conjunto de datos.
@@ -133,7 +131,7 @@ Ahora que tenemos los datos podemos realizar el grafico.  Como primer paso Juan 
 
 Este es el primer codigo de la solucion.  Previo a ejecutarlo y ver el resultado, Juan Cruz menciono que necesitaba una linea por pais, y que tenia que poder indicar de alguna manera esta caracteristica del grafico.  
 
-```{r}
+``` r
 masgoleadores %>%
   ggplot() +
   geom_line(aes(x=Year, y=golestotales))
@@ -149,7 +147,7 @@ Este grafico no nos sirve de mucho para distinguir los cinco paises y ver las di
 Una solución sería utilizar otras variables de los datos, por ejemplo `Home Team Name` y mapear el color de las lineas de a cuerdo al pais (`Home Team Name`) al que pertenecen.
 
 
-```{r}
+``` r
 masgoleadores %>%
   ggplot() +
   geom_line(aes(x=Year, y=golestotales, color= `Home Team Name`))
@@ -168,7 +166,7 @@ Como ya vimos ggplot puede tener mas de una capa y un mismo grafico puede tener 
 
 Por suerte las funciones `geom_*()` tienen más o menos nombres amigables, si queremos agregar una capa de puntos la funcion a usar es `geom_point()`
 
-```{r}
+``` r
 masgoleadores %>%
   ggplot() +
   geom_line(aes(x=Year, y=golestotales, color= `Home Team Name`))+
@@ -180,7 +178,7 @@ masgoleadores %>%
 
 Ahora si, conseguimos el gráfico que estamos buscando. Las líneas unen puntos consecutivos y permiten que el ojo siga la evolución de cada pais.
 
-Tqambien es mucho mas claro lo que pasa con las Alemanias:
+Tambien es mucho mas claro lo que pasa con las Alemanias:
 
 * La linea de color verde tiene datos en el mundial de 1934 y luego no participo bajo ese nombre hasta el mundial 1994, por ende en el periodo comprendido entre esos años no hay datos y por eso la linea tiene esa forma recta horizontal. 
 
