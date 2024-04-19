@@ -131,25 +131,60 @@ Ahora la cantidad de casos (o sea participaciones en mundiales de los cinco pais
 
 Ahora que tenemos los datos podemos realizar el grafico.  Como primer paso Juan Cruz almaceno el resultado de la solucion del punto 2 en un objeto llamado `masgoleadores`.
 
+Este es el primer codigo de la solucion.  Previo a ejecutarlo y ver el resultado, Juan Cruz menciono que necesitaba una linea por pais, y que tenia que poder indicar de alguna manera esta caracteristica del grafico.  
+
+```{r}
+masgoleadores %>%
+  ggplot() +
+  geom_line(aes(x=Year, y=golestotales))
+
+```
+
+<img src="linea_1.png" alt="Grafico con una linea negras que presenta la evolucion de la cantidad de goles realizadosa traves del tiempo en cada copa del mundo." />
+
+Este grafico no nos sirve de mucho para distinguir los cinco paises y ver las diferencias entre ellos, ya que tiene una sola linea. 
+
+### Mapear variables a elementos
+
+Una solución sería utilizar otras variables de los datos, por ejemplo `Home Team Name` y mapear el color de las lineas de a cuerdo al pais (`Home Team Name`) al que pertenecen.
 
 
 ```{r}
 masgoleadores %>%
-ggplot() +
+  ggplot() +
   geom_line(aes(x=Year, y=golestotales, color= `Home Team Name`))
 
 ```
 
+<img src="linea_2.png" alt="Grafico con cinco lineas de diferente color que presentan la evolucion de la cantidad de goles realizadosa traves del tiempo en cada copa del mundo por cada pais en el conjunto de datos." />
+
+Este grafico está un poco mejor. Se puede ver que Italia ha hecho menos goles que el resto de los paises y que Brasil tiene varios maximos en varias copas.  
+
+Hay una linea que llama la atencion, la que corresponde a una de las Alemanias del conjunto de datos: la linea tiene el mismo valor durante varias copas.  Lo que nos lleva a preguntarnos que paso, realmente fueron tan consistente en la cantidad de goles en cada copa? o algo mas esta ocurriendo?  
+
+###  Otras geometrías
+
+Como ya vimos ggplot puede tener mas de una capa y un mismo grafico puede tener mas de una geometria. En este caso es recomendable agregar una capa con puntos, para ver en que copas participo cada pais. 
+
+Por suerte las funciones `geom_*()` tienen más o menos nombres amigables, si queremos agregar una capa de puntos la funcion a usar es `geom_point()`
 
 ```{r}
 masgoleadores %>%
-ggplot() +
-  geom_line(aes(x=Year, y=golestotales,color= `Home Team Name`))+
-  geom_point(aes(x=Year, y=golestotales,color= `Home Team Name`))
-
-
-
-
-
+  ggplot() +
+  geom_line(aes(x=Year, y=golestotales, color= `Home Team Name`))+
+  geom_point(aes(x=Year, y=golestotales, color= `Home Team Name`))
 
 ```
+
+<img src="linea_3.png" alt="Grafico con cinco lineas de diferente color que presentan la evolucion de la cantidad de goles realizadosa traves del tiempo en cada copa del mundo por cada pais en el conjunto de datos con una segunda capa con puntos del mismo color que la linea que muestra cuando un pais participo en una copa." />
+
+Ahora si, conseguimos el gráfico que estamos buscando. Las líneas unen puntos consecutivos y permiten que el ojo siga la evolución de cada pais.
+
+Tqambien es mucho mas claro lo que pasa con las Alemanias:
+
+* La linea de color verde tiene datos en el mundial de 1934 y luego no participo bajo ese nombre hasta el mundial 1994, por ende en el periodo comprendido entre esos años no hay datos y por eso la linea tiene esa forma recta horizontal. 
+
+* Tambien podemos ver que la linea celeste de Alemania Occidental tiene datos desde 1954 a 1990.
+
+
+Este ejemplo nos permite ver que a veces necesitamos mas de una geometria para poder analizar nuestros datos. 
