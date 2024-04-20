@@ -2,7 +2,7 @@
 title: "Tercer Encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 3
 subtitle: "Tercer encuentro"
-excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos que son los proyectos y como nos pueden ayudar a ordenar nuestro trabajo, tambien vemos que es Rmarkdown y como leer y mirar los datos que vamos descargamos."
+excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos que son los proyectos y como nos pueden ayudar a ordenar nuestro trabajo, tambien vemos que es Rmarkdown y como leer y mirar los datos que descargamos para trabajar en el resto de las clases."
 date: 2024-03-09
 draft: false
 categories:
@@ -17,7 +17,7 @@ tags:
   - 100DaysToOffload
 ---
 
-En esta clase aprendimos que son los proyectos y como nos pueden ayudar a ordenar nuestro trabajo, tambien vemos que es Rmarkdown y como leer y mirar los datos que vamos descargamos la clase pasada.
+En esta clase aprendimos que son los proyectos y como nos pueden ayudar a ordenar nuestro trabajo, tambien vemos que es Rmarkdown y como leer y mirar los datos que descargamos para trabajar en el resto de las clases.
 
 ## Ordenando nuestro trabajo
 
@@ -145,7 +145,7 @@ Esta tarea es un poco engorrosa si hay que cambiar muchas cosas cada vez que que
 
 ## Leyendo y observando datos
 
-El cnojunto de datos que usa nuestro reporte son los datos de **Pingüinos de Palmer** y fueron recogidos y puestos a disposición por la Dra. Kristen Gorman y la [Estación Palmer en la Antártida, LTER](https://pal.lternet.edu/).
+El conjunto de datos que usa nuestro reporte son los datos de **Pingüinos de Palmer** y fueron recogidos y puestos a disposición por la Dra. Kristen Gorman y la [Estación Palmer en la Antártida, LTER](https://pal.lternet.edu/).
 
 Estos datos están disponibles en R instalando el paquete `palmerpenguins` (en inglés) o el paquete `datos` (en español), pero como queremos aprender a leer datos en R, vamos a leerlos desde archivos csv y xls.
 
