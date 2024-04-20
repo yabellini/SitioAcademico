@@ -17,8 +17,9 @@ tags:
   - 100DaysToOffload
 ---
 
-## El Desafio
+En esta clase Juan Cruz tuvo el desafio de generar el conjunto de datos necesario para hacer el grafico que le pedi.  La idea fue integrar en un ejercicio mas complejo diferentes conceptos que vimos en las clases 1 a 5.
 
+## El Desafio
 
 Usando los conjunto de datos que venimos trabajando:
 
