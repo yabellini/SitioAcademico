@@ -37,19 +37,19 @@ No es necesario que sepamos utilizar todo esto de inmediato. Nos familiarizaremo
 
 Podemos escribir código, es decir, instrucciones para ser ejecutadas por R en la Consola. Por ejemplo, podemos calcular el resultado dos más siete escribiendo
 
-```{r}
+``` r
 2 + 7
 ```
 
 en la Consola y pulsando enter. El resultado aparece en la consola
 
-```{r}
+``` r
 [1] 9
 ```
 
 Junto al resultado aparece un [1]. R te indicaque esta línea de resultados comienza con el primer valor. Algunas instrucciones devuelven más de un valor, y sus resultados pueden llenar varias líneas. Por ejemplo, el comando `10:50` devuelve 40 valores; crea una secuencia de enteros del 10 a 50. Cuando ejecutamos esa orden en la consola aparecen números nuevos entre corchetes al principio de la segunda líneas de salida. Estos números sólo significan que la segunda línea comienza con el 37º valor del resultado. Por el momento (y en la mayoria de los casos) se pueden ignorar los números que aparecen entre corchetes.
 
-```{r}
+``` r
 > 10:50 
 [1] 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
 [37] 46 47 48 49 50
@@ -61,21 +61,21 @@ Si escribimos una instruccion que R no reconoce, R devuelve un mensaje de error.
 
 Ahora probemos on otras operaciones, como la division y la multiplicacion. 
 
-```{r}
+``` r
 2/3
 2*5
 ```
 
 El resultado siempre aparece justo debajo. También podemos guardar ese resultado en un objeto, en este caso llamado `resultado`.
 
-```{r}
+``` r
 resultado <- 2 + 7
 ```
 
 Esa flechita es el *operador de asignación* y funciona como un `=`. Ahora el resultado se guarda en el Entorno (Environment) como una variable con nombre `resultado` y no se imprime en la consola. Para ver el contenido, ademas de verla en el Entorno, podemos escribir el nombre de la variable (asi se llama este tipo de objeto) en la consola
 
 
-```{r}
+``` r
 > resultado
 
 [1] 9
@@ -83,7 +83,7 @@ Esa flechita es el *operador de asignación* y funciona como un `=`. Ahora el re
 ```
 Tambien podemos empezar a usar la variable para realizar calculos
 
-```{r}
+``` r
 > resultado + 5
 
 [1] 14
@@ -92,14 +92,14 @@ Tambien podemos empezar a usar la variable para realizar calculos
 
 Que pasa si escribimos  
 
-```{r}
+``` r
 > resultado <- 5 * 2
 
 ```
 
 El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.  Si escribimos el nombre de la variable en la consola obtendremos 10 en vez de 9.  Esto significa que si queremos poder usar ambos valores en el futuro necesitamos poder guardarlos en diferentes objetos o variables.
 
-```{r}
+``` r
 > resultado
 
 [1] 10
@@ -108,7 +108,7 @@ El valor de la nueva operacion se almacena en resultado y sobreescribe el nueve.
 
 El operador `:`, que usamos antes, devuelve como resultado un **vector**, un conjunto unidimensional de numeros. Vamos a crear el objeto `numeros` con la serie de numeros del 10 al 25
 
-```{r}
+``` r
 > numeros <- 10:25
 
 > numeros
@@ -118,7 +118,7 @@ El operador `:`, que usamos antes, devuelve como resultado un **vector**, un con
 
 Como podemos acceder al numero 13? o al numero 25?. El vector tiene un indice que indica la posicion de cada numero en el vector.  En R los indices inician en 1 y se indican entre corteches a la derecha del nombre del vector 
 
-```{r}
+``` r
 > numeros[4]
 [1] 13
 
@@ -128,7 +128,7 @@ Como podemos acceder al numero 13? o al numero 25?. El vector tiene un indice qu
 ```
 Tambien recordemos que R considera que dos objetos son diferentes si alguna de las letras esta en minusculas y las otras en mayuscula, por ejemplo `Numeros` y `numeros` no es el mismo objeto.
 
-```{r}
+``` r
 > Numeros
 Error: object 'Numeros' not found
 ```
@@ -139,7 +139,7 @@ Los lenguajes de programacion son poderosos porque cuentan con un conjunto de co
 
 Las funciones tienen una **firma** que tiene la forma
 
-```{r}
+``` r
 nombre_de_la_funcion(parametros, de, la, funcion){
 
   otras funciones que hacen cosas cuando llamamos a la funcion
@@ -149,7 +149,7 @@ nombre_de_la_funcion(parametros, de, la, funcion){
 
 Veamos un ejemplo, la funcion `ls()` lista los objetos en memoria
 
-```{r}
+``` r
 
 > ls()
 [1] "numeros"   "resultado"
@@ -157,7 +157,7 @@ Veamos un ejemplo, la funcion `ls()` lista los objetos en memoria
 ```
 Siempre se deben usar los parentesis al final del nombre para llamar a la funcion y que R la ejecute. Si solo ponemos el nombre veremos el codigo de la funcion, pero no se ejecutara.
 
-```{r}
+``` r
 > ls
 function (name, pos = -1L, envir = as.environment(pos), all.names = FALSE, 
     pattern, sorted = TRUE) 
@@ -196,7 +196,7 @@ function (name, pos = -1L, envir = as.environment(pos), all.names = FALSE,
 
 Tambien podemos obtener ayuda sobre que hacen las funciones utilizando el operador `?`. En RStudio ese operador abrira la documentacion de la funcion en el panel **Help**.  
 
-```
+``` r
 ?ls
 ```
 
@@ -206,7 +206,7 @@ Tambien podemos obtener ayuda sobre que hacen las funciones utilizando el operad
 
 Algunas funciones tienen parametros.  Vamos a realizar otra operacion con R, dividiremos 2 dividido 3
 
-```
+``` r
 decimal <- 2/3
 ```
 
@@ -214,7 +214,7 @@ Esta operacion nos devuelve un numero decimal con 15 decimales.  Nosotros no que
 
 > Ejercicio: leamos la ayuda para ver que hace esa funcion.
 
-```
+``` r
 ?round()
 ```
 
@@ -240,13 +240,13 @@ Un paquete puede contener funciones, documentacion y datos. Se debe instalar una
 
 La funcion `install.packages` nos permite instalar paquetes que estan en CRAN, un respositorio oficial de paquetes de R que tiene mas de 20.000 paquetes disponibles.
 
-```
+``` r
 install.packages("tidyverse")
 ```
 
 El mensaje que vemos en la consola nos cuenta que con tidyverse se instalan muchos otros paquetes. Vamos a usar diferentes funciones de los diferentes paquetes para trabajar en nuestro proyecto de clase. Ahora que esta instalado, hay que cargarlo para poder usarlo
 
-```
+``` r
 library(tidyverse)
 ```
 
