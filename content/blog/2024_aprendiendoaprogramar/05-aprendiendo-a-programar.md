@@ -17,6 +17,8 @@ tags:
   - 100DaysToOffload
 ---
 
+En esta clase resolvimos preguntas que Juan Cruz trajo sobre los datos, aprendimos algunos verbos nuevos de dplyr y hicimos nuestros primeros graficos.
+
 ## Preguntas sobre los datos
 
 El ultimo ejercicio de la clase anterior era pensar en preguntas a contestar usando los datos de nuestros conjuntos de datos.  Juan Cruz trajo muchas preguntas, contestamos algunas y dejamos otras para mas adelante porque aun no habiamos visto los conceptos necesarios para poder resolverlas.
@@ -36,7 +38,7 @@ Veamos las preguntas que si pudimos contestar:
 
 * Solucion propuesta durante la clase 
 
-  ```{r}
+  ``` r
   copas %>% 
     filter(Winner == "Brazil") %>% 
     filter(GoalsScored != 161)
@@ -44,7 +46,7 @@ Veamos las preguntas que si pudimos contestar:
 
 * Podemos reescribir esa solucion de esta manera:
 
-  ```{r}
+  ``` r
   copas %>% 
     filter(Winner == "Brazil", GoalsScored != 161) 
   ```
@@ -73,7 +75,7 @@ Las condiciones se generan con _operadores logicos_.  R tiene varios operadores 
 
 Entonces volviendo a la pregunta **Todas las veces que Argentina quedo entre los 3 mejores**, ahora podemos contestarla usando el operador **|** que significa **o**.
 
-```{r}
+``` r
 copas %>% 
   filter(Winner == "Argentina" | `Runners-Up` == "Argentina" | Third == "Argentina")
   
@@ -90,7 +92,7 @@ copas %>%
 
 Al ver los resultados, nos dimos cuenta que si Argentina llego a la semifinal, siempre paso a la final, o sea *nunca perdimos una semifinal*!. Armamos esta consulta para chequear ese dato:
 
-```{r}
+``` r
 copas %>% 
   filter(Third == "Argentina" | Fourth == "Argentina")
   
@@ -103,7 +105,7 @@ copas %>%
 
 * Listar todos los jugadores que tuvieron la 10.
  
-```{r}
+``` r
 diez <- jugadores %>% 
   filter(`Shirt Number` == 10) 
 ```
@@ -111,7 +113,7 @@ diez <- jugadores %>%
 La solucion propuesta es correcta, pero nos devuelve el mismo jugador varias veces, ya que ese jugador pudo haber jugado mas de un mundial con el mismo numero, por ejemplo Maradona con el numero 10.  Para obtener valores unicos, usamos la funcion `distinct()`.
 
 
-```{r}
+``` r
 diez <- jugadores %>% 
   filter(`Shirt Number` == 10) %>% 
   distinct(`Player Name`)
@@ -121,7 +123,7 @@ diez <- jugadores %>%
 
 * Todos los cuartos de final de Argentina
   
-```{r}
+``` r
 partidos %>% 
   filter(Stage == "Quarter-finals", 
         `Away Team Name` == "Argentina" | `Home Team Name` == "Argentina")
@@ -136,7 +138,7 @@ visitante al terminar el primer tiempo.
 
 Para agregar una columna con el total de goles, vamos a usar la función `mutate()`. 
   
-```{r}
+``` r
 partidos %>% 
   mutate(goles = `Half-time Home Goals` + `Half-time Away Goals`) 
 ```
@@ -148,7 +150,7 @@ Recordá que las funciones de dplyr nunca modifican la tabla original. `mutate()
 
 Ahora podemos usar esa variable `goles` con la funcion `filter()`
   
-```{r}
+``` r
 partidos %>% 
   mutate(goles = `Half-time Home Goals` + `Half-time Away Goals`) %>% 
   filter(goles >= 2)
@@ -156,28 +158,28 @@ partidos %>%
 
 * Todos los partidos que se jugaron en _Wembley_.
 
-```{r}
+``` r
 partidos %>% 
   filter(Stadium == "Wembley Stadium")
 ```
   
 * Todos los partidos que Argentina fue local
 
-```{r}
+``` r
 partidos %>% 
   filter(`Home Team Name` == "Argentina")
 ```
   
 * Ordenar los partidos por audiencia de menor a mayor. Cual fue el partido menos visto?
   
-```{r}
+``` r
 partidos %>% 
   arrange(Attendance)
 ```
 
 * ya ahora ordenarlo de mayor a menor.  Cual fue el partido mas visto?
   
-```{r}
+``` r
 partidos %>% 
   arrange(desc(Attendance))
 ```
@@ -225,7 +227,7 @@ Para poder realizar ese grafico, primero tenemos que calcular la cantidad de gol
 
 Vamos a guardar esos calculos en un nuevo conjunto de datos llamado `goles`
 
-```{r}
+``` r
 goles <- partidos %>% 
   group_by(Year) %>% 
   summarise(goles_v = sum(`Away Team Goals`),
@@ -235,7 +237,7 @@ goles <- partidos %>%
 
 El paquete para hacer graficos se llama `ggplot2` y la funcion principal es `ggplot()`. El primer argumento de ggplot es el conjunto de datos (igual que las otras funciones del tidyverse), en nuestro caso sera `goles`.  
 
-```{r}
+``` r
 goles %>% 
   ggplot() 
 
@@ -252,7 +254,7 @@ El segundo argumento se llama “mapping” (_mapeo_ en inglés). Este argumento
 
 Por ejemplo, si querés hacer un gráfico que muestre la evolucion de la cantidad de goles totales en las copas del mundo, usarias algo asi: 
 
-```{r}
+``` r
 goles %>% 
   ggplot(mapping = aes(x= Year, y = goles_t)) 
 ```
@@ -265,7 +267,7 @@ Este código le indica a `ggplot` que genere un gráfico donde el eje x se mapea
 
 Para agregar geometrías que representen los datos lo que hay que hacer es _sumar_ (+) el resultado de una función que devuelva una capa de geometrías. Estas suelen ser funciones que empiezan con “geom_” y luego el nombre de la geometría (en inglés). Para representar los datos usando lineas, hay que uasr geom_line()
 
-```{r}
+``` r
 goles %>% 
   ggplot(mapping = aes(x= Year, y = goles_t)) +
   geom_line()
@@ -281,7 +283,7 @@ goles %>%
 
 * Solucion propuesta:
 
-```{r}
+``` r
 goles %>% 
   ggplot(aes(x=Year, y = goles_v)) +
   geom_line()
@@ -291,7 +293,7 @@ goles %>%
 
 Supongamos que quisieramos comparar la cantidad de goles de los equipos locales con los visitantes.  ggplot() es muy poderoso porque usando el mas podemos agregar mas capas y podriamos tener un geom_line por cada variable.  Vamos a hacerlo.
 
-```{r}
+``` r
 goles %>% 
   ggplot() +
   geom_line(aes(x=Year, y = goles_v)) +
@@ -303,7 +305,7 @@ Tenemos ambos valores graficados y las lineas son diferentes, pero como las line
 
 Ya vamos a ver en las proximas clases que cada parte del grafico se puede asociar a una variable del conjunto de datos.  Tambien veremos que podemos dar valores constantes a diferentes partes del grafico.  En este caso vamos a pintar de colores verde y azul las lineas para poder diferenciarlas.
 
-```{r}
+``` r
 goles %>% 
   ggplot() +
   geom_line(aes(x=Year, y = goles_v), color = "blue") +
