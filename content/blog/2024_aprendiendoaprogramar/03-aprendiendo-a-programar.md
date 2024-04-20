@@ -2,7 +2,7 @@
 title: "Tercer Encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 3
 subtitle: "Tercer encuentro"
-excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos que son los paquetes, repasamos el proceso de analizar datos y descargamos los datos que vamos a usar para el resto de las clases"
+excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase aprendimos que son los proyectos y como nos pueden ayudar a ordenar nuestro trabajo, tambien vemos que es Rmarkdown y como leer y mirar los datos que vamos descargamos la clase pasada."
 date: 2024-03-09
 draft: false
 categories:
@@ -16,6 +16,8 @@ tags:
   - Español
   - 100DaysToOffload
 ---
+
+En esta clase aprendimos que son los proyectos y como nos pueden ayudar a ordenar nuestro trabajo, tambien vemos que es Rmarkdown y como leer y mirar los datos que vamos descargamos la clase pasada.
 
 ## Ordenando nuestro trabajo
 
