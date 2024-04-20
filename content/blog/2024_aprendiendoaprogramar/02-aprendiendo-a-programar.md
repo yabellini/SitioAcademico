@@ -17,6 +17,8 @@ tags:
   - 100DaysToOffload
 ---
 
+En esta segunda clase empezamos a encontranos con cenceptos sobre programacion y como eso funciona en R.
+
 ## Lenguaje de programacion e IDE
 
 Vamos a usar R como lenguaje de programación y RStudio como una IDE (Integrated Development Environment), un Entorno Integrado de Desarrollo.  Estas son dos herramientas diferentes. Podriamos usar R sin RStudio o tambien utilizando otras IDEs como Visual Studio Code.  El objetivo de una IDE es ayudarnos a programar presentando informacion y herramientas que nos permiten acceder a cosas utiles en el mismo entorno.
