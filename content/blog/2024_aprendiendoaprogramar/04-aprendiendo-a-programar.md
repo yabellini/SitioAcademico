@@ -17,6 +17,8 @@ tags:
   - 100DaysToOffload
 ---
 
+En esta clase aprendimos como cambiar el tipo de dato cuando leemos los archivos, que son los verbos de dplyr y el pipe. Los usamos para filtrar columnas filas ya agrupar casos.
+
 ## Nuestros datos
 
 La ultima clase leimos los datos de las copas del mundo y revisamos su estructura.  Algunas de las cosas que vimos en los datos son:
@@ -39,7 +41,7 @@ En el conjunto de datos de partidos se repiten los problemas con Year y con las 
 
 Las funciones para leer datos de R nos permiten indicar que tipo de datos tiene cada columna, en caso que la lectura por defecto asigne el tipo de forma incorrecta.  Este es un ejemplo para poder modificar el tipo de las columnas en el conjunto de datos de _jugadores_
 
-```{r}
+``` r
 jugadores <- read_csv("Data/WorldCupPlayers.csv", 
                       col_types = cols(RoundID = col_integer(), 
                                   MatchID = col_integer(), `Shirt Number` = col_integer()))
@@ -65,7 +67,7 @@ En este curso vamos a centrarnos las cinco acciones o verbos más comunes:
 
 Quiero trabajar con el año, el pais y el ganador de cada copa del mundo realizada.  Para quedarme con unicamente con las columnas mencionadas uso `select()`  
 
-```{r}
+``` r
 
 select(copas, Year, Country, Winner)
 
@@ -75,7 +77,7 @@ El primer argumento de la funcion select es el conjunto de datos y luego las col
 
 ¿Dónde quedó este resultado? Si te fijás en la tabla `copas`, su formato no cambió, sigue teniendo todas las columnas originales a pesar de nuestro select:
 
-```{r}
+``` r
 copas
 
 > copas
@@ -113,7 +115,7 @@ copas
 
 Ahora podés usar `filter()` para quedarte con sólo unas filas. Por ejemplo, para quedarse con las copas donde se hayan anotado mas de 100 goles. 
 
-```{r}
+``` r
 filter(copas, GoalsScored > 100)
 
 # A tibble: 12 × 10
@@ -149,7 +151,7 @@ filter(copas, GoalsScored > 100)
 
 #### Soluciones al ejercicio 2
 
-```{r}
+``` r
 filter(copas, GoalsScored > 100)
 
 filter(copas, Year == 1986)
@@ -170,7 +172,7 @@ Este operador ‘pipe’ (`%>%`) agarra el resultado de una función y se lo pas
 
 Dos de las operaciones anteriores (seleccionar tres columnas y luego filtrar las filas correspondientes a las copas donde el ganador fue Brasil) se pueden escribir uno después del otro y sin asignar los resultados intermedios a nuevas variables de esta forma:
 
-```{r}
+``` r
 copas %>% 
   select(Year, Country, Winner) %>% 
   filter(Winner == "Brazil") %>% 
@@ -191,7 +193,7 @@ Toma el data frame `copas` y se lo pasa al primer argumento de `select()`. Luego
 
 **Una posible solucion ejercicio 3**
 
-```{r}
+``` r
 copas %>% 
   filter(Winner == "Brazil") %>% 
   select(Year, Winner, Country, `Runners-Up`) %>% 
@@ -207,7 +209,7 @@ El pipe o _tuberia_ nos va a permitir realizar operaciones interesantes como agr
 
 Para poder contestar esa pregunta, primero hay que agrupar por pais para luego poder contar cuantas veces salio campeon.  Hay que usar el combo `group_by() %>% summarise()`.
 
-```{r}
+``` r
 copas %>% 
   group_by(Winner) 
   
@@ -229,7 +231,7 @@ A primera vista parecería que la función no hizo nada, pero fijate que el resu
 
 Para ver esto en acción, usá `summarise()` para computar la cantidad de veces que aparece cada pais.
 
-```{r}
+``` r
 copas %>% 
   group_by(Winner) %>% 
   summarise(cantidad = n()) 
@@ -250,7 +252,7 @@ copas %>%
 
 El resultado se veria mejor si pudieramos ordenar el listado por el pais que mas veces gano la copa del mundo, para eso usamos la funcion `arrange()` y para indicarle que ordene de mayor a menor usamos la funcion `desc()` por dencendente.
 
-```{r}
+``` r
 copas %>% 
   group_by(Winner) %>% 
   summarise(cantidad = n()) %>% 
@@ -277,7 +279,7 @@ copas %>%
 
 `group_by()` permite agrupar en base a múltiples columnas y `summarise()` permite generar múltiples columnas de resumen. Por ejemplo podriamos querer saber cual fue el maximo de goles anotados cuando cada pais salio campeon.
 
-```{r}
+``` r
 copas %>% 
   group_by(Winner) %>% 
   summarise(cantidad = n(),
@@ -303,6 +305,4 @@ El resultado va a siempre ser una tabla con la misma cantidad de filas que grupo
 
 
 > #### Ejercicio 5: Pensar preguntas para cada uno de los conjuntos de datos usando los verbos que aprendimos hoy.  Las vamos a resolver la clase que viene.
-
-
 
