@@ -55,12 +55,12 @@ Para instalar algunos paquetes de R en Windows, vas a necesitar instalar un prog
 
 3. Abrí la consola de R, escribí esto en la consola y apretá enter:
 
-```{r, eval = FALSE}
+``` r
 Sys.which("make")
 ```
 
 Debería salir algo como esto:
-```{r, echo=FALSE}
+``` r
 c(make = "C:\\rtools40\\usr\\bin\\make.exe")
 ```
 
@@ -85,12 +85,12 @@ c(make = "C:\\rtools40\\usr\\bin\\make.exe")
 
 - Uno de los pasos implica chequear que son una persona y luego validar la direccion de email que usaste para crear la cuenta. 
 
-## Primer ejercicio
-
-Crear el perfil en github:
-
-1 - crear un repo con el mismo nombre que tu usuario de github.
-
-2 - Agregarle un archivo README.md 
-
-3 - Pensar en que queres poner en tu perfil y modificar el readme son esa informacion. Tenerlo listo para la proxima clase.
+> ## Primer ejercicio
+> 
+> Crear el perfil en github:
+>
+>1 - crear un repo con el mismo nombre que tu usuario de github.
+>
+>2 - Agregarle un archivo README.md 
+>
+> 3 - Pensar en que queres poner en tu perfil y modificar el readme son esa informacion. Tenerlo listo para la proxima clase.
