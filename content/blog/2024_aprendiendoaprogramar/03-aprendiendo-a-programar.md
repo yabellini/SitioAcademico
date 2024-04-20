@@ -133,11 +133,6 @@ Podes ver una guia sobre rmakdown [en esta guía rápida](https://raw.githubuser
 
 ### Código de R
 
-```{r include=FALSE}
-chunk_start <- ""
-chunk_end <- "```"
-```
-
 El código R se escribe dentro de "chunks (trozos)" de código. Los trozos de código comienzan con `{r label}` (donde _"label"_ es un nombre opcional y único) y terminan con \```. En RStudio, podes crear un nuevo chunk con el atajo de teclado `Ctrl + Alt + I`.
 
 Este informe muestra información sobre los pingüinos Papúa, pero podríamos cambiar algunas líneas de código para crear el mismo análisis para las otras dos especies, Adelia y Barbijo.
@@ -156,7 +151,7 @@ Estos datos están disponibles en R instalando el paquete `palmerpenguins` (en i
 
 Empezaremos cargando el paquete **tidyverse**, como hicimos en la clase pasada. Este paquete nos da acceso a docenas de paquetes y funciones con las que trabajar. Por ahora usaremos la función `read_csv()` para leer un archivo .csv que está almacenado en la carpeta `datos` del proyecto.
 
-```{r warning=FALSE}
+``` r 
 library(tidyverse)
 
 pinguinos <- read_csv("datos/pinguinos.csv")
@@ -168,7 +163,7 @@ Ya vimos que en R, los datos se almacenan en objetos. Cuando leemos un archivo c
 
 Esta previsualización es lo más parecida a la que tenemos en una hoja de cálculo. Podemos llegar a este panel ejecutando `View(pinguinos)` en la consola (Importante: R distingue mayúsculas de minísculas!). Hay otras funciones que nos sirven para visualizar nuestros datos. Vamos a utilizar dos de ellas:
 
-```{r}
+``` r
 glimpse(pinguinos)
 str(pinguinos)
 ```
@@ -186,7 +181,7 @@ A veces nuestros datos no son tan amigables y necesitamos dar más información 
 
 ¿Cómo podemos trabajar con archivos xlsx? Necesitaremos otro paquete de R, **readxl** que ya está instalado en el proyecto RStudio Cloud, solo necesitamos cargar la librería. En este caso la función se llama `read_excel()`.
 
-```{r}
+``` r
 library(readxl)
 
 pinguinos_xls <- read_excel("datos/pinguinos.xlsx")
@@ -204,7 +199,7 @@ Ahora que tenemos los datos leídos en R, es el momento de analizar esos datos.
 > 2. Descarga todos los archivos y copialos en la carpeta datos de tu proyecto para este curso.
 > 3. Carga los datos en R 
 
-```{r}
+``` r
 copas <- read_csv("Data/WorldCups.csv")
 
 jugadores <- read_csv("Data/WorldCupPlayers.csv") 
