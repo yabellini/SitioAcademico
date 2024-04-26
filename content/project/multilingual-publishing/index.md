@@ -13,7 +13,7 @@ layout: project
 
 ---
 
-![rOpenSci Logo](/img/ropensci-logo.png)
+![rOpenSci Logo](featured.png)
 
 ## Overview
 
@@ -33,8 +33,8 @@ The "Multilingual Publishing" project is an initiative by rOpenSci to expand the
 ## Further Reading
 
 For more information on the project and to access the translated materials, visit the following blog posts:
-- [Expanding our Community through Multilingual Publishing (English)](https://ropensci.org/blog/2023/01/12/multilingual-publishing-en/)
-- [Agrandando nuestra comunidad con publicaciones multi-idioma (Español)](https://ropensci.org/blog/2023/01/12/multilingual-publishing-es/)
+- [Expanding our Community through Multilingual Publishing (English)](/blog/2023/01/12/multilingual-publishing-en/)
+- [Agrandando nuestra comunidad con publicaciones multi-idioma (Español)](/blog/2023/01/12/multilingual-publishing-es/)
 
 ## Acknowledgements
 
