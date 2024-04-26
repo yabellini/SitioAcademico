@@ -1,7 +1,6 @@
 ---
 title: "Enseñar Tecnología en Comunidad | Teaching Tech Together"
 subtitle: "Traducción voluntaria y colaborativa de Teaching Tech Together | Voluntary and collaborative translation of Teaching Tech Together"
-excerpt: ""
 date: 2020-07-02
 author: "Yanina Bellini Saibene"
 featured: true

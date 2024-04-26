@@ -1,5 +1,6 @@
 ---
 title: "Multilingual Publishing"
+excerpt: "The "Multilingual Publishing" project is an initiative by rOpenSci to expand the accessibility and reach of scientific knowledge by translating essential materials on best practices for software development, code review, and contribution to open source projects into Spanish. This effort aims to lower language barriers and make valuable resources available to a broader audience, thus fostering a more inclusive scientific community."
 date: 2023-01-12
 author: "Yanina Bellini Saibene"
 categories:
