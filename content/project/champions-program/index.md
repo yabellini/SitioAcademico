@@ -12,16 +12,12 @@ tags:
   - Champions Program
   - Open Source
   - Research Software
-featured: true
-image:
-  caption: "Logo of rOpenSci"
-  focal_point: "Smart"
-  preview_only: true
-  url: "/img/ropensci_logo.png"
-
+links:
+- icon: book
+  icon_pack: fas
+  name: Champions Program Webpage
+  url: https://ropensci.org/champions/
 ---
-
-## About the Champions Program
 
 The rOpenSci Champions Program is designed to identify, recognize, and support passionate individuals from underrepresented groups who are eager to contribute to the open source and research software communities. This initiative aims to foster a diverse and inclusive environment where all members can thrive.
 
@@ -47,4 +43,4 @@ For more details on how to apply and participate, please visit the [Champions Pr
 - [Announcing the rOpenSci Champions Program!](/blog/2022/09/22/launch-champions-program/)
 - [¡Anunciamos el programa de Campeones y Campeonas de rOpenSci!](/blog/2022/09/22/launch-champions-program-es/)
 
-![rOpenSci Logo](/img/ropensci_logo.png)
+
