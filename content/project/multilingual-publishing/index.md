@@ -11,7 +11,11 @@ tags:
   - Open Source
   - Community
 layout: project
-
+links:
+- icon: book
+  icon_pack: fas
+  name: Multilingual Publishing Website
+  url: https://ropensci.org/multilingual-publishing/
 ---
 
 ![rOpenSci Logo](featured.png)
