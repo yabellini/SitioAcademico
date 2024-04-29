@@ -61,7 +61,7 @@ Las ideas generales son:
 - Darle formato pensando en el público
 
 > ### Ejercicio 1: mirar y analizar graficos.
-> Mira y analizar esta serie de graficos publicados en diarios, TV y redes sociales. Contesta:
+> Mira y analizar [esta serie de graficos publicados](https://docs.google.com/presentation/d/1d-o7U6dkmmUYrNYPiURj10SVEWyX6k0ZzUNvwLRzSKw/edit?usp=sharing) en reportes oficiales, diarios (humoristicos y "serios""), TV y redes sociales. Contesta:
 > - Hay algo raro en los graficos?
 > - Que te parece que pudo ocurrir?
 
@@ -109,6 +109,7 @@ _[0-10, 10-15, 15-20, <20]_
 > - Que demostro con esa visualizacion ?
 > - Para que la uso el entrevistado ?
 
+_Juan Cruz me comento que juega a un video juego donde tiene el rol de un director tecnico y manager de un equipo de futbol y que este grafico de Florence le hizo acordar el grafico que el usa para ver las habilidades de cada jugador y decidir comprarlo o no.  El tipo de grafico lo conocemos como Radar._
 ## Conclusion
 
 Las visualizaciones son una poderosa herramienta que tenemos entre nuestros recursos. En un mundo con cada vez mayor cantidad de informacion saber como acceder a ella, como poder analizarla y entenderla sin intermediarios es un superpoder.  
