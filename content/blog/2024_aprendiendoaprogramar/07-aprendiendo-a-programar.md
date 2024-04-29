@@ -110,8 +110,16 @@ _[0-10, 10-15, 15-20, <20]_
 > - Para que la uso el entrevistado ?
 
 _Juan Cruz me comento que juega a un video juego donde tiene el rol de un director tecnico y manager de un equipo de futbol y que este grafico de Florence le hizo acordar el grafico que el usa para ver las habilidades de cada jugador y decidir comprarlo o no.  El tipo de grafico lo conocemos como Radar._
+
 ## Conclusion
 
 Las visualizaciones son una poderosa herramienta que tenemos entre nuestros recursos. En un mundo con cada vez mayor cantidad de informacion saber como acceder a ella, como poder analizarla y entenderla sin intermediarios es un superpoder.  
 
 Poder generar visualizaciones que nos ayuden a mostrar y apoyar nuestro argumento tambien puede ser una herramienta poderosa para lograr cambios positivos para nosotros y quienes nos rodean. 
+
+
+## Fuentes:
+
+- Como en todas las clases anteriores he utilizado material de varios [cursos](/courses/) que he dictado en este tiempo, muchos de esos cursos fueron desarrollados con [Paola Corrales](https://paocorrales.github.io) y [Elio Campitelli](https://eliocamp.github.io).
+
+- En esta clase tambien utilice las [ilustraciones de Allison Horst](https://allisonhorst.com/data-science-art)
