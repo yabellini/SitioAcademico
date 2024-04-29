@@ -3,7 +3,7 @@ title: "Septimo Encuentro. Aprendiendo a Programar en 30 lecciones"
 weight: 7
 subtitle: "Septimo encuentro"
 excerpt: "Mi sobrino de 14 años quiere aprender a programar y yo voy a enseñarle. En esta clase mas teorica que de costumbre vemos algunos conceptos relacionados con visualizacion de datos."
-date: 2024-04-18
+date: 2024-04-29
 draft: false
 categories:
   - Español
