@@ -31,9 +31,44 @@ En el quinto encuentro dejamos una serie de preguntas para mas adelante.  Hoy va
   - todos los jugadores que metieron 1 o mas goles en el segundo tiempo. 
   - ordenar los jugadores por cantidad de goles. 
   
-## Ordenar las copas por audencia.
+## Ordenar las copas por audiencia.
 
-El conjunto de datos copas tiene una columna llamada `Attendance` En este caso el problema esta en el tipo de dato que tiene esa columna.  Al importar los datos lo hace como caracter.  Cuando intentamos asignar el tipo correcto en la lectura de los datos no pudimos lograrlo:
+El conjunto de datos copas tiene una columna llamada `Attendance` que contiene la cantidad de gente que fue a ver los partidos a los estadios.
+
+La funcion para ordenar es `arrange` y si la usamos este es el resultado que obtenemos:
+
+``` r
+copas %>% 
+  arrange(Attendance)
+
+# A tibble: 20 × 10
+   Year       Country      Winner     `Runners-Up`   Third   Fourth GoalsScored QualifiedTeams MatchesPlayed Attendance
+   <date>     <chr>        <chr>      <chr>          <chr>   <chr>        <int>          <int>         <int> <chr>     
+ 1 1950-01-01 Brazil       Uruguay    Brazil         Sweden  Spain           88             13            22 1.045.246 
+ 2 1978-01-01 Argentina    Argentina  Netherlands    Brazil  Italy          102             16            38 1.545.791 
+ 3 1966-01-01 England      England    Germany FR     Portug… Sovie…          89             16            32 1.563.135 
+ 4 1970-01-01 Mexico       Brazil     Italy          German… Urugu…          95             16            32 1.603.975 
+ 5 1974-01-01 Germany      Germany FR Netherlands    Poland  Brazil          97             16            38 1.865.753 
+ 6 1982-01-01 Spain        Italy      Germany FR     Poland  France         146             24            52 2.109.723 
+ 7 1986-01-01 Mexico       Argentina  Germany FR     France  Belgi…         132             24            52 2.394.031 
+ 8 1990-01-01 Italy        Germany FR Argentina      Italy   Engla…         115             24            52 2.516.215 
+ 9 2002-01-01 Korea/Japan  Brazil     Germany        Turkey  Korea…         161             32            64 2.705.197 
+10 1998-01-01 France       France     Brazil         Croatia Nethe…         171             32            64 2.785.100 
+11 2010-01-01 South Africa Spain      Netherlands    Germany Urugu…         145             32            64 3.178.856 
+12 2006-01-01 Germany      Italy      France         Germany Portu…         147             32            64 3.359.439 
+13 2014-01-01 Brazil       Germany    Argentina      Nether… Brazil         171             32            64 3.386.810 
+14 1994-01-01 USA          Brazil     Italy          Sweden  Bulga…         141             24            52 3.587.538 
+15 1934-01-01 Italy        Italy      Czechoslovakia Germany Austr…          70             16            17 363.000   
+16 1938-01-01 France       Italy      Hungary        Brazil  Sweden          84             15            18 375.700   
+17 1930-01-01 Uruguay      Uruguay    Argentina      USA     Yugos…          70             13            18 590.549   
+18 1954-01-01 Switzerland  Germany FR Hungary        Austria Urugu…         140             16            26 768.607   
+19 1958-01-01 Sweden       Brazil     Sweden         France  Germa…         126             16            35 819.810   
+20 1962-01-01 Chile        Brazil     Czechoslovakia Chile   Yugos…          89             16            32 893.172   
+> 
+  
+```
+
+Como podemos ver, el orden no es el esperado si la variable fuera numerica, ese orden corresponde a un orden alfabetico. Por lo que el problema esta en el tipo de dato que tiene esa columna.  Al importar los datos leyendo el CSV lo hace como caracter.  Cuando intentamos asignar el tipo correcto en la lectura de los datos no pudimos lograrlo:
 
 - la columna se leia con todos valores nulos.
 - la columna se leia con datos pero contenia valores erroneos.
@@ -59,6 +94,47 @@ $ Attendance     <chr> "590.549", "363.000", "375.700", "1.045.246", "768.607", 
 > 
 ```  
 
+Los valores en `Attendance` son numeros que estan usando el punto como separador de miles. Y es por eso que son leidos como texto en vez de numeros. 
+
+El paquete `readr` tiene una funcion llamada `parse_number` que extrae los numeros. Esto elimina cualquier carácter no numérico antes o después del primer número. El separador de milres especificado por la *configuración regional* se ignora dentro del número. Veamos que hace esta funcion:
+
+``` r
+copas %>% 
+  mutate(asistencia = parse_number(Attendance))
+
+# A tibble: 20 × 11
+   Year       Country   Winner `Runners-Up` Third Fourth GoalsScored QualifiedTeams MatchesPlayed Attendance asistencia
+   <date>     <chr>     <chr>  <chr>        <chr> <chr>        <int>          <int>         <int> <chr>           <dbl>
+ 1 1930-01-01 Uruguay   Urugu… Argentina    USA   Yugos…          70             13            18 590.549        591.  
+ 2 1934-01-01 Italy     Italy  Czechoslova… Germ… Austr…          70             16            17 363.000        363   
+ 3 1938-01-01 France    Italy  Hungary      Braz… Sweden          84             15            18 375.700        376.  
+ 4 1950-01-01 Brazil    Urugu… Brazil       Swed… Spain           88             13            22 1.045.246        1.04
+ 5 1954-01-01 Switzerl… Germa… Hungary      Aust… Urugu…         140             16            26 768.607        769.  
+ 6 1958-01-01 Sweden    Brazil Sweden       Fran… Germa…         126             16            35 819.810        820.  
+ 7 1962-01-01 Chile     Brazil Czechoslova… Chile Yugos…          89             16            32 893.172        893.  
+ 8 1966-01-01 England   Engla… Germany FR   Port… Sovie…          89             16            32 1.563.135        1.56
+ 9 1970-01-01 Mexico    Brazil Italy        Germ… Urugu…          95             16            32 1.603.975        1.60
+10 1974-01-01 Germany   Germa… Netherlands  Pola… Brazil          97             16            38 1.865.753        1.86
+11 1978-01-01 Argentina Argen… Netherlands  Braz… Italy          102             16            38 1.545.791        1.54
+12 1982-01-01 Spain     Italy  Germany FR   Pola… France         146             24            52 2.109.723        2.11
+13 1986-01-01 Mexico    Argen… Germany FR   Fran… Belgi…         132             24            52 2.394.031        2.39
+14 1990-01-01 Italy     Germa… Argentina    Italy Engla…         115             24            52 2.516.215        2.52
+15 1994-01-01 USA       Brazil Italy        Swed… Bulga…         141             24            52 3.587.538        3.59
+16 1998-01-01 France    France Brazil       Croa… Nethe…         171             32            64 2.785.100        2.78
+17 2002-01-01 Korea/Ja… Brazil Germany      Turk… Korea…         161             32            64 2.705.197        2.70
+18 2006-01-01 Germany   Italy  France       Germ… Portu…         147             32            64 3.359.439        3.36
+19 2010-01-01 South Af… Spain  Netherlands  Germ… Urugu…         145             32            64 3.178.856        3.18
+20 2014-01-01 Brazil    Germa… Argentina    Neth… Brazil         171             32            64 3.386.810        3.39
+  
+```
+
+Al utilizarla entiende el punto como un decimal y cambia el tipo de dato a doble. Esto no es correcto ya que los valores presentados corresponden a cientos de miles y a millones. 
+
+
+
+Pero el tipo de dato sigue siendo caracter.  Para convertirlo a numerico usamos la funcion `as.numeric`:
+
+``` r
 
 ## Goleadores.
 
