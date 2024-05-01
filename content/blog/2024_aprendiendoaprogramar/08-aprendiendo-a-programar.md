@@ -28,9 +28,9 @@ En el quinto encuentro dejamos una serie de preguntas para mas adelante.  Hoy va
 
 * Jugadores:
 
+  - ordenar los jugadores por cantidad de goles.
   - todos los jugadores que metieron 1 o mas goles en el segundo tiempo. 
-  - ordenar los jugadores por cantidad de goles. 
-  
+ 
 ## Ordenar las copas por audiencia.
 
 El conjunto de datos copas tiene una columna llamada `Attendance` que contiene la cantidad de gente que fue a ver los partidos a los estadios.
@@ -196,7 +196,8 @@ copas %>%
 >  
 ```
 
-> Otra forma de solucionar el mismo problema es remover los puntos y luego transformalo en numero con las funciones `str_remove_all`, que remueve los caracteres indicados en todas las ocurrencias que aparecen y `as.numeric`, que transforma al tipo numerico.
+> Otra forma de solucionar el mismo problema es remover los puntos y luego transformalo en numero con las funciones `str_remove_all`, que remueve los caracteres indicados en todas las ocurrencias que aparecen y `as.numeric`, que transforma al tipo numerico.  Esta solucion aparece como una respuesta en StackOverflow y por eso la revisamos. 
+>
 >
 >
  ``` r
@@ -211,47 +212,124 @@ Para estas preguntas vamos a usar el conjunto de datos de jugadores. Hay una col
 
 ![](jugadores.png)
 
+Para poder ordenar los jugadores por la cantidad de goles y saber quienes metieron goles en el segundo tiempo vamos a tener que poder contar los eventos "goles". Para ello podemos separar los eventos en columnas diferentes o separarlos en filas diferentes.
 
+Para este tipo de problema nos conviene separar los eventos en filas diferentes. Para eso vamos a usar la funcion `separate_longer_delim` del paquete `tidyr`. Esta funcion tiene como parametros la columna que queremos separar y el delimitador que vamos a usar. En este caso el delimitador es un espacio. 
 
-### Ordenar los jugadores por cantidad de goles
-
-Para resolver este problema vamos a usar la funcion `str_extract` que extrae la primera ocurrencia de una cadena que cumple con un patron. En este caso el patron es una letra seguida de uno o mas digitos. 
 
 ``` r
-
-```{r}
 
 goleadores <- jugadores %>% 
   separate_longer_delim(Event, delim = " ")
 
 ```
 
-```{r}
+Con este codigo obtenemos un conjunto de datos con una fila por cada evento y lo guardamos en el objeto `goleadores`, ahora la fila 7 se transformo en las filas 7 y 8 (dos filas), una con cada gol que hizo _Andre Maschinot_. Si chequeamos el conjunto de datos de jugadores tenia 37784 filas y ahora goleadores tiene xx filas.
+
+![](enfilas.png)
+
+### Ordenar los jugadores por cantidad de goles
+
+El conjunto de datos de goles, ahora tiene una fila para cada evento relacionado a un jugador.  Entre esos eventos estan los goles, pero no son los unicos.  Asi que primero tenemos que quedarnos solo con los goles. Para eso vamos a usar la funcion `filter` de `dplyr` y la funcion `str_detect` de `stringr` que nos permite buscar patrones en un texto. 
+
+``` r 
+goleadores %>% 
+  filter(str_detect(Event,"G"))
+```
+
+Para ordenar los jugadores por cantidad de goles vamos a tener que contar cuantas veces aparece cada jugador en la columna `Player Name`. La primera solucion que Juan Cruz propuso fue usar `group_by` y `summarise` para contar cuantas veces aparece cada jugador y por ende cuantos goles hizo.  Luego usamos `arrange` y `desc` para ordenar de mayor a menor.
+
+``` r 
 
 goleadores %>% 
   filter(str_detect(Event,"G")) %>% 
   group_by(`Player Name`) %>% 
-  summarise(goles = n())
-  
+  summarise(goles = n()) %>% 
+  arrange(desc(n))
+
+# A tibble: 1,187 × 2
+   `Player Name`                          n
+   <chr>                              <int>
+ 1 KLOSE                                 17
+ 2 RONALDO                               16
+ 3 Gerd MUELLER                          13
+ 4 Just FONTAINE                         13
+ 5 PEL� (Edson Arantes do Nascimento)    12
+ 6 M�LLER                                11
+ 7 Sandor KOCSIS                         11
+ 8 Grzegorz LATO                         10
+ 9 Helmut RAHN                           10
+10 JAIRZINHO                              9
+# ℹ 1,177 more rows
+# ℹ Use `print(n = ...)` to see more rows  
+```
+
+> Vemos en el resultado problemas de encoding que intentaremos resolver en las proximas clases.
+
+Charlamos de otra manera de realizar la misma consulta y la segunda solucion que propuso fue usar `count` que es una forma mas simple de hacer lo mismo. 
+
+``` r 
 goleadores %>% 
   filter(str_detect(Event,"G")) %>% 
   count(`Player Name`) %>% 
   arrange(desc(n))
-
 ```
 
-## Sacar los 10 jugadores mas importantes y realizar un grafico de barras
+### Ejercicio 1: Sacar los 10 jugadores mas importantes y realizar un grafico de barras.
 
-```{r}
+> Usando los resultados de los goleadores, seleccionar los 10 jugadores que mas goles hicieron y hacer un grafico de barras. 
+
+Para resolver este ejercicio introducimos la funcion top_n que nos permite seleccionar los n elementos mas grandes de una columna. 
+
+``` r
+goleadores %>% 
+  filter(str_detect(Event,"G")) %>% 
+  count(`Player Name`) %>% 
+  arrange(desc(n)) %>% 
+  top_n(10) 
+  
+  Selecting by n
+# A tibble: 14 × 2
+   `Player Name`                          n
+   <chr>                              <int>
+ 1 KLOSE                                 17
+ 2 RONALDO                               16
+ 3 Gerd MUELLER                          13
+ 4 Just FONTAINE                         13
+ 5 PEL� (Edson Arantes do Nascimento)    12
+ 6 M�LLER                                11
+ 7 Sandor KOCSIS                         11
+ 8 Grzegorz LATO                         10
+ 9 Helmut RAHN                           10
+10 JAIRZINHO                              9
+11 Karl-Heinz RUMMENIGGE                  9
+12 Paolo ROSSI                            9
+13 Uwe SEELER                             9
+14 VAVA                                   9
+```
+
+Al ver el resultado Juan Cruz pregunto porque si pedimos los 10 que mas goles metieron aparecen 14 resultados.  La funcion top_n() va a devolver todos los casos que empaten en el puesto, asi que vemos 2 jugadores con 11 goles, 2 jugadores con 10 goles y 5 jugadores con 9 goles. 
+
+Ahora podemos usar ese resultado para realizar el grafico.  Podemos extender el pipe y agregar la funcion `ggplot` para hacer el grafico de barras o bien podemos guardar el resultado en un objeto y luego hacer el grafico. Vamos por la segunda opcion.
+
+``` r
+
 Top10_gol <- goleadores %>% 
   filter(str_detect(Event,"G")) %>% 
   count(`Player Name`) %>% 
   arrange(desc(n)) %>% 
   top_n(10) 
+  
+Top10_gol  %>% 
+  ggplot(aes(`Player Name`, n)) +
+  geom_col() + 
+  coord_flip()
 ```
 
-```{r}
-Top10_gol %>% 
-  ggplot(aes(`Player Name`, n)) +
-  geom_col()
-```
+![](goleadores.png)
+
+En la proxima clase veremos en mas detalle como ggplot tabaja con capas y como podemos ir cambiando los elementos del grafico y como se ven.
+
+> ### Ejercicio 2: Jugadores que metieron goles en el segundo tiempo.
+> Este ejercicio queda como tarea para revisar para la proxima clase.
+
