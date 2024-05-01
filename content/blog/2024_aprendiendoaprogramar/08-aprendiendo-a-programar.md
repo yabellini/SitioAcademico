@@ -96,7 +96,7 @@ $ Attendance     <chr> "590.549", "363.000", "375.700", "1.045.246", "768.607", 
 
 Los valores en `Attendance` son numeros que estan usando el punto como separador de miles. Y es por eso que son leidos como texto en vez de numeros. 
 
-El paquete `readr` tiene una funcion llamada `parse_number` que extrae los numeros. Esto elimina cualquier carácter no numérico antes o después del primer número. El separador de milres especificado por la *configuración regional* se ignora dentro del número. Veamos que hace esta funcion:
+El paquete `readr` tiene una funcion llamada `parse_number` que extrae los numeros. Esto elimina cualquier carácter no numérico antes o después del primer número. El separador de miles especificado por la *configuración regional* se ignora dentro del número. Veamos que hace esta funcion:
 
 ``` r
 copas %>% 
@@ -128,13 +128,84 @@ copas %>%
   
 ```
 
-Al utilizarla entiende el punto como un decimal y cambia el tipo de dato a doble. Esto no es correcto ya que los valores presentados corresponden a cientos de miles y a millones. 
-
-
-
-Pero el tipo de dato sigue siendo caracter.  Para convertirlo a numerico usamos la funcion `as.numeric`:
+Al utilizarla entiende el punto como un decimal y cambia el tipo de dato a doble. Esto no es correcto ya que los valores presentados corresponden a cientos de miles y a millones. Podemos indicarle a la funcion que el separador de miles es el punto y el de decimales es la coma.  Para eso usamos la funcion `readr::parse_number` y le pasamos los argumentos `locale = locale(grouping_mark = ".", decimal_mark = ",")`:
 
 ``` r
+  copas %>%
+    mutate(asistencia = parse_number(Attendance, locale = locale(grouping_mark = "."))) %>% 
+    select(Attendance, asistencia) 
+    
+# A tibble: 20 × 2
+   Attendance asistencia
+   <chr>           <dbl>
+ 1 590.549        590549
+ 2 363.000        363000
+ 3 375.700        375700
+ 4 1.045.246     1045246
+ 5 768.607        768607
+ 6 819.810        819810
+ 7 893.172        893172
+ 8 1.563.135     1563135
+ 9 1.603.975     1603975
+10 1.865.753     1865753
+11 1.545.791     1545791
+12 2.109.723     2109723
+13 2.394.031     2394031
+14 2.516.215     2516215
+15 3.587.538     3587538
+16 2.785.100     2785100
+17 2.705.197     2705197
+18 3.359.439     3359439
+19 3.178.856     3178856
+20 3.386.810     3386810
+> 
+
+```
+
+Ahora si, los datos estan en el formato correcto y podemos ordenarlos usando `arrange`.
+
+``` r
+copas %>% 
+  mutate(asistencia = parse_number(Attendance, locale = locale(grouping_mark = "."))) %>% 
+  arrange(desc(asistencia)) %>% 
+  select(Year, Country, Attendance, asistencia)
+ 
+ # A tibble: 20 × 4
+   Year       Country      Attendance asistencia
+   <date>     <chr>        <chr>           <dbl>
+ 1 1994-01-01 USA          3.587.538     3587538
+ 2 2014-01-01 Brazil       3.386.810     3386810
+ 3 2006-01-01 Germany      3.359.439     3359439
+ 4 2010-01-01 South Africa 3.178.856     3178856
+ 5 1998-01-01 France       2.785.100     2785100
+ 6 2002-01-01 Korea/Japan  2.705.197     2705197
+ 7 1990-01-01 Italy        2.516.215     2516215
+ 8 1986-01-01 Mexico       2.394.031     2394031
+ 9 1982-01-01 Spain        2.109.723     2109723
+10 1974-01-01 Germany      1.865.753     1865753
+11 1970-01-01 Mexico       1.603.975     1603975
+12 1966-01-01 England      1.563.135     1563135
+13 1978-01-01 Argentina    1.545.791     1545791
+14 1950-01-01 Brazil       1.045.246     1045246
+15 1962-01-01 Chile        893.172        893172
+16 1958-01-01 Sweden       819.810        819810
+17 1954-01-01 Switzerland  768.607        768607
+18 1930-01-01 Uruguay      590.549        590549
+19 1938-01-01 France       375.700        375700
+20 1934-01-01 Italy        363.000        363000
+>  
+```
+
+> Otra forma de solucionar el mismo problema es remover los puntos y luego transformalo en numero con las funciones `str_remove_all`, que remueve los caracteres indicados en todas las ocurrencias que aparecen y `as.numeric`, que transforma al tipo numerico.
+>
+>
+ ``` r
+ copas <- copas %>% 
+  mutate(asistencia = as.numeric(str_remove_all(Attendance, fixed("."))))
+```
+>
+
+
 
 ## Goleadores.
 
