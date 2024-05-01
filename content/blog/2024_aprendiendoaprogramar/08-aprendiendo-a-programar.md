@@ -205,8 +205,53 @@ copas %>%
 ```
 >
 
-
-
 ## Goleadores.
 
-Hay que ver manejo de cadenas porque los datos estan en la columna “Event” y con anotaciones al estilo “G20” o “Y56” que significan: “Gol a los 20 minutos” y “Tarjeta amarilla a los 56 minutos”, respectivamente.
+Para estas preguntas vamos a usar el conjunto de datos de jugadores. Hay una columna llamada `Event` con anotaciones al estilo “G20” o “Y56” que significan: “Gol a los 20 minutos” y “Tarjeta amarilla a los 56 minutos”, respectivamente.  La columna puede tener ninguno (NA), uno o mas eventos por jugador.  En el caso que tenga mas de un evento se separan con un espacio, como se muestra en la fila siete de la siguiente figura. 
+
+![](jugadores.png)
+
+
+
+### Ordenar los jugadores por cantidad de goles
+
+Para resolver este problema vamos a usar la funcion `str_extract` que extrae la primera ocurrencia de una cadena que cumple con un patron. En este caso el patron es una letra seguida de uno o mas digitos. 
+
+``` r
+
+```{r}
+
+goleadores <- jugadores %>% 
+  separate_longer_delim(Event, delim = " ")
+
+```
+
+```{r}
+
+goleadores %>% 
+  filter(str_detect(Event,"G")) %>% 
+  group_by(`Player Name`) %>% 
+  summarise(goles = n())
+  
+goleadores %>% 
+  filter(str_detect(Event,"G")) %>% 
+  count(`Player Name`) %>% 
+  arrange(desc(n))
+
+```
+
+## Sacar los 10 jugadores mas importantes y realizar un grafico de barras
+
+```{r}
+Top10_gol <- goleadores %>% 
+  filter(str_detect(Event,"G")) %>% 
+  count(`Player Name`) %>% 
+  arrange(desc(n)) %>% 
+  top_n(10) 
+```
+
+```{r}
+Top10_gol %>% 
+  ggplot(aes(`Player Name`, n)) +
+  geom_col()
+```
