@@ -331,5 +331,5 @@ Top10_gol  %>%
 En la proxima clase veremos en mas detalle como ggplot tabaja con capas y como podemos ir cambiando los elementos del grafico y como se ven.
 
 > ### Ejercicio 2: Jugadores que metieron goles en el segundo tiempo.
-> Este ejercicio queda como tarea para revisar para la proxima clase.
+> Este ejercicio queda como tarea para la proxima clase.
 
