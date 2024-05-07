@@ -10,6 +10,7 @@ tags:
   - 100DaysToOffload
 ---
 
+{{< figure src="featured.jpeg" alt="Focus of womans fist with pink clothes">}}
 
 > Photo by <a href="https://unsplash.com/@scaitlin82?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Sarah Cervantes</a> on <a href="https://unsplash.com/photos/focus-photography-of-womans-fist-BOBMNKVry0Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
@@ -33,8 +34,11 @@ Imagine how I am that I can't talk, eat, laugh and dance as much as I want to!
 ## Castellano
 
 Hablar duele.
+
 Comer duele. 
+
 Reirse duele.
+
 Bailar (no me juzguen) duele.
 
 Duele porque el 2 de Mayo tuve una cirugia para remover mi tiroides debido a un cancer. 
