@@ -29,3 +29,19 @@ Reading & writing, fortunately, don't hurt. So I will be around.
  
 Imagine how I am that I can't talk, eat, laugh and dance as much as I want to!  
 
+
+## Castellano
+
+Hablar duele.
+Comer duele. 
+Reirse duele.
+Bailar (no me juzguen) duele.
+
+Duele porque el 2 de Mayo tuve una cirugia para remover mi tiroides debido a un cancer. 
+Todo el cancer se removio con la glandula y el pronostico es excelente. Y tengo una familia, amigos y colegas maravillos que me estan dando todo su apoyo. 
+
+Aun estoy recuperandome, esperando resultados y otros controles.
+
+Leer y escribir, no duele, por suerte. Asi que me veran por aqui.
+
+Imaginen como estoy que no puedo hablar, comer, reir y bailar todo lo que quiero!
