@@ -15,7 +15,7 @@ tags:
   - 30Ship30
 ---
 
-{{< figure src="featured.jpg" alt="">}}
+{{< figure src="featured.jpg" alt="Store disk red and white with withe background">}}
 
 > Foto de <a href="https://unsplash.com/es/@thefredyjacob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Fredy Jacob</a> en <a href="https://unsplash.com/es/fotos/disquete-rojo-y-blanco-sobre-superficie-blanca-t0SlmanfFcg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
