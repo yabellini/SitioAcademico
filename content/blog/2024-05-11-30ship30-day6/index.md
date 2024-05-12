@@ -2,7 +2,7 @@
 title: "Day 6. The Best Way To Get Started Learning About Teaching to Code"
 author: Yanina Bellini Saibene
 summary: "Today, I share a book, a video and a podcast episode to learn how to teach."
-date: '2024-05-09'
+date: '2024-05-11'
 categories:
   - Education
   - Community

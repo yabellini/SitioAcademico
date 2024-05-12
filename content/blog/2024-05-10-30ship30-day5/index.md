@@ -2,7 +2,7 @@
 title: "Day 5. From Learning to Choosing to Coding - How Our Memory Plays a Central Role"
 author: Yanina Bellini Saibene
 summary: "Today, I will explain a few simple facts about memory and share how to avoid overloading the learner by managing their cognitive load when teaching to code."
-date: '2024-05-09'
+date: '2024-05-10'
 categories:
   - Education
   - Community
