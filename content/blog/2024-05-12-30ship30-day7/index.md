@@ -49,7 +49,7 @@ This global organization teaches researchers foundational coding and data scienc
 
 One of the most wonderful things about [The Carpentries](https://carpentries.org/index.html) is that all their [lessons](https://software-carpentry.org/lessons/) are available for reuse. The community of instructors and students collaboratively develops and maintains these [lessons](https://datacarpentry.org/lessons/).  
 
-##Community 4: Data Science Learning Community
+## Community 4: Data Science Learning Community
 
 First known as the R4DS Community, the [Data Science Learning Community](https://dslc.io/)'s goal is to develop tools and resources to foster a diverse, friendly, and inclusive community of data science learners and practitioners. [Book clubs](https://dslc.io/bookclubs.html) on data-related topics and [weekly TidyTuesday data sets](https://tidytues.day/) are among the most popular activities you can join. 
 
