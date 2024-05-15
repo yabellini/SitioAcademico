@@ -149,4 +149,5 @@ Así se ve el tutorial cuando está ejecutandose:
 
 ![](learnr_contenido_ggplot.png)
 
-> Luego que Juan Cruz termino el tutorila vimos las dudas y terminamos la clase.  En el proximo encuentro seguiremos con mas detalles sobre como funcionan las capas de ggplot y como podemos empezar a mejorar el aspecto de nuestros graficos.
+
+Luego que Juan Cruz termino el tutorila vimos las dudas y terminamos la clase.  En el proximo encuentro seguiremos con mas detalles sobre como funcionan las capas de ggplot y como podemos empezar a mejorar el aspecto de nuestros graficos.
