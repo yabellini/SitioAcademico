@@ -1,7 +1,7 @@
 ---
 title: "Day 14: Distilling how to use Participatory Live Coding in-person and online - Tip 7 and 8"
 author: Yanina Bellini Saibene
-summary: "."
+summary: "Today, we have two more tips about this teaching technique for programming. We will focus on our lesson plan, when and how we can improvise to avoid losing track, and how to use diagrams."
 date: '2024-05-19'
 categories:
   - Education
