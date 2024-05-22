@@ -1,5 +1,5 @@
 ---
-title: "Day 17: 2 Software Tool I Can’t Live Without For Creating Content in English"
+title: "Day 17: 2 Software Tools I Can’t Live Without For Creating Content in English"
 author: Yanina Bellini Saibene
 summary: "Two apps I can't live without when it comes to writing content in English."
 date: '2024-05-22'
