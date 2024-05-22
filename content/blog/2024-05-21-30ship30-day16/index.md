@@ -2,7 +2,7 @@
 title: "Day 16: Debunking 4 Tenacious Educational Programming Myths for Better Teaching Outcomes"
 author: Yanina Bellini Saibene
 summary: "Why Learning Styles, Learning Pyramid, Geek Gene, and Good at math = Good programmer are misconceptions?"
-date: '2024-05-20'
+date: '2024-05-21'
 categories:
   - Education
   - Community
