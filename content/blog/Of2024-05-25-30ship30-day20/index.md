@@ -15,7 +15,7 @@ tags:
   - 30Ship30
 ---
 
-{{< figure src="featured.jpg" alt="Six circles with the name and a draw for with stiky people of each strategy">}}
+{{< figure src="featured.jpg" alt="Alarm button that said Emergency and a red phone">}}
 
 > Foto de <a href="https://unsplash.com/es/@mitchel3uo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mitchell Luo</a> en <a href="https://unsplash.com/es/fotos/dos-cascos-rojos-cerca-del-boton-de-alarma-de-emergencia-wXs0mncHyfI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
