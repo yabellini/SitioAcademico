@@ -2,7 +2,7 @@
 title: "Day 19: 6 Simple (But Effective) Learning Strategies I’d Give Anyone To Improve Their Learning"
 author: Yanina Bellini Saibene
 summary: "I have been working as an educator for 30 years. These are the 6 simple (but effective) learning strategies I'd share with anyone who wants to learn better."
-date: '2024-05-23'
+date: '2024-05-24'
 categories:
   - Education
   - Community
