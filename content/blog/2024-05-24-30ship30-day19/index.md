@@ -15,7 +15,9 @@ tags:
   - 30Ship30
 ---
 
-{{< figure src="featured.jpg" alt="Stand up woman teacher while kids look at the classmate that rise his hand">}}
+{{< figure src="featured.jpg" alt="Six circles with the name and a draw for with stiky people of each strategy">}}
+
+> The Learning Scientists. Six Strategies for Effective Learning. Materials for Teachers and Students.
 
 I have been working as an educator for 30 years.
 
