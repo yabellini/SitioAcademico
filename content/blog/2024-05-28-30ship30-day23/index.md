@@ -1,5 +1,5 @@
 ---
-title: "Day 23: 1 Tip I Would Give Anyone Who Wanted To Ensure Students Engagement Online"
+title: "Day 23. 1 Tip I Would Give Anyone Who Wanted To Ensure Students Engagement Online"
 author: Yanina Bellini Saibene
 summary: "Shared note-taking and exercise problem-solving. Two ways to engage students online. "
 date: '2024-05-28'
@@ -15,7 +15,7 @@ tags:
   - 30Ship30
 ---
 
-{{< figure src="featured.jpg" alt=““>}}
+{{< figure src="featured.jpg" alt="Notebook with a pencil with the word Notes in the sheet">}}
 
 > Foto de <a href="https://unsplash.com/es/@dtravisphd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">David Travis</a> en <a href="https://unsplash.com/es/fotos/pluma-estilografica-marron-en-cuaderno-5bYxXawHOQg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
@@ -27,7 +27,7 @@ So, here's the 1 tip I would give you if you wanted to pursue online engagement:
 
 ## **Use a class-shared document for note-taking and exercise problem-solving**
 
-## **Note-taking:** 
+### Note-taking:
 
 -   Note-taking is a form of real-time elaboration: it forces you to organize and reflect on material as it's coming in, increasing the likelihood that you will transfer it to long-term memory.
 
@@ -35,7 +35,7 @@ So, here's the 1 tip I would give you if you wanted to pursue online engagement:
 
 -   Glancing at recent notes while learners are working on an exercise helps the teacher discover what the class missed or misunderstood.
 
-## **Exercises and Problem Solving:**
+### Exercises and Problem Solving:
 
 -   Create a document with the exercises to solve during the class. You can create more if you have many students or make them work in teams. You split them into breakout rooms if they have to work in a team. 
 
