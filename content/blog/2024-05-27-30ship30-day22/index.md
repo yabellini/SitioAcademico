@@ -31,9 +31,7 @@ Unfortunately, no one usually teaches us how to get and provide practical and co
 
 -   **Get feedback:** In step 1, we get feedback on what we are doing from someone else. For example, the person observing you tells you, *"It was a very good idea how you use X to explain Y. Perhaps to explain Z, you can \...".*
 
-```{=html}
-<!-- -->
-```
+
 -   **Offer feedback about the feedback:** In step 2, we made comments and received comments on those comments: *"Thanks for the comments, this one you told me helped me because X, this other one didn't help me because Y"*
 
 -   **Self-criticism:** step 3 is where the magic happens. Once we know how to critique, we can self-critique as we work. In musical terms, we are listening to our own music as we play it. That feedback loop is so tight and so rewarding that our skill takes off immediately.
