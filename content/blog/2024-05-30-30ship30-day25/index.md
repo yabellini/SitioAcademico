@@ -2,7 +2,7 @@
 title: "Day 25. 4 Quick Tips to Make Your Teaching More Accessible"
 author: Yanina Bellini Saibene
 summary: "Teaching for everyone, make 'accessible' your usual perspective." 
-date: '2024-05-29'
+date: '2024-05-30'
 categories:
   - Education
   - Community
