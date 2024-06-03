@@ -2,7 +2,7 @@
 title: "Day 28: My 3 Favorite Newsletters For Learning #RStats"
 author: Yanina Bellini Saibene
 summary: "I love to learn about R and data science, and these newsletters are a great way to keep up with the latest news and trends. " 
-date: '2024-06-01'
+date: '2024-06-02'
 categories:
   - Education
   - Community
