@@ -1,0 +1,60 @@
+---
+title: "Dos anos y una docena de proyectos en rOpenSci. El Codigo de Conductq"
+author: Yanina Bellini Saibene
+summary: "En Junio de 2022 me converti en la community manager de rOpenSci.  He aprendido muchisimo durante este tiempo. Voy a compartir 12 proyectos en los que estuve involucrada estos dos anos para contar mejor el tipo de trabajo y actividades que hace una community manager de una comunidad de practica tecnologica." 
+date: '2024-06-17'
+categories:
+  - Education
+  - Community
+  - 100DaysToOffload
+  - rOpenSci
+tags:
+  - Education
+  - Community
+  - 100DaysToOffload
+  - rOpenSci
+---
+
+{{< figure src="featured.jpg" alt="The right hand of a person writing in a paper">}}
+
+> 
+
+El primer gran proyecto sobre el que tuve que aprender y empezar a trabajar inmediatamente es el Código de Conducta (CoC) de rOpenSci. 
+
+## Codigo de Conducta y Comite del CoC. 
+
+Primero repasemos que son el CoC y el Comite del CoC. 
+
+<TODO: agregar definicion>
+
+<TODO: agregar como estas herramientas facilitan la creacion de espacios seguros>
+
+
+## El CoC en rOpenSci
+
+En rOpenSci tenemos un Comite de tres personas, el Community Manager es una de las personas miembros del comité.  Las otras dos personas son: una persona que es independiente de la comunidad y la otra persona es alguien del staff de rOpenSci.  
+
+Para que empiece a ser parte se me hizo un onboarding que incluyo una charla con explicacion de los procesos del comite para hacer cumplir el CoC y proveerme de acceso a los recursos y herramientas que necesitaba.  A su vez, se hizo el offboarding de la persona que es independiente de la comunidad, que implica remover los permisos de acceso a los recursos y la informacion.
+
+
+## La infraestructura
+
+Ademas, tuvimos que realizar una serie de actualizaciones a la infraestructura.
+
+* Grupo de correo donde se discuten temas relacionados con el CoC y el Comite.
+* Formulario de google donde se reportan incidentes.
+* Automatizacin de Zapier para que cuando se completa ese formulario llegue el aviso a todas las personas que son parte del comite.
+* GitHub repo con todas las versiones del CoC e informacion de nuestros procesos.
+* Calendario con fechas de tareas fijas, como por ejemplo reporte de transparencia.
+
+
+para empezar a formar parte y después estuvimos que hacer varios cambios de la infraestructura para quienes dejaban de ser parte del comité ya no tuvieran acceso a la información y que cuando yo empecé a ser parte del comité no tuviera acceso a información de incidentes pasados que la privacidad es un componente clave para que todo funcione correctamente.
+
+Así que hubo que hacer cambios sobre quienes son miembros de la lista de correo en la cual se discuten las actividades del comité quienes pueden leer y acceder esa información quienes pueden leer y acceder al formulario donde las personas pueden reportar un incidente al repositorio en GitHub donde se contienen la descripción de los procesos del código conducta las diferentes versiones del texto del código de conducta me puse al tanto de los procedimientos que hay que tener en cuenta como manejar un incidente como modificar el código de conducta como realizar los reportes de transparencia cuando.
+
+## Mis aportes al CoC
+
+y cómo se realizan y me tocó trabajar con un primer incidente apenas empecé a formar parte lo cual fue un desafío en sí mismo así que además de actualizar la infraestructura también actualice el texto había un pedido de actualizar el el texto con ejemplos en entornos Online y también hicimos la traducción al español del Del código de conducta. 
+
+
+> Notas: hacer un agradecimiento a quienes fueron parte mientras yo estuve y hacer un link a los textos autorizaciones los códigos conducta a los reportes de transparencia y a los informes de revisión anual.
