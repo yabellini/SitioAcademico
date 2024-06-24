@@ -19,7 +19,7 @@ tags:
 
 Este 15 de junio se cumplieron dos años desde que me uní al staff de rOpenSci como su Community Manager así que para festejar este tiempo voy a empezar una serie de articulos llamada **"Dos años y Doce proyectos"** y les voy a contar una docena de iniciativas en las que he trabajado durante este tiempo.
 
-El objetivo es compartir de qué va el trabajo de una Community Manager con ejemplos concretos del tipo de actividades que realicé desde junio del 2022 hasta junio del 2024, como por ejemplo:
+El objetivo es compartir de qué va el trabajo de una Community Manager con ejemplos concretos del tipo de actividades que realicé desde junio del 2022 hasta junio del 2024, este es el listado tentativo de temas:
 
 1. Codigo de Conducta de la comunidad.
 2. Serie de entrevistas "Las estrellas del Universo R".
