@@ -31,7 +31,7 @@ El objetivo es compartir de qué va el trabajo de una Community Manager con ejem
 8. Eventos para la comunidad.
 9. Escribir propuestas para financiamiento.
 10. Analisis de los datos de la comunidad.
-11. Escribiendo y dando charlas para otras comunidades
+11. Escribiendo y dando charlas.
 12. Manteniendo nuestra documentacion completa y al dia. 
 
 Este primer articulo de la serie va a ser sobre la figura del Community Manager en una comunidad de práctica cientifica y tecnológica y sobre tres herramientas y frameworks utiles para el rol.  
@@ -89,15 +89,15 @@ Aunque estas personas son ficticias, representan a los diferentes tipos de perso
 
 ### Andrea
 
-Descripcion general: va a enviar sus paquetes al proceso de revisión por pares de rOpenSci. Sabe que esto asegurará la calidad de su software y también facilitará su publicación en JOSS, lo que le dará crédito académico. Escucho que rOpenSci tambien revisa en español, así que si su experiencia de revisión es buena, probablemente se ofrecerá para ser revisar en su lengua materna. 
+**Descripcion general:** va a enviar sus paquetes al proceso de revisión por pares de rOpenSci. Sabe que esto asegurará la calidad de su software y también facilitará su publicación en JOSS, lo que le dará crédito académico. Escucho que rOpenSci tambien revisa en español, así que si su experiencia de revisión es buena, probablemente se ofrecerá para ser revisar en su lengua materna. 
 
-Objetivo principal: hacer la revisión por pares (para mejorar la calidad) y la publicación de su software. Además, conseguir la etiqueta de aprobación de una organización internacional ayudará a que otros colegas se tomen más en serio sus productos de software como un producto válido de investigación
+**Objetivo principal:** hacer la revisión por pares (para mejorar la calidad) y la publicación de su software. Además, conseguir la etiqueta de aprobación de una organización internacional ayudará a que otros colegas se tomen más en serio sus productos de software como un producto válido de investigación
 
-Barreras: si no consigue agregar el desarrollo de sus paquetes de R como línea de trabajo a otro proyecto de investigacion cuando termine el actual, no podrán seguir dedicando tiempo a mantenerlos y mejorarlos. 
+**Barreras:** si no consigue agregar el desarrollo de sus paquetes de R como línea de trabajo a otro proyecto de investigacion cuando termine el actual, no podrán seguir dedicando tiempo a mantenerlos y mejorarlos. 
 
-El éxito para Andrea: pasa exitosamente el proceso de revisión y ha enviado un articulo a JOSS sobre su paquete. 
+**El éxito para Andrea:** pasa exitosamente el proceso de revisión y ha enviado un articulo a JOSS sobre su paquete. 
 
-El éxito para la comunidad: Andrea se ofrece para revisar paquetes y aconseja a otras personas que utilicen el proceso de revisión de rOpenSci.
+**El éxito para la comunidad:** Andrea se ofrece para revisar paquetes y aconseja a otras personas que utilicen el proceso de revisión de rOpenSci.
 
 ## Conclusiones
 
