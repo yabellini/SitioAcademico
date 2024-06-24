@@ -1,8 +1,8 @@
 ---
-title: "Dos anos y una docena de proyectos en rOpenSci. El Codigo de Conductq"
+title: "El Codigo de Conducta en rOpenSci"
 author: Yanina Bellini Saibene
 summary: "En Junio de 2022 me converti en la community manager de rOpenSci.  He aprendido muchisimo durante este tiempo. Voy a compartir 12 proyectos en los que estuve involucrada estos dos anos para contar mejor el tipo de trabajo y actividades que hace una community manager de una comunidad de practica tecnologica." 
-date: '2024-06-17'
+date: '2024-06-24'
 categories:
   - Education
   - Community
@@ -15,19 +15,20 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="The right hand of a person writing in a paper">}}
+{{< figure src="featured.jpg" alt="">}}
 
-> 
-
+ 
 El primer gran proyecto sobre el que tuve que aprender y empezar a trabajar inmediatamente es el Código de Conducta (CoC) de rOpenSci. 
 
 ## Codigo de Conducta y Comite del CoC. 
 
 Primero repasemos que son el CoC y el Comite del CoC. 
 
-<TODO: agregar definicion>
+Una comunidad sana se centra en los valores y normas compartidos por las personas que la componen, el codigo de conducta expresa de forma explicita esos valores y normas fundamentales de tu comunidad y tambien muestra tu compromiso de crear un entorno amigable y seguro para todas las personas. 
 
-<TODO: agregar como estas herramientas facilitan la creacion de espacios seguros>
+En Argentina tenemos este tipo de reglas y normas en todos los niveles de la educacion y se llaman _normas de convivencia_.  Podemos pensar el Codigo de Conducta como las normas de convivencias para comunidades de practica. 
+
+
 
 
 ## El CoC en rOpenSci
