@@ -65,7 +65,7 @@ Otro modelo que me gusta mucho es **"Caminos de inclusion"**:
 
 Estos modelos ayudan a pensar en las personas que son parte de la comunidad y en cómo podemos ayudarlas a avanzar en su camino de participacion y de inclusion en rOpenSci. Estos frameworks ayudan a generar estrategias para definir las actividades realizamos y como las organizamos, que tipo de contenido y en que formato lo compartimos, que programas e intervenciones desarrollamos, como nos comunicamos y como recibimos feedback.
 
-## La Rueda de habilidades 
+## La Rueda de competencias y habilidades
 
 En ese mismo curso nos presentaron una [rueda de habilidades y conocimientos](https://zenodo.org/records/4437294) que una community manager deberia tener para poder realizar su trabajo.  Esta rueda tiene cinco competencias básicas y 47 habilidades que las componen. Las cinco competencias son:
 
@@ -89,21 +89,29 @@ Aunque estas personas son ficticias, representan a los diferentes tipos de perso
 
 ### Andrea
 
-**Descripcion general:** va a enviar sus paquetes al proceso de revisión por pares de rOpenSci. Sabe que esto asegurará la calidad de su software y también facilitará su publicación en JOSS, lo que le dará crédito académico. Escucho que rOpenSci tambien revisa en español, así que si su experiencia de revisión es buena, probablemente se ofrecerá para ser revisar en su lengua materna. 
+* **Descripcion general:** va a enviar sus paquetes al proceso de revisión por pares de rOpenSci. Sabe que esto asegurará la calidad de su software y también facilitará su publicación en JOSS, lo que le dará crédito académico. Escucho que rOpenSci tambien revisa en español, así que si su experiencia de revisión es buena, probablemente se ofrecerá para ser revisar en su lengua materna. 
 
-**Objetivo principal:** hacer la revisión por pares (para mejorar la calidad) y la publicación de su software. Además, conseguir la etiqueta de aprobación de una organización internacional ayudará a que otros colegas se tomen más en serio sus productos de software como un producto válido de investigación
+* **Objetivo principal:** hacer la revisión por pares (para mejorar la calidad) y la publicación de su software. Además, conseguir la etiqueta de aprobación de una organización internacional ayudará a que otros colegas se tomen más en serio sus productos de software como un producto válido de investigación
 
-**Barreras:** si no consigue agregar el desarrollo de sus paquetes de R como línea de trabajo a otro proyecto de investigacion cuando termine el actual, no podrán seguir dedicando tiempo a mantenerlos y mejorarlos. 
+* **Barreras:** si no consigue agregar el desarrollo de sus paquetes de R como línea de trabajo a otro proyecto de investigacion cuando termine el actual, no podrán seguir dedicando tiempo a mantenerlos y mejorarlos. 
 
-**El éxito para Andrea:** pasa exitosamente el proceso de revisión y ha enviado un articulo a JOSS sobre su paquete. 
+* **El éxito para Andrea:** pasa exitosamente el proceso de revisión y ha enviado un articulo a JOSS sobre su paquete. 
 
-**El éxito para la comunidad:** Andrea se ofrece para revisar paquetes y aconseja a otras personas que utilicen el proceso de revisión de rOpenSci.
+* **El éxito para la comunidad:** Andrea se ofrece para revisar paquetes y aconseja a otras personas que utilicen el proceso de revisión de rOpenSci.
 
 ## Conclusiones
 
 El trabajo del community manager en una comunidad de practica cientifica y tecnologica va mucho mas alla del manejo de redes sociales, que es con lo que se suele asociar en Argentina un rol con ese nombre. 
 
-CSCCE define el rol como la persona que facilita las actividades de una comunidad y las interacciones entre quienes la componene. La gestión de la comunidad puede considerarse más una actividad de enlace interno que de divulgación o participación pública.
+He utilizado tres herramientas y frameworks que me han ayudado a pensar mi trabajo:
+
+* Modelos de participacion.
+* Rueda de competencias y habilidades.
+* Learner Personas para comunidades.
+
+CSCCE define el rol como la persona que _facilita las actividades de una comunidad y las interacciones entre quienes la componene. La gestión de la comunidad puede considerarse más una actividad de enlace interno que de divulgación o participación pública._
 
 Aunque coincido con esta definicion, ya veran cuando les cuente que la parte de divulgacion y participacion publica tambien tiene una carga importante en mi caso, especialmente para poder llegar a mas grupos, organizaciones y personas.
+
+Nos vemos en el proximo articulo con los detalles del primer proyecto de la serie.
 
