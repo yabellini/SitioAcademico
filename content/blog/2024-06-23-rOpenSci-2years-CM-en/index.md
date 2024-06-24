@@ -42,13 +42,13 @@ When I joined rOpenSci, I had the opportunity to take a course on the fundamenta
 
 * **Convey/Consume:** the community *convey* content for people to *consume* independently of each other.
 
-* Contribute:** People contribute in some way to the activities of the community.
+* **Contribute:** People contribute in some way to the activities of the community.
 
 * **Collaborate:** People collaborate with each other in community activities, often with community support for success. 
 
-* Co-create:** People work together within the community to generate something together that they could not do before and that may involve other communities.
+* **Co-create:** People work together within the community to generate something together that they could not do before and that may involve other communities.
 
-* Champion:** a special mode that goes through the other modes’ full spectrum. 
+* **Champion:** a special mode that goes through the other modes’ full spectrum. 
 
 Each member of the community can engage in these modes of participation at different moments in time and for different activities. 
 
@@ -56,10 +56,10 @@ Another model that I like a lot is **"Pathways of inclusion "**:
 
 [Explained in detail in this blog post](https://www.harihareswara.net/posts/2022/the-pathway-to-inclusion-insight-from-alex-bayley/), it is a six-step model from "never heard of this" to "this is my thing.”
 
-* Awareness:** I have heard about this.
+* **Awareness:** I have heard about this.
 * **Understanding:** I understand what this is and what it might be like for me to be involved.
 * **Identification:** I can imagine myself doing this.
-* Access:** I can do it physically, logistically, and financially.
+* **Access:** I can do it physically, logistically, and financially.
 * **Belonging:** I feel like I fit in here and am part of it. 
 * **Ownership:** I care enough to take responsibility for this.
 
@@ -93,11 +93,11 @@ Although these personas are fictitious, they represent the different types of pe
 
 * **Main objective:** to do peer review (to improve quality) and publish their software. In addition, getting the approval label from an international organization will help other colleagues take their software products more seriously as valid research products.
 
-* Barriers:** If they do not manage to add the development of their R packages as a line of work to another research project when the current one ends, you will not be able to continue to spend time maintaining and improving them. 
+* **Barriers:** If they do not manage to add the development of their R packages as a line of work to another research project when the current one ends, you will not be able to continue to spend time maintaining and improving them. 
 
-* Success for Andrea:** They passed the review process and submitted an article about their package to JOSS. 
+* **Success for Andrea:** They passed the review process and submitted an article about their package to JOSS. 
 
-* Success for the community:** Andrea offers to review packages and advises others to use the rOpenSci review process.
+* **Success for the community:** Andrea offers to review packages and advises others to use the rOpenSci review process.
 
 ## Conclusions
 
