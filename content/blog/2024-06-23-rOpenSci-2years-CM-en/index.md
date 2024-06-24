@@ -27,7 +27,7 @@ The objective is to share what the work of a Community Manager is about with con
 4. Champions Program.
 5. Communication strategy.
 6. Social media. 
-7. Broadcasting campaigns.
+7. Outreach campaigns.
 8. Community events.
 9. Write funding proposals.
 10. Analysis of community data.
