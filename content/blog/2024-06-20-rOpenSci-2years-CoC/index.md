@@ -28,12 +28,17 @@ Una comunidad sana se centra en los valores y normas compartidos por las persona
 
 En Argentina tenemos este tipo de reglas y normas en todos los niveles de la educacion y se llaman _normas de convivencia_.  Podemos pensar el Codigo de Conducta como las normas de convivencias para comunidades de practica. 
 
-
-
+La parte mas importante de un CoC es que se haga cumplir.  En general existe un grupo de personas encargada de esa tarea y se llama Comite del CoC.
 
 ## El CoC en rOpenSci
 
-En rOpenSci tenemos un Comite de tres personas, el Community Manager es una de las personas miembros del comité.  Las otras dos personas son: una persona que es independiente de la comunidad y la otra persona es alguien del staff de rOpenSci.  
+En rOpenSci existe un CoC que se actualiza anualmente a partir del feedback de la comunidad y de los aprendizajes del comite.  Ademas de realiza un reporte anual de transparencia donde se detallan los incidentes reportados y como se resolvieron.
+
+Tambien existe una infraestrcutura para el funcionamiento. 
+
+En rOpenSci tenemos un Comite de tres personas, el Community Manager es parte del comité.  Las otras dos personas son: alguien independiente de la comunidad y alguien del staff de rOpenSci.  
+
+
 
 Para que empiece a ser parte se me hizo un onboarding que incluyo una charla con explicacion de los procesos del comite para hacer cumplir el CoC y proveerme de acceso a los recursos y herramientas que necesitaba.  A su vez, se hizo el offboarding de la persona que es independiente de la comunidad, que implica remover los permisos de acceso a los recursos y la informacion.
 
@@ -57,5 +62,10 @@ Así que hubo que hacer cambios sobre quienes son miembros de la lista de correo
 
 y cómo se realizan y me tocó trabajar con un primer incidente apenas empecé a formar parte lo cual fue un desafío en sí mismo así que además de actualizar la infraestructura también actualice el texto había un pedido de actualizar el el texto con ejemplos en entornos Online y también hicimos la traducción al español del Del código de conducta. 
 
+
+## Fuentes
+
+* [Codigo de Conducta de rOpenSci](https://ropensci.org/code-of-conduct/)
+* [Contributor Covenant](https://www.contributor-covenant.org/)
 
 > Notas: hacer un agradecimiento a quienes fueron parte mientras yo estuve y hacer un link a los textos autorizaciones los códigos conducta a los reportes de transparencia y a los informes de revisión anual.
