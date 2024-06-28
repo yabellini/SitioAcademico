@@ -2,7 +2,7 @@
 title: "Project 1 - rOpenSci's Code of Conduct and Code of Conduct Committee"
 author: Yanina Bellini Saibene
 summary: "The code of conduct and its committee was the first project I joined when I started being part of rOpenSci. Here is a summary of the work I have done these last two years on this topic." 
-date: '2024-06-27'
+date: '2024-06-28'
 categories:
   - Community
   - 100DaysToOffload

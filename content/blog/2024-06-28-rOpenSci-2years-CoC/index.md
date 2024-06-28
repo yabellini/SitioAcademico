@@ -2,7 +2,7 @@
 title: "El Codigo de Conducta en rOpenSci"
 author: Yanina Bellini Saibene
 summary: "El codigo de conducta y su comite fue el primer proyecto al que me sume cuando empece a ser parte de rOpenSci. Aqui un resumen del trabajo que realice estos ultimos dos años en este tema." 
-date: '2024-06-27'
+date: '2024-06-28'
 categories:
   - Education
   - Community
