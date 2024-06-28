@@ -1,7 +1,7 @@
 ---
 title: "El Codigo de Conducta en rOpenSci"
 author: Yanina Bellini Saibene
-summary: "El codigo de conducta y su comite fue el primer proyecto al que me sume cuando empece a ser parte de rOpenSci. Aqui un resumen del trabajo que realice estos ultimos dos años en este tema. " 
+summary: "El codigo de conducta y su comite fue el primer proyecto al que me sume cuando empece a ser parte de rOpenSci. Aqui un resumen del trabajo que realice estos ultimos dos años en este tema." 
 date: '2024-06-27'
 categories:
   - Education
@@ -84,6 +84,8 @@ Para que esta herramienta cumpla con su objetivo, es fundamental que el CoC exis
 Estoy muy agradecida con las personas con las que he compartido este rol en el comite del CoC de rOpenSci, he aprendido mucho de ellas:  [Mark Padgham](https://ropensci.org/author/mark-padgham/), [Kara Woo](https://ropensci.org/author/kara-woo/), [Megan Carter](https://ropensci.org/author/megan-carter/) y [Natalia Morandeira](https://ropensci.org/author/natalia-morandeira/).   
 
 ## Recursos utiles
+
+Este es un listado de algunos de los recursos mencionados en el post:
 
 * [Codigo de Conducta de rOpenSci](https://ropensci.org/es/codigo-de-conducta/)
 * [Contributor Covenant](https://www.contributor-covenant.org/)
