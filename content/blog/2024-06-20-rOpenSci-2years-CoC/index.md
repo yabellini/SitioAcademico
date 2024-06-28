@@ -49,9 +49,9 @@ Tambien existe una infraestructura para el funcionamiento del Comite:
 
 ## Mi trabajo en el CoC
 
-Mi onboarding incluyo una charla con explicacion de los procesos del comite para hacer cumplir el CoC y proveerme de acceso a los recursos y herramientas que necesitaba.  
+Mi bienvenida incluyó una charla con una de las personas del comite, que me explicó los procesos para hacer cumplir el CdC y me proporcionó acceso a los recursos y herramientas que necesitaba.   
 
-En mi caso particular tuvimos que rearmar y re configurar parte de la infraestructura porque habia recursos que estaban en las cuentas de la anterior Community Manager, por ejemplo, tuve que generar de nuevo el formulario de incidentes y la automatizacion de Zapier para que al completarlo llegue la informacion al comite.  Debido a este cambio tambien inicie un proceso de actualizacion de la guia interna para detallar el off-boarding de la persona que es dueña de la infraestructura.
+En mi caso particular tuvimos que crear nuevamente y re configurar parte de la infraestructura porque habia recursos asociados a la cuenta de usuario de la anterior Community Manager, por ejemplo, tuve que generar de nuevo el formulario para reportar incidentes y configurar otra vez la automatizacion de Zapier para que llegue la informacion al comite cuando alguien completa el formulario.  Debido a este cambio tambien inicie un proceso de actualizacion de la guia interna para detallar el off-boarding de la persona que es dueña de la infraestructura.
 
 Mi segunda tarea fue [actualizar el texto del CoC con mas detalle y ejemplos de entornos Online](https://ropensci.org/blog/2022/07/12/coc-update/) y hacer [la primera traduccion al español del texto](https://ropensci.org/es/codigo-de-conducta/), publicandola en la web.
 
@@ -79,16 +79,15 @@ Ser parte del un comite de codigo de conducta es una gran responsabilidad y es n
 
 La privacidad de las personas involucradas es un componente clave para que todo funcione correctamente, tanto como la transparencia en el proceso de resolucion de incidentes es fundamental para mantener la confianza de la comunidad.
 
-Para que esta herramienta cumpla con su objetivo, es fundamental que el CoC exista y que se haga cumplir.  Tambien es importante mantenerlo actualizado en los ambitos de aplicacion.  En el caso de rOpenSci, el CoC se aplica a todos los espacios de la comunidad y considero es una de las herramientas que hace que la comunidad sea tan diversa y amigable.    
+Para que esta herramienta cumpla con su objetivo, es fundamental que el CoC exista y que se haga cumplir.  Tambien es importante mantenerlo actualizado en los ambitos de aplicacion.  En el caso de rOpenSci, el CoC se aplica a todos los espacios y actividades de la comunidad y considero es una de las herramientas que hace que la comunidad sea tan diversa y amigable.    
 
 Estoy muy agradecida con las personas con las que he compartido este rol en el comite del CoC de rOpenSci, he aprendido mucho de ellas:  [Mark Padgham](https://ropensci.org/author/mark-padgham/), [Kara Woo](https://ropensci.org/author/kara-woo/), [Megan Carter](https://ropensci.org/author/megan-carter/) y [Natalia Morandeira](https://ropensci.org/author/natalia-morandeira/).   
 
 ## Recursos utiles
 
-Este es un listado de algunos de los recursos mencionados en el post:
+Este es un listado de los recursos mencionados en el post:
 
 * [Codigo de Conducta de rOpenSci](https://ropensci.org/es/codigo-de-conducta/)
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 * [Recursos de Frameshift Consulting](https://frameshiftconsulting.com/resources/code-of-conduct-book/)
 * [Codigo de Conducta de useR! 2021](https://user2021.r-project.org/coc/)
-
