@@ -78,8 +78,9 @@ Ser parte del un comite de codigo de conducta es una gran responsabilidad y es n
 
 La privacidad de las personas involucradas es un componente clave para que todo funcione correctamente, tanto como la transparencia en el proceso de resolucion de incidentes es fundamental para mantener la confianza de la comunidad.
 
-Estoy muy agradecida con las personas con las que he compartido este rol en el comite del CoC de rOpenSci, he aprendido mucho de ellas:  [Mark Padgham](https://ropensci.org/author/mark-padgham/), [Kara Woo](https://ropensci.org/author/kara-woo/), [Megan Carter](https://ropensci.org/author/megan-carter/) y [Natalia Morandeira](https://ropensci.org/author/natalia-morandeira/).   
+Para que esta herramienta cumpla con su objetivo, es fundamental que el CoC exista y que se haga cumplir.  Tambien es importante mantenerlo actualizado en los ambitos de aplicacion.  En el caso de rOpenSci, el CoC se aplica a todos los espacios de la comunidad y considero es una de las herramientas que hace que la comunidad sea tan diversa y amigable.    
 
+Estoy muy agradecida con las personas con las que he compartido este rol en el comite del CoC de rOpenSci, he aprendido mucho de ellas:  [Mark Padgham](https://ropensci.org/author/mark-padgham/), [Kara Woo](https://ropensci.org/author/kara-woo/), [Megan Carter](https://ropensci.org/author/megan-carter/) y [Natalia Morandeira](https://ropensci.org/author/natalia-morandeira/).   
 
 ## Recursos utiles
 
