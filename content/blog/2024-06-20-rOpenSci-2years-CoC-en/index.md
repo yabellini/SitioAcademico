@@ -1,8 +1,8 @@
 ---
-title: "El Codigo de Conducta en rOpenSci"
+title: "Project 1 - rOpenSci's Code of Conduct and Code of Conduct Committee"
 author: Yanina Bellini Saibene
-summary: "En Junio de 2022 me converti en la community manager de rOpenSci.  He aprendido muchisimo durante este tiempo. Voy a compartir 12 proyectos en los que estuve involucrada estos dos anos para contar mejor el tipo de trabajo y actividades que hace una community manager de una comunidad de practica tecnologica." 
-date: '2024-06-24'
+summary: "" 
+date: '2024-06-27'
 categories:
   - Education
   - Community
@@ -15,8 +15,9 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="">}}
+{{< figure src="featured.jpg" alt="A heart in a computer screens build it with ceros and ones.">}}
 
+> Picture of <a href="https://unsplash.com/es/@swimstaralex?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexander Sinn</a> at <a href="https://unsplash.com/es/fotos/se-muestra-un-corazon-en-la-pantalla-de-una-computadora-KgLtFCgfC28?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
  
 El primer gran proyecto sobre el que tuve que aprender y empezar a trabajar inmediatamente es el Código de Conducta (CoC) de rOpenSci. 
 

@@ -1,7 +1,7 @@
 ---
-title: "Project 1 - rOpenSci's Code of Conduct and Code of Conduct Committee"
+title: "El Codigo de Conducta en rOpenSci"
 author: Yanina Bellini Saibene
-summary: "" 
+summary: "El codigo de conducta y su comite fue el primer proyecto al que me sume cuando empece a ser parte de rOpenSci. Aqui un resumen del trabajo que realice estos ultimos dos años en este tema. " 
 date: '2024-06-27'
 categories:
   - Education
@@ -15,10 +15,9 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="">}}
+{{< figure src="featured.jpg" alt="Corazon en una pantalla de una computadora compuesta de ceros y unos.">}}
 
-> Picture of <a href="https://unsplash.com/es/@swimstaralex?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexander Sinn</a> at <a href="https://unsplash.com/es/fotos/se-muestra-un-corazon-en-la-pantalla-de-una-computadora-KgLtFCgfC28?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
+> Foto de <a href="https://unsplash.com/es/@swimstaralex?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexander Sinn</a> en <a href="https://unsplash.com/es/fotos/se-muestra-un-corazon-en-la-pantalla-de-una-computadora-KgLtFCgfC28?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
  
 El primer gran proyecto sobre el que tuve que aprender y empezar a trabajar inmediatamente es el Código de Conducta (CoC) de rOpenSci. 
 
