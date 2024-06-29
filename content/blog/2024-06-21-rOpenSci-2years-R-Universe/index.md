@@ -35,7 +35,7 @@ Mi primera contribucion a rOpenSci, incluso antes de convertirme en Community Ma
 
 * Permite a los desarrolladores **vincular sus repositorios de GitHub con R-Universe**, facilitando la integración continua y el despliegue de actualizaciones.
 
-Ya como Community Manager, Jeroen me plateo su idea de entrevistar usuarios de la plataforma para conocer mejor el trabajo que realizaban, como usaban R-Universe en ese trabajo y que tipo de funcioalidades y necesidades tenian. Jeroen tambien tenia un listado de personas y grupos para entrevistar. A mi me parecio una excelente oportunidad para conversar y conocer mas de cerca a personas que son parte de la comunidad de rOpenSci. 
+Ya como Community Manager, [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), que lidera el proyecto, me plateo su idea de entrevistar usuarios de la plataforma para conocer mejor el trabajo que realizaban, como usaban R-Universe en ese trabajo y que tipo de funcionalidades y necesidades tenian. Jeroen tambien tenia un listado de personas y grupos para entrevistar. A mi me parecio una excelente oportunidad para conversar y conocer mas de cerca a personas que son parte de la comunidad de rOpenSci. 
 
 ## Del la idea general a la serie de entrevistas multimedia
 
@@ -75,7 +75,7 @@ Enviamos ocho invitaciones y realizamos seis entrevistas. El proceso para organi
 
 ## Publicacion
 
-Luego de publicar el blog post en nuestra web con los videos en nuestro canal, se realizaba la difusion del material. El plan de comunicacion incluyo:
+Luego de publicar el blog post en [nuestra web](https://ropensci.org/blog/) con los [videos en nuestro canal](https://vimeo.com/ropensci), se realizaba la difusion del material. El plan de comunicacion incluyo:
 
 * Escribir post sobre la entrevista para redes sociales y compartirlo en Twitter/Mastodon, LinkedIn y espacios de Slack relevantes. Tanto en Ingles como en castellano.
 
@@ -88,11 +88,11 @@ Luego de publicar el blog post en nuestra web con los videos en nuestro canal, s
 El proceso de entrevistas fue muy interesante y enriquecedor. Aprendimos mucho de las personas que entrevistamos y de los proyectos que lideran.  Ademas de los blog post de cada equipo entrevistados, hicimos un resumen de la serie completa:
 
 * noviembre 6, 2023, [El multiverso de rOpenSci](https://ropensci.org/es/blog/2023/11/06/r-universe-stars-finale-es/)
-* septiembre 15, 2023, [Conociendo a las estrellas del Universo R: El universo R contra las enfermedades.]()
-* junio 6, 2023, [Conociendo a las estrellas del Universo R: PEcAn, un proyecto de código abierto para cuidar el planeta]()
-* marzo 30, 2023, [Conociendo a las estrellas del Universo R: Investigando nuestro cerebro con la magia del universo R]()
-* febrero 28, 2023, [Aprender, ayudar y compartir. El método de ThinkR para crear una comunidad cada vez más grande y amigable de R]()
-* noviembre 23, 2022, [Conociendo a las estrellas del universo R: comunidad R, intercambiar y aprender]()
+* septiembre 15, 2023, [Conociendo a las estrellas del Universo R: El universo R contra las enfermedades.](https://ropensci.org/es/blog/2023/09/15/r-universe-stars-5-es/)
+* junio 6, 2023, [Conociendo a las estrellas del Universo R: PEcAn, un proyecto de código abierto para cuidar el planeta](https://ropensci.org/es/blog/2023/06/06/r-universe-stars-4-es/)
+* marzo 30, 2023, [Conociendo a las estrellas del Universo R: Investigando nuestro cerebro con la magia del universo R](https://ropensci.org/es/blog/2023/03/30/r-universe-stars-3-es/)
+* febrero 28, 2023, [Aprender, ayudar y compartir. El método de ThinkR para crear una comunidad cada vez más grande y amigable de R](https://ropensci.org/es/blog/2023/02/28/r-universe-stars-2-es/)
+* noviembre 23, 2022, [Conociendo a las estrellas del universo R: comunidad R, intercambiar y aprender](https://ropensci.org/es/blog/2022/11/23/r-universe-stars-1-es/)
 
 Destacamos y exploramos diferentes equipos y proyectos de todo el mundo, el trabajo que realizan, sus procesos y usuarios. Aprendimos sobre las necesidades y desafíos que enfrentan y obtuvimos valiosa retroalimentación sobre R-Universe. 
 
