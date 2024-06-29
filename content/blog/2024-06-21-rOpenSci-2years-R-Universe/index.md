@@ -72,7 +72,6 @@ Enviamos ocho invitaciones y realizamos seis entrevistas. El proceso para organi
 
 7) Finalmente, se publicaba el blog post en la [web de rOpenSci](https://ropensci.org/blog/) y se subia el video a [nuestro canal de Vimeo](https://vimeo.com/ropensci) (para el cual se escribia tambien un resumen). Lucio genero una bonita animacion del isologotipo de rOpenSci para agregar al inicio y final de todos nuestros videos.
 
-Ademas, uno de los blog post fue traducido tambien
 ## Publicacion
 
 Luego de publicar el blog post en nuestra web con los videos en nuestro canal, se realizaba la difusion del material. El plan de comunicacion incluyo:
