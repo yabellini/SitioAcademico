@@ -69,7 +69,7 @@ Enviamos ocho invitaciones y realizamos seis entrevistas. El proceso para organi
 
 5) Para la edicion del video tambien tuve el apoyo de Alejandra Bellini y [Lucio Casalla](https://ropensci.org/es/author/lucio-casalla/). Las entrevistas duraron entre 60 y 90 minutos pero los videos finales tienen una duracion de entre 10 y 15 minutos. Seleccionar las partes relevantes fue una tarea muy interesante. 
 
-6) Se generaba un primer borrados del blog post en la web de rOpenSci en Ingles que era editado por Steffi LaZerte, una de las editoras de nuestro blog. Aplicados esas ediciones se enviaba a las personas entrevi entrevistadas haciendo los cambios hasta obtener su aprobacion.  En esa etapa generabamos los subtituilos en ingles y castellano del video y traduciamos el blog post al castellano.  
+6) Se generaba un primer borrados del blog post en la web de rOpenSci en Ingles que era editado por [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), una de las editoras de nuestro blog. Aplicados esas ediciones se enviaba a las personas entrevi entrevistadas haciendo los cambios hasta obtener su aprobacion.  En esa etapa generabamos los subtituilos en ingles y castellano del video y traduciamos el blog post al castellano.  
 
 7) Finalmente, se publicaba el blog post en la web de rOpenSci y se subia el video a nuestro canal de Vimeo (para el cual se escribia tambien un resumen). Lucio genero una bonita animacion del isologotipo de rOpenSci para agregar al inicio y final de todos nuestros videos.
 
