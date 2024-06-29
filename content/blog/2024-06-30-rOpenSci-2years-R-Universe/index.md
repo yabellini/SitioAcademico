@@ -93,7 +93,9 @@ El proceso de entrevistas fue muy interesante y enriquecedor. Aprendimos mucho d
 * febrero 28, 2023, [Aprender, ayudar y compartir. El método de ThinkR para crear una comunidad cada vez más grande y amigable de R](https://ropensci.org/es/blog/2023/02/28/r-universe-stars-2-es/)
 * noviembre 23, 2022, [Conociendo a las estrellas del universo R: comunidad R, intercambiar y aprender](https://ropensci.org/es/blog/2022/11/23/r-universe-stars-1-es/)
 
-Destacamos y exploramos diferentes equipos y proyectos de todo el mundo, tanto de academia, como de gobierno e industria;el trabajo que realizan, sus procesos y usuarios. Aprendimos sobre las necesidades y desafíos que enfrentan y obtuvimos valiosa retroalimentación sobre R-Universe. 
+Destacamos y exploramos diferentes equipos y proyectos de software abierto de todo el mundo, del ambito academico, como de gobierno e industria; el trabajo que realizan, sus procesos y usuarios. Aprendimos sobre las necesidades y desafíos que enfrentan y obtuvimos valiosa retroalimentación sobre R-Universe. 
+
+Tambien generamos una serie muy diversa y multilingue de casos de usos de R-Universe, que pueden ser de inspiracion para otros grupos de desarrolladores y de usuarios.
 
 Yo tuve ademas, la posibilidad de trabajar con Jeroen, Alejandra, Lucio y Steffi en un proyecto que me permitio aprender mucho sobre la comunidad de rOpenSci y sobre detalles muy interesantes de R-Universe.
 
