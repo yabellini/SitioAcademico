@@ -67,9 +67,9 @@ Enviamos ocho invitaciones y realizamos seis entrevistas. El proceso para organi
 
 4) Luego de la entrevista, se generaba un resumen escrito de la misma seleccionando el contenido relevante para el texto, las citas de los entrevistados y que se complemente con el contenido seleccionado para el video. 
 
-5) Para la edicion del video tambien tuve el apoyo de Alejandra Bellini y [Lucio Casalla](https://ropensci.org/es/author/lucio-casalla/). Las entrevistas duraron entre 60 y 90 minutos pero los videos finales tienen una duracion de entre 10 y 15 minutos. Seleccionar las partes relevantes fue una tarea muy interesante. 
+5) Alejandra Bellini y [Lucio Casalla](https://ropensci.org/es/author/lucio-casalla/) también me ayudaron en la edición del vídeo. Las entrevistas duraron entre 60 y 90 minutos, pero los vídeos finales duraron entre 10 y 15 minutos. Seleccionar las partes relevantes fue una tarea muy interesante.
 
-6) Se generaba un primer borrados del blog post en la web de rOpenSci en Ingles que era editado por [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), una de las editoras de nuestro blog. Aplicados esas ediciones se enviaba a las personas entrevistadas haciendo los cambios hasta obtener su aprobacion.  En esa etapa generabamos los subtituilos en ingles y castellano del video y traduciamos el blog post al castellano.  En el caso de uno de los blog post, el entrevistado tambien hizo una traduccion al Frances, ya que es su idioma nativo. 
+6) Se escribía un primer borrador en inglés del post en la web de rOpenSci que era editado por [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), una de las editoras de nuestro blog. La version editada se enviaba a las personas entrevistadas haciendo los cambios que solicitaran hasta obtener su aprobación. En ese momento generabamos los subtituilos en inglés y español del video y tradujimos el blog post al español.  En el caso de uno de los blog post, el entrevistado tambien lo tradujo al francés, ya que es su lengua materna. 
 
 7) Finalmente, se publicaba el blog post en la [web de rOpenSci](https://ropensci.org/blog/) y se subia el video a [nuestro canal de Vimeo](https://vimeo.com/ropensci) (para el cual se escribia tambien un resumen). Lucio genero una bonita animacion del isologotipo de rOpenSci para agregar al inicio y final de todos nuestros videos.
 
@@ -96,8 +96,10 @@ El proceso de entrevistas fue muy interesante y enriquecedor. Aprendimos mucho d
 
 Destacamos y exploramos diferentes equipos y proyectos de software abierto de todo el mundo, del ambito academico, como de gobierno e industria; el trabajo que realizan, sus procesos y usuarios. Aprendimos sobre las necesidades y desafíos que enfrentan y obtuvimos valiosa retroalimentación sobre R-Universe. 
 
-Tambien generamos una serie muy diversa y multilingue de casos de usos de R-Universe, que pueden ser de inspiracion para otros grupos de desarrolladores y de usuarios.
+También generamos un conjunto diverso y multilingüe de casos de uso de R-Universe, que pueden servir de inspiración para otros desarrolladores y grupos de usuarios.
 
-Yo tuve ademas, la posibilidad de trabajar con Jeroen, Alejandra, Lucio y Steffi en un proyecto que me permitio aprender mucho sobre la comunidad de rOpenSci y sobre detalles muy interesantes de R-Universe.
+Esta fue una oportunidad de trabajar con Jeroen, Alejandra, Lucio y Steffi en un proyecto que me permitió aprender mucho sobre la comunidad rOpenSci y sobre detalles muy interesantes de R-Universe.
 
-Espero que en algun momento podamos retomar este tipo de entrevistas sobre mas personas que son parte de rOpenSci.
+Quiero dar las gracias a todos las personas entrevistadas por su tiempo y por compartir con nosotros su entusiasmo por su trabajo y el software abierto. 
+
+Espero que en algún momento podamos retomar este tipo de entrevistas con más personas que forman parte de rOpenSci.
