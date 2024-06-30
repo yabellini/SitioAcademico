@@ -34,9 +34,10 @@ Mi primera contribucion a rOpenSci, incluso antes de convertirme en Community Ma
 
 * Permite a los desarrolladores **vincular sus repositorios de GitHub con R-Universe**, facilitando la integración continua y el despliegue de actualizaciones.
 
-Ya como Community Manager, [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), que lidera el proyecto, me plateo su idea de entrevistar usuarios de la plataforma para conocer mejor el trabajo que realizaban, como usaban R-Universe en ese trabajo y que tipo de funcionalidades y necesidades tenian. A mi me parecio una excelente oportunidad para conversar y conocer mas de cerca a personas que son parte de la comunidad de rOpenSci. 
 
-## Del la idea general a la serie de entrevistas multimedia
+Cuando me convertí en Community Manager, [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), compartió conmigo su idea de entrevistar a los usuarios de la plataforma para conocer mejor su trabajo, cómo utilizaban R-Universe y sus características y necesidades. Fue una excelente oportunidad para mí de hablar y conocer a las personas que forman parte de la comunidad rOpenSci.
+
+## De la idea a la serie de entrevistas multimedia
 
 La propuesta final fue generar una serie de entrevistas multimedias, blog post y video, llamada ["Conociendo a las estrellas del universo R."](https://ropensci.org/es/tags/r-universe-stars/) 
 
@@ -44,13 +45,13 @@ Nuestro _objetivo principal_ fue dar a conocer a los grupos de trabajo y a las p
 
 Como _objetivos secundarios_ queriamos entender cómo las personas utilizan la plataforma, identificar problemas comunes, obtener retroalimentación sobre nuevas funciones y escuchar sugerencias para mejoras. 
 
-Con estos objetivos en mente y usando una lista inicial de Jeroen como base hicimos una primera selección de entrevistados, basamos esta seleccion en el tipo de actividad del equipo, la diversidad geográfica y el tipo de uso que hacen de R-Universe.
+Con estos objetivos en mente y utilizando la lista inicial de Jeroen como base, seleccionamos a los primeros entrevistados en función de su actividad, diversidad geográfica y uso de R-Universe.
 
 Generamos una plantilla de mail de invitacion y la enviamos a los primeros seleccionados. Esperabamos poder hacer entre 4 y 6 entrevistas. 
 
 Mientras esperabamos las respuestas, la periodista [Alejandra Bellini](https://ropensci.org/es/author/alejandra-bellini/) me ayudo a desarrollar el guion de la entrevista. Preparamos una lista de preguntas abiertas para que las personas entrevistadas puedan compartir sus opiniones y experiencias de manera libre. Estas preguntas estaban alineadas con los objetivos definidos.
 
-Alejandra tambien lidero la primera entrevista que hicimos en castellano para que yo pudiera ver como se desarrollaba el proceso.  Tambien me dio consejos sobre como entrevistar para las siguientes entrevistas que realice en ingles. En algunas de las entrevistas, Jeroen tambien participo.
+Alejandra también dirigió la primera entrevista que hicimos en español para que yo pudiera ver cómo se desarrollaba el proceso. También me dio consejos sobre cómo entrevistar para las siguientes entrevistas que realicé en inglés. Jeroen también participó en algunas de las entrevistas.
 
 Todo el material (texto del mail, guion de la entrevista) se genero de forma bilingüe. 
 
@@ -60,9 +61,9 @@ Enviamos ocho invitaciones y realizamos seis entrevistas. El proceso para organi
 
 1) Luego de recibir la confirmación de la persona entrevistada, coordinamos una fecha y hora para la entrevista.  Yo enviaba una invitacion de Zoom y la guia de preguntas con anterioridad para que las personas puedieran prepararse. 
 
-2) Realizamos la entrevista en Zoom. Al inicio yo explicaba el objetivo, como conduciriamos la entrevista y luego empezaba a grabar la reunion. Iniciabamos con las preguntas del guion y seguiamos el hilo de la conversacion. En algunas ocasiones, la persona entrevistada compartió su pantalla para mostrarnos cómo utilizan R-Universe en su trabajo o como funcionan los paquetes que desarrollan. Los entrevistados tambien tuvieron posibilidad de hacernos preguntas a quienes trabajamos en rOpenSci.
+2) Realizamos las entrevistas utilizando una herramienta de videoconferencia. Primero expliqué el objetivo y cómo realizaríamos la entrevista, y luego empecé a grabar la reunión. Empezábamos con las preguntas guionizadas y seguíamos el hilo de la conversación. En algunas ocasiones, la persona entrevistada compartía su pantalla para mostrarnos cómo utiliza R-Universe en su trabajo o cómo funcionan los paquetes que desarrolla. Los entrevistados también tenían la oportunidad de hacernos preguntas.
 
-3) Al finalizar la entrevista, agradeciamos a la persona entrevistada y le explicábamos los próximos pasos: editar el video, escribir el blog post y compartirlos con ellos para que puedan revisarlo antes de publicarlos. 
+3) Al finalizar la entrevista, agradeciamos a la persona entrevistada y le explicámos los próximos pasos: editar el video, escribir el blog post y compartirles ambos para que puedan revisarlos antes de publicarlos. 
 
 4) Luego de la entrevista, se generaba un resumen escrito de la misma seleccionando el contenido relevante para el texto, las citas de los entrevistados y que se complemente con el contenido seleccionado para el video. 
 
