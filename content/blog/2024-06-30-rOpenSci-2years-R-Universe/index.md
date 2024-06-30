@@ -1,7 +1,7 @@
 ---
 title: "Proyecto 2 - Las Estrellas del Universo R"
 author: Yanina Bellini Saibene
-summary: "Un proyecto de entrevistas multilingue a desarolladores de ambitos academico, industrial y de gobierno, que usan R-Universe. El detalle de como las organizamos, como ejecutamos el proyecto y que resultados obtuvimos." 
+summary: "Un proyecto de entrevistas multilingües con desarrolladores del mundo académico, la industria y el gobierno, que utilizan R-Universe. En este articulo comparto detalles de cómo las organizamos, cómo ejecutamos el proyecto y qué resultados obtuvimos." 
 date: '2024-06-30'
 categories:
   - Community
