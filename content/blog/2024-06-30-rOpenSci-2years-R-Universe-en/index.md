@@ -1,8 +1,8 @@
 ---
-title: "Proyecto 2 - Las Estrellas del Universo R"
+title: "Project 2 - The Stars of R-Universe"
 author: Yanina Bellini Saibene
-summary: "Un proyecto de entrevistas multilingue a desarolladores de ambitos academico, industrial y de gobierno, que usan R-Universe. El detalle de como las organizamos, como ejecutamos el proyecto y que resultados obtuvimos." 
-date: '2024-06-29'
+summary: "A project of multilingual interviews with developers from academia, industry and government, who use R-Universe. The details of how we organized them, how we executed the project and what results we obtained." 
+date: '2024-06-30'
 categories:
   - Community
   - 100DaysToOffload
@@ -13,88 +13,91 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="Cohete despegando.">}}
+{{< figure src="featured.jpg" alt="Rocket taking off.">}}
 
-> Foto de <a href="https://unsplash.com/es/@ivvndiaz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Iván Díaz</a> en <a href="https://unsplash.com/es/fotos/avion-blanco-y-negro-volando-en-el-cielo-durante-el-dia-YOy-ek-aBR0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+> Picture of <a href="https://unsplash.com/es/@ivvndiaz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Iván Díaz</a> at <a href="https://unsplash.com/es/fotos/avion-blanco-y-negro-volando-en-el-cielo-durante-el-dia-YOy-ek-aBR0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
 ## R-Universe
 
-Mi primera contribucion a rOpenSci, incluso antes de convertirme en Community Manager, fue [un blog post en castellano sobre como cree mi propio universo R](https://ropensci.org/es/blog/2021/09/21/creando-tu-r-universe/). 
+My first contribution to rOpenSci, even before I became a Community Manager, was [a blog post in Spanish about how I created my R-Universe](https://ropensci.org/es/blog/2021/09/21/creando-tu-r-universe/).
 
-[R-Universe](https://ropensci.org/r-universe/) es la plataforma de rOpenSci para facilitar la publicacion, búsqueda, desarrollo y el uso de paquetes de R. Algunas de sus características clave incluyen:
+[R-Universe](https://ropensci.org/r-universe/) is rOpenSci's platform to facilitate the publication, search, development, and use of R packages. Some of its key features include:
 
-* Actúa como un **repositorio centralizado** para encontrar y descargar paquetes de R.
+It acts as a centralized repository for finding and downloading R packages.
 
-* Tiene un **sistema automatizado para la construcción y distribución de paquetes**, lo que facilita la publicación y actualización del software por parte de quienes lo desarrollan.
+Its automated system for building and distributing packages makes it easy for developers to publish and update software.
 
-* Proporciona la **documentación, ejemplos y otros recursos útiles** para los paquetes disponibles, ayudando a sus usuarios a comprender y utilizar los paquetes.
+It provides documentation, examples, and other useful resources for available packages, helping its users understand and use them.
 
-* Asegura que los paquetes sean compatibles y estén disponibles para diferentes sistemas operativos, incluyendo Windows, macOS y Linux **proveyendo soporte múltiplataforma**. 
+Ensures that packages are compatible and available for different operating systems, including Windows, macOS, and Linux, providing multi-platform support.
 
-* Permite a los desarrolladores **vincular sus repositorios de GitHub con R-Universe**, facilitando la integración continua y el despliegue de actualizaciones.
+It allows developers to link their GitHub repositories with R-Universe, facilitating continuous integration and deployment of updates.
 
-Ya como Community Manager, [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), que lidera el proyecto, me plateo su idea de entrevistar usuarios de la plataforma para conocer mejor el trabajo que realizaban, como usaban R-Universe en ese trabajo y que tipo de funcionalidades y necesidades tenian. A mi me parecio una excelente oportunidad para conversar y conocer mas de cerca a personas que son parte de la comunidad de rOpenSci. 
+When I became Community Manager, [Jeroen Ooms](https://ropensci.org/author/jeroen-ooms/), who led R-Universe, shared with me his idea of interviewing platform users to learn more about their work, how they used R-Universe, and their features and needs. It was an excellent opportunity for me to talk and get to know people who are part of the rOpenSci community.
 
-## Del la idea general a la serie de entrevistas multimedia
+## From The Idea To The Multimedia Interview Series. 
 
-La propuesta final fue generar una serie de entrevistas multimedias, blog post y video, llamada ["Conociendo a las estrellas del universo R."](https://ropensci.org/es/tags/r-universe-stars/) 
+The final proposal was to generate a multimedia interview series, blog post, and video called "Meeting the Stars of the R universe."
 
-Nuestro _objetivo principal_ fue dar a conocer a los grupos de trabajo y a las personas que están detrás del desarrollo de software y paquetes que muchas personas utilizan y que están disponibles a través del universo R. 
+Our primary goal was to give insight into the working groups and people behind the development of software and packages that many people use and that are available through the R universe.
 
-Como _objetivos secundarios_ queriamos entender cómo las personas utilizan la plataforma, identificar problemas comunes, obtener retroalimentación sobre nuevas funciones y escuchar sugerencias para mejoras. 
+As secondary objectives, we wanted to understand how people use the platform, identify common problems, get feedback on new features, and hear suggestions for improvements.
 
-Con estos objetivos en mente y usando una lista inicial de Jeroen como base hicimos una primera selección de entrevistados, basamos esta seleccion en el tipo de actividad del equipo, la diversidad geográfica y el tipo de uso que hacen de R-Universe.
+With these goals in mind and using Jeroen's initial list as a base, we selected the first interviewees based on their activity, geographic diversity, and use of R-Universe.
 
-Generamos una plantilla de mail de invitacion y la enviamos a los primeros seleccionados. Esperabamos poder hacer entre 4 y 6 entrevistas. 
+We generated an invitation email template and sent it to the first selected interviewees. We expected to be able to do between 4 and 6 interviews.
 
-Mientras esperabamos las respuestas, la periodista [Alejandra Bellini](https://ropensci.org/es/author/alejandra-bellini/) me ayudo a desarrollar el guion de la entrevista. Preparamos una lista de preguntas abiertas para que las personas entrevistadas puedan compartir sus opiniones y experiencias de manera libre. Estas preguntas estaban alineadas con los objetivos definidos.
+While waiting for the responses, journalist Alejandra Bellini helped me develop the interview script. We prepared a list of open-ended questions so that the interviewees could freely share their opinions and experiences. These questions aligned with the defined objectives.
 
-Alejandra tambien lidero la primera entrevista que hicimos en castellano para que yo pudiera ver como se desarrollaba el proceso.  Tambien me dio consejos sobre como entrevistar para las siguientes entrevistas que realice en ingles. En algunas de las entrevistas, Jeroen tambien participo.
+Alejandra also led the first interview we did in Spanish so that I could see how the process developed. She also gave me tips on how to interview for the following interviews I conducted in English. Jeroen also participated in some of the interviews.
 
-Todo el material (texto del mail, guion de la entrevista) se genero de forma bilingüe. 
+I generate all the material (email text, interview script) bilingually.
 
-## Las entrevistas
+## The Interviews 
 
-Enviamos ocho invitaciones y realizamos seis entrevistas. El proceso para organizar las entrevistas fue el siguiente:
+We sent out eight invitations and conducted six interviews. The process for arranging the interviews was as follows:
 
-1) Luego de recibir la confirmación de la persona entrevistada, coordinamos una fecha y hora para la entrevista.  Yo enviaba una invitacion de Zoom y la guia de preguntas con anterioridad para que las personas puedieran prepararse. 
+1) After receiving confirmation from the interviewee, we coordinated a date and time for the interview. I sent out a Zoom invitation and the questions in advance so people could prepare.
 
-2) Realizamos la entrevista en Zoom. Al inicio yo explicaba el objetivo, como conduciriamos la entrevista y luego empezaba a grabar la reunion. Iniciabamos con las preguntas del guion y seguiamos el hilo de la conversacion. En algunas ocasiones, la persona entrevistada compartió su pantalla para mostrarnos cómo utilizan R-Universe en su trabajo o como funcionan los paquetes que desarrollan. Los entrevistados tambien tuvieron posibilidad de hacernos preguntas a quienes trabajamos en rOpenSci.
+2) We interviewed using a video conference tool. , I started by explaining the objective and how we would conduct the interview, and then I started recording the meeting. We would start with the scripted questions and follow the conversation thread. On some occasions, the interviewee shared their screen to show us how they use R-Universe in their work or how the packages they develop work. The interviewees also had the opportunity to ask us questions.
 
-3) Al finalizar la entrevista, agradeciamos a la persona entrevistada y le explicábamos los próximos pasos: editar el video, escribir el blog post y compartirlos con ellos para que puedan revisarlo antes de publicarlos. 
+3) At the end of the interview, we thanked the interviewee and explained the following steps: edit the video, write the blog post, and share both with them so they can review it before publishing it.
 
-4) Luego de la entrevista, se generaba un resumen escrito de la misma seleccionando el contenido relevante para el texto, las citas de los entrevistados y que se complemente con el contenido seleccionado para el video. 
+4) After the interview, I wrote a summary by selecting relevant content for the text, including quotes from the interviewees, that complements the content chosen for the video.
 
-5) Para la edicion del video tambien tuve el apoyo de Alejandra Bellini y [Lucio Casalla](https://ropensci.org/es/author/lucio-casalla/). Las entrevistas duraron entre 60 y 90 minutos pero los videos finales tienen una duracion de entre 10 y 15 minutos. Seleccionar las partes relevantes fue una tarea muy interesante. 
+5) Alejandra Bellini and Lucio Casalla also supported me in the video editing. The interviews lasted between 60 and 90 minutes, but the final videos were between 10 and 15 minutes long. Selecting the relevant parts was a very interesting task.
 
-6) Se generaba un primer borrados del blog post en la web de rOpenSci en Ingles que era editado por [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), una de las editoras de nuestro blog. Aplicados esas ediciones se enviaba a las personas entrevistadas haciendo los cambios hasta obtener su aprobacion.  En esa etapa generabamos los subtituilos en ingles y castellano del video y traduciamos el blog post al castellano.  En el caso de uno de los blog post, el entrevistado tambien hizo una traduccion al Frances, ya que es su idioma nativo. 
+6) I wrote the first draft of the blog post in English on the rOpenSci website, which was edited by Steffi LaZerte, one of our blog editors. I sent the edited version to the interviewees and applied the requested changes until we got their approval. At that stage, we generated the English and Spanish subtitles of the video and translated the blog post into Spanish. In the case of one of the blog posts, the interviewee also translated into French, as it is his native language.
 
-7) Finalmente, se publicaba el blog post en la [web de rOpenSci](https://ropensci.org/blog/) y se subia el video a [nuestro canal de Vimeo](https://vimeo.com/ropensci) (para el cual se escribia tambien un resumen). Lucio genero una bonita animacion del isologotipo de rOpenSci para agregar al inicio y final de todos nuestros videos.
+7) Finally, we published the blog on the rOpenSci website and uploaded the video to our Vimeo channel (for which I wrote a summary). Lucio generated a nice animation of the rOpenSci logo to add to the beginning and end of all our videos.
 
-## Publicacion
+## Publication 
 
-Luego de publicar el blog post en nuestra web con los videos en nuestro canal, se realizaba la difusion del material. El plan de comunicacion incluyo:
+After publishing the blog post on our website with the videos on our channel, we shared it. The communication plan included:
 
-* Escribir post sobre la entrevista para redes sociales y compartirlo en Twitter/Mastodon, LinkedIn y espacios de Slack relevantes. Tanto en Ingles como en castellano.
+1) Write posts about the interview for social networks and share them on Twitter/Mastodon, LinkedIn, and relevant Slack spaces. Both in English and Spanish.
 
-* Escribir un resumen para el newsletter de rOpenSci.
+2) Writing a summary for the rOpenSci newsletter.
 
-* Compartir el material con las personas entrevistadas para que puedan compartirlo en sus redes sociales y con sus comunidades.
+3) Share the material with the interviewees so they can share it on their social networks and with their communities.
 
-## Resultados
+## Results 
 
-El proceso de entrevistas fue muy interesante y enriquecedor. Aprendimos mucho de las personas que entrevistamos y de los proyectos que lideran.  Ademas de los blog post de cada equipo entrevistados, hicimos un resumen de la serie completa:
+The interview process was very interesting and enriching. We learned a lot from the people we interviewed and the projects they led. In addition to the blog posts of each team interviewed, we made a summary of the whole series:
 
-* noviembre 6, 2023, [El multiverso de rOpenSci](https://ropensci.org/es/blog/2023/11/06/r-universe-stars-finale-es/)
-* septiembre 15, 2023, [Conociendo a las estrellas del Universo R: El universo R contra las enfermedades.](https://ropensci.org/es/blog/2023/09/15/r-universe-stars-5-es/)
-* junio 6, 2023, [Conociendo a las estrellas del Universo R: PEcAn, un proyecto de código abierto para cuidar el planeta](https://ropensci.org/es/blog/2023/06/06/r-universe-stars-4-es/)
-* marzo 30, 2023, [Conociendo a las estrellas del Universo R: Investigando nuestro cerebro con la magia del universo R](https://ropensci.org/es/blog/2023/03/30/r-universe-stars-3-es/)
-* febrero 28, 2023, [Aprender, ayudar y compartir. El método de ThinkR para crear una comunidad cada vez más grande y amigable de R](https://ropensci.org/es/blog/2023/02/28/r-universe-stars-2-es/)
-* noviembre 23, 2022, [Conociendo a las estrellas del universo R: comunidad R, intercambiar y aprender](https://ropensci.org/es/blog/2022/11/23/r-universe-stars-1-es/)
+November 6, 2023, The multiverse of rOpenSci
+September 15, 2023, Meeting the stars of the R-Universe: The R-Universe against disease.
+June 6, 2023, Meeting the stars of the R Universe: PEcAn, an open source project to care for the planet.
+March 30, 2023, Meeting the stars of the R-Universe: Investigating our brain with the magic of the R-universe.
+February 28, 2023, Learning, helping and sharing. ThinkR's method for creating an ever-growing and friendly R community.
+November 23, 2022, Meeting the stars of the R universe: R community, exchange and learn.
+We highlighted and explored different open software teams and projects from around the world, from academia, government and industry; the work they do, their processes and users. We learned about the needs and challenges they face and got valuable feedback on R-Universe.
 
-Destacamos y exploramos diferentes equipos y proyectos de todo el mundo, tanto de academia, como de gobierno e industria;el trabajo que realizan, sus procesos y usuarios. Aprendimos sobre las necesidades y desafíos que enfrentan y obtuvimos valiosa retroalimentación sobre R-Universe. 
+We also generated a diverse and multilingual set of R-Universe use cases, which can be inspirational for other developers and user groups.
 
-Yo tuve ademas, la posibilidad de trabajar con Jeroen, Alejandra, Lucio y Steffi en un proyecto que me permitio aprender mucho sobre la comunidad de rOpenSci y sobre detalles muy interesantes de R-Universe.
+I also had the opportunity to work with Jeroen, Alejandra, Lucio, and Steffi on a project that allowed me to learn a lot about the rOpenSci community and about very interesting details of R-Universe.
 
-Espero que en algun momento podamos retomar este tipo de entrevistas sobre mas personas que son parte de rOpenSci.
+I want to thank all the interviewees for their time and for sharing their excitement about their work with us. 
+
+I hope that at some point, we can resume this kind of interview with more people who are part of rOpenSci.
