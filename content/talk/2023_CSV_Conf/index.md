@@ -23,7 +23,7 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides english
-  url: https://bit.ly/csvconf2023
+  url: https://csvconfv7.netlify.app/
 - icon: youtube
   icon_pack: fab
   name: video 
