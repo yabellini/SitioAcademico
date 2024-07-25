@@ -34,21 +34,14 @@ We also have an editorial team that proposes topics and potential authors and de
 
 Since I started, I have written [33 blog posts](https://ropensci.org/author/yanina-bellini-saibene/) with 37 different co-authors and edited 22. [Fifteen blog posts I wrote are multilingual](https://ropensci.org/es/author/yanina-bellini-saibene/). Some of these articles are published on other websites, such as the CSCCE and SSI. The R Weekly podcast has mentioned blog posts related to R package development.
 
-My articles are about the projects I lead such as the [champions program](https://ropensci.org/tags/champions-program/) and \[translations\](<https://ropensci.org/tags/multilingual/>), about specific community managers activities such as social media news and \[interviews to our members\](/blog/2024-06-30-ropensci-2years-r-universe-en/) and tools for those who are part of our community related to \[community management\](<https://ropensci.org/tags/community-manager-tools/>) and \[R package development\](<https://ropensci.org/tags/package-development/>). 
+My articles are about the projects I lead such as the [champions program](https://ropensci.org/tags/champions-program/) and [translations](https://ropensci.org/tags/multilingual>), about specific community managers activities such as social media news and [interviews to our members](/blog/2024-06-30-ropensci-2years-r-universe-en/) and tools for those who are part of our community related to [community management](https://ropensci.org/tags/community-manager-tools/) and [R package development](https://ropensci.org/tags/package-development/).
 
-  
+rOpenSci also has a newsletter. If you are subscript and enjoy the content, [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/) is the main responsible for curating the content, publishing, and making sure our newsletter is in your inbox every month.
 
-rOpenSci also has a newsletter. If you are subscript and enjoy the content, \[Maëlle Salmon\](<https://ropensci.org/author/ma%C3%ABlle-salmon/>) is the main responsible for curating the content, publishing, and making sure our newsletter is in your inbox every month. 
+The rest of the staff contributes to the HQ section, where we mention the most important news of the month about the projects we lead, along with content suggestions for the different sections of the newsletter. Since I joined rOpenSci, I have contributed to 26 [newsletters](https://ropensci.org/tags/newsletter/).
 
-  
-
-The rest of the staff contributes to the HQ section, where we mention the most important news of the month about the projects we lead, along with content suggestions for the different sections of the newsletter. Since I joined rOpenSci, I have contributed to 26 \[newsletters\](<https://ropensci.org/tags/newsletter/>). 
-
-  
 
 ## Books, guides, and tip sheets.
-
-  
 
 One of my favorite things about rOpenSci is the culture of openness it preaches and practices.  We document our processes and share them openly in books, guides, or tip sheets for other people and organizations.
 
