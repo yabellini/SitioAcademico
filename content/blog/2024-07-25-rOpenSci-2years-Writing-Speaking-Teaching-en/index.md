@@ -58,7 +58,7 @@ Since I became rOpenSci Community Manager, I have delivered **43 talks** related
 
 Six of these talks have been keynotes for [Women in Data Science La Plata 2022](), [Notebook Now!](), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](), [AGRANDA 2022]() and [R Day Colombia 2023]().
 
-I participated in four podcasts: [Embedded], [Data Umbrella], [Code4] and [Sustain], speaking about the language barrier, volunteer participation, and global communities. 
+I participated in four podcasts: [Embedded](/talk/2023_embedded_podcast/), [Data Umbrella](/talk/2023_dataumbrella/), [Code4Thought](/talk/2024_code_4_thought_podcast/) and [Sustain](/talk/2024_sustain_podcast/), speaking about the language barrier, volunteer participation, and global communities. 
 
 I also present at events and conferences such as CSV,Conf,v7, LatinR 2022 and 2023, FOSSDEM 2024, CarpentryCon 2022, SER 2023 and 2024, and Toronto Data Workshop.
 
