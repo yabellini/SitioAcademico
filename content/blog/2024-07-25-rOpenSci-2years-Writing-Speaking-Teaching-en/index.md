@@ -56,7 +56,7 @@ I enjoy giving talks, explaining what we do, and sharing what I have learned, so
 
 Since I became rOpenSci Community Manager, I have delivered **43 talks** related to or representing rOpenSci. [I shared the video and slides when available.](/talk/) Half of the talks were in Spanish, the other half in English.
 
-Six of these talks have been keynotes for [Women in Data Science La Plata 2022](), [Notebook Now!](), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](), [AGRANDA 2022]() and [R Day Colombia 2023]().
+Six of these talks have been keynotes for [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) and [R Day Colombia 2023](/talk/2023_rday_colombia/).
 
 I participated in four podcasts: [Embedded](/talk/2023_embedded_podcast/), [Data Umbrella](/talk/2023_dataumbrella/), [Code4Thought](/talk/2024_code_4_thought_podcast/) and [Sustain](/talk/2024_sustain_podcast/), speaking about the language barrier, volunteer participation, and global communities. 
 
@@ -68,7 +68,7 @@ I got invitation to share about rOpenSci with working groups, committees, and bo
 
 Teaching is one of my favorite activities. As part of the Champions Program Project, I design and then deliver training on mentoring, R package development best practices, and community management skills.
 
-I have had the chance to teach and assist in 22 workshops for rOpensci with talented members of our community: Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, and CSCCE staff. OLS invited me to one of their training sessions to share about testing and coding styles. 
+I have had the chance to teach and assist in 22 workshops for rOpensci with talented members of our community: Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, and CSCCE staff. OLS invited me to one of their training sessions to share about [testing and coding styles](/talk/2023_ols/). 
 
 
 ## Conclusion
