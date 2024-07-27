@@ -13,9 +13,10 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="">}}
+{{< figure src="featured.jpg" alt="A woman writing in withe paper">}}
 
->
+> Foto de <a href="https://unsplash.com/es/@ana_tavares?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ana Tavares</a> en <a href="https://unsplash.com/es/fotos/mujer-escribiendo-en-papel-blanco-VDwINWBdX0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 One of the core competencies of a Community Manager is Communication. The third "project" I will tell you about is not a project per se but a series of activities related to communication and outreach. 
 
@@ -28,6 +29,8 @@ Blog posts are one of the most important forms of content creation and curation 
 rOpenSci has a [guide for authors and editors](https://blogguide.ropensci.org/) that outlines all the considerations and steps for writing an article for our blog. This guide is shared with everyone who will write for our blog.
 
 We also have an editorial team that proposes topics and potential authors and decides on the proposals we receive. [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), [Mark Padgham](https://ropensci.org/author/mark-padgham/) and I are part of that team. We discuss these issues in a closed Slack channel. We have a GitHub project to keep track of all the articles, their status, authors, potential publish dates, and the people who will review them. It is a very useful tool for organizing the work. Steffi also does editorial work on each article, and the rest of the team edits when needed. I always edit the ones in Spanish.
+
+{{< figure src="blogpost.png" alt="rOpenSci blog post website featuring one of the Yani's blog post">}}
 
 Since I started, I have written [**33 blog posts**](https://ropensci.org/author/yanina-bellini-saibene/) with **37 different co-authors** and edited **22**. [**15 blog posts** I wrote are **multilingual**](https://ropensci.org/es/author/yanina-bellini-saibene/). Some of these articles are published on other websites, such as the CSCCE and SSI. The [R Weekly](https://podcastindex.social/@rpodcast/112088010359984654) podcast has [mentioned blog posts](https://podcastindex.social/@rpodcast/112009437310096805) related to R package development.
 
@@ -55,6 +58,8 @@ Some community managers are the visible faces of the community, so part of our j
 I enjoy giving talks, explaining what we do, and sharing what I have learned, so I will generally say yes to an invitation to give a talk. Especially if the event is online, it is very easy for me to participate. I also send proposals to events and conferences. 
 
 Since I became rOpenSci Community Manager, I have delivered **43 talks** related to or representing rOpenSci. [I shared the video and slides when available.](/talk/) Half of the talks were in Spanish, the other half in English.
+
+{{< figure src="charlas.jpg" alt="Yani's pictures giveing talks and differents Yani's talk flyers">}}
 
 Six of these talks have been keynotes for [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) and [R Day Colombia 2023](/talk/2023_rday_colombia/).
 
