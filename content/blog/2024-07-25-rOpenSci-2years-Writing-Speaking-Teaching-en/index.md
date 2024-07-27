@@ -71,7 +71,7 @@ I got invitation to share about rOpenSci with working groups, committees, and bo
 
 ## Training
 
-Teaching is one of my favorite activities. As part of the Champions Program Project, I design and then deliver [training on mentoring](https://ropensci-training.github.io/ropensci-mentors/), R package development best practices, and [community management skills]().
+Teaching is one of my favorite activities. As part of the Champions Program Project, I design and then deliver [training on mentoring](https://ropensci-training.github.io/ropensci-mentors/), [R package development best practices](https://paocorrales.github.io/git-developing-software-together/), and [community management skills](https://osschampionsprogram.netlify.app/#/title-slide).
 
 I have had the chance to teach and assist in 22 workshops for rOpensci with talented members of our community: [Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, and CSCCE staff](/blog/2023/08/04/champions-program-training/). Open Life Science invited me to one of their training sessions to share about [testing and coding styles](/talk/2023_ols/). 
 
