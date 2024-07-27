@@ -2,7 +2,7 @@
 title: "Project 3 - Two Years of Writing, Speaking, and Teaching with the rOpenSci Community"
 author: Yanina Bellini Saibene
 summary: "One of the core competencies of a Community Manager is Communication. The third 'project' I will tell you about is not a project per se but a series of activities related to communication and outreach." 
-date: '2024-07-25'
+date: '2024-07-28'
 categories:
   - Community
   - 100DaysToOffload
