@@ -18,7 +18,7 @@ tags:
 > Foto de <a href="https://unsplash.com/es/@ana_tavares?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ana Tavares</a> en <a href="https://unsplash.com/es/fotos/mujer-escribiendo-en-papel-blanco-VDwINWBdX0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
-One of the core competencies of a Community Manager is Communication. The third "project" I will tell you about is not a project per se but a series of activities related to communication and outreach. 
+One of the core competencies of a Community Manager is **Communication**. The third "project" I will tell you about is not a project per se but a series of activities related to communication and outreach. 
 
 The tasks involve content creation and curation, editorial, speaking, and presenting to share and discuss the community's work, content, and outcomes in front of diverse audiences in a variety of settings and strategic engagement with external audiences to disseminate knowledge, communicate messages, and deliver projects and products.
 
@@ -61,19 +61,19 @@ Since I became rOpenSci Community Manager, I have delivered **43 talks** related
 
 {{< figure src="charlas.jpg" alt="Yani's pictures giveing talks and differents Yani's talk flyers">}}
 
-Six of these talks have been keynotes for [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) and [R Day Colombia 2023](/talk/2023_rday_colombia/).
+**Six** of these talks have been **keynotes** for [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) and [R Day Colombia 2023](/talk/2023_rday_colombia/).
 
 I participated in four podcasts: [Embedded](/talk/2023_embedded_podcast/), [Data Umbrella](/talk/2023_dataumbrella/), [Code4Thought](/talk/2024_code_4_thought_podcast/) and [Sustain](/talk/2024_sustain_podcast/), speaking about the language barrier, volunteer participation, and global communities. 
 
-I also present at events and conferences such as CSV,Conf,v7, LatinR 2022 and 2023, FOSSDEM 2024, CarpentryCon 2022, SER 2023 and 2024, and Toronto Data Workshop.
+I also present at events and conferences such as [CSV,Conf,v7](/talk/2023_csv_conf/), [LatinR 2022](/talk/2022_latinr_teachandgetpaid/) and [2023](/talk/2023_latinr_ropensci/), [FOSSDEM 2024](/talk/2024_devroom/), [CarpentryCon 2022](/talk/2022_lightning_talk_carpentrycon/), SER [2022](/talk/2022_ser_brasil/) and [2024](/talk/2024_ser_brasil/), and [Toronto Data Workshop](/talk/2023_torontoworkshopreproducibility/).
 
-I got invitation to share about rOpenSci with working groups, committees, and boards of directors like Bioconductor, Instituto Nacional de Tecnologia Agropecuaria, Euro-BioImaging, and Tampa Bay Estuary. I also participated as a speaker, panelist, or moderator in other community events, like CS&S, CSCCE, The Carpentries, GitHub, Open Life Science, R-Ladies Chapters, and R User Groups. 
+I got invitation to share about rOpenSci with working groups, committees, and boards of directors like [Bioconductor](/talk/2023_bioconductor/), [Instituto Nacional de Tecnologia Agropecuaria](/talk/2022_ropensci_pae_inta/), [Euro-BioImaging](/talk/2023_eurobioimaging/), and [Tampa Bay Estuary Program ](/talk/2023_tbep/). I also participated as a speaker, panelist, or moderator in other community events, like [CS&S](/talk/2022_css/), [CSCCE](/talk/2022_cscce_cc_nov/), [The Carpentries](/talk/2023-10-30-thecarpentries25/), [GitHub](/talk/2022_octogatos/), [R-Ladies Chapters](/talk/2023_r-ladiesmexico/), and [R User Groups](/talk/2022_ropensci_champion_abuja/).
 
 ## Training
 
 Teaching is one of my favorite activities. As part of the Champions Program Project, I design and then deliver training on mentoring, R package development best practices, and community management skills.
 
-I have had the chance to teach and assist in 22 workshops for rOpensci with talented members of our community: Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, and CSCCE staff. OLS invited me to one of their training sessions to share about [testing and coding styles](/talk/2023_ols/). 
+I have had the chance to teach and assist in 22 workshops for rOpensci with talented members of our community: Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, and CSCCE staff. Open Life Science invited me to one of their training sessions to share about [testing and coding styles](/talk/2023_ols/). 
 
 
 ## Conclusion
