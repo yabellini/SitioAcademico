@@ -59,7 +59,7 @@ I enjoy giving talks, explaining what we do, and sharing what I have learned, so
 
 Since I became rOpenSci Community Manager, I have delivered **43 talks** related to or representing rOpenSci. [I shared the video and slides when available.](/talk/) Half of the talks were in Spanish, the other half in English.
 
-{{< figure src="charlas.jpg" alt="Yani's pictures giveing talks and differents Yani's talk flyers">}}
+{{< figure src="charlas.jpg" alt="Yani's pictures giving talks and differents Yani's talk flyers">}}
 
 **Six** of these talks have been **keynotes** for [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) and [R Day Colombia 2023](/talk/2023_rday_colombia/).
 
