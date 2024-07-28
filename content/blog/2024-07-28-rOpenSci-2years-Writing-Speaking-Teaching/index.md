@@ -1,7 +1,7 @@
 ---
-title: "Project 3 - Two Years of Writing, Speaking, and Teaching with the rOpenSci Community"
+title: "Proyecto 3 - Dos  años de escribir, dar charlar y enseñar con la comunidad de rOpenSci Community"
 author: Yanina Bellini Saibene
-summary: "One of the core competencies of a Community Manager is Communication. The third 'project' I will tell you about is not a project per se but a series of activities related to communication and outreach." 
+summary: "Una de las competencias básicas de un Community Manager es la comunicación. El tercer «proyecto» del que les hablaré no es un proyecto en sí, sino una serie de actividades relacionadas con la comunicación y la divulgación." 
 date: '2024-07-28'
 categories:
   - Community
@@ -13,73 +13,73 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="A woman writing in withe paper">}}
+{{< figure src="featured.jpg" alt="Una mujer escribiendo en un papel">}}
 
 > Foto de <a href="https://unsplash.com/es/@ana_tavares?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ana Tavares</a> en <a href="https://unsplash.com/es/fotos/mujer-escribiendo-en-papel-blanco-VDwINWBdX0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
-One of the core competencies of a Community Manager is **Communication**. The third "project" I will tell you about is not a project per se but a series of activities related to communication and outreach. 
+Una de las competencias básicas de un Community Manager es la **Comunicación**. El tercer «proyecto» del que les hablaré no es un proyecto en sí, sino una serie de actividades relacionadas con la comunicación y la divulgación. 
 
-The tasks involve content creation and curation, editorial, speaking, and presenting to share and discuss the community's work, content, and outcomes in front of diverse audiences in a variety of settings and strategic engagement with external audiences to disseminate knowledge, communicate messages, and deliver projects and products.
+Las tareas incluyen la creación y selección de contenidos, la edición de escritos y la presentación para compartir y debatir el trabajo, los contenidos y los resultados de la comunidad ante públicos diversos en distintos entornos, así como relacionarse estratégicamente con audiencia externa para difundir conocimientos, comunicar nuestros mensajes y hacer llegar proyectos y productos.
 
 ## Blog post
 
-Blog posts are one of the most important forms of content creation and curation within communication activities. My tasks include *writing articles* for the [rOpenSci blog](https://ropensci.org/blog/) and *finding, inviting, and supporting* community members to write for our blog.
+Los artículos de blog son una de las formas más importantes de creación y curación de contenidos dentro de las actividades de comunicación. Mis tareas incluyen *escribir artículos* para el [blog de rOpenSci](https://ropensci.org/blog/) y *encontrar, invitar y apoyar* a participantes de nuestra comunidad para que escriban en nuestro blog.
 
-rOpenSci has a [guide for authors and editors](https://blogguide.ropensci.org/) that outlines all the considerations and steps for writing an article for our blog. This guide is shared with everyone who will write for our blog.
+rOpenSci tiene una [guia para autores y editores](https://blogguide.ropensci.org/) que resume todas las consideraciones y pasos a seguir para escribir un artículo para nuestro blog. Esta guía se comparte con todas las personas que van a escribir para nosotros.
 
-We also have an editorial team that proposes topics and potential authors and decides on the proposals we receive. [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), [Mark Padgham](https://ropensci.org/author/mark-padgham/) and I are part of that team. We discuss these issues in a closed Slack channel. We have a GitHub project to keep track of all the articles, their status, authors, potential publish dates, and the people who will review them. It is a very useful tool for organizing the work. Steffi also does editorial work on each article, and the rest of the team edits when needed. I always edit the ones in Spanish.
+También tenemos un equipo editorial que propone temas y autores potenciales y decide sobre las propuestas que recibimos. [Steffi LaZerte](https://ropensci.org/author/steffi-lazerte/), [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/), [Mark Padgham](https://ropensci.org/author/mark-padgham/) y yo formamos parte de ese equipo. Discutimos estos temas en un canal cerrado de Slack. Tenemos un proyecto en GitHub para hacer un seguimiento de todos los artículos, su estado, los autores, las posibles fechas de publicación y las personas que los revisarán. Es una herramienta muy útil para organizar el trabajo. Steffi también hace el trabajo editorial de cada artículo, y el resto del equipo lo edita cuando es necesario. Yo siempre edito los que están en español.
 
-{{< figure src="blogpost.png" alt="rOpenSci blog post website featuring one of the Yani's blog post">}}
+{{< figure src="blogpost.png" alt="Sitio web del blog de rOpenSci resaltando un articulo de Yani">}}
 
-Since I started, I have written [**33 blog posts**](https://ropensci.org/author/yanina-bellini-saibene/) with **37 different co-authors** and edited **22**. [**15 blog posts** I wrote are **multilingual**](https://ropensci.org/es/author/yanina-bellini-saibene/). Some of these articles are published on other websites, such as the CSCCE and SSI. The [R Weekly](https://podcastindex.social/@rpodcast/112088010359984654) podcast has [mentioned blog posts](https://podcastindex.social/@rpodcast/112009437310096805) related to R package development.
+Desde que empecé, he escrito [**33 articulos para el blog**](https://ropensci.org/author/yanina-bellini-saibene/) con **37 coautores diferentes** y he editado **22**.  [**15 de esos artículos** que he escrito son **multilingües**](https://ropensci.org/es/author/yanina-bellini-saibene/). Algunos de estos artículos están publicados en otros sitios web, como el CSCCE y el SSI. El podcast [R Weekly](https://podcastindex.social/@rpodcast/112088010359984654) ha [mencionado algunos de los articulos](https://podcastindex.social/@rpodcast/112009437310096805) relacionadas con el desarrollo de paquetes de R.
 
-My articles are about the projects I lead such as the [champions program](https://ropensci.org/tags/champions-program/) and [translations](https://ropensci.org/tags/multilingual>), about specific community managers activities such as social media news and [interviews to our members](/blog/2024-06-30-ropensci-2years-r-universe-en/) and tools for those who are part of our community related to [community management](https://ropensci.org/tags/community-manager-tools/) and [R package development](https://ropensci.org/tags/package-development/).
+Escribo sobre los proyectos que lidero, como el [programa de campeones y campeonas](https://ropensci.org/tags/champions-program/) y [las traducciones](https://ropensci.org/tags/multilingual>), sobre actividades especificas de community manager, como noticias sobre redes sociales y [entrevistas a personas que son parte de rOpenSci](/blog/2024-06-30-ropensci-2years-r-universe-en/) y herramientas utiles para rOpenSci relacionadas a [gestion de comunidades](https://ropensci.org/tags/community-manager-tools/) y [desarrollo de paquetes de R](https://ropensci.org/tags/package-development/).
 
-rOpenSci also has a [newsletter](https://ropensci.org/tags/newsletter/). If you are subscript and enjoy the content, [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/) is the main responsible for curating the content, publishing, and making sure our newsletter is in your inbox every month.
+rOpenSci tambien tiene un  [newsletter](https://ropensci.org/tags/newsletter/). Si estas suscripto y disfrutas el contenido, [Maëlle Salmon](https://ropensci.org/author/ma%C3%ABlle-salmon/) es la principal responsable de seleccionar el contenido, publicarlo y asegurarse que cada mes recibas el newsletter en tu casilla de correo.
 
-The rest of the staff contributes to the HQ section, where we mention the most important news of the month about the projects we lead, along with content suggestions for the different sections of the newsletter. Since I joined rOpenSci, I have contributed to **26 newsletters**.
-
-
-## Books, guides, and tip sheets.
-
-One of my favorite things about rOpenSci is the culture of openness it preaches and practices. We document our processes and share them openly in books, guides, or tip sheets for other people and organizations.
-
-In these two years, I have co-author guides for the champions program project in a [Play Book](https://ropenscilabs.github.io/champions-program-playbook/) on how to organize and run the program, [the Mentor Guidelines](https://ropensci-org.github.io/champions-mentor-guidelines/) for the people that will mentoring our champions, and a [translation guide](https://translationguide.ropensci.org/) for our multilingual publishing project.
-
-I also wrote case studies, quick and tip guides about [how to participate in rOpenSci](https://ropensci.org/blog/2022/09/13/contributing-ropensci/), [how to start using Mastodon](<https://zenodo.org/records/10019853>) - wrote with my friend Alycia Crall - [Virtual event accessibility guiding questions](https://zenodo.org/records/8043909) and [Using GitHub to plan community calls for rOpenSci](https://zenodo.org/records/12117430).
-
-I contribute by updating or adding new content to existing guides and books, such as the [rOpenSci Community Contributing Guide](https://contributing.ropensci.org/) or the [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/).
-
-## Talks
-
-Some community managers are the visible faces of the community, so part of our job is to give talks in different places and for different audiences.
-
-I enjoy giving talks, explaining what we do, and sharing what I have learned, so I will generally say yes to an invitation to give a talk. Especially if the event is online, it is very easy for me to participate. I also send proposals to events and conferences. 
-
-Since I became rOpenSci Community Manager, I have delivered **43 talks** related to or representing rOpenSci. [I shared the video and slides when available.](/talk/) Half of the talks were in Spanish, the other half in English.
-
-{{< figure src="charlas.jpg" alt="Yani's pictures giveing talks and differents Yani's talk flyers">}}
-
-**Six** of these talks have been **keynotes** for [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) and [R Day Colombia 2023](/talk/2023_rday_colombia/).
-
-I participated in four podcasts: [Embedded](/talk/2023_embedded_podcast/), [Data Umbrella](/talk/2023_dataumbrella/), [Code4Thought](/talk/2024_code_4_thought_podcast/) and [Sustain](/talk/2024_sustain_podcast/), speaking about the language barrier, volunteer participation, and global communities. 
-
-I also present at events and conferences such as [CSV,Conf,v7](/talk/2023_csv_conf/), [LatinR 2022](/talk/2022_latinr_teachandgetpaid/) and [2023](/talk/2023_latinr_ropensci/), [FOSSDEM 2024](/talk/2024_devroom/), [CarpentryCon 2022](/talk/2022_lightning_talk_carpentrycon/), SER [2022](/talk/2022_ser_brasil/) and [2024](/talk/2024_ser_brasil/), and [Toronto Data Workshop](/talk/2023_torontoworkshopreproducibility/).
-
-I got invitation to share about rOpenSci with working groups, committees, and boards of directors like [Bioconductor](/talk/2023_bioconductor/), [Instituto Nacional de Tecnologia Agropecuaria](/talk/2022_ropensci_pae_inta/), [Euro-BioImaging](/talk/2023_eurobioimaging/), and [Tampa Bay Estuary Program ](/talk/2023_tbep/). I also participated as a speaker, panelist, or moderator in other community events, like [CS&S](/talk/2022_css/), [CSCCE](/talk/2022_cscce_cc_nov/), [The Carpentries](/talk/2023-10-30-thecarpentries25/), [GitHub](/talk/2022_octogatos/), [R-Ladies Chapters](/talk/2023_r-ladiesmexico/), and [R User Groups](/talk/2022_ropensci_champion_abuja/).
-
-## Training
-
-Teaching is one of my favorite activities. As part of the Champions Program Project, I design and then deliver [training on mentoring](https://ropensci-training.github.io/ropensci-mentors/), [R package development best practices](https://paocorrales.github.io/git-developing-software-together/), and [community management skills](https://osschampionsprogram.netlify.app/#/title-slide).
-
-I have had the chance to teach and assist in 22 workshops for rOpensci with talented members of our community: [Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, and CSCCE staff](/blog/2023/08/04/champions-program-training/). Open Life Science invited me to one of their training sessions to share about [testing and coding styles](/talk/2023_ols/). 
+El resto del personal contribuye a la sección HQ, donde mencionamos las noticias más importantes del mes sobre los proyectos que dirigimos, junto con sugerencias de contenido para las distintas secciones del boletín. Desde que me uní a rOpenSci, he contribuido a **26 boletines**.
 
 
-## Conclusion
+## Libors, guias y hojas de trucos.
 
-Writing, speaking, and teaching are important tasks for a community manager. Besides spreading news about the community, reaching new audiences, and being able to teach about the topics that interest the rOpenSci community, this activity allows us to know and learn more about our members, their activities, and how we can help them and other communities and collaboration possibilities.
+Una de las cosas que más me gustan de rOpenSci es la cultura de apertura que predica y practica. Documentamos nuestros procesos y los compartimos abiertamente en libros, guías u hojas de consejos para otras personas y organizaciones.
 
-My most significant change over the past two years has been feeling more confident about writing and giving a talk in English. I'm very proud that rOpenSci now offers multilingual content on its various communications channels, such as its webpage and Vimeo channel. Bring more people to the community by supporting them to write quality and useful content for rOpenSci and the R Community, in their native language, is one of the things that I have been enjoying the most.
+En estos dos años, he sido coautora de dos libros para el programa de campeones: un [Play Book](https://ropenscilabs.github.io/champions-program-playbook/) sobre cómo organizar y dirigir el programa y la [guia para mentores y mentoras](https://ropensci-org.github.io/champions-mentor-guidelines/) para las personas que tutelarán a nuestros campeones y campeonas.  Tambien co escribi una [guía de localizacion y traducción](https://translationguide.ropensci.org/) para nuestro proyecto de publicación multilingüe.
 
-I thank [my co-workers at rOpenSci](https://ropensci.org/about/#team) for their support, for reviewing my texts, for listening to my talks, and giving me feedback to improve. I'm grateful to my friends [Greg Wilson](https://third-bit.com) and [Athanasia Mo Mowinckel](https://drmowinckels.io) and my sister [Alejandra Bellini](https://www.instagram.com/alejandrabellini/), who are always willing to help me improve my texts and my talks and introduce me to people to share about what we are doing at rOpenSci.
+También escribí estudios de casos, guías rápidas y de consejos sobre [cómo participar en rOpenSci](https://ropensci.org/blog/2022/09/13/contributing-ropensci/), [cómo empezar a usar Mastodon](<https://zenodo.org/records/10019853>) - escrito con mi amiga Alycia Crall - [Preguntas orientativas sobre accesibilidad a eventos virtuales](https://zenodo.org/records/8043909) y [Uso de GitHub para planificar convocatorias comunitarias para rOpenSci](https://zenodo.org/records/12117430).
+
+Contribuyo actualizando o añadiendo nuevos contenidos a las guías y libros existentes, como la [rOpenSci Community Contributing Guide](https://contributing.ropensci.org/) o la [Paquetes rOpenSci: Desarrollo,  Mantanimiento y Revision por pares](https://devguide.ropensci.org/)..
+
+## Charlas
+
+Algunos community managers somos las caras visibles de nuestra comunidad, así que parte de nuestro trabajo consiste en dar charlas en distintos lugares y para distintos públicos.
+
+Me gusta dar charlas, explicar lo que hacemos y compartir lo que he aprendido, así que generalmente digo que sí a una invitación para dar una charla. Sobre todo si el evento es en línea, me resulta muy fácil participar. También envío propuestas de charlas a eventos y conferencias. 
+
+Desde que me convertí en Community Manager de rOpenSci, he dado **43 charlas** relacionadas con rOpenSci o en su representación [comparto el vídeo y las diapositivas cuando estan disponibles](/talk/). La mitad de las charlas fueron en español, la otra mitad en inglés.
+
+{{< figure src="charlas.jpg" alt="Fotos de Yani dando charlas y de carteles anunciando alguna de sus charlas.">}}
+
+**Seis** de estas charlas fueron  **keynotes** para [Women in Data Science La Plata 2022](/talk/2022_wisd_la_plata/), [Notebook Now!](/talk/2022_notebooksnow_agu/), [CarpentryCon 2022](), [Reunión Argentina de Agrometerología 2022](/talk/2022_keynote_rada/), [AGRANDA 2022](/talk/2022_agranda/) y [R Day Colombia 2023](/talk/2023_rday_colombia/).
+
+Participe en cuatro podcasts: [Embedded](/talk/2023_embedded_podcast/), [Data Umbrella](/talk/2023_dataumbrella/), [Code4Thought](/talk/2024_code_4_thought_podcast/) y [Sustain](/talk/2024_sustain_podcast/), hablando sobre la barrera que puede ser el lenguaje, la participacion voluntaria y las comunidades globales.
+
+Tambien presente en eventos y conferencias como [CSV,Conf,v7](/talk/2023_csv_conf/), [LatinR 2022](/talk/2022_latinr_teachandgetpaid/) y [2023](/talk/2023_latinr_ropensci/), [FOSSDEM 2024](/talk/2024_devroom/), [CarpentryCon 2022](/talk/2022_lightning_talk_carpentrycon/), SER [2022](/talk/2022_ser_brasil/) y [2024](/talk/2024_ser_brasil/), y [Toronto Data Workshop](/talk/2023_torontoworkshopreproducibility/).
+
+Algunas invitaciones son para compartir lo que hacemos en rOpenSci en grupos de trabajo, comites y directorios como [Bioconductor](/talk/2023_bioconductor/), [Instituto Nacional de Tecnologia Agropecuaria](/talk/2022_ropensci_pae_inta/), [Euro-BioImaging](/talk/2023_eurobioimaging/), y [Tampa Bay Estuary Program ](/talk/2023_tbep/). Tambien participe como disertante, panelista o moderadora en eventos de otras comunidades como [CS&S](/talk/2022_css/), [CSCCE](/talk/2022_cscce_cc_nov/), [The Carpentries](/talk/2023-10-30-thecarpentries25/), [GitHub](/talk/2022_octogatos/), [R-Ladies Chapters](/talk/2023_r-ladiesmexico/), and [R User Groups](/talk/2022_ropensci_champion_abuja/).
+
+## Enseñanza
+
+Enseñar es una de mis actividades favoritas. Como parte del proyecto _Champions Program_, diseño y luego imparto [formación sobre tutoría](https://ropensci-training.github.io/ropensci-mentors/), [mejores prácticas de desarrollo de paquetes R](https://paocorrales.github.io/git-developing-software-together/) y [habilidades de gestión de comunidades](https://osschampionsprogram.netlify.app/#/title-slide).
+
+Tuve la oportunidad de enseñar y ser asistente en **22 talleres** para rOpensci con personas talentosas de nuestra comunidad: [Maelle Salmon, Paola Corrales, Mauro Lepore, Heather Turner, y personal del CSCCE](/blog/2023/08/04/champions-program-training/). Open Life Science me invitó a una de sus sesiones de formación para hablar sobre [_testing_ y estilos de codificación](/talk/2023_ols/). 
+
+
+## Conclusión
+
+Escribir, hablar y enseñar son tareas importantes para una _community manager_. Además de difundir novedades sobre la comunidad, llegar a nuevos públicos y poder enseñar sobre los temas que interesan a la comunidad rOpenSci, esta actividad nos permite conocer y aprender más sobre las personas que son parte de la comunidad, sus actividades y cómo podemos ayudarles, así como sobre otras organizaciones y posibilidades de colaboración.
+
+Mi cambio más significativo en los dos últimos años ha sido sentirme más segura a la hora de escribir y dar una charla en inglés. Estoy muy orgullosa de que rOpenSci ofrezca ahora contenido multilingüe en sus diversos canales de comunicación, como su página web y su canal de Vimeo. Traer más gente a la comunidad apoyándoles para que escriban contenido útil y de calidad para rOpenSci y la Comunidad R, en su lengua materna, es una de las cosas que más he disfrutando.
+
+Doy las gracias a [mis compañeros de trabajo en rOpenSci](https://ropensci.org/about/#team) por su apoyo, por revisar mis textos, por escuchar mis charlas y por darme su opinión para mejorar. Doy las gracias a mis amigos [Greg Wilson](https://third-bit.com) y [Athanasia Mo Mowinckel](https://drmowinckels.io) y a mi hermana [Alejandra Bellini](https://www.instagram.com/alejandrabellini/), que siempre están dispuestos a ayudarme a mejorar mis textos y mis charlas y a presentarme gente con la que compartir lo que estamos haciendo en rOpenSci.
