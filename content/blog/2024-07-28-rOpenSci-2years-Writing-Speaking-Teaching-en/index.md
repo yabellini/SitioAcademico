@@ -15,7 +15,7 @@ tags:
 
 {{< figure src="featured.jpg" alt="A woman writing in withe paper">}}
 
-> Foto de <a href="https://unsplash.com/es/@ana_tavares?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ana Tavares</a> en <a href="https://unsplash.com/es/fotos/mujer-escribiendo-en-papel-blanco-VDwINWBdX0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+> Picture by <a href="https://unsplash.com/es/@ana_tavares?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ana Tavares</a> on <a href="https://unsplash.com/es/fotos/mujer-escribiendo-en-papel-blanco-VDwINWBdX0Y?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
 One of the core competencies of a Community Manager is **Communication**. The third "project" I will tell you about is not a project per se but a series of activities related to communication and outreach. 
