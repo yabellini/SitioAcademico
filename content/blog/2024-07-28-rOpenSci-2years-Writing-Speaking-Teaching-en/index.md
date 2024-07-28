@@ -45,7 +45,7 @@ The rest of the staff contributes to the HQ section, where we mention the most i
 
 One of my favorite things about rOpenSci is the culture of openness it preaches and practices. We document our processes and share them openly in books, guides, or tip sheets for other people and organizations.
 
-In these two years, I have co-author guides for the champions program project in a [Play Book](https://ropenscilabs.github.io/champions-program-playbook/) on how to organize and run the program, [the Mentor Guidelines](https://ropensci-org.github.io/champions-mentor-guidelines/) for the people that will mentoring our champions, and a [translation guide](https://translationguide.ropensci.org/) for our multilingual publishing project.
+In these two years, I have co-authored two books for the champions program: a [Play Book](https://ropenscilabs.github.io/champions-program-playbook/) on how to organize and run the program and the [mentor guidelines](https://ropensci-org.github.io/champions-mentor-guidelines/) for the people who will mentor our champions.  I also co-wrote a [localization and translation guide](https://translationguide.ropensci.org/) for our multilingual publishing project.
 
 I also wrote case studies, quick and tip guides about [how to participate in rOpenSci](https://ropensci.org/blog/2022/09/13/contributing-ropensci/), [how to start using Mastodon](<https://zenodo.org/records/10019853>) - wrote with my friend Alycia Crall - [Virtual event accessibility guiding questions](https://zenodo.org/records/8043909) and [Using GitHub to plan community calls for rOpenSci](https://zenodo.org/records/12117430).
 
