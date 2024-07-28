@@ -41,7 +41,7 @@ rOpenSci tambien tiene un  [newsletter](https://ropensci.org/tags/newsletter/). 
 El resto del personal contribuye a la sección HQ, donde mencionamos las noticias más importantes del mes sobre los proyectos que dirigimos, junto con sugerencias de contenido para las distintas secciones del boletín. Desde que me uní a rOpenSci, he contribuido a **26 boletines**.
 
 
-## Libors, guias y hojas de trucos.
+## Libros, guias y hojas de trucos.
 
 Una de las cosas que más me gustan de rOpenSci es la cultura de apertura que predica y practica. Documentamos nuestros procesos y los compartimos abiertamente en libros, guías u hojas de consejos para otras personas y organizaciones.
 
