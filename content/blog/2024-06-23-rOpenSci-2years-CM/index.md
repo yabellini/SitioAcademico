@@ -21,8 +21,8 @@ Este 15 de junio se cumplieron dos años desde que me uní al staff de rOpenSci 
 
 El objetivo es compartir de qué va el trabajo de una Community Manager con ejemplos concretos del tipo de actividades que realicé desde junio del 2022 hasta junio del 2024, este es el listado tentativo de temas:
 
-1. Codigo de Conducta de la comunidad.
-2. Serie de entrevistas "Las estrellas del Universo R".
+1. [Codigo de Conducta de la comunidad](/blog/2024-06-28-ropensci-2years-coc/).
+2. [Serie de entrevistas "Las estrellas del Universo R"](/blog/2024-06-30-ropensci-2years-r-universe/).
 3. Proyecto de publicacion multilenguaje.
 4. Programa de Campeones.
 5. Estrategia de comunicacion.
@@ -31,7 +31,7 @@ El objetivo es compartir de qué va el trabajo de una Community Manager con ejem
 8. Eventos para la comunidad.
 9. Escribir propuestas para financiamiento.
 10. Analisis de los datos de la comunidad.
-11. Escribiendo y dando charlas.
+11. [Escribiendo, enseñando y dando charlas](/blog/2024-07-28-ropensci-2years-writing-speaking-teaching/).
 12. Manteniendo nuestra documentacion completa y al dia. 
 
 Este primer articulo de la serie va a ser sobre la figura del Community Manager en una comunidad de práctica cientifica y tecnológica y sobre tres herramientas y frameworks utiles para el rol.  
