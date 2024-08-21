@@ -53,7 +53,7 @@ I contribute by updating or adding new content to existing guides and books, suc
 
 ## Talks
 
-Some community managers are the visible faces of the community, so part of our job is to give talks in different places and for different audiences.
+Some community managers are the visible faces of the community, so part of our job is to give talks in different places and for different audiences.  Like the blog posts, part of my job also involves **proposing and supporting** people in our community to give talks about rOpenSci (but we'll talk about that in more detail in another blog post).
 
 I enjoy giving talks, explaining what we do, and sharing what I have learned, so I will generally say yes to an invitation to give a talk. Especially if the event is online, it is very easy for me to participate. I also send proposals to events and conferences. 
 

@@ -53,7 +53,7 @@ Contribuyo actualizando o añadiendo nuevos contenidos a las guías y libros exi
 
 ## Charlas
 
-Algunos community managers somos las caras visibles de nuestra comunidad, así que parte de nuestro trabajo consiste en dar charlas en distintos lugares y para distintos públicos.
+Algunos community managers somos las caras visibles de nuestra comunidad, así que parte de nuestro trabajo consiste en dar charlas en distintos lugares y para distintos públicos.  Al igual que los blog post, parte de mi trabajo implica **proponer y asistir** personas de nuestra comunidad para dar charlas sobre rOpenSci (pero sobre eso vamos a charlar en mas detalle en otro blog post).
 
 Me gusta dar charlas, explicar lo que hacemos y compartir lo que he aprendido, así que generalmente digo que sí a una invitación para dar una charla. Sobre todo si el evento es en línea, me resulta muy fácil participar. También envío propuestas de charlas a eventos y conferencias. 
 
