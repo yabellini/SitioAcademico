@@ -21,8 +21,8 @@ June 15th marked two years since I joined the rOpenSci staff as their Community 
 
 The objective is to share what the work of a Community Manager is about with concrete examples of the kind of activities I did from June 2022 to June 2024. The tentative list of topics:
 
-1. Community Code of Conduct.
-2. Interview series "The stars of the R-Universe".
+1. [Community Code of Conduct](/blog/2024-06-28-ropensci-2years-coc-en/).
+2. [Interview series "The stars of the R-Universe"](/blog/2024-06-30-ropensci-2years-r-universe-en/).
 3. Multilanguage publication project.
 4. Champions Program.
 5. Communication strategy.
@@ -31,7 +31,7 @@ The objective is to share what the work of a Community Manager is about with con
 8. Community events.
 9. Write funding proposals.
 10. Analysis of community data.
-11. Writing and giving talks.
+11. [Writing and giving talks](/blog/2024-07-28-ropensci-2years-writing-speaking-teaching-en/).
 12. Keeping our documentation complete and up to date. 
 
 This first article in the series will be about the role of the Community Manager in a scientific and technological community of practice and about three useful tools and frameworks for the role.  
