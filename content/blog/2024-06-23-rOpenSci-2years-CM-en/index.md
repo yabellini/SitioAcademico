@@ -31,7 +31,7 @@ The objective is to share what the work of a Community Manager is about with con
 8. Community events.
 9. Write funding proposals.
 10. Analysis of community data.
-11. [Writing and giving talks](/blog/2024-07-28-ropensci-2years-writing-speaking-teaching-en/).
+11. [Writing, teaching and giving talks](/blog/2024-07-28-ropensci-2years-writing-speaking-teaching-en/).
 12. Keeping our documentation complete and up to date. 
 
 This first article in the series will be about the role of the Community Manager in a scientific and technological community of practice and about three useful tools and frameworks for the role.  
