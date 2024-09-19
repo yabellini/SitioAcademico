@@ -8,12 +8,13 @@ featured: true
 draft: false
 tags:
   - Workshop
-  - R
+  - RStats
   - Education
 categories:
   - Workshop
   - Education
-  - English
+  - Spanish
+  - RStats
 # layout options: single or single-sidebar
 layout: single-sidebar
 links:
