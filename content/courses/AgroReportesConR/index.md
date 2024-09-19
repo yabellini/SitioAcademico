@@ -1,7 +1,7 @@
 ---
-title: "From Spreadsheets to R"
+title: "Agro Reportes con R"
 subtitle: ""
-excerpt: "This course is intended for people who use spreadsheets for data manipulation and have never programmed, but would like to learn how to work with R. Therefore its starts from the beginning: why use R? and where to start?"
+excerpt: "Este curso introduce R para generar reportes parametrizados con ejemplos y casos de uso relacionados a agricultura"
 date: 2024-09-19
 author: "Yanina Bellini Saibene & Paola Corrales"
 featured: true
