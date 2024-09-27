@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {{ hugo.Generator }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ block "meta" . }}{{ end }}
+    {{ partialCached "site_head.html" . }}
+    {{ partialCached "css.html" . }}
+    <!-- Include search.js script -->
+    <script src="{{ "js/search.js" | relURL }}"></script>
+  </head>
+  <body>
+    {{ block "header" . }}
+      {{ partialCached "site_nav.html" . }}
+    {{ end }}
+    {{ block "main" . }}
+      <main id="main" class="site-main">
+        <!-- Include search.html partial -->
+        {{ partial "search.html" . }}
+        {{ .Content }}
+      </main>
+    {{ end }}
+    {{ block "footer" . }}
+      {{ partialCached "site_footer.html" . }}
+    {{ end }}
+  </body>
+</html>
