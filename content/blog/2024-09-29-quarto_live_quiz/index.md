@@ -2,7 +2,7 @@
 title: "Adding Multiple choice quiz to Quarto Live Tutorials"
 author: 
 - Yanina Bellini Saibene
-summary: "" 
+summary: "Adding multiple choice to a Quarto Live interactive tutorial" 
 date: '2024-09-29'
 categories:
   - Education
