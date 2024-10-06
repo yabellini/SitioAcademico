@@ -13,11 +13,6 @@ tags:
   - rOpenSci
 ---
 
-{{< figure src="featured.jpg" alt="">}}
-
-> 
-  
-
 _Program management and development_ are another set of **core** activities of a Community Manager. _Programming_, in this context, is the combination of activities in a community that supports members in realizing the community's purpose together. In this blog post, I share my work organizing **events** for rOpenSci.
 
 ## Community Calls
@@ -88,19 +83,8 @@ One of the nicest characteristics is that the primary language of the event is t
 The topics are varied. For example, [Carolina Pradier](https://ropensci.org/author/carolina-pradier/) hosted a webinar to present [news on the eph R package](https://vimeo.com/899372049) after her work on the rOpenSci Champions Program, and three users of the package shared how they use it. Then [Pedro Faria](https://ropensci.org/author/pedro-duarte-faria/) from Brazil and Antonio Pedro from Angola hosted an event to discuss [how to contribute to the rOpenSci Dev Guide translation to Portuguese](https://vimeo.com/899603912). [Alican Cagri Gokcek](https://ropensci.org/author/alican-cagri-gokcek/), with [Liz Hare](https://ropensci.org/author/liz-hare/), ran an event about [using and learning R with screen readers](https://vimeo.com/1008631708). 
 
 The organizing phases are similar to those for the Community Call, but the rOpenSci members who organize the event take care of some tasks. We also share the recording and materials on our Vimeo channel, [Event webpage](https://ropensci.org/events/) and [Talks materiales](https://ropensci.org/talks-papers/). 
-  
-## Conferences
 
-I have been organizing conferences for many years. Since joining rOpenSci, I have been part of the scientific committee for the Congress of AgroInformatics 2022 and 2023, Nerderala 2023 and 2024 and Nerdearla Mexico 2024. I was also on the organizing team for seven conferences.
 
-* **useR! 2022 (online):**  I was in charge of organizing all the tutorials, which had their call, review, selection, and agenda. I also helped with the Spanish communication of the event, the composition of the scientific committee, selecting keynotes, contacting sponsors, and applying for conference grants. I was in charge of creating the YouTube channel for the conference and uploading all the videos of that edition. I also moderated sessions and helped gather the statistics for that edition to keep the useR! Dashboard up to date. We have 2000ish attendees. 
-
-* **[LatinR](https://latinr.org) 2022 y 2024 (online) and LatinR 2023 (in person)**: I was chair of all these editions. We have three excellent editions, with talks and tutorials in Spanish, English, and Portuguese. All the work is 100% volunteer. It is truly a conference by and for the Latin American community. The online version has around 1000 registered, and the in-person version has around 300 participants. rOpenSci is a community partner since 2022, but several staff members participated in the conferences since the first edition. 
-
-* **[CSV,Conf,v7](https://csvconf.com/2023/) and [CSC,Conf,V8 ](https://csvconf.com)(in person)**: For the 2024 edition, I reviewed proposals and helped organize The Carpentries Workshop. I also included R-Ladies Puebla on the organization committee so that they could organize an R-Ladies Meetup during the conference. For the 2023 edition, I was more involved because it was in Buenos Aires. I also reviewed proposals, supported visa applications, and helped organize Carpentry workshops during the conference. I also helped with other tasks like forming the conference's CoC Team, looking for sponsors, creating the intro slides, attending the registration desk, and chairing and moderating sessions.
-
-* **Appsilon Shiny Conference 2022**: I was on the organizer committee, advising about conference platforms, accessibility, multilingual content, and potential speakers.
- 
 ## Champions Program training and meetings
 
 The [rOpenSci Champions Program](https://ropensci.org/champions/) has a [phase of training related to best practices in R package development, community management, and mentoring](https://ropensci.org/training/). 
@@ -108,7 +92,20 @@ The [rOpenSci Champions Program](https://ropensci.org/champions/) has a [phase o
 The main challenge is organizing more than 20 people in time zones more than 16 hours apart. The program also has cohort and kick-off meetings. For the second cohort of Champions, we add informal and optional weekly gatherings that last two hours.
 
 In these two years, I organized 13 workshops, which lasted 1 to 3 hours, 15 meetings, and 24 sessions, which lasted 1 to 2 hours. During the training season, the average is one event each week. :-) 
+  
+## Conferences
 
+I have been organizing conferences for many years. Since joining rOpenSci, I have been part of the scientific committee for the Congress of AgroInformatics 2022 and 2023, Nerderala 2023 and 2024 and Nerdearla Mexico 2024. I was also on the organizing team for seven conferences.
+
+* **[useR! 2022](https://user2022.r-project.org) (online):**  I was a co-chair. I was in charge of organizing all the tutorials, which had their call, review, selection, and agenda. I also helped with the Spanish communication of the event, the composition of the scientific committee, selecting keynotes, contacting sponsors, and applying for conference grants. I was in charge of creating the YouTube channel for the conference and uploading all the videos of that edition. I moderated sessions and helped gather the statistics for that edition to keep the useR! Dashboard up to date. We have 2000ish attendees. 
+
+* **[LatinR](https://latinr.org) 2022 y 2024 (online) and LatinR 2023 (in person)**: I was chair of all these editions. We have three excellent editions, with talks and tutorials in Spanish, English, and Portuguese. All the work is 100% volunteer. It is truly a conference by and for the Latin American community. The online version has around 1000 registered, and the in-person version has around 300 participants. rOpenSci is a community partner since 2022, but several staff members participated in the conferences since the first edition. 
+
+* **[CSV,Conf,v7](https://csvconf.com/2023/) and [CSC,Conf,V8 ](https://csvconf.com)(in person)**: For the 2024 edition, I reviewed proposals and helped organize The Carpentries Workshop. I also included R-Ladies Puebla on the organization committee so that they could organize an R-Ladies Meetup during the conference. For the 2023 edition, I was more involved because it was in Buenos Aires. I also reviewed proposals, supported visa applications, and helped organize Carpentry workshops during the conference. I also helped with other tasks like forming the conference's CoC Team, looking for sponsors, [creating the intro slides](https://docs.google.com/presentation/d/1GEM0uzgoL9V0c3sC7EnhdLTzDc6GpARJqdq0Zw2ME5c/edit?usp=sharing), attending the registration desk, and chairing and moderating sessions.
+
+* **Appsilon Shiny Conference 2022**: I was on the organizer committee, advising about conference platforms, accessibility, multilingual content, and potential speakers.
+
+{{< figure src="conferences.png" alt="conferences logos: csv,conf, user!2022, LatinR. Appsilon Shiny Conf, Nerdearla, CAI">}}
 
 ## Three Key aspects of organizing events 
 
