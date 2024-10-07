@@ -50,7 +50,7 @@ After the call, I documented attendance and other call details. I also uploaded 
 
 I have **organized 8 community calls**, [including the first in Spanish](https://ropensci.org/commcalls/nov2023-multilenguaje/), and now I'm working on [the first in Portuguese](https://ropensci.org/commcalls/translation-portuguese/). 
 
-<iframe src="https://fosstodon.org/@yabellini/111410320463304453/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" height="300" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
+<iframe src="https://fosstodon.org/@yabellini/111410320463304453/embed" class="mastodon-embed" width="400" height="300" allowfullscreen="allowfullscreen"></iframe><script src="https://fosstodon.org/embed.js" async="async"></script>
 
 Hosting a successful community call takes a lot of time and work, but it is one of the rOpenSci activities our members enjoy the most.
 
