@@ -181,7 +181,7 @@ Then come the holidays, when we travel or receive our family.
 We share conversation, games, swimming, gifts, meals, and good wishes. 
 It is also the month to _reflect_ on what happened and _to be grateful_. 
 
-I finished ["Wolfhound Century"](https://www.goodreads.com/book/show/15790887-wolfhound-century) by Peter Higgings 
+I finished ["Wolfhound Century"](https://www.goodreads.com/book/show/15790887-wolfhound-century) by Peter Higgins 
 and ["The Circle"](https://www.goodreads.com/book/show/18302455-the-circle) by Dave Eggers.
 
 ## Wrapping up
