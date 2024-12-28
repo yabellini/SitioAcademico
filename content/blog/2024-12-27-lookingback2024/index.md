@@ -185,11 +185,11 @@ and ["The Circle"](https://www.goodreads.com/book/show/18302455-the-circle) by D
 ## Wrapping up
 Let's close with some numbers (just because I love data and numbers):
 
-I wrote **80 blog posts**, 68 for my website and 12 for rOpenSci. I haven't completed the #100daytoOffload challenge. Yet.
+I wrote **82 blog posts**, 70 for my website and 12 for rOpenSci. I haven't completed the #100daytoOffload challenge. Yet.
 
 I swim **111 km**. But I could not participate in any competition.
 
-I delivered **10 talks** and **1 keynote** and appeared on the [Code for Thought]() and [Sustain podcast]().
+I delivered **10 talks** and **1 keynote** and appeared on the [Code for Thought](https://yabellini.netlify.app/talk/2024_code_4_thought_podcast/) and [Sustain podcast](https://yabellini.netlify.app/talk/2024_sustain_podcast/).
 I **read 10 books** and **wrote 2**. 
 I open the material for **5 courses** (ranging from 2 hours to a semester-long, in English and Spanish).
 
