@@ -40,7 +40,7 @@ We worked hard to create and implement [the process and infrastructure to discus
 
 ## March was for news. 
 
-_Some good news_: I received the [GitHub Star award]() again for the third year in a row.
+_Some good news_: I received the [GitHub Star award](https://stars.github.com/profiles/yabellini/) again for the third year in a row.
 
 _Some worrying news_: My diagnosis of thyroid cancer was confirmed. 
 I later discovered it is the least dangerous and simplest of all the cancers you can get. 
@@ -83,8 +83,7 @@ I shared the work of rOpenSci and some of our members in my talk ["Reproducible 
 During the projects' show-and-tell session, I also provided details about the [rOpenSci Champions Program](https://ropensci.org/champions/).
 
 I celebrated *two years* as the community manager of rOpenSci. 
-I started writing [a series of blog posts where I reflect on my work, 
-share the projects I am involved in, and describe my role](https://yabellini.netlify.app/blog/2024-06-23-ropensci-2years-cm-en/). 
+I started writing [a series of blog posts where I reflect on my work, share the projects I am involved in, and describe my role](https://yabellini.netlify.app/blog/2024-06-23-ropensci-2years-cm-en/). 
 
 ## July was for recovering.
 
@@ -137,8 +136,7 @@ another invitation to review talks for [Nerdearla and Nerdearla Mexico](https://
 and another invitation to serve on the [Climate Sensitive Infectious Disease Network Collaborative Committee](https://csidnet.org/committee/collaborative-committee/).
 We also did some work with [Epiverse and data.org in our new partnership with them and RECON](https://data.org/news/forging-partnerships-and-accelerating-the-field-new-epiverse-partnerships-with-recon-and-ropensci/). 
 
-We announce that [CZI has awarded funds to rOpenSci for 
-Sustainable Research Software Development in Latin America through our Champions Program](https://ropensci.org/blog/2024/10/10/czi-latam-grant/). 
+We announce that [CZI has awarded funds to rOpenSci for Sustainable Research Software Development in Latin America through our Champions Program](https://ropensci.org/blog/2024/10/10/czi-latam-grant/). 
 
 I enjoyed supporting and learning about our Champions Outreach activities 
 with several organizations around the world and in several human languages.
