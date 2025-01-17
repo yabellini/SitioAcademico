@@ -122,6 +122,10 @@ enableEmoji = true
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/blog/index.xml"
+  [[params.social]]
+      icon      = "blusky" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://blusky.com/yabellini"
 
 [taxonomies]
   category = "categories"
