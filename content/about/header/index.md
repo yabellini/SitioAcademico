@@ -10,17 +10,31 @@ headline: |
 __In short:__ 
 
 [rOpenSci](https://ropensci.org/) Community Manager.
-[R-Ladies](https://rladies.org/) Project Lead, [Autral](https://www.austral.edu.ar/), [UCES](https://w.uces.edu.ar/wp-content/uploads/2022/08/Agroanalytics.pdf), and [UDE](https://online.fca-ude.edu.uy/course/index.php?categoryid=66) professor. 
+[R-Ladies](https://rladies.org/) Project Lead, 
+[Autral](https://www.austral.edu.ar/) professor. 
 
-Co-founder of [LatinR](https://latin-r.com/), [MetaDocencia](https://www.metadocencia.org/), and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
+[UCES](https://w.uces.edu.ar/wp-content/uploads/2022/08/Agroanalytics.pdf),
+[UCA](https://uca.edu.ar/es/cursos-de-educacion-continua/facultad-de-ingenieria-y-ciencias-agrarias/curso/diplomado-en-soluciones-digitales-para-la-agricultura-sostenible),
+and [UDE](https://online.fca-ude.edu.uy/course/index.php?categoryid=66) AgTech diploma professor.
 
-Member, [The Carpentries](https://carpentries.org/) Executive Council and Board of Directors, [R-Ladies](https://rladies.org/) Boar of Directors, [R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), [Open Heroines](https://openheroines.org/), [Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/), [Research Software Camp Steering Committee](https://www.software.ac.uk/training/research-software-camps), [Notebooks Now! Steering Committee](https://data.agu.org/notebooks-now/)
+Co-founder of [LatinR](https://latin-r.com/), 
+[MetaDocencia](https://www.metadocencia.org/), 
+and [R-Ladies Santa Rosa](https://www.meetup.com/es/rladies-santa-rosa/).
 
-Topic Editor at [Journal of Open Source Education](https://jose.theoj.org/) and Scientific Committe [Electronic Journal of SADIO](https://jose.theoj.org/)
+Member, [The Carpentries](https://carpentries.org/) Board of Directors and Advisory Committee, 
+[R-Ladies](https://rladies.org/) Boar of Directors, 
+[R Consortium Infrastructure Steering Committee](https://www.r-consortium.org/about/governance), 
+[Sociedad Argentina de Informática (SADIO)](https://www.sadio.org.ar/). 
 
-GitHub Star 2022, 2023 and 2024. Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001) and the National e-Government Award (2015 y 2016) for projects related to remote sensing and open data.  
+Topic Editor at [Journal of Open Source Education](https://jose.theoj.org/)
 
-Former [INTA](https://www.argentina.gob.ar/inta)'s Researcher (1998-2022), [UNAB](https://www.unab.edu.ar/analisis-datos.html) adjunt professor (2020-2023), MetaDocencia Co-lead and Core Team (2020-2022), [RForwards](https://forwards.github.io/) Core Team (2022), useR! Working Group (2021-2022), [R4DS_ES](https://github.com/cienciadedatos) (2018-2022), [MiR](https://mircommunity.com) (2020-2023). 
+GitHub Star 2022, 2023 and 2024. 
+Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001),
+and the National e-Government Award (2015 y 2016) for projects related 
+to remote sensing and open data.  
+
+Former [INTA](https://www.argentina.gob.ar/inta)'s Researcher (1998-2022), and 
+[UNAB](https://www.unab.edu.ar/analisis-datos.html) adjunct professor (2020-2023)
 
 M.S. in Data Mining and Knowledge Management.
 
