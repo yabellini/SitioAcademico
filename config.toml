@@ -103,9 +103,9 @@ enableEmoji = true
   #    icon_pack = "fab"
   #    url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "bluesky" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/yabellini"
+      url       = "https://bsky.app/profile/yabellini.bsky.social"
   [[params.social]]
       icon      = "mastodon" # icon name without the 'fa-'
       icon_pack = "fab"
