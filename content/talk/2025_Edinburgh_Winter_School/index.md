@@ -1,6 +1,6 @@
 ---
-title: ""
-excerpt: ""
+title: "Teaching Tech Together: What's Worked, What Hasn't, and What's Next"
+excerpt: "Greg and Yani shared their experience building and using T3"
 date: 2025-01-08
 date_end: "2025-01-08"
 author: "Yanina Bellini Saibene"
