@@ -1,5 +1,5 @@
 ---
-title: GitHub Stars 2024 Award
+title: GitHub Stars 2025 Award
 author: Yanina Bellini Saibene
 summary: "GitHub Star for one more year!! Thank you so much to my communities. rOpenSci, LatinR, R-Ladies and The Carpentries."
 date: '2025-02-09'
