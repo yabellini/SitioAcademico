@@ -14,7 +14,7 @@ tags:
   - Open Data
   - Open Science
   - Education
-  - 100DaysToOffload
+  - 100DaysToOffLoad2025
 
 ---
 
