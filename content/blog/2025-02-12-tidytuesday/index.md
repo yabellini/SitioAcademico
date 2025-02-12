@@ -9,12 +9,13 @@ categories:
   - Open Science
   - TidyTuesday
   - 100DaysToOffLoad2025
+  - RStats
 tags:
   - Spanish
   - Open Data
   - Open Science
   - 100DaysToOffLoad2025
-
+  - RStats
 ---
 
 ![](featured.jpg)
