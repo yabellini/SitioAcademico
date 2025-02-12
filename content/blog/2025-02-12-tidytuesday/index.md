@@ -2,7 +2,7 @@
 title: Trae tus propios datos - TidyTuesday 2025
 author: Yanina Bellini Saibene
 summary: "En enero de cada año, la iniciativa TidyTuesday te propone visualizar tus propios datos. Este 2025 voy a jugar con los datos que registro de mis clases de natacion"
-date: '2025-02-09'
+date: '2025-02-12'
 categories:
   - Spanish
   - Open Data
