@@ -15,4 +15,5 @@ tags:
 I was interviewed by Alla Katsnelson for Nature about being a scientist with English as a second language. Machine-learning tools can correct grammar and advise on the style and tone of presentations — but they must be used with caution.
 By Alla Katsnelson
 
-You can read the full article here: https://www.nature.com/articles/d41586-022-02767-9
+You can read the full article here: https://www.nature.com/articles/d41586-022-02767-9 and here is a PDF version: https://media.nature.com/original/magazine-assets/d41586-022-02767-9/d41586-022-02767-9.pdf
+
