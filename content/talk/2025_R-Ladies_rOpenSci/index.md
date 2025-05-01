@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Desarrollando paquetes de R con la ayuda de rOpenSci"
 excerpt: "Yani Bellini Saibene presenta como desarrollar un paquete de R y te invita a ser parte del programa de campeones de rOpenSci"
 date: 2025-04-23
 date_end: "2025-04-23"
