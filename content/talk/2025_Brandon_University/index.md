@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Advancing Research with openScience and Collaborative Communitties"
 excerpt: "Yani Bellini Saibene explores what a community of practices, why is a good idea to participate in this spaces and present examples from rOpenSci, R-Ladies and The Carpentries."
 date: 2025-01-31
 date_end: "2025-01-31"
