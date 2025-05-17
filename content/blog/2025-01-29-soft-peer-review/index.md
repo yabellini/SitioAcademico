@@ -3,7 +3,7 @@ title: "Implementing Software Peer Review. Tips and Examples"
 author: 
 - Yanina Bellini Saibene
 summary: "Peer review is a helpful tool for ensuring high-quality, reliable, and maintainable software. In this document, we share insights discussed in the Chan-Zuckerberg Initiative’s Essential Open Source Software program community call held on January 29, 2025, featuring rOpenSci’s Noam Ross." 
-date: '2024-01-29'
+date: '2025-01-29'
 categories:
   - Community
   - 100DaysToOffload
