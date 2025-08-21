@@ -1,36 +1,35 @@
 ---
-title: "Desarrollando paquetes de R con la ayuda de rOpenSci"
-excerpt: "Yani Bellini Saibene presenta como desarrollar un paquete de R y te invita a ser parte del programa de campeones de rOpenSci"
-date: 2025-04-23
-date_end: "2025-04-23"
+title: "El rol del software de investigación a lo largo del ciclo de vida investigativo"
+excerpt: "Yanina presenta la charla rOpenSci: Transformando la ciencia mediante datos abiertos, software y reproducibilidad"
+date: 2025-08-20
+date_end: "2025-08-20"
 author: "Yanina Bellini Saibene"
 location: "online"
-event: "R-Ladies Resistencia, Corrientes y Santa Rosa"
-event_url: 
+event: "Webinar de la Alianza RDA, ReSA y LA Referencia"
+event_url: https://recursos.lareferencia.info/alianza-cienciaabierta/
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Regular Talk
+- Invited Talk
 - Spanish
 - Community
-- Open Source Software
 - rOpenSci
+- Open Source Software
+- RSE
 tags:
-- rOpeSci
+- rOpenSci
+- RSE
 - Community
-- rstats
 links:
-- icon: youtube
-  icon_pack: fab
-  name: video 
-  url: 
+# - icon: youtube
+#   icon_pack: fab
+#   name: video 
+#   url: https://www.youtube.com/live/CTTvTQ-JZhw?si=dBuyXYANeTu1aEVU
 - icon: images
   icon_pack: fas
   name: Slides 
-  url: https://docs.google.com/presentation/d/1xBHSo5xbLdlcXtjuGPrK3nsFSlLGvz2DF5609ckji-k/   
+  url: https://docs.google.com/presentation/d/1hVXPnDWWJWUTKImp65LRK4d4JVFgcJWc2KEp7MFcXE8/edit?usp=sharing
 ---
 
-R-Ladies Santa Rosa y R-Ladies Resistencia-Corrientes organizan este meetup conjunto con el apoyo de rOpenSci y el RConsortium para introducirte en el mundo del desarrollo de paquetes de R e informarte sobre la posibilidad de formar parte del programa de campeones de rOpenSci version en castellano y con foco en America Latina.
-
-Yani Bellini Saibene, rOpenSci Community Manager nos contara sobre herramientas para desarrollar paquetes de R y como aplicar y ser parte del programa de campeones de rOpenSci donde podes recibir entrenamiento, mentoria uno a uno y estipendio para desarrollar tu paquete.
+En esta charla presento que es y que hace rOpenSci.  Menciono los proyectos principales: revision por pares de software, R-Universe, Proyecto Multilenguaje y Programa de Campeones y cómo pueden ayudar a los investigadores en sus investigaciones. 
