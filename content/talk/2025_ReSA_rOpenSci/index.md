@@ -32,4 +32,6 @@ links:
   url: https://docs.google.com/presentation/d/1hVXPnDWWJWUTKImp65LRK4d4JVFgcJWc2KEp7MFcXE8/edit?usp=sharing
 ---
 
+{{< figure src="Webinar_Agosto_PT.png" alt="Flyear en portugues del webinario" caption="Flyer en portugues del panel" >}}
+
 En esta charla presento que es y que hace rOpenSci.  Menciono los proyectos principales: revision por pares de software, R-Universe, Proyecto Multilenguaje y Programa de Campeones y cómo pueden ayudar a los investigadores en sus investigaciones. 
