@@ -29,8 +29,6 @@ links:
 
 ---
 
-<img src='featured.png' align="right" height="200" alt='Una computadora con codigo y a su dereacha dice Introducción a la Programación II'/>
-
 Este taller está diseñado para introducir a investigadoras/es a GitHub, una potente plataforma para el control de versiones y la colaboración. Los participantes aprenderán los fundamentos del uso de GitHub para gestionar sus proyectos de investigación, incluyendo cómo crear y gestionar repositorios, realizar un seguimiento de los cambios y colaborar con otras personas.
 Los objetivos específicos de aprendizaje incluyen:
 - Comprender los conceptos básicos del control de versiones y cómo se aplican a los flujos de trabajo de investigación.
