@@ -26,6 +26,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/ropensci-training/ropensci-mentors
+- icon: youtube
+  icon_pack: fab
+  name: video
+  url: https://youtu.be/_nU5piBDJwA?si=yuTgxugYf6Y8JqC5 
 ---
 
 
