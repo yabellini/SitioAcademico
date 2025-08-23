@@ -26,13 +26,7 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/ropensci-training/ropensci-mentors
-- icon: youtube
-  icon_pack: fab
-  name: video
-  url: https://youtu.be/_nU5piBDJwA?si=yuTgxugYf6Y8JqC5 
 ---
-
-
 
 <img src='featured.png' align="right" height="200" alt='Women with a cat and a computer in the back. The rOpenSci logo and the title rOpenSci Champion Program. The name of the author Yanina Bellini Saibene'/>
 
