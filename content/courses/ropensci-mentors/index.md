@@ -28,8 +28,6 @@ links:
   url: https://github.com/ropensci-training/ropensci-mentors
 ---
 
-
-
 <img src='featured.png' align="right" height="200" alt='Women with a cat and a computer in the back. The rOpenSci logo and the title rOpenSci Champion Program. The name of the author Yanina Bellini Saibene'/>
 
 This course is part of the rOpenSci Champion Program's mentor training and orientation. 
