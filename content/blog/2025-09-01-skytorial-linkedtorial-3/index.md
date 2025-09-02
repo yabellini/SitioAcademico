@@ -38,7 +38,7 @@ Create your first repo: On GitHub, click on ➕ (top right) → New repository
 - Check the “Add a README file” option → highly recommended
 - Click Create repository 🎉
 
-![]()
+![](repositories-new.png)
 
 ### 📖 The README:
 
@@ -50,7 +50,7 @@ The README.md file is the cover page of your repo. It explains:
 - Authorship and funding information
 To edit it, click on the pencil (top right) next to the file name.
 
-![]()
+![](edit-readme.jpg)
 
 ### 📝 Commits: your change history
 
@@ -63,6 +63,8 @@ Examples of good commit messages:
 ✅ “Add initial sampling table”
 ❌ “Various changes”
 
+![](commit.png)
+
 ### Important files for a repo
 
 #### 📜 Add a License:
@@ -70,12 +72,12 @@ Examples of good commit messages:
 This is important because licenses tell others how they can use your work.
 The LICENSE file contains the project license.
 
-- Tool for choosing a license: choosealicense.com
-- Explanation of legal jargon in simple terms: tldrlegal.com
+- [Tool for choosing a license](https://choosealicense.com/)
+- [Explanation of legal jargon in simple terms](https://tldrlegal.com/)
 
 #### 📄 Citations
 
-With the license, you tell others how they can use your work with the CITATION.cff file, ou add BibTex formatting to indicate how the work in your repository should be cited: https://lnkd.in/dEfzafmR
+With the license, you tell others how they can use your work with the CITATION.cff file, ou add BibTex formatting to indicate how the work in your repository should be cited. [La documentacion de GitHub explica cón mas detalles como estan compuestos y como usar los archivos de citas en tu repo](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files).  
 
 #### 💡 Code of Conduct and Contribution Guide:
 
@@ -84,7 +86,7 @@ For collaborative projects, add:
 1.CODE_OF_CONDUCT: establishes rules of respect and coexistence. 
 2.CONTRIBUTING: instructions for collaborating on your project.
 
-GitHub offers ready-made templates for both 👉 https://lnkd.in/dfFS_zSM
+GitHub offers ready-made templates for both 👉 https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
 
 ### 📝 Upload files
 
@@ -101,6 +103,8 @@ You can also use folders to organize your project:
 📂 documents/
 
 This makes it easier for your collaborators to find information.
+
+![](upload_files.png)
 
 ### That's it for linkedtorial 3 🎉.
 
