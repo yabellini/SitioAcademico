@@ -1,23 +1,25 @@
 ---
-title: "Nature Interview: Six questions to ask before jumping into a spreadsheet"
+title: "Skytorial and Linkedtorial 2: Your Profile on GitHub"
 author: Yanina Bellini Saibene
-summary: "Stephanie Melchor interviewed me for Nature about aspect to take into account when using spreadsheets for science"
-date: '2025-08-11'
+summary: "Second part of the Skytorial and Linkedtorial series: how to create your profile on GitHub step by step."
+date: '2025-08-31'
 categories:
   - English
   - Open Data
   - Open Science
   - 100DaysToOffLoad2025
   - RSE
+  - GitHub
 tags:
   - English
   - Open Data
   - Open Science
   - 100DaysToOffLoad2025
   - RSE
+  - GitHub
 ---
 
-## 🧵 Linkedtorial 2 – Your profile on GitHub 
+## 🧵 Skytorial | Linkedtorial 2 – Your profile on GitHub 
  
 🌟 The first thing on GitHub is your profile: your cover letter to the academic and scientific world.
 This is how colleagues, collaborators, and potential reviewers of your projects find you.
@@ -32,6 +34,8 @@ Let's create it step by step 👇
 - Enter a valid email address and password.
 - Confirm your registration.
 
+![](perfil-github.png)
+
 ### 🖼️ Customize your profile: 
 
 - Once you have logged in, click on your avatar (top right) → Your Profile.
@@ -42,12 +46,13 @@ Let's create it step by step 👇
 📌 Link your work: In your profile, you can add:
 
 - Your personal or laboratory page
-ORCID profile (highly recommended ✅)
+- ORCID profile (highly recommended ✅)
 - Academic LinkedIn/Bluesky/Mastodon
 
 This makes it easier for others to connect your work in different places.
 
 ### 📂 Your profile README (optional but powerful):
+
 - Your profile is a special repo!
 - If you create a repo named exactly as your username, GitHub will display its README on your profile. 🤩
 - There, you can tell people who you are, your interests, links, papers, CV, and anything else you want to highlight.
@@ -69,6 +74,8 @@ This makes it easier for others to connect your work in different places.
 🍴Create forks of projects (make your own copy).
 
 This way, your profile will reflect your interests.
+
+![](readme-profile.jpeg)
 
 ### 🎉 That's all for this linkedtorial! 
 
