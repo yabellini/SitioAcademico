@@ -106,7 +106,7 @@ This makes it easier for your collaborators to find information.
 
 ![](upload_files.png)
 
-### That's it for linkedtorial 3 🎉.
+### That's it for Skytorial | Linkedtorial 3 🎉.
 
 Now you know how to:
 ✔️ Create a repo.
