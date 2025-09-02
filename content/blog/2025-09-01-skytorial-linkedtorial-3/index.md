@@ -1,7 +1,7 @@
 ---
-title: "Skytorial and Linkedtorial 3: Repositories on GitHub"
+title: "Skytorial and Linkedtorial 3 - Repositories on GitHub"
 author: Yanina Bellini Saibene
-summary: "Third part of the Skytorial and Linkedtorial series: creating and managing repositories on GitHub for researchers who don't need to know how to program.
+summary: "Third part of the Skytorial and Linkedtorial series: creating and managing repositories on GitHub for researchers who don't need to know how to program."
 date: '2025-09-01'
 categories:
   - English
