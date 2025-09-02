@@ -34,8 +34,6 @@ Let's create it step by step 👇
 - Enter a valid email address and password.
 - Confirm your registration.
 
-![](perfil-github.png)
-
 ### 🖼️ Customize your profile: 
 
 - Once you have logged in, click on your avatar (top right) → Your Profile.
@@ -50,6 +48,8 @@ Let's create it step by step 👇
 - Academic LinkedIn/Bluesky/Mastodon
 
 This makes it easier for others to connect your work in different places.
+
+![](featured.png)
 
 ### 📂 Your profile README (optional but powerful):
 
