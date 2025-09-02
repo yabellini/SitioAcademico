@@ -1,8 +1,8 @@
 ---
-title: "Skytorial and Linkedtorial 2: Your Profile on GitHub"
+title: "Skytorial and Linkedtorial 3: Repositories on GitHub"
 author: Yanina Bellini Saibene
-summary: "Second part of the Skytorial and Linkedtorial series: how to create your profile on GitHub step by step."
-date: '2025-08-31'
+summary: "Third part of the Skytorial and Linkedtorial series: creating and managing repositories on GitHub for researchers who don't need to know how to program.
+date: '2025-09-01'
 categories:
   - English
   - Open Data
@@ -19,71 +19,95 @@ tags:
   - GitHub
 ---
 
-## 🧵 Skytorial | Linkedtorial 2 – Your profile on GitHub 
+
+📂 On GitHub, every project lives in a repository (repo). A repo can contain:
+- Documents
+- Data
+- Code (if any)
+- Images
+- Presentations
+👉 Think of it as a folder in the cloud, but with a historical record of every change. 
+
+### Let's create one👇
  
-🌟 The first thing on GitHub is your profile: your cover letter to the academic and scientific world.
-This is how colleagues, collaborators, and potential reviewers of your projects find you.
+Create your first repo: On GitHub, click on ➕ (top right) → New repository
 
-Let's create it step by step 👇
+- Choose a short, descriptive name
+- Add a description (which is the project)
+- Choose visibility: public🔓 or private🔒
+- Check the “Add a README file” option → highly recommended
+- Click Create repository 🎉
 
-### 📝 Open an account on GitHub:
+![]()
 
-- Go to 👉 github.com
-- Click on Sign up
-- Choose a short, recognizable, and professional username💡Tips: use the same username you have on other platforms. Many people just use their name.
-- Enter a valid email address and password.
-- Confirm your registration.
+### 📖 The README:
 
-### 🖼️ Customize your profile: 
+The README.md file is the cover page of your repo. It explains:
 
-- Once you have logged in, click on your avatar (top right) → Your Profile.
-- Upload a clear photo (yes, it's important!).
-- Write a bio: briefly describe your research or academic role.
-- Add your institutional affiliation.
+- What your project is about, you can include the objectives
+- How to use or navigate it
+- Contact information
+- Authorship and funding information
+To edit it, click on the pencil (top right) next to the file name.
 
-📌 Link your work: In your profile, you can add:
+![]()
 
-- Your personal or laboratory page
-- ORCID profile (highly recommended ✅)
-- Academic LinkedIn/Bluesky/Mastodon
+### 📝 Commits: your change history
 
-This makes it easier for others to connect your work in different places.
+To apply the changes on your README, you will net to save those changes using a _commit_. A commit is like a “Save version” with comments.
+Every time you edit or upload a file (such as the readme), you can:
 
-![](featured.png)
+- Add a message explaining what you did.
+- Confirm (commit changes).
+Examples of good commit messages:
+✅ “Add initial sampling table”
+❌ “Various changes”
 
-### 📂 Your profile README (optional but powerful):
+### Important files for a repo
 
-- Your profile is a special repo!
-- If you create a repo named exactly as your username, GitHub will display its README on your profile. 🤩
-- There, you can tell people who you are, your interests, links, papers, CV, and anything else you want to highlight.
+#### 📜 Add a License:
+ 
+This is important because licenses tell others how they can use your work.
+The LICENSE file contains the project license.
 
-🔍 Tips for an attractive and useful profile:
+- Tool for choosing a license: choosealicense.com
+- Explanation of legal jargon in simple terms: tldrlegal.com
 
-- Be clear and concise.
-- Showcase your research topics.
-- Highlight your projects.
-- Include contact details.
-- Update it regularly (like your resume).
+#### 📄 Citations
 
-💡Extra Tip: look at other profiles to see what you like and how they showcase their work.
+With the license, you tell others how they can use your work with the CITATION.cff file, ou add BibTex formatting to indicate how the work in your repository should be cited: https://lnkd.in/dEfzafmR
 
-🌐 Follow other users: GitHub is also a social network. You can:
+#### 💡 Code of Conduct and Contribution Guide:
 
-👀 Follow colleagues, labs, and groups.
-⭐ Star repositories that you find useful.
-🍴Create forks of projects (make your own copy).
+For collaborative projects, add:
 
-This way, your profile will reflect your interests.
+1.CODE_OF_CONDUCT: establishes rules of respect and coexistence. 
+2.CONTRIBUTING: instructions for collaborating on your project.
 
-![](readme-profile.jpeg)
+GitHub offers ready-made templates for both 👉 https://lnkd.in/dfFS_zSM
 
-### 🎉 That's all for this linkedtorial! 
+### 📝 Upload files
 
-Now you have:
-- Your GitHub account
-- A profile that reflects your academic identity
-- A way to connect with other users
-- Optional: a README to introduce yourself
-👉 Do you already have a GitHub profile, or are you going to create 1 right now? 
+Within your repository, click Add file → Upload files.
 
-**Next 👉 Repositories!**
+You can drag and drop:
+📄 Documents
+📊 Data
+🖼️ Figures
+📑 Notes
+You can also use folders to organize your project:
+📂 data/
+📂 figures/
+📂 documents/
+
+This makes it easier for your collaborators to find information.
+
+### That's it for linkedtorial 3 🎉.
+
+Now you know how to:
+✔️ Create a repo.
+✔️ Write a README.
+✔️ Add a license, CoC, contribution guide, and citation.
+✔️ Upload and organize files.
+
+👉 Next: **Issues to organize tasks as a TODO list!**
