@@ -104,7 +104,7 @@ You can also use folders to organize your project:
 
 This makes it easier for your collaborators to find information.
 
-![](upload_files.png)
+![](upload_file.png)
 
 ### That's it for Skytorial | Linkedtorial 3 🎉.
 
