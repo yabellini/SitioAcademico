@@ -1,7 +1,6 @@
 ---
 title: "Educación abierta: materiales online al
-alcance de la mano
-"
+alcance de la mano"
 excerpt: "Yanina y Paola presentan el libro de la materia Programacion II de la Licenciatura en ciencia de datos de la Universidad Austral en la Jornada de Educacion 2024"
 date: 2024-12-11
 date_end: "2024-06-04"
