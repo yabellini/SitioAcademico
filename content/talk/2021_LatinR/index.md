@@ -19,10 +19,10 @@ categories:
 tags:
 - package
 links:
-#- icon: images
-#  icon_pack: fas
-#  name: slides 
-#  url: https://docs.google.com/presentation/d/1mAdLdZHZQa4KNpHOe1tjqE9J_QrVnXYvvZJjiWNK_O8/edit?usp=sharing
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: https://yabellini.github.io/learnresLatinR2021/#1
 - icon: book
   icon_pack: fas
   name: Paper
