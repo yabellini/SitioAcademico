@@ -23,7 +23,7 @@ links:
 - icon: book
   icon_pack: fas
   name: Slides
-  url: https://robiopackathon-2024.netlify.app/
+  url: https://yabellini.github.io/copilotWithR/
 - icon: youtube
   icon_pack: fab
   name: video
