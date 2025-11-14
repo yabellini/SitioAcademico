@@ -18,30 +18,62 @@ The task is to:
 
 ## Process
 
-### Option 1: Using API Token (if accessible)
+**Note:** The GitHub Stars domain is blocked in the automation environment. Please use one of these methods to provide the data:
+
+### Quick Start: Run the Helper Script
+
+```bash
+cd /home/runner/work/SitioAcademico/SitioAcademico
+./fetch_stars_profile.sh
+```
+
+This will display instructions for all available methods.
+
+### Option 1: Copy/Paste Text from Page
+
+1. Open: https://stars.github.com/profiles/yabellini/
+2. Find and copy the "Community Contribution" section text
+3. Save it to a file: `contributions.txt`
+4. Run:
+
+```bash
+cd /home/runner/work/SitioAcademico/SitioAcademico
+python3 parse_text_contributions.py contributions.txt
+python3 parse_github_stars.py datos/github_stars_contributions.json
+python3 create_missing_content.py
+```
+
+### Option 2: Save Page as HTML
+
+1. Open: https://stars.github.com/profiles/yabellini/
+2. Right-click → Save Page As → `contributions.html`
+3. Upload to repository
+4. Run:
+
+```bash
+cd /home/runner/work/SitioAcademico/SitioAcademico
+python3 parse_github_stars_html.py contributions.html
+python3 create_missing_content.py
+```
+
+### Option 3: Manual JSON Entry
+
+1. Edit `contributions_template.json` with your contributions
+2. Run:
+
+```bash
+cd /home/runner/work/SitioAcademico/SitioAcademico
+python3 parse_github_stars.py contributions_template.json
+python3 create_missing_content.py
+```
+
+### Option 4: Using API Token (if accessible)
 
 ```bash
 export GITHUB_STARS_TOKEN='your-token-here'
 cd /home/runner/work/SitioAcademico/SitioAcademico
 python3 parse_github_stars.py
-```
-
-### Option 2: Using Downloaded JSON File
-
-If the API is not accessible, download/export the contributions as JSON and run:
-
-```bash
-cd /home/runner/work/SitioAcademico/SitioAcademico
-python3 parse_github_stars.py path/to/contributions.json
-```
-
-### Option 3: Using HTML File
-
-If you can save the contributions page as HTML:
-
-```bash
-cd /home/runner/work/SitioAcademico/SitioAcademico
-python3 parse_github_stars_html.py path/to/contributions.html
+python3 create_missing_content.py
 ```
 
 All approaches will:
@@ -49,6 +81,7 @@ All approaches will:
 - Parse and save to `datos/github_stars_contributions.csv`
 - Compare with existing content
 - Generate list of missing contributions in `datos/missing_contributions.json`
+- Create folders and index.md files for missing content
 
 ### Step 3: Create missing content
 
