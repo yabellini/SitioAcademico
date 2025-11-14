@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Example Talk Title",
+    "date": "2024-03-15",
+    "type": "talk",
+    "event": "Conference Name",
+    "location": "City, Country or Online",
+    "description": "Brief description of the talk",
+    "url": "https://example.com/event",
+    "categories": ["Category1", "Category2"],
+    "tags": ["tag1", "tag2"]
+  },
+  {
+    "title": "Example Blog Post",
+    "date": "2024-02-10",
+    "type": "blog",
+    "description": "Brief description of the blog post",
+    "url": "https://example.com/blog",
+    "categories": ["Category1"],
+    "tags": ["tag1"]
+  }
+]

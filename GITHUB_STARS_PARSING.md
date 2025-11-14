@@ -18,21 +18,33 @@ The task is to:
 
 ## Process
 
-### Step 1: Set up the token
+### Option 1: Using API Token (if accessible)
 
 ```bash
 export GITHUB_STARS_TOKEN='your-token-here'
-```
-
-### Step 2: Run the parsing script
-
-```bash
 cd /home/runner/work/SitioAcademico/SitioAcademico
 python3 parse_github_stars.py
 ```
 
-This will:
-- Fetch contributions from the API
+### Option 2: Using Downloaded JSON File
+
+If the API is not accessible, download/export the contributions as JSON and run:
+
+```bash
+cd /home/runner/work/SitioAcademico/SitioAcademico
+python3 parse_github_stars.py path/to/contributions.json
+```
+
+### Option 3: Using HTML File
+
+If you can save the contributions page as HTML:
+
+```bash
+cd /home/runner/work/SitioAcademico/SitioAcademico
+python3 parse_github_stars_html.py path/to/contributions.html
+```
+
+All approaches will:
 - Save raw data to `datos/github_stars_contributions.json`
 - Parse and save to `datos/github_stars_contributions.csv`
 - Compare with existing content

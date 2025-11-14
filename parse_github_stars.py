@@ -185,31 +185,139 @@ def compare_and_find_missing(contributions, existing_talks, existing_blogs):
     """
     missing = []
     
-    # This will need to be customized based on actual API response structure
-    # For now, return placeholder
+    # Extract titles and dates from existing content
+    existing_talk_titles = set()
+    existing_talk_dates = set()
+    for talk in existing_talks:
+        # Parse frontmatter to get title and date
+        import re
+        title_match = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', talk['content'], re.MULTILINE)
+        date_match = re.search(r'^date:\s*["\']?(\d{4}-\d{2}-\d{2})', talk['content'], re.MULTILINE)
+        
+        if title_match:
+            existing_talk_titles.add(title_match.group(1).lower().strip())
+        if date_match:
+            existing_talk_dates.add(date_match.group(1))
     
-    print(f"Total contributions from API: {len(contributions) if isinstance(contributions, list) else 'N/A'}")
-    print(f"Total existing talks: {len(existing_talks)}")
-    print(f"Total existing blogs: {len(existing_blogs)}")
+    existing_blog_titles = set()
+    existing_blog_dates = set()
+    for blog in existing_blogs:
+        # Parse frontmatter to get title and date
+        title_match = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', blog['content'], re.MULTILINE)
+        date_match = re.search(r'^date:\s*["\']?(\d{4}-\d{2}-\d{2})', blog['content'], re.MULTILINE)
+        
+        if title_match:
+            existing_blog_titles.add(title_match.group(1).lower().strip())
+        if date_match:
+            existing_blog_dates.add(date_match.group(1))
     
+    print(f"\nExisting content analysis:")
+    print(f"  Talk titles: {len(existing_talk_titles)}")
+    print(f"  Talk dates: {len(existing_talk_dates)}")
+    print(f"  Blog titles: {len(existing_blog_titles)}")
+    print(f"  Blog dates: {len(existing_blog_dates)}")
+    
+    # Process contributions
+    if isinstance(contributions, dict):
+        if 'contributions' in contributions:
+            contrib_list = contributions['contributions']
+        elif 'events' in contributions:
+            contrib_list = contributions['events']
+        elif 'items' in contributions:
+            contrib_list = contributions['items']
+        else:
+            contrib_list = [contributions]
+    elif isinstance(contributions, list):
+        contrib_list = contributions
+    else:
+        print("Warning: Unexpected contributions format")
+        return missing
+    
+    print(f"\nAnalyzing {len(contrib_list)} contributions...")
+    
+    for contrib in contrib_list:
+        if not isinstance(contrib, dict):
+            continue
+        
+        title = contrib.get('title', '').lower().strip()
+        date = contrib.get('date', '')
+        contrib_type = contrib.get('type', '').lower()
+        
+        if not title:
+            continue
+        
+        # Check if it's a talk or blog
+        is_talk = contrib_type in ['talk', 'presentation', 'keynote', 'workshop', 'course', 'panel']
+        is_blog = contrib_type in ['blog', 'post', 'article', 'writing']
+        
+        # If type not specified, try to infer from title or other fields
+        if not is_talk and not is_blog:
+            event_field = contrib.get('event', '').lower()
+            if event_field or 'conference' in title or 'talk' in title:
+                is_talk = True
+            else:
+                is_blog = True
+        
+        # Check if exists
+        found = False
+        if is_talk and title in existing_talk_titles:
+            found = True
+        elif is_blog and title in existing_blog_titles:
+            found = True
+        
+        # Also check by date if available
+        if not found and date:
+            if is_talk and date in existing_talk_dates:
+                found = True
+            elif is_blog and date in existing_blog_dates:
+                found = True
+        
+        if not found:
+            contrib['inferred_type'] = 'talk' if is_talk else 'blog'
+            missing.append(contrib)
+    
+    print(f"\nFound {len(missing)} missing contributions")
     return missing
 
 def main():
     """Main execution function."""
-    # Get token from environment variable or command line
-    token = os.environ.get('GITHUB_STARS_TOKEN')
-    
-    if not token:
-        print("Error: GITHUB_STARS_TOKEN environment variable not set")
-        print("Please set it with: export GITHUB_STARS_TOKEN='your-token-here'")
-        sys.exit(1)
-    
-    print("Fetching GitHub Stars contributions...")
-    contributions_data = fetch_github_stars_contributions(token)
-    
-    if contributions_data is None:
-        print("Failed to fetch contributions data")
-        sys.exit(1)
+    # Check if a local data file was provided as an argument
+    if len(sys.argv) > 1:
+        input_file = sys.argv[1]
+        print(f"Loading data from local file: {input_file}")
+        try:
+            with open(input_file, 'r', encoding='utf-8') as f:
+                if input_file.endswith('.json'):
+                    contributions_data = json.load(f)
+                elif input_file.endswith('.html'):
+                    # If HTML file provided, we'll need to parse it
+                    print("HTML parsing not yet implemented. Please provide JSON or CSV.")
+                    sys.exit(1)
+                else:
+                    print("Unsupported file format. Please provide JSON or HTML file.")
+                    sys.exit(1)
+        except Exception as e:
+            print(f"Error loading file: {str(e)}")
+            sys.exit(1)
+    else:
+        # Get token from environment variable
+        token = os.environ.get('GITHUB_STARS_TOKEN')
+        
+        if not token:
+            print("Error: GITHUB_STARS_TOKEN environment variable not set")
+            print("Please provide either:")
+            print("  1. Set GITHUB_STARS_TOKEN environment variable")
+            print("  2. Pass a JSON file as argument: python3 parse_github_stars.py data.json")
+            sys.exit(1)
+        
+        print("Fetching GitHub Stars contributions...")
+        contributions_data = fetch_github_stars_contributions(token)
+        
+        if contributions_data is None:
+            print("Failed to fetch contributions data")
+            print("\nPlease provide the data as a JSON file instead:")
+            print("  python3 parse_github_stars.py contributions.json")
+            sys.exit(1)
     
     # Create output directory
     output_dir = Path('/home/runner/work/SitioAcademico/SitioAcademico/datos')
