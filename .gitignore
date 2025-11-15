@@ -13,3 +13,8 @@ datos/leer_blog_post.R
 datos/publicaciones.R
 content/blog/2022_tutorials_series/02-tutorials/call.txt
 datos/Articulos-en-la-web-de-anguil.R
+# GitHub Stars parsing temporary files
+contributions.csv
+datos/github_stars_contributions.json
+datos/github_stars_contributions.csv
+datos/missing_contributions.json

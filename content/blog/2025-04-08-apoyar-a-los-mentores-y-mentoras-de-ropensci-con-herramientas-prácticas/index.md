@@ -1,0 +1,13 @@
+---
+title: Apoyar a los mentores y mentoras de rOpenSci con herramientas prácticas
+author: Yanina Bellini Saibene
+summary: "La mentoría está en el corazón de lo que hace de rOpenSci una comunidad. Nuestros participantes se mentorean mutuamente en distintos momentos: cuando una perosna nueva se une y necesita ayuda para navegar por la comunidad; cuando un participante asume un nuevo papel, como revisor de nuestra revisión por pares de software, o proyecto, como convertirse en quien mantiene un paquete, y le vendría bien un poco de orientación; durante las interacciones cotidianas, cuando la gente comparte consejos y sugerencias entre sí; cuando alguien comparte una idea y recibe comentarios constructivos y amistosos o cuando un integrante con más experiencia ayuda a otras personas a crecer y asumir funciones de liderazgo. Cada uno de estos momentos es una oportunidad para compartir lo que sabes, crear conexiones y mantener fuerte a la comunidad.
+Desde 2022 tenemos nuestro Programa de Campeon(e|a)s con una función formal de tutoría. Para ayudar a nuestros mentores del programa a hacer su mejor trabajo, hemos reunido un conjunto de recursos: un taller, un manual y un calendario mensual. En este post, te guiamos a través de lo que hemos creado y te mostramos cómo estos recursos pueden ayudar también tu labor de mentor o mentora, tanto si formas parte de rOpenSci como si tiene este rol en otro contexto."
+date: '2025-04-08'
+categories:
+  - English
+
+---
+
+La mentoría está en el corazón de lo que hace de rOpenSci una comunidad. Nuestros participantes se mentorean mutuamente en distintos momentos: cuando una perosna nueva se une y necesita ayuda para navegar por la comunidad; cuando un participante asume un nuevo papel, como revisor de nuestra revisión por pares de software, o proyecto, como convertirse en quien mantiene un paquete, y le vendría bien un poco de orientación; durante las interacciones cotidianas, cuando la gente comparte consejos y sugerencias entre sí; cuando alguien comparte una idea y recibe comentarios constructivos y amistosos o cuando un integrante con más experiencia ayuda a otras personas a crecer y asumir funciones de liderazgo. Cada uno de estos momentos es una oportunidad para compartir lo que sabes, crear conexiones y mantener fuerte a la comunidad.
+Desde 2022 tenemos nuestro Programa de Campeon(e|a)s con una función formal de tutoría. Para ayudar a nuestros mentores del programa a hacer su mejor trabajo, hemos reunido un conjunto de recursos: un taller, un manual y un calendario mensual. En este post, te guiamos a través de lo que hemos creado y te mostramos cómo estos recursos pueden ayudar también tu labor de mentor o mentora, tanto si formas parte de rOpenSci como si tiene este rol en otro contexto.

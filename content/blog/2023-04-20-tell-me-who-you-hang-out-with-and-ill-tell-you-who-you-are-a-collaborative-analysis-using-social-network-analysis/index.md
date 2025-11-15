@@ -1,0 +1,11 @@
+---
+title: Tell me who you hang out with and I’ll tell you who you are: a collaborative analysis using social network analysis.
+author: Yanina Bellini Saibene
+summary: "Communities of practice are spaces where people share knowledge and contribute to individual and group objectives. Knowing the different types of community members, the different ways they can participate, what kind of collaborations exist, and among whom is an important input to understand the community and to be able to take actions to improve differents aspects of the community, like members' engagement, reach a wider audience, and increase diversity, among other. In this talk, we will present an analysis of rOpenSci networks since its inception to recognize types and themes of collaborations, actors in those collaborations, and sub-communities, among other aspects. We will explain how we collect the information to feed the networks (e.g. blog post authoring, event organization, package authoring, package review, among others), how we process it, and what kind of community management actions we can take based on the results obtained. All the source code and the data that can be public will be shared on a repository.  CSV,Conf,V7"
+date: '2023-04-20'
+categories:
+  - English
+
+---
+
+Communities of practice are spaces where people share knowledge and contribute to individual and group objectives. Knowing the different types of community members, the different ways they can participate, what kind of collaborations exist, and among whom is an important input to understand the community and to be able to take actions to improve differents aspects of the community, like members' engagement, reach a wider audience, and increase diversity, among other. In this talk, we will present an analysis of rOpenSci networks since its inception to recognize types and themes of collaborations, actors in those collaborations, and sub-communities, among other aspects. We will explain how we collect the information to feed the networks (e.g. blog post authoring, event organization, package authoring, package review, among others), how we process it, and what kind of community management actions we can take based on the results obtained. All the source code and the data that can be public will be shared on a repository.  CSV,Conf,V7
