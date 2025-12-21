@@ -72,6 +72,7 @@ events_dataset <- data.frame(
       "SPEAKING" = "Speaker",
       "EVENT_ORGANIZATION" = "Organizer",
       "HACKATHON" = "Participant",
+      "OTHER" = "Other",
       NA_character_
     )
   }),
