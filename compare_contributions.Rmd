@@ -36,6 +36,7 @@ library(dplyr)
 library(readr)
 library(lubridate)
 library(stringr)
+library(ggplot2)
 ```
 
 ## Funciones auxiliares
@@ -250,8 +251,6 @@ cat(sprintf("Publicaciones faltantes (guardadas en %s): %d\n", OUTPUT_PUBLICATIO
 ### Distribución de eventos por año
 
 ```{r plot-events-year}
-library(ggplot2)
-
 events_dataset %>%
   count(anio) %>%
   ggplot(aes(x = anio, y = n)) +
