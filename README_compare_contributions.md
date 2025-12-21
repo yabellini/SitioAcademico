@@ -1,26 +1,42 @@
 # Comparison Script for GitHub Contributions
 
-This script compares the GitHub contributions data with existing events and publications data.
+This repository contains scripts to compare GitHub contributions data with existing events and publications data.
+
+## Files
+
+- **`compare_contributions.R`** - Base R script (no dependencies required)
+- **`compare_contributions.Rmd`** - RMarkdown document with tidyverse code and visualizations
 
 ## Purpose
 
-The `compare_contributions.R` script:
-1. Reads three CSV files from the `datos` folder:
+The scripts:
+1. Read three CSV files from the `datos` folder:
    - `contributions-github.csv` - All GitHub Star contributions
    - `EventosPorAnioYanina-2025.csv` - Existing events data
    - `PublicacionesPorAnioYanina-2025.csv` - Existing publications data
 
-2. Identifies contributions that are missing from the existing datasets
+2. Identify contributions that are missing from the existing datasets
 
-3. Generates two new CSV files with the missing data:
+3. Generate two new CSV files with the missing data:
    - `datos/events.csv` - Events from GitHub contributions not in EventosPorAnioYanina-2025.csv
    - `datos/publications.csv` - Publications from GitHub contributions not in PublicacionesPorAnioYanina-2025.csv
 
 ## How to Run
 
+### Base R Script (no dependencies)
+
 ```bash
 Rscript compare_contributions.R
 ```
+
+### RMarkdown with tidyverse (requires dplyr, readr, lubridate, stringr, ggplot2)
+
+```r
+# In R console or RStudio
+rmarkdown::render("compare_contributions.Rmd")
+```
+
+Or open `compare_contributions.Rmd` in RStudio and click "Knit".
 
 ## Output Format
 
@@ -54,13 +70,13 @@ Contribution types mapped to events:
 - `SPEAKING` → Talk (Speaker)
 - `EVENT_ORGANIZATION` → Event Organization (Organizer)
 - `HACKATHON` → Hackathon (Participant)
-- `OTHER` → Other
+- `VIDEO_PODCAST` → Video/Podcast (Participant)
+- `OTHER` → Other (Other)
 
 ### Publications
 Contribution types mapped to publications:
 - `BLOGPOST` → Blog Post (Blog)
 - `ARTICLE_PUBLICATION` → Article (Article)
-- `VIDEO_PODCAST` → Video/Podcast (Multimedia)
 - `OPEN_SOURCE_PROJECT` → Open Source Project (Software)
 
 ## Notes

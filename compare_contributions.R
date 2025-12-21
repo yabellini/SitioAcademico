@@ -35,8 +35,8 @@ cat(sprintf("Loaded %d existing events\n", nrow(eventos_existing)))
 cat(sprintf("Loaded %d existing publications\n", nrow(publicaciones_existing)))
 
 # Define which contribution types correspond to events vs publications
-event_types <- c("SPEAKING", "EVENT_ORGANIZATION", "HACKATHON", "OTHER")
-publication_types <- c("BLOGPOST", "ARTICLE_PUBLICATION", "VIDEO_PODCAST", "OPEN_SOURCE_PROJECT")
+event_types <- c("SPEAKING", "EVENT_ORGANIZATION", "HACKATHON", "OTHER", "VIDEO_PODCAST")
+publication_types <- c("BLOGPOST", "ARTICLE_PUBLICATION", "OPEN_SOURCE_PROJECT")
 
 # Filter contributions by type
 contrib_events <- contributions[contributions$Type %in% event_types, ]
@@ -82,6 +82,7 @@ events_dataset <- data.frame(
       "EVENT_ORGANIZATION" = "Event Organization",
       "HACKATHON" = "Hackathon",
       "OTHER" = "Other",
+      "VIDEO_PODCAST" = "Video/Podcast",
       NA_character_
     )
   }),
@@ -92,6 +93,7 @@ events_dataset <- data.frame(
       "EVENT_ORGANIZATION" = "Organizer",
       "HACKATHON" = "Participant",
       "OTHER" = "Other",
+      "VIDEO_PODCAST" = "Participant",
       NA_character_
     )
   }),
@@ -127,7 +129,6 @@ publications_dataset <- data.frame(
     switch(x,
       "BLOGPOST" = "Blog Post",
       "ARTICLE_PUBLICATION" = "Article",
-      "VIDEO_PODCAST" = "Video/Podcast",
       "OPEN_SOURCE_PROJECT" = "Open Source Project",
       NA_character_
     )
@@ -136,7 +137,6 @@ publications_dataset <- data.frame(
     switch(x,
       "BLOGPOST" = "Blog",
       "ARTICLE_PUBLICATION" = "Article",
-      "VIDEO_PODCAST" = "Multimedia",
       "OPEN_SOURCE_PROJECT" = "Software",
       NA_character_
     )
