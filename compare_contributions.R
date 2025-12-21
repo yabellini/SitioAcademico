@@ -5,11 +5,30 @@
 # Author: Generated for Yanina Bellini Saibene
 # Date: 2025-12-21
 
+# Configuration
+INPUT_CONTRIBUTIONS <- "datos/contributions-github.csv"
+INPUT_EVENTS <- "datos/EventosPorAnioYanina-2025.csv"
+INPUT_PUBLICATIONS <- "datos/PublicacionesPorAnioYanina-2025.csv"
+OUTPUT_EVENTS <- "datos/events.csv"
+OUTPUT_PUBLICATIONS <- "datos/publications.csv"
+
+# Helper function to extract year from date
+extract_year <- function(date_string) {
+  as.integer(format(as.Date(date_string), "%Y"))
+}
+
+# Helper function to detect online format
+detect_online_format <- function(description) {
+  keywords <- c("online", "virtual", "remote", "webinar", "zoom", "virtual meeting", "teams meeting")
+  pattern <- paste(keywords, collapse = "|")
+  ifelse(grepl(pattern, description, ignore.case = TRUE), "Online", NA)
+}
+
 # Read the CSV files
 cat("Reading CSV files...\n")
-contributions <- read.csv("datos/contributions-github.csv", stringsAsFactors = FALSE)
-eventos_existing <- read.csv("datos/EventosPorAnioYanina-2025.csv", stringsAsFactors = FALSE)
-publicaciones_existing <- read.csv("datos/PublicacionesPorAnioYanina-2025.csv", stringsAsFactors = FALSE)
+contributions <- read.csv(INPUT_CONTRIBUTIONS, stringsAsFactors = FALSE)
+eventos_existing <- read.csv(INPUT_EVENTS, stringsAsFactors = FALSE)
+publicaciones_existing <- read.csv(INPUT_PUBLICATIONS, stringsAsFactors = FALSE)
 
 cat(sprintf("Loaded %d contributions from GitHub\n", nrow(contributions)))
 cat(sprintf("Loaded %d existing events\n", nrow(eventos_existing)))
@@ -31,7 +50,7 @@ cat("\n=== Processing Events ===\n")
 
 # Create a comparison key for events
 # We'll use Title and year from the Date field for matching
-contrib_events$year <- as.integer(format(as.Date(contrib_events$Date), "%Y"))
+contrib_events$year <- extract_year(contrib_events$Date)
 contrib_events$title_clean <- tolower(trimws(contrib_events$Title))
 
 eventos_existing$title_clean <- tolower(trimws(eventos_existing$Nombre))
@@ -54,7 +73,7 @@ events_dataset <- data.frame(
   Institucion.Evento = NA,  # Not available in contributions
   Ciudad = NA,              # Not available in contributions
   Lugar = NA,               # Not available in contributions
-  Formato = ifelse(grepl("online|virtual", missing_events$Description, ignore.case = TRUE), "Online", NA),
+  Formato = detect_online_format(missing_events$Description),
   Fecha = format(as.Date(missing_events$Date), "%B %Y"),  # Convert to Month Year format
   anio = missing_events$year,
   Tipo = sapply(missing_events$Type, function(x) {
@@ -84,7 +103,7 @@ events_dataset <- data.frame(
 cat("\n=== Processing Publications ===\n")
 
 # Create a comparison key for publications
-contrib_publications$year <- as.integer(format(as.Date(contrib_publications$Date), "%Y"))
+contrib_publications$year <- extract_year(contrib_publications$Date)
 contrib_publications$title_clean <- tolower(trimws(contrib_publications$Title))
 
 publicaciones_existing$title_clean <- tolower(trimws(publicaciones_existing$Title))
@@ -131,23 +150,23 @@ publications_dataset <- data.frame(
 cat("\n=== Saving Results ===\n")
 
 # Save the events dataset
-write.csv(events_dataset, "datos/events.csv", row.names = FALSE, na = "")
-cat(sprintf("Saved %d missing events to datos/events.csv\n", nrow(events_dataset)))
+write.csv(events_dataset, OUTPUT_EVENTS, row.names = FALSE, na = "")
+cat(sprintf("Saved %d missing events to %s\n", nrow(events_dataset), OUTPUT_EVENTS))
 
 # Save the publications dataset
-write.csv(publications_dataset, "datos/publications.csv", row.names = FALSE, na = "")
-cat(sprintf("Saved %d missing publications to datos/publications.csv\n", nrow(publications_dataset)))
+write.csv(publications_dataset, OUTPUT_PUBLICATIONS, row.names = FALSE, na = "")
+cat(sprintf("Saved %d missing publications to %s\n", nrow(publications_dataset), OUTPUT_PUBLICATIONS))
 
 # --- SUMMARY ---
 cat("\n=== Summary ===\n")
 cat(sprintf("Events in contributions-github.csv: %d\n", nrow(contrib_events)))
 cat(sprintf("Events already in EventosPorAnioYanina-2025.csv: %d\n", 
             nrow(contrib_events) - nrow(missing_events)))
-cat(sprintf("Missing events (saved to events.csv): %d\n", nrow(events_dataset)))
+cat(sprintf("Missing events (saved to %s): %d\n", OUTPUT_EVENTS, nrow(events_dataset)))
 cat("\n")
 cat(sprintf("Publications in contributions-github.csv: %d\n", nrow(contrib_publications)))
 cat(sprintf("Publications already in PublicacionesPorAnioYanina-2025.csv: %d\n", 
             nrow(contrib_publications) - nrow(missing_publications)))
-cat(sprintf("Missing publications (saved to publications.csv): %d\n", nrow(publications_dataset)))
+cat(sprintf("Missing publications (saved to %s): %d\n", OUTPUT_PUBLICATIONS, nrow(publications_dataset)))
 
 cat("\nDone!\n")
