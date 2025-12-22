@@ -21,7 +21,7 @@ Winner of [CIALP](http://cialp.com.ar/) Technological Innovation Award (2001), a
 
 M.S. in Data Mining and Knowledge Management.
 
-Former [INTA](https://www.argentina.gob.ar/inta)'s Researcher (1998-2022) and several University adjunct professor ([UNAB](https://www.unab.edu.ar/analisis-datos.html), [UCES](https://w.uces.edu.ar/wp-content/uploads/2022/08/Agroanalytics.pdf), [UCA](https://uca.edu.ar/es/cursos-de-educacion-continua/facultad-de-ingenieria-y-ciencias-agrarias/curso/diplomado-en-soluciones-digitales-para-la-agricultura-sostenible), and [UDE](https://online.fca-ude.edu.uy/course/index.php?categoryid=66).
+Former [INTA](https://www.argentina.gob.ar/inta)'s Researcher (1998-2022) and adjunct professor in several universities in Argentina y Uruguay ([UNAB](https://www.unab.edu.ar/analisis-datos.html), [UCES](https://w.uces.edu.ar/wp-content/uploads/2022/08/Agroanalytics.pdf), [UCA](https://uca.edu.ar/es/cursos-de-educacion-continua/facultad-de-ingenieria-y-ciencias-agrarias/curso/diplomado-en-soluciones-digitales-para-la-agricultura-sostenible), and [UDE](https://online.fca-ude.edu.uy/course/index.php?categoryid=66)).
 
 _The content of this website is in Spanglish. It is written in English, Spanish, and sometimes in both of these languages._
 
