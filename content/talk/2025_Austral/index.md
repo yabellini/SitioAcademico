@@ -6,7 +6,6 @@ date_end: "2025-09-25"
 author: "Yanina Bellini Saibene"
 location: "online"
 event: "Reunion Austral Aspirantes 2025"
-event_url: 
 draft: false
 # layout options: single, single-sidebar
 layout: single
