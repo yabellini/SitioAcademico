@@ -22,11 +22,11 @@ Este documento compara los datos de `contributions-github.csv` con los conjuntos
 
 ```{r config}
 # Configuración de rutas de archivos
-INPUT_CONTRIBUTIONS <- "datos/contributions-github.csv"
-INPUT_EVENTS <- "datos/EventosPorAnioYanina-2025.csv"
-INPUT_PUBLICATIONS <- "datos/PublicacionesPorAnioYanina-2025.csv"
-OUTPUT_EVENTS <- "datos/events.csv"
-OUTPUT_PUBLICATIONS <- "datos/publications.csv"
+INPUT_CONTRIBUTIONS <- "contributions-github.csv"
+INPUT_EVENTS <- "EventosPorAnioYanina-2025.csv"
+INPUT_PUBLICATIONS <- "PublicacionesPorAnioYanina-2025.csv"
+OUTPUT_EVENTS <- "events.csv"
+OUTPUT_PUBLICATIONS <- "publications.csv"
 ```
 
 ## Cargar librerías
@@ -131,7 +131,7 @@ events_dataset <- missing_events %>%
     Ciudad = NA_character_,              # No disponible en contribuciones
     Lugar = NA_character_,               # No disponible en contribuciones
     Formato = detect_online_format(Description),
-    Fecha = format(as.Date(Date), "%B %Y"),  # Convertir a formato Mes Año
+    Fecha = Date,
     anio = year,
     Tipo = case_when(
       Type == "SPEAKING" ~ "Talk",
@@ -230,6 +230,26 @@ cat(sprintf("Guardados %d eventos faltantes en %s\n", nrow(events_dataset), OUTP
 write_csv(publications_dataset, OUTPUT_PUBLICATIONS, na = "")
 cat(sprintf("Guardadas %d publicaciones faltantes en %s\n", nrow(publications_dataset), OUTPUT_PUBLICATIONS))
 ```
+
+## Generar un solo dataset de eventos y de publicaciones con las existentes y las faltantes
+
+```{r combined-datasets}
+
+# Combinar eventos existentes con los faltantes
+# Fixing this Error in `bind_rows()`:
+#! Can't combine `..1$Fecha` <character> and `..2$Fecha` <datetime<UTC>>.
+
+events_dataset <- events_dataset %>%
+  mutate(Fecha = as.character(Fecha))
+
+combined_events <- bind_rows(eventos_existing %>% select(-match_key), events_dataset)
+# Combinar publicaciones existentes con las faltantes
+combined_publications <- bind_rows(publicaciones_existing %>% select(-match_key), publications_dataset)
+# Guardar los datasets combinados
+write_csv(combined_events, "Eventos_Completos_Yanina_2025.csv", na = "")
+write_csv(combined_publications, "Publicaciones_Completas_Yanina_2025.csv", na = "")
+```
+
 
 ## Resumen Final
 
