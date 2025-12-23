@@ -1,12 +1,12 @@
 ---
-title: "Connecting with the Larger Open Science Community"
-excerpt: "To learn from real-world experience about strategies for building bridges and integrating local projects into the broader, global Open community"
-date: 2025-11-13
-date_end: "2025-11-13"
-author: "Yanina Bellini Saibene"
+title: "Big Team Collaboration on Data Management and Analysis with rOpenSci"
+excerpt: "Liz Hare and Yanina Bellini Saibene will present on Big Team Collaboration on Software Peer Review with rOpenSci"
+date: 2025-10-06
+date_end: "2025-10-06"
+author: "Yanina Bellini Saibene, Liz Hare"
 location: "online"
-event: "ORCA CAP CoP Hub"
-event_url: https://www.notion.so/Connecting-with-the-Larger-Open-Science-Community-25530b623ec8804ab5a3c1710b92c24e
+event: "Big Team Science Conference 2025"
+event_url: https://bigteamscienceconference.github.io/
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -15,32 +15,15 @@ categories:
 - English
 - Community
 - rOpenSci
-- The Carpentries
-- R-Ladies
 - Open Source Software
 tags:
 - Community
+- rOpenSci
 links:
 - icon: images
   icon_pack: fas
   name: Slides 
-  url: https://docs.google.com/presentation/d/1AoJ6H93Lo8MJ1TOLi8J1FsOI4ejJuY032F6nzAZfhWg/edit?slide=id.g368c72e18c7_0_705#slide=id.g368c72e18c7_0_705 
-- icon: images
-  icon_pack: fas
-  name: Resource List 
-  url: https://yabellini.github.io/opensiciencemapping/  
+  url: https://lizharedogs.github.io/BTScon2025/
 ---
 
-## Agenda
-
-### Presentation: Identifying your Allies
-
-Mapping initiatives: How to identify and engage with relevant communities beyond your institution or close circles
-
-### Group Discussion
-
-Cohort or groups will discuss:
-- Who is our larger community, and what do they care about?
-- What are the most significant barriers to connecting externally?
-
-Groups will share one key takeaway on strategy with the main room
+Liz Hare presents about Big Team Science collaboration opportunities with rOpenSci for data management and analysis based in her experience as rOpenSci's reviewer and champion.
