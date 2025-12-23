@@ -1,8 +1,8 @@
 ---
-title: "Campeon(es|as) de rOpenSci: Creación de comunidades de líderes del código abierto"
+title: "Campeon(es|as) de rOpenSci. Creación de comunidades de líderes del código abierto"
 excerpt: "Yanina y Noam comparten los aprendizajes del programa de campeones de rOpenSci para crear y fortalecer comunidades de software abierto en América Latina."
-date: 2025-12-3
-date_end: "2025-12-3"
+date: 2025-12-03
+date_end: "2025-12-03"
 author: "Yanina Bellini Saibene"
 location: "online"
 event: ""
