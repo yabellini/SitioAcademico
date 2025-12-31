@@ -34,7 +34,7 @@ enableEmoji = true
   description = ""
   favicon = "/img/favicon.ico"
   logo = "/img/icono.png"
-  mainSections = ["blog", "project", "talk", "courses"]
+  mainSections = ["blog", "project", "talk", "courses", "conferences", "dashboards"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -164,12 +164,11 @@ enableEmoji = true
     title = "Conferences Portfolio"
     url = "/conferences/"
     weight = 6
-
-#  [[menu.header]]
-#    name = "A collection"
-#    title = "A collection"
-#    url = "/collection/"
-#    weight = 5
+  [[menu.header]]
+    name = "Dashboards"
+    title = "A collection of Dashboards"
+    url = "/dashboards/"
+    weight = 7
 #  [[menu.header]]
 #    name = "Elements"
 #    title = "Element Page"
