@@ -2,7 +2,7 @@
 title: "Schedulling messages in Slack using promoutils"
 author: Yanina Bellini Saibene
 summary: "How we schedulle weekly messages on the rOpenSci Slack to reminder our members about the Slack channels availables for them"
-date: '2026-06-18'
+date: '2026-07-22'
 categories:
   - English
   - Open Science
