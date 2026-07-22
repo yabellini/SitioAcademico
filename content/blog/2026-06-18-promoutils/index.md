@@ -78,9 +78,9 @@ Rows: 42
 Columns: 5
 $ id          <chr> "C026GALFB", "C026GCWKA", "C026GCWKC", "C027G1V0W", "C02K0…
 $ nombre      <chr> "package-development", "general", "random", "docs", "build…
-$ tipo        <chr> "público", "público", "público", "público", "público", "pú…
+$ tipo        <chr> "publico", "publico", "publico", "publico", "publico", "pu…
 $ descripcion <chr> "Automated notifications from GitHub commits, issues, &amp…
-$ topic       <chr> "Automated notifications from GitHub commits, issues, &amp…  
+$ topic       <chr> "Automated notifications from GitHub commits, issues, &amp…
 ```
 
 Now `canales` has a list of channels. We need to keep only public ones:
@@ -155,7 +155,7 @@ The dataset `mensajes` now have the intro text for each channel we want to share
 1 allcaps   Spotlight of the week: *#allcaps*! :slack:
 
 _ONLY ALL CAPS IN THIS …
-2 antarctic This week we'd like to highlight *#antarctic*! :slack:
+2 antarctic This week we' like to highlight *#antarctic*! :slack:
 
 _The <#C7UB…
 3 arrow     Spotlight of the week: *#arrow*! :slack:
@@ -225,3 +225,10 @@ mensajes_programados <- mensajes_programados |>
   mutate(estado = if_else(row_number() <= 17, "Publicado", "Pendiente"))
 ```
 
+## In practice
+
+This workflow is now running in the rOpenSci Slack workspace, automatically introducing one community channel each week. It helps members discover new conversations while saving us from a repetitive manual task.
+
+The use of promoutils with Slack API allow us to automate recurring communications while keeping them flexible and easy to update. If a new channel is created or an old one is archived, rerunning the workflow generates a new schedule with minimal effort.
+
+For me, that's what automation is about: using small, reusable tools to reduce routine work so we can spend more time supporting contributors, fostering connections, and building an open and welcoming community.
