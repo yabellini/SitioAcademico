@@ -87,7 +87,6 @@ Now `canales` has a list of channels. We need to keep only public ones:
 
 ``` r
 canales <- canales |>
-  # Keep only public channels
   filter(tipo == "público")
 ``` 
 
@@ -212,7 +211,7 @@ purrr::pwalk(
       body     = body,
       when     = when,
       channel  = "#general",
-      dry_run  = TRUE  
+      dry_run  = TRUE  # Comment this to schedulle
     )
   }
 )
@@ -229,6 +228,6 @@ mensajes_programados <- mensajes_programados |>
 
 This workflow is now running in the rOpenSci Slack workspace, automatically introducing one community channel each week. It helps members discover new conversations while saving us from a repetitive manual task.
 
-The use of promoutils with Slack API allow us to automate recurring communications while keeping them flexible and easy to update. If a new channel is created or an old one is archived, rerunning the workflow generates a new schedule with minimal effort.
+`promoutils` with Slack API allow us to automate recurring communications while keeping them flexible and easy to update. If a new channel is created or an old one is archived, rerunning the workflow generates a new schedule with minimal effort.
 
-For me, that's what automation is about: using small, reusable tools to reduce routine work so we can spend more time supporting contributors, fostering connections, and building an open and welcoming community.
+For me, this is a nice good automation example: using small, reusable tools to reduce routine work so we can spend more time supporting contributors, fostering connections, and building an open and welcoming community.
