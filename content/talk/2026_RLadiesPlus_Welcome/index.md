@@ -2,7 +2,7 @@
 title: "Welcome to RLadies+"
 excerpt: "In April of 2024, we, the R-Ladies Global Leadership Team, opened the “Re-branding from R-Ladies to R-Ladies+” GitHub issue to address the organization's need to be more explicit about our mission to serve underrepresented gender minorities beyond cis women while preserving the established identity of our organization and also recognizing global variation in the ability to safely do so."
 date: 2026-01-01
-date_end: "2026-01-01"
+date_end: "2026-04-15"
 author: "Yanina Bellini Saibene"
 location: "online"
 event: "R-Ladies Global"
