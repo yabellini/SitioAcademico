@@ -27,7 +27,7 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: https://yabellini.github.io/TeachingGenAI/#/title-slide
+  url: https://yabellini.github.io/TeachingGenAI/
 ---
 
 GenAI is an arrival technology: it found its way into the classroom and disrupted teaching activities without anyone planning for it. In this talk, Yani compares how GenAI shows up across three very different teaching spaces she works in — the year-long rOpenSci Champions Program, short-format Carpentries-style trainings, and university classrooms — and discusses what this means for instructors whose format is a one- or two-day workshop.
