@@ -22,10 +22,14 @@ tags:
 - RSE
 - Community
 links:
-# - icon: youtube
-#   icon_pack: fab
-#   name: video 
-#   url: https://www.youtube.com/live/CTTvTQ-JZhw?si=dBuyXYANeTu1aEVU
+- icon: youtube
+  icon_pack: fab
+  name: Video castellano
+  url: https://youtu.be/8-ZPQUJ17yk?si=mQgVi6rO_Oo7jQQg&t=2693
+- icon: youtube
+  icon_pack: fab
+  name: Video portugues
+  url: https://youtu.be/kzwjxmWFNvY?si=KAYPoaimL3XAL1-O&t=2687  
 - icon: images
   icon_pack: fas
   name: Slides 
