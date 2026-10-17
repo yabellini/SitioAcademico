@@ -1,5 +1,5 @@
 ---
-title: "GenAI para el Servicio Meteorológico Nacional"
+title: "GenAI sin filtro"
 excerpt: "Yanina comparte una introducción a la inteligencia artificial generativa para el personal del Servicio Meteorológico Nacional (SMN), en el marco del proyecto ENANDES."
 date: 2026-08-11
 date_end: "2026-08-11"
