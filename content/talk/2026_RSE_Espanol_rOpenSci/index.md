@@ -25,7 +25,7 @@ links:
 - icon: images
   icon_pack: fas
   name: Slides
-  url: https://yabellini.github.io/rse_ropensci_2026/#/aprendizajes-para-tu-propio-proyecto
+  url: https://yabellini.github.io/rse_ropensci_2026/
 - icon: podcast
   icon_pack: fas
   name: Yanina en Code for Thought
