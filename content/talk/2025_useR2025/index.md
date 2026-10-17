@@ -28,7 +28,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: video 
-  url: https://www.youtube.com/live/CTTvTQ-JZhw?si=dBuyXYANeTu1aEVU
+  url: https://youtu.be/N1P-onny8ZU?si=aP_nS2y3wu7Akj1A
 - icon: images
   icon_pack: fas
   name: Slides 
