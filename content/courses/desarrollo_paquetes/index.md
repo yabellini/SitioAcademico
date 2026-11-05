@@ -45,4 +45,3 @@ Al terminar el taller vas a poder:
 
 Este taller es parte de [LatinR 2026](https://latinr.org/) y se rige por su [código de conducta](https://latinr.org/sobre/coc/).
 
-> Nota: todavía falta agregar la imagen destacada (featured) de este curso.
